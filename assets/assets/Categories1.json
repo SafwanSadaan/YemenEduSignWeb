@@ -1,0 +1,195 @@
+[
+  {
+    "category_id": 1,
+    "category_name": "الحروف",
+    "image": "assets/images/animals/cat.png",
+    "lessons": [
+      {
+        "lesson_id": 1,
+        "lesson_name": "الدرس الأول",
+        "lesson_image": "assets/images/animals/cat.png",
+        "lesson_description": "يتضمن الدرس الحروف من أ الى ج",
+        "words": [
+          {
+            "word_id": 1,
+            "word_name": "أ",
+            "word_voice": "ألف",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 2,
+            "word_name": "ب",
+            "word_voice": "باء",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 3,
+            "word_name": "ت",
+            "word_voice": "تاء",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 4,
+            "word_name": "ث",
+            "word_voice": "ثاء",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 5,
+            "word_name": "ج",
+            "word_voice": "جيم",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 2,
+    "category_name": "الأرقام",
+    "image": "assets/images/animals/cat.png",
+    "lessons": [
+      {
+        "lesson_id": 1,
+        "lesson_name": "الدرس الأول",
+        "lesson_image": "assets/images/animals/cat.png",
+        "lesson_description": "يتضمن الدرس الارقام من 1 الى 5",
+        "words": [
+          {
+            "word_id": 1,
+            "word_name": "1",
+            "word_voice": "واحد",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 2,
+            "word_name": "2",
+            "word_voice": "اثنان",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 3,
+            "word_name": "3",
+            "word_voice": "ثلاثة",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 4,
+            "word_name": "4",
+            "word_voice": "أربعة",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 5,
+            "word_name": "5",
+            "word_voice": "خمسة",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category_id": 3,
+    "category_name": "الألوان",
+    "image": "assets/images/animals/cat.png",
+    "lessons": [
+      {
+        "lesson_id": 1,
+        "lesson_name": "الدرس الأول",
+        "lesson_image": "assets/images/animals/cat.png",
+        "lesson_description": "أحمر، أخضر، أصفر، أزرق، أسود",
+        "words": [
+          {
+            "word_id": 1,
+            "word_name": "أحمر",
+            "word_voice": "أحمر",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 2,
+            "word_name": "أخضر",
+            "word_voice": "أخضر",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 3,
+            "word_name": "أصفر",
+            "word_voice": "أصفر",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 4,
+            "word_name": "أزرق",
+            "word_voice": "أزرق",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 5,
+            "word_name": "أسود",
+            "word_voice": "أسود",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          }
+        ]
+      },
+      {
+        "lesson_id": 2,
+        "lesson_name": "الدرس الثاني",
+        "lesson_image": "assets/images/animals/cat.png",
+        "lesson_description": "أحمر، أخضر، أصفر، أزرق، أسود",
+        "words": [
+          {
+            "word_id": 1,
+            "word_name": "أحمر",
+            "word_voice": "أحمر",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 2,
+            "word_name": "أخضر",
+            "word_voice": "أخضر",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 3,
+            "word_name": "أصفر",
+            "word_voice": "أصفر",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 4,
+            "word_name": "أزرق",
+            "word_voice": "أزرق",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          },
+          {
+            "word_id": 5,
+            "word_name": "أسود",
+            "word_voice": "أسود",
+            "image_static": "assets/images/animals/cat.png",
+            "image_animated": "assets/images/animals/2.webp"
+          }
+        ]
+      }
+    ]
+  }
+]
