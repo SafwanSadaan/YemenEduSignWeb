@@ -692,32 +692,39 @@
         "lesson_id": 2,
         "lesson_name": "الدرس الثاني",
         "lesson_image":"assets/images/family/4-تؤام.webp",
-        "lesson_description": " خَال ، عَمُّ ، أَخ ، أَخت",
+        "lesson_description": " جَدّ ، خَال ، عَمُّ ، أَخ ، أَخت",
         "words":
           [
           {
             "word_id": 1,
+            "word_name": "جَدّ",
+            "word_voice": "جَدّ",
+            "image_static": "assets/images/family/4-جد.webp",
+            "image_animated": "assets/images/family/جد.webp"
+          },
+          {
+            "word_id": 124,
             "word_name": "خَال",
             "word_voice": "خَال",
             "image_static": "assets/images/family/4-خال.webp",
             "image_animated": "assets/images/family/خال.webp"
           },
           {
-            "word_id": 2,
+            "word_id": 3,
             "word_name": "عَمُّ",
             "word_voice": "عَمُّ",
             "image_static": "assets/images/family/4-عم.webp",
             "image_animated": "assets/images/family/عم.webp"
           },
           {
-            "word_id": 3,
+            "word_id": 4,
             "word_name": "أَخ",
             "word_voice": "أَخ",
             "image_static": "assets/images/family/4-اخ.webp",
             "image_animated": "assets/images/family/اخ.webp"
           },
           {
-            "word_id": 4,
+            "word_id": 5,
             "word_name": "أَخت",
             "word_voice": "أَخت",
             "image_static": "assets/images/family/4-اخت.webp",
@@ -729,8 +736,53 @@
       {
         "lesson_id": 3,
         "lesson_name": "الدرس الثالث",
+        "lesson_image":"assets/images/family/4-شعب.webp",
+        "lesson_description": " شَيْخ ، عَجُوز ، رَجُل ، وَلَدِ ، رَضِيع ",
+        "words":
+          [
+          {
+            "word_id": 1,
+            "word_name": "شَيْخ",
+            "word_voice": "شَيْخ",
+            "image_static": "assets/images/family/4-شيخ.webp",
+            "image_animated": "assets/images/family/شيخ.webp"
+          },
+          {
+            "word_id": 2,
+            "word_name": "عَجُوز",
+            "word_voice": "عَجُوز",
+            "image_static": "assets/images/family/4-عجوز.webp",
+            "image_animated": "assets/images/family/عجوز.webp"
+          },
+          {
+            "word_id": 3,
+            "word_name": "رَجُل",
+            "word_voice": "رَجُل",
+            "image_static": "assets/images/family/4-رجل.webp",
+            "image_animated": "assets/images/family/رجل.webp"
+          },
+          {
+            "word_id": 4,
+            "word_name": "وَلَدِ ",
+            "word_voice": "وَلَدِ ",
+            "image_static": "assets/images/family/4-ولد.webp",
+            "image_animated": "assets/images/family/ولد.webp"
+          }, 
+          {
+            "word_id": 5,
+            "word_name": "رَضِيع",
+            "word_voice": "رَضِيع",
+            "image_static": "assets/images/family/4-رضيع.webp",
+            "image_animated": "assets/images/family/رضيع.webp"
+          }
+          
+        ]
+      },
+      {
+        "lesson_id": 4,
+        "lesson_name": "الدرس الرابع",
         "lesson_image":"assets/images/family/4-جده.webp",
-        "lesson_description": " جده ، خالة ، زوجة ، عمة ",
+        "lesson_description": " جده ، حفيد ، خالة ، زوجة ، عمة ",
         "words":
           [
           {
@@ -739,6 +791,13 @@
             "word_voice": "جده",
             "image_static": "assets/images/family/4-جده.webp",
             "image_animated": "assets/images/family/جده.webp"
+          },
+          {
+            "word_id": 2,
+            "word_name": "حفيد",
+            "word_voice": "حفيد",
+            "image_static": "assets/images/family/4-حفيد.webp",
+            "image_animated": "assets/images/family/حفيد.webp"
           },
           {
             "word_id": 3,
@@ -761,37 +820,6 @@
             "image_static": "assets/images/family/4-عمه.webp",
             "image_animated": "assets/images/family/عمة.webp"
           }
-          
-        ]
-      },
-      {
-        "lesson_id": 4,
-        "lesson_name": "الدرس الرابع",
-        "lesson_image":"assets/images/family/4-جده.webp",
-        "lesson_description": " جده ، حفيد ، خالة ، زوجة ، عمة ",
-        "words":
-          [
-            {
-              "word_id": 1,
-              "word_name": "جَدّ",
-              "word_voice": "جَدّ",
-              "image_static": "assets/images/family/4-جد.webp",
-              "image_animated": "assets/images/family/جد.webp"
-            },
-            {
-              "word_id": 2,
-              "word_name": "حفيد",
-              "word_voice": "حفيد",
-              "image_static": "assets/images/family/4-حفيد.webp",
-              "image_animated": "assets/images/family/حفيد.webp"
-            },
-            {
-              "word_id": 3,
-              "word_name": "زوج",
-              "word_voice": "زوج",
-              "image_static": "assets/images/family/4-زوج.webp",
-              "image_animated": "assets/images/family/زوج.webp"
-            }
           
         ]
       }
@@ -974,237 +1002,6 @@
             "word_voice": "مَكْفُوف",
             "image_static": "assets/images/community-personnel/11-مكفوف.webp",
             "image_animated": "assets/images/community-personnel/مكفوف.webp"
-          }
-        ]
-      },
-      {
-        "lesson_id": 5,
-        "lesson_name": "الدرس الخامس",
-        "lesson_image":"assets/images/family/4-شيخ.webp",
-        "lesson_description": " شَيْخ ، عَجُوز ، وَلَدِ ، رَضِيع ",
-        "words":
-          [
-          {
-            "word_id": 1,
-            "word_name": "شَيْخ",
-            "word_voice": "شَيْخ",
-            "image_static": "assets/images/family/4-شيخ.webp",
-            "image_animated": "assets/images/family/شيخ.webp"
-          },
-          {
-            "word_id": 2,
-            "word_name": "عَجُوز",
-            "word_voice": "عَجُوز",
-            "image_static": "assets/images/family/4-عجوز.webp",
-            "image_animated": "assets/images/family/عجوز.webp"
-          },
-          {
-            "word_id": 3,
-            "word_name": "وَلَدِ ",
-            "word_voice": "وَلَدِ ",
-            "image_static": "assets/images/family/4-ولد.webp",
-            "image_animated": "assets/images/family/ولد.webp"
-          }, 
-          {
-            "word_id": 4,
-            "word_name": "رَضِيع",
-            "word_voice": "رَضِيع",
-            "image_static": "assets/images/family/4-رضيع.webp",
-            "image_animated": "assets/images/family/رضيع.webp"
-          }
-          
-        ]
-      },
-      {
-        "lesson_id": 6,
-        "lesson_name": "الدرس السادس",
-        "lesson_image":"assets/images/family/4-شعب.webp",
-        "lesson_description": " شعب ، رَجُل ، ناس ",
-        "words":
-          [
-          {
-            "word_id": 1,
-            "word_name": "شعب",
-            "word_voice": "شعب",
-            "image_static": "assets/images/family/4-شعب.webp",
-            "image_animated": "assets/images/family/شعب.webp"
-          },
-          {
-            "word_id": 2,
-            "word_name": "رَجُل",
-            "word_voice": "رَجُل",
-            "image_static": "assets/images/family/4-رجل.webp",
-            "image_animated": "assets/images/family/رجل.webp"
-          },
-          {
-            "word_id": 3,
-            "word_name": "ناس",
-            "word_voice": "ناس",
-            "image_static": "assets/images/family/4-ناس.webp",
-            "image_animated": "assets/images/family/ناس.webp"
-          }
-          
-        ]
-      }
-    ]
-  },
-  {
-    "category_id": 13,
-    "category_name": "حراف ومهن",
-    "category_image":"assets/images/professions-crafts/13-تاجر.webp",
-    "lessons"
-    : [
-      {
-        "lesson_id": 1,
-        "lesson_name": "الدرس الأول",
-        "lesson_image":"assets/images/professions-crafts/13-دهان.webp",
-        "lesson_description": " دهان ، خياط  ، خباز ، نجار ، طباخ",
-        "words": [
-          {
-            "word_id": 1,
-            "word_name": "دهان",
-            "word_voice": "دهان",
-            "image_static": "assets/images/professions-crafts/13-دهان.webp",
-            "image_animated": "assets/images/professions-crafts/دهان.webp"
-          },
-          {
-            "word_id": 2,
-            "word_name": " خياط  ",
-            "word_voice": "خياط  ",
-            "image_static": "assets/images/professions-crafts/13-خياط.webp",
-            "image_animated": "assets/images/professions-crafts/خياط.webp"
-          },
-          {
-            "word_id": 3,
-            "word_name": "خباز",
-            "word_voice": "خباز",
-            "image_static": "assets/images/professions-crafts/خباز-13.webp",
-            "image_animated": "assets/images/professions-crafts/خباز.webp"
-          },
-          {
-            "word_id": 4,
-            "word_name": "نجار",
-            "word_voice": "نجار",
-            "image_static": "assets/images/professions-crafts/13-نجار.webp",
-            "image_animated": "assets/images/professions-crafts/نجار.webp"
-          },
-          {
-            "word_id": 5,
-            "word_name": "طباخ",
-            "word_voice": "طباخ",
-            "image_static": "assets/images/professions-crafts/13-طباخ.webp",
-            "image_animated": "assets/images/professions-crafts/طباخ.webp"
-          }
-        ]
-      },
-      {
-        "lesson_id": 2,
-        "lesson_name": "الدرس الثاني",
-        "lesson_image":"assets/images/professions-crafts/13-طبيب.webp",
-        "lesson_description": " طبيب ، مهندس ، صحفي ، مذيع ",
-        "words": 
-         [
-          {
-            "word_id": 1,
-            "word_name": "طبيب",
-            "word_voice": "طبيب",
-            "image_static": "assets/images/professions-crafts/13-طبيب.webp",
-            "image_animated": "assets/images/professions-crafts/طبيب.webp"
-          },
-          {
-            "word_id": 2,
-            "word_name": "مهندس",
-            "word_voice": "مهندس",
-            "image_static": "assets/images/professions-crafts/13-مهندس.webp",
-            "image_animated": "assets/images/professions-crafts/مهندس.webp"
-          },
-          {
-            "word_id": 3,
-            "word_name": "صحفي",
-            "word_voice": "صحفي",
-            "image_static": "assets/images/professions-crafts/13-صحفي.webp",
-            "image_animated": "assets/images/professions-crafts/صحفي.webp"
-          },
-          {
-            "word_id": 4,
-            "word_name": "مذيع ",
-            "word_voice": "مذيع ",
-            "image_static": "assets/images/community-personnel/13-مذيع.webp",
-            "image_animated": "assets/images/community-personnel/مذيع.webp"
-          }
-        ]
-      },
-      {
-        "lesson_id": 3,
-        "lesson_name": "الدرس الثالث",
-        "lesson_image":"assets/images/professions-crafts/13-رجل اطفاء.webp",
-        "lesson_description": " رجل اطفاء ، شرطي ، جندي ، قاضي",
-        "words":
-         [
-          {
-            "word_id": 1,
-            "word_name": "رجل اطفاء",
-            "word_voice": "رجل اطفاء",
-            "image_static": "assets/images/professions-crafts/13-رجل اطفاء.webp",
-            "image_animated": "assets/images/professions-crafts/رجل اطفاء.webp"
-          },
-          {
-            "word_id": 2,
-            "word_name": "شرطي",
-            "word_voice": "شرطي",
-            "image_static": "assets/images/professions-crafts/13-شرطي.webp",
-            "image_animated": "assets/images/professions-crafts/شرطي.webp"
-          },
-          {
-            "word_id": 3,
-            "word_name": "جندي",
-            "word_voice": "جندي",
-            "image_static": "assets/images/professions-crafts/13-جندي.webp",
-            "image_animated": "assets/images/professions-crafts/جندي.webp"
-          },
-          {
-            "word_id": 4,
-            "word_name": "قاضي",
-            "word_voice": "قاضي",
-            "image_static": "assets/images/professions-crafts/13-قاضي.webp",
-            "image_animated": "assets/images/professions-crafts/قاضي.webp"
-          }
-        ]
-      },
-      {
-        "lesson_id": 4,
-        "lesson_name": "الدرس الرابع",
-        "lesson_image":"assets/images/professions-crafts/13-تاجر.webp",
-        "lesson_description": " تاجر ، رسام ، رئيس ، معلم  ",
-        "words":
-         [
-          {
-            "word_id": 1,
-            "word_name": "تاجر",
-            "word_voice": "تاجر",
-            "image_static": "assets/images/professions-crafts/13-تاجر.webp",
-            "image_animated": "assets/images/professions-crafts/تاجر.webp"
-          },
-          {
-            "word_id": 2,
-            "word_name": "رسام",
-            "word_voice": "رسام",
-            "image_static": "assets/images/professions-crafts/13-رسام.webp",
-            "image_animated": "assets/images/professions-crafts/رسام.webp"
-          },
-          {
-            "word_id": 3,
-            "word_name": "رئيس",
-            "word_voice": "رئيس",
-            "image_static": "assets/images/professions-crafts/13-رئيس.webp",
-            "image_animated": "assets/images/professions-crafts/رئيس.webp"
-          },
-          {
-            "word_id": 4,
-            "word_name": "معلم",
-            "word_voice": "معلم",
-            "image_static": "assets/images/professions-crafts/13-معلم.webp",
-            "image_animated": "assets/images/professions-crafts/معلم.webp"
           }
         ]
       }
@@ -3850,5 +3647,4 @@
       
     ]
   }
-
 ]
