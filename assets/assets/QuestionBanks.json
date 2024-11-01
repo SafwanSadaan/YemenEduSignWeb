@@ -9,7 +9,6 @@
           "exercises": [
             {
               "exercise_id": 1,
-              "exercise_result": 0,
               "question": {
                 "question_id": 1,
                 "correct_answer": "أ",
@@ -142,7 +141,6 @@
           "lesson_exam": {
             "exam_id": 1,
             "exam_name": "اختبار الدرس الأول",
-            "lesson_exam_result": 0,
             "image": "assets/images/animals/cat.png",
             "questions": [
               {
@@ -264,7 +262,6 @@
       "category_final_exam": {
         "exam_id": 2,
         "exam_name": "اختبار فئة الحروف",
-        "category_exam_result": 0,
         "image": "assets/images/animals/cat.png",
         "questions": [
           {

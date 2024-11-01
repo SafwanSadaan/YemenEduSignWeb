@@ -647,7 +647,7 @@
       {
         "lesson_id": 1,
         "lesson_name": "الدرس الأول",
-        "lesson_image":"assets/images/family/4-إبن.webp",
+        "lesson_image":"assets/images/family/4-ابن.webp",
         "lesson_description": "الْعَائِلَةِ ، أَب ، أُمّ ، ابْنُ ، إبنه",
         "words":
           [
@@ -676,7 +676,7 @@
             "word_id": 4,
             "word_name": "ابْنُ",
             "word_voice": "ابْنُ",
-            "image_static": "assets/images/family/4-إبن.webp",
+            "image_static": "assets/images/family/4-ابن.webp",
             "image_animated": "assets/images/family/إبن.webp"
           },
           {
