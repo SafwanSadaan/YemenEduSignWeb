@@ -1,93 +1,2960 @@
 [
-    {
-      "word_id": 1,
-      "word_name": "أ",
-      "word_voice": "ألف",
-      "image_static": "assets/images/animals/2.webp",
-      "image_animated": "assets/images/animals/2.webp"
-    },
-    {
-      "word_id": 2,
-      "word_name": "ب",
-      "word_voice": "باء",
-      "image_static": "assets/images/animals/2.webp",
-      "image_animated": "assets/images/animals/2.webp"
-    },
-    {
-      "word_id": 3,
-      "word_name": "ت",
-      "word_voice": "تاء",
-      "image_static": "assets/images/animals/2.webp",
-      "image_animated": "assets/images/animals/2.webp"
-    },
-    {
-      "word_id": 4,
-      "word_name": "جمل",
-      "word_voice": "جمل",
-      "image_static": "assets/images/animals/camel.png",
-      "image_animated": "assets/images/animals/2.webp"
-    },
-    {
-      "word_id": 5,
-      "word_name": "قطة",
-      "word_voice": "قطة",
-      "image_static": "assets/images/animals/cat.png",
-      "image_animated": "assets/images/animals/2.webp"
-    },
-    {
-      "word_id": 6,
-      "word_name": "بقرة",
-      "word_voice": "بقرة",
-      "image_static": "assets/images/animals/cow.png",
-      "image_animated": "assets/images/animals/2.webp"
-    },
-    {
-      "word_id": 7,
-      "word_name": "كلب",
-      "word_voice": "كلب",
-      "image_static": "assets/images/animals/dog.png",
-      "image_animated": "assets/images/animals/2.webp"
-    },
-    {
-      "word_id": 8,
-      "word_name": "ثعلب",
-      "word_voice": "ثعلب",
-      "image_static": "assets/images/animals/fox.png",
-      "image_animated": "assets/images/animals/2.webp"
-    },
-    {
-      "word_id": 9,
-      "word_name": "دجاجة",
-      "word_voice": "دجاجة",
-      "image_static": "assets/images/animals/hen.png",
-      "image_animated": "assets/images/animals/2.webp"
-    },
-    {
-      "word_id": 10,
-      "word_name": "حصان",
-      "word_voice": "حصان",
-      "image_static": "assets/images/animals/horse.png",
-      "image_animated": "assets/images/animals/2.webp"
-    },
-    {
-      "word_id": 11,
-      "word_name": "أسد",
-      "word_voice": "أسد",
-      "image_static": "assets/images/animals/lion.png",
-      "image_animated": "assets/images/animals/2.webp"
-    },
-    {
-      "word_id": 12,
-      "word_name": "باندا",
-      "word_voice": "باندا",
-      "image_static": "assets/images/animals/panda.png",
-      "image_animated": "assets/images/animals/2.webp"
-    },
-    {
-      "word_id": 13,
-      "word_name": "خروف",
-      "word_voice": "خروف",
-      "image_static": "assets/images/animals/sheep.png",
-      "image_animated": "assets/images/animals/2.webp"
-    }
-]
+   
+            {
+              "word_id": 1,
+              "word_name": "أ",
+              "word_voice": "أ",
+              "image_static": "assets/images/Alphabetics/1-ألف.webp",
+              "image_animated": "assets/images/Alphabetics/ألف.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "ب",
+              "word_voice": "ب",
+              "image_static": "assets/images/Alphabetics/1-باء.webp",
+              "image_animated": "assets/images/Alphabetics/باء.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "ت",
+              "word_voice": "ت",
+              "image_static": "assets/images/Alphabetics/1-تاء.webp",
+              "image_animated": "assets/images/Alphabetics/تاء.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "ث",
+              "word_voice": "ث",
+              "image_static": "assets/images/Alphabetics/1-ثاء.webp",
+              "image_animated": "assets/images/Alphabetics/ثاء.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "ج",
+              "word_voice": "ج",
+              "image_static": "assets/images/Alphabetics/1-جيم.webp",
+              "image_animated": "assets/images/Alphabetics/جيم.webp"
+            },
+            {
+              "word_id": 6,
+              "word_name": "ح",
+              "word_voice": "ح",
+              "image_static": "assets/images/Alphabetics/1-حاء.webp",
+              "image_animated": "assets/images/Alphabetics/حاء.webp"
+            },
+            {
+              "word_id": 7,
+              "word_name": "خ",
+              "word_voice": "خ",
+              "image_static": "assets/images/Alphabetics/1-خاء.webp",
+              "image_animated": "assets/images/Alphabetics/خاء.webp"
+            },
+            {
+              "word_id": 8,
+              "word_name": "د",
+              "word_voice": "د",
+              "image_static": "assets/images/Alphabetics/1-دال.webp",
+              "image_animated": "assets/images/Alphabetics/دال.webp"
+            },
+            {
+              "word_id": 9,
+              "word_name": "ذ",
+              "word_voice": "ذ",
+              "image_static": "assets/images/Alphabetics/1-ذال.webp",
+              "image_animated": "assets/images/Alphabetics/ذال.webp"
+            },
+            {
+              "word_id": 10,
+              "word_name": "ر",
+              "word_voice": "ر",
+              "image_static": "assets/images/Alphabetics/1-راء.webp",
+              "image_animated": "assets/images/Alphabetics/راء.webp"
+            },
+            {
+              "word_id": 11,
+              "word_name": "ز",
+              "word_voice": "ز",
+              "image_static": "assets/images/Alphabetics/1-زاي.webp",
+              "image_animated": "assets/images/Alphabetics/زاي.webp"
+            },
+            {
+              "word_id": 12,
+              "word_name": "س",
+              "word_voice": "س",
+              "image_static": "assets/images/Alphabetics/1-سين.webp",
+              "image_animated": "assets/images/Alphabetics/سين.webp"
+            },
+            {
+              "word_id": 13,
+              "word_name": "ش",
+              "word_voice": "ش",
+              "image_static": "assets/images/Alphabetics/1-شين.webp",
+              "image_animated": "assets/images/Alphabetics/شين.webp"
+            },
+            {
+              "word_id": 14,
+              "word_name": "ص",
+              "word_voice": "ص",
+              "image_static": "assets/images/Alphabetics/1-صاد.webp",
+              "image_animated": "assets/images/Alphabetics/صاد.webp"
+            },
+            {
+              "word_id": 15,
+              "word_name": "ض",
+              "word_voice": "ض",
+              "image_static": "assets/images/Alphabetics/1-ضاد.webp",
+              "image_animated": "assets/images/Alphabetics/ضاد.webp"
+            },
+            {
+              "word_id": 16,
+              "word_name": "ط",
+              "word_voice": "ط",
+              "image_static": "assets/images/Alphabetics/1-طاء.webp",
+              "image_animated": "assets/images/Alphabetics/طاء.webp"
+            },
+            {
+              "word_id": 17,
+              "word_name": "ظ",
+              "word_voice": "ظ",
+              "image_static": "assets/images/Alphabetics/1-ظاء.webp",
+              "image_animated": "assets/images/Alphabetics/ظاء.webp"
+            },
+            {
+              "word_id": 18,
+              "word_name": "ع",
+              "word_voice": "ع",
+              "image_static": "assets/images/Alphabetics/1-عين.webp",
+              "image_animated": "assets/images/Alphabetics/عين.webp"
+            },
+            {
+              "word_id": 19,
+              "word_name": "غ",
+              "word_voice": "غ",
+              "image_static": "assets/images/Alphabetics/1-غين.webp",
+              "image_animated": "assets/images/Alphabetics/غين.webp"
+            },
+            {
+              "word_id": 20,
+              "word_name": "ف",
+              "word_voice": "ف",
+              "image_static": "assets/images/Alphabetics/1-فاء.webp",
+              "image_animated": "assets/images/Alphabetics/فاء.webp"
+            },
+            {
+              "word_id": 21,
+              "word_name": "ق",
+              "word_voice": "ق",
+              "image_static": "assets/images/Alphabetics/1-قاف.webp",
+              "image_animated": "assets/images/Alphabetics/قاف.webp"
+            },
+            {
+              "word_id": 22,
+              "word_name": "ك",
+              "word_voice": "ك",
+              "image_static": "assets/images/Alphabetics/1-كاف.webp",
+              "image_animated": "assets/images/Alphabetics/كاف.webp"
+            },
+            {
+              "word_id": 23,
+              "word_name": "ل",
+              "word_voice": "ل",
+              "image_static": "assets/images/Alphabetics/1-لام.webp",
+              "image_animated": "assets/images/Alphabetics/لام.webp"
+            },
+            {
+              "word_id": 24,
+              "word_name": "م",
+              "word_voice": "م",
+              "image_static": "assets/images/Alphabetics/1-ميم.webp",
+              "image_animated": "assets/images/Alphabetics/ميم.webp"
+            },
+            {
+              "word_id": 25,
+              "word_name": "ن",
+              "word_voice": "ن",
+              "image_static": "assets/images/Alphabetics/1-نون.webp",
+              "image_animated": "assets/images/Alphabetics/نون.webp"
+            },
+            {
+              "word_id":26,
+              "word_name": "هـ",
+              "word_voice": "ه",
+              "image_static": "assets/images/Alphabetics/1-هاء.webp",
+              "image_animated": "assets/images/Alphabetics/هاء.webp"
+            },
+            {
+              "word_id": 27,
+              "word_name": "و",
+              "word_voice": "و",
+              "image_static": "assets/images/Alphabetics/1-واو.webp",
+              "image_animated": "assets/images/Alphabetics/واو.webp"
+            },
+            {
+              "word_id": 28,
+              "word_name": "ي",
+              "word_voice": "ي",
+              "image_static": "assets/images/Alphabetics/1-ياء.webp",
+              "image_animated": "assets/images/Alphabetics/ياء.webp"
+            },
+            {
+              "word_id": 29,
+              "word_name": "لأ",
+              "word_voice": "لأ",
+              "image_static": "assets/images/Alphabetics/1-لام الف.webp",
+              "image_animated": "assets/images/Alphabetics/لام الف.webp"
+            },
+            {
+              "word_id": 30,
+              "word_name": "ء",
+              "word_voice": "ء",
+              "image_static": "assets/images/Alphabetics/1-همزة.webp",
+              "image_animated": "assets/images/Alphabetics/همزة.webp"
+            },
+            {
+              "word_id": 31,
+              "word_name": "ال",
+              "word_voice": "ال",
+              "image_static": "assets/images/Alphabetics/1-ال.webp",
+              "image_animated": "assets/images/Alphabetics/ال.webp"
+            },
+            {
+              "word_id": 32,
+              "word_name": "ؤ",
+              "word_voice": "ؤ",
+              "image_static": "assets/images/Alphabetics/1-ؤ.webp",
+              "image_animated": "assets/images/Alphabetics/ؤ.webp"
+            },
+            {
+              "word_id": 33,
+              "word_name": "ئ",
+              "word_voice": "ئ",
+              "image_static": "assets/images/Alphabetics/1-ئ.webp",
+              "image_animated": "assets/images/Alphabetics/ئ.webp"
+            },
+            {
+              "word_id": 34,
+              "word_name": "الأرقام",
+              "word_voice": "الأرقام",
+              "image_static": "assets/images/numbers/الارقام1.webp",
+              "image_animated": "assets/images/numbers/الأرقام.webp"
+            },
+            {
+              "word_id": 35,
+              "word_name": "0",
+              "word_voice": "0",
+              "image_static": "assets/images/numbers/000.webp",
+              "image_animated": "assets/images/numbers/00.webp"
+            },
+            {
+              "word_id": 36,
+              "word_name": "1",
+              "word_voice": "1",
+              "image_static": "assets/images/numbers/001.webp",
+              "image_animated": "assets/images/numbers/01.webp"
+            },
+            {
+              "word_id": 37,
+              "word_name": "2",
+              "word_voice": "2",
+              "image_static": "assets/images/numbers/002.webp",
+              "image_animated": "assets/images/numbers/02.webp"
+            },
+            {
+              "word_id": 38,
+              "word_name": "3",
+              "word_voice": "3",
+              "image_static": "assets/images/numbers/003.webp",
+              "image_animated": "assets/images/numbers/03.webp"
+            },
+            {
+              "word_id": 39,
+              "word_name": "4",
+              "word_voice": "4",
+              "image_static": "assets/images/numbers/004.webp",
+              "image_animated": "assets/images/numbers/04.webp"
+            },
+            {
+              "word_id": 40,
+              "word_name": "5",
+              "word_voice": "5",
+              "image_static": "assets/images/numbers/005.webp",
+              "image_animated": "assets/images/numbers/05.webp"
+            },
+            {
+              "word_id": 41,
+              "word_name": "6",
+              "word_voice": "6",
+              "image_static": "assets/images/numbers/006.webp",
+              "image_animated": "assets/images/numbers/06.webp"
+            },
+            {
+              "word_id": 42,
+              "word_name": "7",
+              "word_voice": "7",
+              "image_static": "assets/images/numbers/007.webp",
+              "image_animated": "assets/images/numbers/07.webp"
+            },
+            {
+              "word_id": 43,
+              "word_name": "8",
+              "word_voice": "8",
+              "image_static": "assets/images/numbers/008.webp",
+              "image_animated": "assets/images/numbers/08.webp"
+            },
+            {
+              "word_id": 44,
+              "word_name": "9",
+              "word_voice": "9",
+              "image_static": "assets/images/numbers/009.webp",
+              "image_animated": "assets/images/numbers/09.webp"
+            },
+            {
+              "word_id": 45,
+              "word_name": "10",
+              "word_voice": "10",
+              "image_static": "assets/images/numbers/010.webp",
+              "image_animated": "assets/images/numbers/10.webp"
+            },
+            {
+              "word_id": 46,
+              "word_name": "11",
+              "word_voice": "11",
+              "image_static": "assets/images/numbers/011.webp",
+              "image_animated": "assets/images/numbers/11.webp"
+            },
+            {
+              "word_id": 47,
+              "word_name": "12",
+              "word_voice": "12",
+              "image_static": "assets/images/numbers/012.webp",
+              "image_animated": "assets/images/numbers/12.webp"
+            },
+            {
+              "word_id": 48,
+              "word_name": "13",
+              "word_voice": "13",
+              "image_static": "assets/images/numbers/013.webp",
+              "image_animated": "assets/images/numbers/13.webp"
+            },
+            {
+              "word_id": 49,
+              "word_name": "14",
+              "word_voice": "14",
+              "image_static": "assets/images/numbers/014.webp",
+              "image_animated": "assets/images/numbers/14.webp"
+            },
+            {
+              "word_id": 50,
+              "word_name": "15",
+              "word_voice": "15",
+              "image_static": "assets/images/numbers/015.webp",
+              "image_animated": "assets/images/numbers/15.webp"
+            },
+            {
+              "word_id": 51,
+              "word_name": "16",
+              "word_voice": "16",
+              "image_static": "assets/images/numbers/016.webp",
+              "image_animated": "assets/images/numbers/16.webp"
+            },
+              {
+                "word_id": 52,
+                "word_name": "17",
+                "word_voice": "17",
+                "image_static": "assets/images/numbers/017.webp",
+                "image_animated": "assets/images/numbers/17.webp"
+              },  
+              {
+                "word_id": 53,
+                "word_name": "18",
+                "word_voice": "18",
+                "image_static": "assets/images/numbers/018.webp",
+                "image_animated": "assets/images/numbers/18.webp"
+              },
+            {
+              "word_id": 54,
+              "word_name": "19",
+              "word_voice": "19",
+              "image_static": "assets/images/numbers/019.webp",
+              "image_animated": "assets/images/numbers/19.webp"
+            },
+            {
+              "word_id": 55,
+              "word_name": "20",
+              "word_voice": "20",
+              "image_static": "assets/images/numbers/020.webp",
+              "image_animated": "assets/images/numbers/20.webp"
+            },
+            {
+              "word_id": 56,
+              "word_name": "الْأَلْوَان",
+              "word_voice": "الْأَلْوَان",
+              "image_static": "assets/images/colors/3-الألوان.webp",
+              "image_animated": "assets/images/colors/الالوان.webp"
+            },
+            {
+              "word_id": 57,
+              "word_name": "فَاتِح",
+              "word_voice": "فَاتِح",
+              "image_static": "assets/images/colors/3-فاتح.webp",
+              "image_animated": "assets/images/colors/فاتح.webp"
+            },
+            {
+              "word_id": 58,
+              "word_name": "غَامِق ",
+              "word_voice": "غَامِق ",
+              "image_static": "assets/images/colors/3-غامق.webp",
+              "image_animated": "assets/images/colors/غامق.webp"
+            },
+            {
+              "word_id": 59,
+              "word_name": "أَبْيَضَ",
+              "word_voice": "أَبْيَضَ",
+              "image_static": "assets/images/colors/3-ابيض.webp",
+              "image_animated": "assets/images/colors/ابيض.webp"
+            },
+            {
+              "word_id": 60,
+              "word_name": "أَصْفَرُ",
+              "word_voice": "أَصْفَرُ",
+              "image_static": "assets/images/colors/3-اصفر.webp",
+              "image_animated": "assets/images/colors/اصفر.webp"
+            },
+            {
+              "word_id": 61,
+              "word_name": "بُرْتُقَالِيّ",
+              "word_voice": "بُرْتُقَالِيّ",
+              "image_static": "assets/images/colors/3-برتقالي.webp",
+              "image_animated": "assets/images/colors/برتقالي.webp"
+            },
+            {
+              "word_id": 62,
+              "word_name": "بَنَفْسَجِيّ",
+              "word_voice": "بَنَفْسَجِيّ",
+              "image_static": "assets/images/colors/3-بنفسجي.webp",
+              "image_animated": "assets/images/colors/بنفسجي.webp"
+            },
+            {
+              "word_id": 63,
+              "word_name": "بَنِي",
+              "word_voice": "بَنِي",
+              "image_static": "assets/images/colors/3-بني.webp",
+              "image_animated": "assets/images/colors/بني.webp"
+            },
+            {
+              "word_id": 64,
+              "word_name": "رَمَادِيّ",
+              "word_voice": "رَمَادِيّ",
+              "image_static": "assets/images/colors/3-رمادي.webp",
+              "image_animated": "assets/images/colors/رمادي.webp"
+            },
+            {
+              "word_id": 65,
+              "word_name": "فِضِّيّ",
+              "word_voice": "فِضِّيّ",
+              "image_static": "assets/images/colors/3-فضي.webp",
+              "image_animated": "assets/images/colors/فضي.webp"
+            },
+            {
+              "word_id": 66,
+              "word_name": "وَرُدِّي",
+              "word_voice": "وَرُدِّي",
+              "image_static": "assets/images/colors/3-وردي.webp",
+              "image_animated": "assets/images/colors/وردي.webp"
+            },
+            {
+              "word_id": 67,
+              "word_name": "أَخْضَر",
+              "word_voice": "أَخْضَر",
+              "image_static": "assets/images/colors/3-اخضر.webp",
+              "image_animated": "assets/images/colors/اخضر.webp"
+            },
+            {
+              "word_id": 68,
+              "word_name": "أَسْوَدُ",
+              "word_voice": "أَسْوَدُ",
+              "image_static": "assets/images/colors/3-اسود.webp",
+              "image_animated": "assets/images/colors/اسود.webp"
+            },
+            {
+              "word_id": 69,
+              "word_name": "أَحْمَرَ",
+              "word_voice": "أَحْمَرَ",
+              "image_static": "assets/images/colors/3-احمر.webp",
+              "image_animated": "assets/images/colors/احمر.webp"
+            },
+            {
+              "word_id": 70,
+              "word_name": "ذَهَبِيّ",
+              "word_voice": "ذَهَبِيّ",
+              "image_static": "assets/images/colors/3-ذهبي.webp",
+              "image_animated": "assets/images/colors/ذهبي.webp"
+            },
+            {
+              "word_id": 71,
+              "word_name": "أَزْرَق",
+              "word_voice": "أَزْرَق",
+              "image_static": "assets/images/colors/3-ازرق.webp",
+              "image_animated": "assets/images/colors/ازرق.webp"
+            },
+            {
+              "word_id": 72,
+              "word_name": "الْعَائِلَةِ",
+              "word_voice": "الْعَائِلَةِ",
+              "image_static": "assets/images/family/4-العائلة.webp",
+              "image_animated": "assets/images/family/العائلة.webp"
+            },
+            {
+              "word_id": 73,
+              "word_name": "أَب",
+              "word_voice": "أَب",
+              "image_static": "assets/images/family/4-اب.webp",
+              "image_animated": "assets/images/family/اب.webp"
+            },      
+            {
+              "word_id": 74,
+              "word_name": "أُمّ",
+              "word_voice": "أُمّ",
+              "image_static": "assets/images/family/4-ام.webp",
+              "image_animated": "assets/images/family/ام.webp"
+            },
+            {
+              "word_id": 75,
+              "word_name": "ابْنُ",
+              "word_voice": "ابْنُ",
+              "image_static": "assets/images/family/4-إبن.webp",
+              "image_animated": "assets/images/family/إبن.webp"
+            },
+            {
+              "word_id": 76,
+              "word_name": "خَال",
+              "word_voice": "خَال",
+              "image_static": "assets/images/family/4-خال.webp",
+              "image_animated": "assets/images/family/خال.webp"
+            },
+            {
+              "word_id": 77,
+              "word_name": "عَمُّ",
+              "word_voice": "عَمُّ",
+              "image_static": "assets/images/family/4-عم.webp",
+              "image_animated": "assets/images/family/عم.webp"
+            },
+            {
+              "word_id": 78,
+              "word_name": "أَخ",
+              "word_voice": "أَخ",
+              "image_static": "assets/images/family/4-اخ.webp",
+              "image_animated": "assets/images/family/اخ.webp"
+            },
+            {
+              "word_id": 79,
+              "word_name": "زوج",
+              "word_voice": "زوج",
+              "image_static": "assets/images/family/4-زوج.webp",
+              "image_animated": "assets/images/family/زوج.webp"
+            },
+            {
+              "word_id": 80,
+              "word_name": "جده",
+              "word_voice": "جده",
+              "image_static": "assets/images/family/4-جده.webp",
+              "image_animated": "assets/images/family/جده.webp"
+            },
+            {
+              "word_id": 81,
+              "word_name": "خالة",
+              "word_voice": "خالة",
+              "image_static": "assets/images/family/4-خالة.webp",
+              "image_animated": "assets/images/family/خالة.webp"
+            },
+            {
+              "word_id": 82,
+              "word_name": "زوجة ",
+              "word_voice": "زوجة ",
+              "image_static": "assets/images/family/4-زوجة.webp",
+              "image_animated": "assets/images/family/زوجة.webp"
+            }, 
+            {
+              "word_id": 83,
+              "word_name": "عمة",
+              "word_voice": "عمة",
+              "image_static": "assets/images/family/4-عمه.webp",
+              "image_animated": "assets/images/family/عمة.webp"
+            },
+              {
+                "word_id": 84,
+                "word_name": "جَدّ",
+                "word_voice": "جَدّ",
+                "image_static": "assets/images/family/4-جد.webp",
+                "image_animated": "assets/images/family/جد.webp"
+              },
+              {
+                "word_id": 85,
+                "word_name": "حفيد",
+                "word_voice": "حفيد",
+                "image_static": "assets/images/family/4-حفيد.webp",
+                "image_animated": "assets/images/family/حفيد.webp"
+              },
+            {
+              "word_id": 86,
+              "word_name": "إبنه",
+              "word_voice": "إبنه",
+              "image_static": "assets/images/family/4-إبنه.webp",
+              "image_animated": "assets/images/family/إبنه.webp"
+            },
+            {
+              "word_id": 87,
+              "word_name": "أَخت",
+              "word_voice": "أَخت",
+              "image_static": "assets/images/family/4-اخت.webp",
+              "image_animated": "assets/images/family/اخت.webp"
+            },
+            {
+              "word_id": 88,
+              "word_name": "تؤام",
+              "word_voice": "تؤام",
+              "image_static": "assets/images/family/4-تؤام.webp",
+              "image_animated": "assets/images/family/تؤام.webp"
+            },
+            {
+              "word_id": 89,
+              "word_name": "حَيَوَانَات",
+              "word_voice": "حَيَوَانَات",
+              "image_static": "assets/images/animals/5-حيوانات.webp",
+              "image_animated": "assets/images/animals/حيوانات.webp"
+            },
+            {
+              "word_id": 90,
+              "word_name": "أَسَدُ",
+              "word_voice": "أَسَدُ",
+              "image_static": "assets/images/animals/5-اسد.webp",
+              "image_animated": "assets/images/animals/اسد.webp"
+            },
+            {
+              "word_id": 91,
+              "word_name": "نَمِر",
+              "word_voice": "نَمِر",
+              "image_static": "assets/images/animals/5-نمر.webp",
+              "image_animated": "assets/images/animals/نمر.webp"
+            },
+            {
+              "word_id": 92,
+              "word_name": "دَبَّ",
+              "word_voice": "دَبَّ",
+              "image_static": "assets/images/animals/5-دب.webp",
+              "image_animated": "assets/images/animals/دب.webp"
+            },
+            {
+              "word_id": 93,
+              "word_name": "ذِئْب",
+              "word_voice": "ذِئْب",
+              "image_static": "assets/images/animals/5-ذئب.webp",
+              "image_animated": "assets/images/animals/ذئب.webp"
+            },
+            {
+              "word_id": 94,
+              "word_name": "ضَبُع",
+              "word_voice": "ضَبُع",
+              "image_static": "assets/images/animals/5-ضبع.webp",
+              "image_animated": "assets/images/animals/ضبع.webp"
+            },
+            {
+              "word_id": 95,
+              "word_name": "غَوْرَيلا",
+              "word_voice": "غَوْرَيلا",
+              "image_static": "assets/images/animals/5-غوريلا.webp",
+              "image_animated": "assets/images/animals/غوريلا.webp"
+            },
+            {
+              "word_id": 96,
+              "word_name": "كَنُغَر",
+              "word_voice": "كَنُغَر",
+              "image_static": "assets/images/animals/5-كنغر.webp",
+              "image_animated": "assets/images/animals/كنغر.webp"
+            },
+            {
+              "word_id": 97,
+              "word_name": "فِيلٍ",
+              "word_voice": "فِيلٍ",
+              "image_static": "assets/images/animals/5-فيل.webp",
+              "image_animated": "assets/images/animals/فيل.webp"
+            },
+            {
+              "word_id": 98,
+              "word_name": "قُنْفُذ",
+              "word_voice": "قُنْفُذ",
+              "image_static": "assets/images/animals/5-قنفذ.webp",
+              "image_animated": "assets/images/animals/قنفذ.webp"
+            },
+            {
+              "word_id": 99,
+              "word_name": "ثَوْر",
+              "word_voice": "ثَوْر",
+              "image_static": "assets/images/animals/5-ثور.webp",
+              "image_animated": "assets/images/animals/ثور.webp"
+            },
+            {
+              "word_id": 100,
+              "word_name": "بَقَرَة",
+              "word_voice": "بَقَرَة",
+              "image_static": "assets/images/animals/5-بقرة.webp",
+              "image_animated": "assets/images/animals/بقرة.webp"
+            },
+            {
+              "word_id": 101,
+              "word_name": "خِنْزِير",
+              "word_voice": "خِنْزِير",
+              "image_static": "assets/images/animals/5-خنزير.webp",
+              "image_animated": "assets/images/animals/خنزير.webp"
+            },
+            {
+              "word_id": 102,
+              "word_name": "خَرُوف",
+              "word_voice": "خَرُوف",
+              "image_static": "assets/images/animals/5-خروف.webp",
+              "image_animated": "assets/images/animals/خروف.webp"
+            },
+            {
+              "word_id": 103,
+              "word_name": "قَرَد",
+              "word_voice": "قَرَد",
+              "image_static": "assets/images/animals/5-قرد.webp",
+              "image_animated": "assets/images/animals/قرد.webp"
+            },
+            {
+              "word_id": 104,
+              "word_name": "حِصَان",
+              "word_voice": "حِصَان",
+              "image_static": "assets/images/animals/5-حصان.webp",
+              "image_animated": "assets/images/animals/حصان.webp"
+            } ,
+            {
+              "word_id": 105,
+              "word_name": "وَعَلّ ",
+              "word_voice": "وَعَلّ ",
+              "image_static": "assets/images/animals/5-وعل.webp",
+              "image_animated": "assets/images/animals/وعل.webp"
+            },
+            {
+              "word_id": 106,
+              "word_name": "جَمَلٌ",
+              "word_voice": "جَمَلٌ",
+              "image_static": "assets/images/animals/5-جمل.webp",
+              "image_animated": "assets/images/animals/جمل.webp"
+            },
+            {
+              "word_id": 107,
+              "word_name": "نَعَامَة",
+              "word_voice": "نَعَامَة",
+              "image_static": "assets/images/animals/5-نعامة.webp",
+              "image_animated": "assets/images/animals/نعامة.webp"
+            },
+            {
+              "word_id": 108,
+              "word_name": "ماعز",
+              "word_voice": "ماعز",
+              "image_static": "assets/images/animals/5-ماعز.webp",
+              "image_animated": "assets/images/animals/ماعز.webp"
+            },
+            {
+              "word_id": 109,
+              "word_name": "حُوت",
+              "word_voice": "حُوت",
+              "image_static": "assets/images/animals/5-حوت.webp",
+              "image_animated": "assets/images/animals/حوت.webp"
+            },
+            {
+              "word_id": 110,
+              "word_name": "حِبَّار",
+              "word_voice": "حِبَّار",
+              "image_static": "assets/images/animals/5-حبار.webp",
+              "image_animated": "assets/images/animals/حبار.webp"
+            },
+            {
+              "word_id": 111,
+              "word_name": "سَرَطَان",
+              "word_voice": "سَرَطَان",
+              "image_static": "assets/images/animals/5-سرطان.webp",
+              "image_animated": "assets/images/animals/سرطان.webp"
+            },    
+            {
+              "word_id": 112,
+              "word_name": "سَمَك",
+              "word_voice": "سَمَك",
+              "image_static": "assets/images/animals/5-سمك.webp",
+              "image_animated": "assets/images/animals/سمك.webp"
+            },
+            {
+              "word_id": 113,
+              "word_name": "قِرْش",
+              "word_voice": "قِرْش",
+              "image_static": "assets/images/animals/5-قرش.webp",
+              "image_animated": "assets/images/animals/قرش.webp"
+            },
+            {
+              "word_id": 114,
+              "word_name": "سُلَحْفَاة",
+              "word_voice": "سُلَحْفَاة",
+              "image_static": "assets/images/animals/5-سحلفاة.webp",
+              "image_animated": "assets/images/animals/سحلفاة.webp"
+            },
+            {
+              "word_id": 115,
+              "word_name": "أَخْطَبوط",
+              "word_voice": "أَخْطَبوط",
+              "image_static": "assets/images/animals/5-اخطبوط.webp",
+              "image_animated": "assets/images/animals/اخطبوط.webp"
+            },
+            {
+              "word_id": 116,
+              "word_name": "بَطَّة",
+              "word_voice": "بَطَّة",
+              "image_static": "assets/images/animals/5-بطه.webp",
+              "image_animated": "assets/images/animals/بطه.webp"
+            },
+            {
+              "word_id": 117,
+              "word_name": "بِطَرِيق",
+              "word_voice": "بِطَرِيق",
+              "image_static": "assets/images/animals/5-بطريق.webp",
+              "image_animated": "assets/images/animals/بطريق.webp"
+            },
+            {
+              "word_id": 118,
+              "word_name": "جمبري",
+              "word_voice": "جمبري",
+              "image_static": "assets/images/animals/5-جمبري.webp",
+              "image_animated": "assets/images/animals/جمبري.webp"
+            },
+            {
+              "word_id": 119,
+              "word_name": "سِنْجَاب",
+              "word_voice": "سِنْجَاب",
+              "image_static": "assets/images/animals/5-سنجاب.webp",
+              "image_animated": "assets/images/animals/سنجاب.webp"
+            },
+            {
+              "word_id": 120,
+              "word_name": "ضِفْدَع",
+              "word_voice": "ضِفْدَع",
+              "image_static": "assets/images/animals/5-ضفدع.webp",
+              "image_animated": "assets/images/animals/ضفدع.webp"
+            },
+            {
+              "word_id": 121,
+              "word_name": "عَقْرَب",
+              "word_voice": "عَقْرَب",
+              "image_static": "assets/images/animals/5-عقرب.webp",
+              "image_animated": "assets/images/animals/عقرب.webp"
+            },
+            {
+              "word_id": 122,
+              "word_name": "تِمْسَاحٍ",
+              "word_voice": "تِمْسَاحٍ",
+              "image_static": "assets/images/animals/5-تمساح.webp",
+              "image_animated": "assets/images/animals/تمساح.webp"
+            },
+            {
+              "word_id": 123,
+              "word_name": "زَوَاحف",
+              "word_voice": "زَوَاحف",
+              "image_static": "assets/images/animals/5-زواحف.webp",
+              "image_animated": "assets/images/animals/زواحف.webp"
+            },
+            {
+              "word_id": 124,
+              "word_name": "سِحْلِيَّة",
+              "word_voice": "سِحْلِيَّة",
+              "image_static": "assets/images/animals/5-سحلية.webp",
+              "image_animated": "assets/images/animals/سحلية.webp"
+            },
+            {
+                "word_id": 125,
+                "word_name": "دُودَة",
+                "word_voice": "دُودَة",
+                "image_static": "assets/images/animals/5-دودة.webp",
+                "image_animated": "assets/images/animals/دودة.webp"
+            },
+            {
+              "word_id": 126,
+              "word_name": "ثُعْبَان",
+              "word_voice": "ثُعْبَان",
+              "image_static": "assets/images/animals/5-ثعبان.webp",
+              "image_animated": "assets/images/animals/ثعبان.webp"
+            },
+            {
+              "word_id": 127,
+              "word_name": "غُرَاب",
+              "word_voice": "غُرَاب",
+              "image_static": "assets/images/animals/5-غراب.webp",
+              "image_animated": "assets/images/animals/غراب.webp"
+            },
+            {
+              "word_id": 128,
+              "word_name": "بَبَّغَاء",
+              "word_voice": "بَبَّغَاء",
+              "image_static": "assets/images/animals/5-ببغاء.webp",
+              "image_animated": "assets/images/animals/ببغاء.webp"
+            },
+            {
+              "word_id": 129,
+              "word_name": "بُومٍة",
+              "word_voice": "بُومٍة",
+              "image_static": "assets/images/animals/5-بومة.webp",
+              "image_animated": "assets/images/animals/بومة.webp"
+            },
+            {
+              "word_id": 130,
+              "word_name": "خُفَّاش",
+              "word_voice": "خُفَّاش",
+              "image_static": "assets/images/animals/5-خفاش.webp",
+              "image_animated": "assets/images/animals/خفاش.webp"
+            },
+            {
+              "word_id": 131,
+              "word_name": "حَشَرَات",
+              "word_voice": "حَشَرَات",
+              "image_static": "assets/images/animals/5-حشرات.webp",
+              "image_animated": "assets/images/animals/حشرات.webp"
+            },
+            {
+              "word_id": 132,
+              "word_name": "فَرَاَشه",
+              "word_voice": "فَرَاَشه",
+              "image_static": "assets/images/animals/5-فراشة.webp",
+              "image_animated": "assets/images/animals/فراشة.webp"
+            },
+            {
+              "word_id": 133,
+              "word_name": "خُنْفُسَاء",
+              "word_voice": "خُنْفُسَاء",
+              "image_static": "assets/images/animals/5-خنفساء.webp",
+              "image_animated": "assets/images/animals/خنفساء.webp"
+            },
+            {
+              "word_id": 134,
+              "word_name": "ذُبَابَة",
+              "word_voice": "ذُبَابَة",
+              "image_static": "assets/images/animals/5-ذبابة.webp",
+              "image_animated": "assets/images/animals/ذبابة.webp"
+            },
+            {
+              "word_id": 135,
+              "word_name": "قَمْلَة",
+              "word_voice": "قَمْلَة",
+              "image_static": "assets/images/animals/5-قملة.webp",
+              "image_animated": "assets/images/animals/قملة.webp"
+            },
+            {
+              "word_id": 136,
+              "word_name": "بِعِوَض",
+              "word_voice": "بِعِوَض",
+              "image_static": "assets/images/animals/5-بعوض.webp",
+              "image_animated": "assets/images/animals/بعوض.webp"
+            },
+            {
+              "word_id": 137,
+              "word_name": "نِحْلَة",
+              "word_voice": "نِحْلَة",
+              "image_static": "assets/images/animals/5-نحلة.webp",
+              "image_animated": "assets/images/animals/نحلة.webp"
+            },
+            {
+              "word_id": 138,
+              "word_name": "نَمْلَة",
+              "word_voice": "نَمْلَة",
+              "image_static": "assets/images/animals/5-نملة.webp",
+              "image_animated": "assets/images/animals/نملة.webp"
+            },
+            {
+            "word_id": 139,
+            "word_name": "كَلْب",
+            "word_voice": "كَلْب",
+            "image_static": "assets/images/animals/5-كلب.webp",
+            "image_animated": "assets/images/animals/كلب.webp"
+            },
+            {
+              "word_id": 140,
+              "word_name": "قَطُّ",
+              "word_voice": "قَطُّ",
+              "image_static": "assets/images/animals/5-قط.webp",
+              "image_animated": "assets/images/animals/قط.webp"
+            },
+            {
+                "word_id": 141,
+                "word_name": "فَأْر",
+                "word_voice": "فَأْر",
+                "image_static": "assets/images/animals/5-فار.webp",
+                "image_animated": "assets/images/animals/فار.webp"
+             },
+             {
+              "word_id": 142,
+              "word_name": "حمار",
+              "word_voice": "حمار",
+              "image_static": "assets/images/animals/5-حمار.webp",
+              "image_animated": "assets/images/animals/حمار.webp"
+           },
+            {
+              "word_id": 143,
+              "word_name": "دَجَاجَة",
+              "word_voice": "دَجَاجَة",
+              "image_static": "assets/images/animals/5-دجاجة.webp",
+              "image_animated": "assets/images/animals/دجاجة.webp"
+            },
+            {
+              "word_id": 144,
+              "word_name": "دِيك",
+              "word_voice": "دِيك",
+              "image_static": "assets/images/animals/5-ديك.webp",
+              "image_animated": "assets/images/animals/ديك.webp"
+            },
+            {
+              "word_id": 145,
+              "word_name": "حَمَامَة",
+              "word_voice": "حَمَامَة",
+              "image_static": "assets/images/animals/5-حمامة.webp",
+              "image_animated": "assets/images/animals/حمامة.webp"
+            },
+             {
+              "word_id": 146,
+              "word_name": "عصفور",
+              "word_voice": "عصفور",
+              "image_static": "assets/images/animals/5-عصفور.webp",
+              "image_animated": "assets/images/animals/عصفور.webp"
+            },
+            {
+              "word_id": 147,
+              "word_name": "زرافة",
+              "word_voice": "زرافة",
+              "image_static": "assets/images/animals/5-زرافة.webp",
+              "image_animated": "assets/images/animals/زرافة.webp"
+            },
+            {
+              "word_id": 148,
+              "word_name": "أَنِيق ",
+              "word_voice": "أَنِيق ",
+              "image_static": "assets/images/Attributes/6-انيق.webp",
+              "image_animated": "assets/images/Attributes/انيق.webp"
+            },
+            {
+              "word_id": 149,
+              "word_name": "مُرَتَّب",
+              "word_voice": "مُرَتَّب",
+              "image_static": "assets/images/Attributes/6-مرتب.webp",
+              "image_animated": "assets/images/Attributes/مرتب.webp"
+            },
+            {
+              "word_id": 150,
+              "word_name": "مُنْتَبِهٍ",
+              "word_voice": "مُنْتَبِهٍ",
+              "image_static": "assets/images/Attributes/6-منتبه.webp",
+              "image_animated": "assets/images/Attributes/منتبه.webp"
+            },
+            {
+              "word_id": 151,
+              "word_name": "مُؤَدِّب",
+              "word_voice": "مُؤَدِّب",
+              "image_static": "assets/images/Attributes/6-مؤدب.webp",
+              "image_animated": "assets/images/Attributes/مؤدب.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "مُتَوَاضِع",
+              "word_voice": "مُتَوَاضِع",
+              "image_static": "assets/images/Attributes/6-متواضع.webp",
+              "image_animated": "assets/images/Attributes/متواضع.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "نظيف",
+              "word_voice": "نظيف",
+              "image_static": "assets/images/Attributes/6-نظيف.webp",
+              "image_animated": "assets/images/Attributes/نظيف.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "جريئ",
+              "word_voice": "جريئ",
+              "image_static": "assets/images/Attributes/6-جريئ.webp",
+              "image_animated": "assets/images/Attributes/جريئ.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "لطيف",
+              "word_voice": "لطيف",
+              "image_static": "assets/images/Attributes/6-لطيف.webp",
+              "image_animated": "assets/images/Attributes/لطيف.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "كريم",
+              "word_voice": "كريم",
+              "image_static": "assets/images/Attributes/6-كريم.webp",
+              "image_animated": "assets/images/Attributes/كريم.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "محبوب",
+              "word_voice": "محبوب",
+              "image_static": "assets/images/Attributes/6-محبوب.webp",
+              "image_animated": "assets/images/Attributes/محبوب.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "رقيق",
+              "word_voice": "رقيق",
+              "image_static": "assets/images/Attributes/6-رقيق.webp",
+              "image_animated": "assets/images/Attributes/رقيق.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "طويل",
+              "word_voice": "طويل",
+              "image_static": "assets/images/Attributes/6-طويل.webp",
+              "image_animated": "assets/images/Attributes/طويل.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "قَصِيرٌ",
+              "word_voice": "قَصِيرٌ",
+              "image_static": "assets/images/Attributes/6-قصير.webp",
+              "image_animated": "assets/images/Attributes/قصير.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "صَغِير",
+              "word_voice": "صَغِير",
+              "image_static": "assets/images/Attributes/6-صغير.webp",
+              "image_animated": "assets/images/Attributes/صغير.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "كَبِير",
+              "word_voice": "كَبِير",
+              "image_static": "assets/images/Attributes/6-كبير.webp",
+              "image_animated": "assets/images/Attributes/كبير.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "صَادِقٌ",
+              "word_voice": "صَادِقٌ",
+              "image_static": "assets/images/Attributes/6-صادق.webp",
+              "image_animated": "assets/images/Attributes/صادق.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "شُجَاع",
+              "word_voice": "شُجَاع",
+              "image_static": "assets/images/Attributes/6-شجاع.webp",
+              "image_animated": "assets/images/Attributes/شجاع.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "حر",
+              "word_voice": "حر",
+              "image_static": "assets/images/Attributes/6-حر.webp",
+              "image_animated": "assets/images/Attributes/حر.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "مِثَابر",
+              "word_voice": "مِثَابر",
+              "image_static": "assets/images/Attributes/6-مثابر.webp",
+              "image_animated": "assets/images/Attributes/مثابر.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "مَدْهَش",
+              "word_voice": "مَدْهَش",
+              "image_static": "assets/images/Attributes/6-مدهش.webp",
+              "image_animated": "assets/images/Attributes/مدهش.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "طِيب",
+              "word_voice": "طِيب",
+              "image_static": "assets/images/Attributes/6-طيب.webp",
+              "image_animated": "assets/images/Attributes/طيب.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "شُفُوق",
+              "word_voice": "شُفُوق",
+              "image_static": "assets/images/Attributes/6-شفوق.webp",
+              "image_animated": "assets/images/Attributes/شفوق.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "سَعِيد",
+              "word_voice": "سَعِيد",
+              "image_static": "assets/images/Attributes/6-سعيد.webp",
+              "image_animated": "assets/images/Attributes/سعيد.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "سَرِيعُ",
+              "word_voice": "سَرِيعُ",
+              "image_static": "assets/images/Attributes/6-سريع.webp",
+              "image_animated": "assets/images/Attributes/سريع.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "حَكِيم",
+              "word_voice": "حَكِيم",
+              "image_static": "assets/images/Attributes/6-حكيم.webp",
+              "image_animated": "assets/images/Attributes/حكيم.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "مستقيم",
+              "word_voice": "مستقيم",
+              "image_static": "assets/images/Attributes/6-مستقيم.webp",
+              "image_animated": "assets/images/Attributes/مستقيم.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "معتدل",
+              "word_voice": "معتدل",
+              "image_static": "assets/images/Attributes/6-معتدل.webp",
+              "image_animated": "assets/images/Attributes/معتدل.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "فائز",
+              "word_voice": "فائز",
+              "image_static": "assets/images/Attributes/6-فائز.webp",
+              "image_animated": "assets/images/Attributes/فائز.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "ساهر",
+              "word_voice": "ساهر",
+              "image_static": "assets/images/Attributes/6-ساهر.webp",
+              "image_animated": "assets/images/Attributes/ساهر.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "مهم",
+              "word_voice": "مهم",
+              "image_static": "assets/images/Attributes/6-مهم.webp",
+              "image_animated": "assets/images/Attributes/مهم.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "بسيط",
+              "word_voice": "بسيط",
+              "image_static": "assets/images/Attributes/6-بسيط.webp",
+              "image_animated": "assets/images/Attributes/بسيط.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "قريب",
+              "word_voice": "قريب",
+              "image_static": "assets/images/Attributes/6-قريب.webp",
+              "image_animated": "assets/images/Attributes/قريب.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "قلق",
+              "word_voice": "قلق",
+              "image_static": "assets/images/Attributes/6-قلق.webp",
+              "image_animated": "assets/images/Attributes/قلق.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "اهبل",
+              "word_voice": "اهبل",
+              "image_static": "assets/images/Attributes/6-اهبل.webp",
+              "image_animated": "assets/images/Attributes/اهبل.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "حقيقي",
+              "word_voice": "حقيقي",
+              "image_static": "assets/images/Attributes/6-حقيقي.webp",
+              "image_animated": "assets/images/Attributes/حقيقي.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "رخيص",
+              "word_voice": "رخيص",
+              "image_static": "assets/images/Attributes/6-رخيص.webp",
+              "image_animated": "assets/images/Attributes/رخيص.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "عادي",
+              "word_voice": "عادي",
+              "image_static": "assets/images/Attributes/6-عادي.webp",
+              "image_animated": "assets/images/Attributes/عادي.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "عالي",
+              "word_voice": "عالي",
+              "image_static": "assets/images/Attributes/6-عالي.webp",
+              "image_animated": "assets/images/Attributes/عالي.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "خجول",
+              "word_voice": "خجول",
+                  "image_static": "assets/images/Attributes/6-خجول.webp",
+                  "image_animated": "assets/images/Attributes/خجول.webp"
+            },
+            {
+            "word_id": 5,
+            "word_name": "جديد",
+              "word_voice": "جديد",
+                "image_static": "assets/images/Attributes/6-جديد.webp",
+                  "image_animated": "assets/images/Attributes/جديد.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "حار",
+              "word_voice": "حار",
+              "image_static": "assets/images/Attributes/6-حار.webp",
+              "image_animated": "assets/images/Attributes/حار.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "بارد",
+              "word_voice": "بارد",
+              "image_static": "assets/images/Attributes/6-بارد.webp",
+              "image_animated": "assets/images/Attributes/بارد.webp"
+            },
+            {
+            "word_id": 3,
+            "word_name": "عنيد ",
+            "word_voice": "عنيد ",
+            "image_static": "assets/images/Attributes/6-عنيد.webp",
+            "image_animated": "assets/images/Attributes/عنيد.webp"
+            },
+            {
+            "word_id": 4,
+            "word_name": "عَصَبِيّ",
+            "word_voice": "عَصَبِيّ",
+            "image_static": "assets/images/Attributes/6-عصبي.webp",
+            "image_animated": "assets/images/Attributes/عصبي.webp"
+          },
+          {
+            "word_id": 5,
+            "word_name": "جائع",
+            "word_voice": "جَائِع",
+            "image_static": "assets/images/Attributes/6-جائع.webp",
+            "image_animated": "assets/images/Attributes/جائع.webp"
+          },
+            {
+              "word_id": 1,
+              "word_name": "لذيذ",
+              "word_voice": "لذيذ",
+              "image_static": "assets/images/Attributes/6-لذيذ.webp",
+              "image_animated": "assets/images/Attributes/لذيذ.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "مخادع",
+              "word_voice": "مخادع",
+              "image_static": "assets/images/Attributes/6-مخادع.webp",
+              "image_animated": "assets/images/Attributes/مخادع.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "غَيُور",
+              "word_voice": "غَيُور",
+              "image_static": "assets/images/Attributes/6-غيور.webp",
+              "image_animated": "assets/images/Attributes/غيور.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "غَالَى",
+              "word_voice": "غَالَى",
+              "image_static": "assets/images/Attributes/6-غالي.webp",
+              "image_animated": "assets/images/Attributes/غالي.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "عَطْشَان",
+              "word_voice": "عَطْشَان",
+              "image_static": "assets/images/Attributes/6-عطشان.webp",
+              "image_animated": "assets/images/Attributes/عطشان.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "بخيل",
+              "word_voice": "بخيل",
+              "image_static": "assets/images/Attributes/6-بخيل.webp",
+              "image_animated": "assets/images/Attributes/بخيل.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "بعيد",
+              "word_voice": "بعيد",
+              "image_static": "assets/images/Attributes/6-بعيد.webp",
+              "image_animated": "assets/images/Attributes/بعيد.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "ثقيل",
+              "word_voice": "ثقيل",
+              "image_static": "assets/images/Attributes/6-ثقيل.webp",
+              "image_animated": "assets/images/Attributes/ثقيل.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "حامض",
+              "word_voice": "حامض",
+              "image_static": "assets/images/Attributes/6-حامض.webp",
+              "image_animated": "assets/images/Attributes/حامض.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "حقود",
+              "word_voice": "حقود",
+              "image_static": "assets/images/Attributes/6-حقود.webp",
+              "image_animated": "assets/images/Attributes/حقود.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "خشن",
+              "word_voice": "خشن",
+              "image_static": "assets/images/Attributes/6-خشن.webp",
+              "image_animated": "assets/images/Attributes/خشن.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "دافئ",
+              "word_voice": "دافئ",
+              "image_static": "assets/images/Attributes/6-دافئ.webp",
+              "image_animated": "assets/images/Attributes/دافئ.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "سميك",
+              "word_voice": "سميك",
+              "image_static": "assets/images/Attributes/6-سميك.webp",
+              "image_animated": "assets/images/Attributes/سميك.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "فضولي",
+              "word_voice": "فضولي",
+              "image_static": "assets/images/Attributes/6-فضولي.webp",
+              "image_animated": "assets/images/Attributes/فضولي.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "متسخ",
+              "word_voice": "متسخ",
+              "image_static": "assets/images/Attributes/6-متسخ.webp",
+              "image_animated": "assets/images/Attributes/متسخ.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "مر",
+              "word_voice": "مر",
+              "image_static": "assets/images/Attributes/6-مر.webp",
+              "image_animated": "assets/images/Attributes/مر.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "متدلع",
+              "word_voice": "متدلع",
+              "image_static": "assets/images/Attributes/6-مدلع.webp",
+              "image_animated": "assets/images/Attributes/مدلع.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "ملعون",
+              "word_voice": "ملعون",
+              "image_static": "assets/images/Attributes/6-ملعون.webp",
+              "image_animated": "assets/images/Attributes/ملعون.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "مليان",
+              "word_voice": "مليان",
+              "image_static": "assets/images/Attributes/6-مليان.webp",
+              "image_animated": "assets/images/Attributes/مليان.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "ممنوع",
+              "word_voice": "ممنوع",
+              "image_static": "assets/images/Attributes/6-ممنوع.webp",
+              "image_animated": "assets/images/Attributes/ممنوع.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "منخفض",
+              "word_voice": "منخفض",
+              "image_static": "assets/images/Attributes/6-منخفض.webp",
+              "image_animated": "assets/images/Attributes/منخفض.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "مهزوم",
+              "word_voice": "مهزوم",
+              "image_static": "assets/images/Attributes/6-مهزوم.webp",
+              "image_animated": "assets/images/Attributes/مهزوم.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "مهموم",
+              "word_voice": "مهموم",
+              "image_static": "assets/images/Attributes/6-مهموم.webp",
+              "image_animated": "assets/images/Attributes/مهموم.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "ناعم",
+              "word_voice": "ناعم",
+              "image_static": "assets/images/Attributes/6-ناعم.webp",
+              "image_animated": "assets/images/Attributes/ناعم.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "نعسان",
+              "word_voice": "نعسان",
+              "image_static": "assets/images/Attributes/6-نعسان.webp",
+              "image_animated": "assets/images/Attributes/نعسان.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "هادئ",
+              "word_voice": "هادئ",
+              "image_static": "assets/images/Attributes/6-هادئ.webp",
+              "image_animated": "assets/images/Attributes/هادئ.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "زعلان",
+              "word_voice": "زعلان",
+              "image_static": "assets/images/Attributes/6-زعلان.webp",
+              "image_animated": "assets/images/Attributes/زعلان.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "حاسد",
+              "word_voice": "حاسد",
+              "image_static": "assets/images/Attributes/6-حاسد.webp",
+              "image_animated": "assets/images/Attributes/حاسد.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "حزين",
+              "word_voice": "حزين",
+              "image_static": "assets/images/Attributes/6-حزين.webp",
+              "image_animated": "assets/images/Attributes/حزين.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "خائف",
+              "word_voice": "خائف",
+              "image_static": "assets/images/Attributes/6-خائف.webp",
+              "image_animated": "assets/images/Attributes/خائف.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "خفيف",
+              "word_voice": "خفيف",
+              "image_static": "assets/images/Attributes/6-خفيف.webp",
+              "image_animated": "assets/images/Attributes/خفيف.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "فاضي",
+              "word_voice": "فاضي",
+              "image_static": "assets/images/Attributes/6-فاضي.webp",
+              "image_animated": "assets/images/Attributes/فاضي.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "قبيح",
+              "word_voice": "قبيح",
+              "image_static": "assets/images/Attributes/6-قبيح.webp",
+              "image_animated": "assets/images/Attributes/قبيح.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "كذاب",
+              "word_voice": "كذاب",
+              "image_static": "assets/images/Attributes/6-كذاب.webp",
+              "image_animated": "assets/images/Attributes/كذاب.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "كسلان",
+              "word_voice": "كسلان",
+              "image_static": "assets/images/Attributes/6-كسلان.webp",
+              "image_animated": "assets/images/Attributes/كسلان.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "لئيم",
+              "word_voice": "لئيم",
+              "image_static": "assets/images/Attributes/6-لئيم.webp",
+              "image_animated": "assets/images/Attributes/لئيم.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "متسرع",
+              "word_voice": "متسرع",
+              "image_static": "assets/images/Attributes/6-متسرع.webp",
+              "image_animated": "assets/images/Attributes/متسرع.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "متكبر",
+              "word_voice": "متكبر",
+              "image_static": "assets/images/Attributes/6-متكبر.webp",
+              "image_animated": "assets/images/Attributes/متكبر.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "مريض",
+              "word_voice": "مريض",
+              "image_static": "assets/images/Attributes/6-مريض.webp",
+              "image_animated": "assets/images/Attributes/مريض.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "مشاغب",
+              "word_voice": "مشاغب",
+              "image_static": "assets/images/Attributes/6-مشاغب.webp",
+              "image_animated": "assets/images/Attributes/مشاغب.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "مُرْتَبِك",
+              "word_voice": "مُرْتَبِك",
+              "image_static": "assets/images/Attributes/6-مرتبك.webp",
+              "image_animated": "assets/images/Attributes/مرتبك.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "نحيف",
+              "word_voice": "نحيف",
+              "image_static": "assets/images/Attributes/6-نحيف.webp",
+              "image_animated": "assets/images/Attributes/نحيف.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "عَبَايَة",
+              "word_voice": "عَبَايَة",
+              "image_static": "assets/images/Clothing/7-عباية.webp",
+              "image_animated": "assets/images/Clothing/عباية.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "دِرْع",
+              "word_voice": "دِرْع",
+              "image_static": "assets/images/Clothing/7-درع.webp",
+              "image_animated": "assets/images/Clothing/درع.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "بِنُطْلون",
+              "word_voice": "بِنُطْلون",
+              "image_static": "assets/images/Clothing/7-بنطلون.webp",
+              "image_animated": "assets/images/Clothing/بنطلون.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "فُسْتَان",
+              "word_voice": "فُسْتَان",
+              "image_static": "assets/images/Clothing/7-فستان.webp",
+              "image_animated": "assets/images/Clothing/فستان.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "جَزْمِه",
+              "word_voice": "جَزْمِه",
+              "image_static": "assets/images/Clothing/7-جزمة.webp",
+              "image_animated": "assets/images/Clothing/جزمة.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "صَنْدَل",
+              "word_voice": "صَنْدَل",
+              "image_static": "assets/images/Clothing/7-صندل.webp",
+              "image_animated": "assets/images/Clothing/صندل.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "شَبْشِب",
+              "word_voice": "شَبْشِب",
+              "image_static": "assets/images/Clothing/7-شبشب.webp",
+              "image_animated": "assets/images/Clothing/شبشب.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "شَرَابٌ",
+              "word_voice": "شَرَابٌ",
+              "image_static": "assets/images/Clothing/7-شراب.webp",
+              "image_animated": "assets/images/Clothing/شراب.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "سُوسٍتِه",
+              "word_voice": "سُوسٍتِه",
+              "image_static": "assets/images/Clothing/7-سوستة.webp",
+              "image_animated": "assets/images/Clothing/سوستة.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "حِزَام",
+              "word_voice": "حِزَام",
+              "image_static": "assets/images/Clothing/7-حزام.webp",
+              "image_animated": "assets/images/Clothing/حزام.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "فَنِيَله دَاخِلِيَّةٌ",
+              "word_voice": "فَنِيَله دَاخِلِيَّةٌ",
+              "image_static": "assets/images/Clothing/7-فنيلة داخلية.webp",
+              "image_animated": "assets/images/Clothing/فنيلة داخلية.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "فَنِيَله صُوفٍ",
+              "word_voice": "فَنِيَله صُوفٍ",
+              "image_static": "assets/images/Clothing/7-فنيلة صوف.webp",
+              "image_animated": "assets/images/Clothing/فنيلة صوف.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "جَنْبَيْه",
+              "word_voice": "جَنْبَيْه",
+              "image_static": "assets/images/Clothing/7-جنبية.webp",
+              "image_animated": "assets/images/Clothing/جنبية.webp"
+            },
+              {
+              "word_id": 2,
+              "word_name": "عِقَال",
+              "word_voice": "عِقَال",
+              "image_static": "assets/images/Clothing/7-عقال.webp",
+              "image_animated": "assets/images/Clothing/عقال.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "شَال",
+              "word_voice": "شَال",
+              "image_static": "assets/images/Clothing/7-شال.webp",
+              "image_animated": "assets/images/Clothing/شال.webp"
+            },
+              {
+              "word_id": 4,
+              "word_name": "فُوطَة",
+              "word_voice": "فُوطَة",
+              "image_static": "assets/images/Clothing/7-فوطة.webp",
+              "image_animated": "assets/images/Clothing/فوطة.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "قُطْن",
+              "word_voice": "قُطْن",
+              "image_static": "assets/images/Clothing/7-قطن.webp",
+              "image_animated": "assets/images/Clothing/قطن.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "قفاز",
+              "word_voice": "قفاز",
+              "image_static": "assets/images/Clothing/7-قفاز.webp",
+              "image_animated": "assets/images/Clothing/قفاز.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "قميص",
+              "word_voice": "قميص",
+              "image_static": "assets/images/Clothing/7-قميص.webp",
+              "image_animated": "assets/images/Clothing/قميص.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "كَرَفَّتِه",
+              "word_voice": "كَرَفَّتِه",
+              "image_static": "assets/images/Clothing/7-كرفتة.webp",
+              "image_animated": "assets/images/Clothing/كرفتة.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "كُوفِيَّة",
+              "word_voice": "كُوفِيَّة",
+              "image_static": "assets/images/Clothing/7-كوفية.webp",
+              "image_animated": "assets/images/Clothing/كوفية.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "مُعْوِز",
+              "word_voice": "مُعْوِز",
+              "image_static": "assets/images/Clothing/7-معوز.webp",
+              "image_animated": "assets/images/Clothing/معوز.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "مِعْطَف",
+              "word_voice": "مِعْطَف",
+              "image_static": "assets/images/Clothing/7-معطف.webp",
+              "image_animated": "assets/images/Clothing/معطف.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "مِنْشَفَة ",
+              "word_voice": "مِنْشَفَة ",
+              "image_static": "assets/images/Clothing/7-منشفة.webp",
+              "image_animated": "assets/images/Clothing/منشفة.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "بَدَلَه رِيَاضِيَّة",
+              "word_voice": "بَدَلَه رِيَاضِيَّة ",
+              "image_static": "assets/images/Clothing/7-بدلة رياضية.webp",
+              "image_animated": "assets/images/Clothing/بدلةرياضية.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "كَوَتْ",
+              "word_voice": "كَوَتْ",
+              "image_static": "assets/images/Clothing/7-كوت.webp",
+              "image_animated": "assets/images/Clothing/كوت.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "خَيْط",
+              "word_voice": "خَيْط",
+              "image_static": "assets/images/Clothing/7-خيط.webp",
+              "image_animated": "assets/images/Clothing/خيط.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "شَرَشَف",
+              "word_voice": "شَرَشَف",
+              "image_static": "assets/images/Clothing/7-شرشف.webp",
+              "image_animated": "assets/images/Clothing/شرشف.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "جَاكَت",
+              "word_voice": "جَاكَت",
+              "image_static": "assets/images/Clothing/7-جاكت.webp",
+              "image_animated": "assets/images/Clothing/جاكت.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "أَمَاكِن عَامَّة",
+              "word_voice": "أَمَاكِن عَامَّة",
+              "image_static": "assets/images/public-places/8-اماكن عامة.webp",
+              "image_animated": "assets/images/public-places/اماكن عامة.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "جَامِعَةٌ",
+              "word_voice": "جَامِعَةٌ",
+              "image_static": "assets/images/public-places/8-جامعة.webp",
+              "image_animated": "assets/images/public-places/جامعة.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "جَمْعِيَّة",
+              "word_voice": "جَمْعِيَّة",
+              "image_static": "assets/images/public-places/8-جمعية.webp",
+              "image_animated": "assets/images/public-places/جمعية.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "بِوَفَيه",
+              "word_voice": "بِوَفَيه",
+              "image_static": "assets/images/public-places/8-بوفيه.webp",
+              "image_animated": "assets/images/public-places/بوفيه.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "اسْتَديو",
+              "word_voice": "اسْتَديو",
+              "image_static": "assets/images/public-places/8-استديو.webp",
+              "image_animated": "assets/images/public-places/استديو.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "حَدِيقَة",
+              "word_voice": "حَدِيقَة",
+              "image_static": "assets/images/public-places/8-حديقة.webp",
+              "image_animated": "assets/images/public-places/حديقة.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "حَرَاج",
+              "word_voice": "حَرَاج",
+              "image_static": "assets/images/public-places/8-حراج.webp",
+              "image_animated": "assets/images/public-places/حراج.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "دُكَّانُ",
+              "word_voice": "دُكَّانُ",
+              "image_static": "assets/images/public-places/8-دكان.webp",
+              "image_animated": "assets/images/public-places/دكان.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "سُوق",
+              "word_voice": "سُوق",
+              "image_static": "assets/images/public-places/8-سوق.webp",
+              "image_animated": "assets/images/public-places/سوق.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "صَالِون حِلَاقِه",
+              "word_voice": "صَالِون حِلَاقِه",
+              "image_static": "assets/images/public-places/8-صالون حلاقة.webp",
+              "image_animated": "assets/images/public-places/صالون حلاقة.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "فَرْزِة",
+              "word_voice": "فَرْزِة",
+              "image_static": "assets/images/public-places/8-فرزة.webp",
+              "image_animated": "assets/images/public-places/فرزة.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "فُنْدُق",
+              "word_voice": " فُنْدُق",
+              "image_static": "assets/images/public-places/8-فندق.webp",
+              "image_animated": "assets/images/public-places/فندق.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "كَوَافير ",
+              "word_voice": "كَوَافير ",
+              "image_static": "assets/images/public-places/8-كوافير.webp",
+              "image_animated": "assets/images/public-places/كوافير.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "لِوَكِنده ",
+              "word_voice": "لِوَكِنده ",
+              "image_static": "assets/images/public-places/8-لوكندة.webp",
+              "image_animated": "assets/images/public-places/لوكندة.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "مَجْزَرَة ",
+              "word_voice": "مَجْزَرَة ",
+              "image_static": "assets/images/public-places/8-مجزرة.webp",
+              "image_animated": "assets/images/public-places/مجزرة.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "مَدْرَسَة ",
+              "word_voice": "مَدْرَسَة ",
+              "image_static": "assets/images/public-places/8-مدرسة.webp",
+              "image_animated": "assets/images/public-places/مدرسة.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "مُطَار ",
+              "word_voice": "مُطَار ",
+              "image_static": "assets/images/public-places/8-مطار.webp",
+              "image_animated": "assets/images/public-places/مطار.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "مَعْرِض ",
+              "word_voice": "مَعْرِض ",
+              "image_static": "assets/images/public-places/8-معرض.webp",
+              "image_animated": "assets/images/public-places/معرض.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "مَقْبَرَة ",
+              "word_voice": "مَقْبَرَة ",
+              "image_static": "assets/images/public-places/8-مقبرة.webp",
+              "image_animated": "assets/images/public-places/مقبرة.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "مَكْتَب ",
+              "word_voice": "مَكْتَب ",
+              "image_static": "assets/images/public-places/8-مكتب.webp",
+              "image_animated": "assets/images/public-places/مكتب.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "مَلْعَب ",
+              "word_voice": "مَلْعَب ",
+              "image_static": "assets/images/public-places/8-ملعب.webp",
+              "image_animated": "assets/images/public-places/ملعب.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "مُنْتَزَه ",
+              "word_voice": "مُنْتَزَه ",
+              "image_static": "assets/images/public-places/8-منتزة.webp",
+              "image_animated": "assets/images/public-places/منتزة.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "مُنَظَّمَة ",
+              "word_voice": "مُنَظَّمَة ",
+              "image_static": "assets/images/public-places/8-منظمة.webp",
+              "image_animated": "assets/images/public-places/منظمة.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "نَادَى ",
+              "word_voice": "نَادَى ",
+              "image_static": "assets/images/public-places/8-نادي.webp",
+              "image_animated": "assets/images/public-places/نادي.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "وَكَالَة ",
+              "word_voice": "وَكَالَة ",
+              "image_static": "assets/images/public-places/8-وكالة.webp",
+              "image_animated": "assets/images/public-places/وكالة.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "مطعم ",
+              "word_voice": "مطعم ",
+              "image_static": "assets/images/public-places/8-مطعم.webp",
+              "image_animated": "assets/images/public-places/مطعم.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "محطة بترول ",
+              "word_voice": "محطة بترول  ",
+              "image_static": "assets/images/public-places/8-محطة بترول.webp",
+              "image_animated": "assets/images/public-places/محطة.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "مجمع تجاري ",
+              "word_voice": "مجمع تجاري ",
+              "image_static": "assets/images/public-places/8-مجمع تجاري.webp",
+              "image_animated": "assets/images/public-places/منظمة.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "متحف ",
+              "word_voice": "متحف ",
+              "image_static": "assets/images/public-places/8-متحف.webp",
+              "image_animated": "assets/images/public-places/متحف.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "بقالة ",
+              "word_voice": "بقالة ",
+              "image_static": "assets/images/public-places/8-بقالة.webp",
+              "image_animated": "assets/images/public-places/بقالة.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "الْوَقْت",
+              "word_voice": "الْوَقْت",
+              "image_static": "assets/images/times/9-الوقت.webp",
+              "image_animated": "assets/images/times/الوقت.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "زَمَن",
+              "word_voice": "زَمَن",
+              "image_static": "assets/images/times/9-زمان.webp",
+              "image_animated": "assets/images/times/زمان.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "سَنَةٍ",
+              "word_voice": "سَنَةٍ",
+              "image_static": "assets/images/times/9-سنة.webp",
+              "image_animated": "assets/images/times/سنة.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "سَنَة مِيلَادِيَّة",
+              "word_voice": "سَنَة مِيلَادِيَّة",
+              "image_static": "assets/images/times/9-سنة ميلادية.webp",
+              "image_animated": "assets/images/times/سنة ميلادية.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "سَنَةً هِجْرِيَّةً",
+              "word_voice": "سَنَةً هِجْرِيَّةً",
+              "image_static": "assets/images/times/9-سنة هجرية.webp",
+              "image_animated": "assets/images/times/سنة هجرية.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "شَهْرٌ",
+              "word_voice": "شَهْرٌ",
+              "image_static": "assets/images/times/9-شهر.webp",
+              "image_animated": "assets/images/times/شهر.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "أُسْبُوع",
+              "word_voice": "أُسْبُوع",
+              "image_static": "assets/images/times/9-اسبوع.webp",
+              "image_animated": "assets/images/times/اسبوع.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "السَّبْتِ",
+              "word_voice": "السَّبْتِ",
+              "image_static": "assets/images/times/9-السبت.webp",
+              "image_animated": "assets/images/times/السبت.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "الْأَحَدُ",
+              "word_voice": "الْأَحَدُ",
+              "image_static": "assets/images/times/9-الاحد.webp",
+              "image_animated": "assets/images/times/الاحد.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "الِاثْنَيْن",
+              "word_voice": "الِاثْنَيْن",
+              "image_static": "assets/images/times/9-الاثنين.webp",
+              "image_animated": "assets/images/times/الاثنين.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "الثُّلَاثَاء",
+              "word_voice": "الثُّلَاثَاء",
+              "image_static": "assets/images/times/9-الثلاثاء.webp",
+              "image_animated": "assets/images/times/الثلاثاء.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "الْأَرْبِعَاء",
+              "word_voice": "الْأَرْبِعَاء",
+              "image_static": "assets/images/times/9-الاربعاء.webp",
+              "image_animated": "assets/images/times/الاربعاء.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "الْخَمِيس",
+              "word_voice": "الْخَمِيس",
+              "image_static": "assets/images/times/9-الخميس.webp",
+              "image_animated": "assets/images/times/الخميس.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "الْجُمُعَة",
+              "word_voice": "الْجُمُعَة",
+              "image_static": "assets/images/times/9-الجمعة.webp",
+              "image_animated": "assets/images/times/الجمعة.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "بِدَايَة",
+              "word_voice": "بِدَايَة",
+              "image_static": "assets/images/times/9-بداية.webp",
+              "image_animated": "assets/images/times/بداية.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "نِهَايَةٌ ",
+              "word_voice": "نِهَايَةٌ ",
+              "image_static": "assets/images/times/9-نهاية.webp",
+              "image_animated": "assets/images/times/نهاية.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "قَبْل",
+              "word_voice": "قَبْل",
+              "image_static": "assets/images/times/9-قبل.webp",
+              "image_animated": "assets/images/times/قبل.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "بَعْدَ",
+              "word_voice": "بَعْدَ",
+              "image_static": "assets/images/times/9-بعد.webp",
+              "image_animated": "assets/images/times/بعد.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "تَارِيخِ",
+              "word_voice": "تَارِيخِ",
+              "image_static": "assets/images/times/9-تاريخ.webp",
+              "image_animated": "assets/images/times/تاريخ.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "سَاعَة",
+              "word_voice": "سَاعَة",
+              "image_static": "assets/images/times/9-ساعة.webp",
+              "image_animated": "assets/images/times/ساعة.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "دَقِيقِه",
+              "word_voice": "دَقِيقِه",
+              "image_static": "assets/images/times/9-دقيقة.webp",
+              "image_animated": "assets/images/times/دقيقة.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "ثَانِيَة",
+              "word_voice": "ثَانِيَة",
+              "image_static": "assets/images/times/9-ثانية.webp",
+              "image_animated": "assets/images/times/ثانية.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "صَبَاح",
+              "word_voice": "صَبَاح",
+              "image_static": "assets/images/times/9-صباح.webp",
+              "image_animated": "assets/images/times/صباح.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "ظُهْرٌ",
+              "word_voice": "ظُهْرٌ",
+              "image_static": "assets/images/times/9-ظهر.webp",
+              "image_animated": "assets/images/times/ظهر.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "عَصْرٌ",
+              "word_voice": "عَصْرٌ",
+              "image_static": "assets/images/times/9-عصر.webp",
+              "image_animated": "assets/images/times/عصر.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "مَغْرِبٌ",
+              "word_voice": "مَغْرِبٌ",
+              "image_static": "assets/images/times/9-مغرب.webp",
+              "image_animated": "assets/images/times/مغرب.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "عِشَاءٌ",
+              "word_voice": "عِشَاءٌ",
+              "image_static": "assets/images/times/9-عشاء.webp",
+              "image_animated": "assets/images/times/عشاء.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "فَجْر",
+              "word_voice": "فَجْر",
+              "image_static": "assets/images/times/9-فجر.webp",
+              "image_animated": "assets/images/times/فجر.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "يَوْمٍ",
+              "word_voice": "يَوْمٍ",
+              "image_static": "assets/images/times/9-يوم.webp",
+              "image_animated": "assets/images/times/يوم.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "لَيْل",
+              "word_voice": "لَيْل",
+              "image_static": "assets/images/times/9-ليل.webp",
+              "image_animated": "assets/images/times/ليل.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "عَقْدٌ",
+              "word_voice": "عَقْدٌ",
+              "image_static": "assets/images/times/9-عقد.webp",
+              "image_animated": "assets/images/times/عقد.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "قَرَن",
+              "word_voice": "قَرَن",
+              "image_static": "assets/images/times/9-قرن.webp",
+              "image_animated": "assets/images/times/قرن.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "مَاضِي",
+              "word_voice": "مَاضِي",
+              "image_static": "assets/images/times/9-ماضي.webp",
+              "image_animated": "assets/images/times/ماضي.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "مُسْتَمِرّ",
+              "word_voice": "مُسْتَمِرّ",
+              "image_static": "assets/images/times/9-مستمر.webp",
+              "image_animated": "assets/images/times/مستمر.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "عُمَر",
+              "word_voice": "عُمَر",
+              "image_static": "assets/images/times/9-عمر.webp",
+              "image_animated": "assets/images/times/عمر.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "الرَّبِيع",
+              "word_voice": "الرَّبِيع",
+              "image_static": "assets/images/times/9-الربيع.webp",
+              "image_animated": "assets/images/times/الربيع.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "الْخَرِيف",
+              "word_voice": "الْخَرِيف",
+              "image_static": "assets/images/times/9-الخريف.webp",
+              "image_animated": "assets/images/times/الخريف.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "الصَّيْف",
+              "word_voice": "الصَّيْف",
+              "image_static": "assets/images/times/9-الصيف.webp",
+              "image_animated": "assets/images/times/الصيف.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "الشِّتَاء",
+              "word_voice": "الشِّتَاء",
+              "image_static": "assets/images/times/9-الشتاء.webp",
+              "image_animated": "assets/images/times/الشتاء.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "أَمْس",
+              "word_voice": "أَمْس",
+              "image_static": "assets/images/times/9-امس.webp",
+              "image_animated": "assets/images/times/امس.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "الْان",
+              "word_voice": "الْان",
+              "image_static": "assets/images/times/9-الان.webp",
+              "image_animated": "assets/images/times/الان.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "قَدِيم",
+              "word_voice": "قَدِيم",
+              "image_static": "assets/images/times/9-قديم.webp",
+              "image_animated": "assets/images/times/قديم.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "عَلَى طُولِ",
+              "word_voice": "عَلَى طُولِ",
+              "image_static": "assets/images/times/9-على طول.webp",
+              "image_animated": "assets/images/times/على طول.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "أَصَمّ",
+              "word_voice": "أَصَمّ",
+              "image_static": "assets/images/community-personnel/10-اصم.webp",
+              "image_animated": "assets/images/community-personnel/اصم.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": " أَفْرَادِ الْمُجْتَمَعِ",
+              "word_voice": "أَفْرَادِ الْمُجْتَمَعِ ",
+              "image_static": "assets/images/community-personnel/أفراد المجتمع-10.webp",
+              "image_animated": "assets/images/community-personnel/أفراد المجتمع.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "أُمِّي لِإِيقَرَاء",
+              "word_voice": "أُمِّي لِإِيقَرَاء",
+              "image_static": "assets/images/community-personnel/10-امي-لايقراء.webp",
+              "image_animated": "assets/images/community-personnel/امي-لايقراء.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "جَارٍ",
+              "word_voice": "جَارٍ",
+              "image_static": "assets/images/community-personnel/10-جار.webp",
+              "image_animated": "assets/images/community-personnel/جار.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "خَادِم",
+              "word_voice": "خَادِم",
+              "image_static": "assets/images/community-personnel/10-خادم.webp",
+              "image_animated": "assets/images/community-personnel/خادم.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "صَدِيق",
+              "word_voice": "صَدِيق",
+              "image_static": "assets/images/community-personnel/10-صديق.webp",
+              "image_animated": "assets/images/community-personnel/صديق.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "ضَيْف",
+              "word_voice": "ضَيْف",
+              "image_static": "assets/images/community-personnel/10-ضيف.webp",
+              "image_animated": "assets/images/community-personnel/ضيف.webp"
+            },
+            {
+              "word_id": 4,
+              "word_voice": "عَاقِل حَارَّة",
+              "image_static": "assets/images/community-personnel/10-عاقل حارة.webp",
+              "image_animated": "assets/images/community-personnel/عاقل حارة.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "غَنِيّ",
+              "word_voice": "غَنِيّ",
+              "image_static": "assets/images/community-personnel/10-غني.webp",
+              "image_animated": "assets/images/community-personnel/غني.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "فَقِير",
+              "word_voice": "فَقِير",
+              "image_static": "assets/images/community-personnel/10-فقير.webp",
+              "image_animated": "assets/images/community-personnel/فقير.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "مُتَخَلِّف",
+              "word_voice": "مُتَخَلِّف",
+              "image_static": "assets/images/community-personnel/10-متخلف.webp",
+              "image_animated": "assets/images/community-personnel/متخلف.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "مَجْنُون",
+              "word_voice": "مَجْنُون",
+              "image_static": "assets/images/community-personnel/10-مجنون.webp",
+              "image_animated": "assets/images/community-personnel/مجنون.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "مُرْتَاح",
+              "word_voice": "مُرْتَاح",
+              "image_static": "assets/images/community-personnel/10-مرتاح.webp",
+              "image_animated": "assets/images/community-personnel/مرتاح.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "مِسْكِين",
+              "word_voice": "مِسْكِين",
+              "image_static": "assets/images/community-personnel/10-مسكين.webp",
+              "image_animated": "assets/images/community-personnel/مسكين.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "مَعًاق",
+              "word_voice": "مَعًاق",
+              "image_static": "assets/images/community-personnel/10-معاق.webp",
+              "image_animated": "assets/images/community-personnel/معاق.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "مُغْتَرِب",
+              "word_voice": "مُغْتَرِب",
+              "image_static": "assets/images/community-personnel/10-مغترب.webp",
+              "image_animated": "assets/images/community-personnel/مغترب.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "مُقِيم",
+              "word_voice": "مُقِيم",
+              "image_static": "assets/images/community-personnel/10-مقيم.webp",
+              "image_animated": "assets/images/community-personnel/مقيم.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "مَكْفُوف",
+              "word_voice": "مَكْفُوف",
+              "image_static": "assets/images/community-personnel/10-مكفوف.webp",
+              "image_animated": "assets/images/community-personnel/مكفوف.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "شَيْخ",
+              "word_voice": "شَيْخ",
+              "image_static": "assets/images/community-personnel/10-شيخ.webp",
+              "image_animated": "assets/images/community-personnel/شيخ.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "عَجُوز",
+              "word_voice": "عَجُوز",
+              "image_static": "assets/images/community-personnel/10-عجوز.webp",
+              "image_animated": "assets/images/community-personnel/عجوز.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "وَلَدِ ",
+              "word_voice": "وَلَدِ ",
+              "image_static": "assets/images/community-personnel/10-ولد.webp",
+              "image_animated": "assets/images/community-personnel/ولد.webp"
+            }, 
+            {
+              "word_id": 4,
+              "word_name": "رَضِيع",
+              "word_voice": "رَضِيع",
+              "image_static": "assets/images/community-personnel/10-رضيع.webp",
+              "image_animated": "assets/images/community-personnel/رضيع.webp"
+            },
+              {
+                "word_id": 1,
+                "word_name": "عَالِم",
+                "word_voice": "عَالِم",
+                "image_static": "assets/images/community-personnel/10-عالم.webp",
+                "image_animated": "assets/images/community-personnel/عالم.webp"
+              },
+            {
+              "word_id": 2,
+              "word_name": "شعب",
+              "word_voice": "شعب",
+              "image_static": "assets/images/community-personnel/10-شعب.webp",
+              "image_animated": "assets/images/community-personnel/شعب.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "رَجُل",
+              "word_voice": "رَجُل",
+              "image_static": "assets/images/community-personnel/10-رجل.webp",
+              "image_animated": "assets/images/community-personnel/رجل.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "ناس",
+              "word_voice": "ناس",
+              "image_static": "assets/images/community-personnel/10-ناس.webp",
+              "image_animated": "assets/images/community-personnel/ناس.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "مَنْدُوب ",
+              "word_voice": "مَنْدُوب ",
+              "image_static": "assets/images/community-personnel/10-مندوب.webp",
+              "image_animated": "assets/images/community-personnel/مندوب.webp"
+            },
+              {
+                "word_id": 1,
+                "word_name": "عريس",
+                "word_voice": "عريس",
+                "image_static": "assets/images/community-personnel/10-عريس.webp",
+                "image_animated": "assets/images/community-personnel/عريس.webp"
+              },
+            {
+              "word_id": 2,
+              "word_name": "عروس",
+              "word_voice": "عروس",
+              "image_static": "assets/images/community-personnel/10-عروس.webp",
+              "image_animated": "assets/images/community-personnel/عروس.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "امرأة",
+              "word_voice": "امرأة",
+              "image_static": "assets/images/community-personnel/10-امرأة.webp",
+              "image_animated": "assets/images/community-personnel/امرأة.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "خطوبة",
+              "word_voice": "خطوبة",
+              "image_static": "assets/images/community-personnel/10-خطوبة.webp",
+              "image_animated": "assets/images/community-personnel/خطوبة.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "مَنْدُوب ",
+              "word_voice": "مَنْدُوب ",
+              "image_static": "assets/images/community-personnel/10-مندوب.webp",
+              "image_animated": "assets/images/community-personnel/مندوب.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "الزِّرَاعَةُ",
+              "word_voice": "الزِّرَاعَةُ",
+              "image_static": "assets/images/Agriculture/11-الزراعة.webp",
+              "image_animated": "assets/images/Agriculture/الزراعة.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "اّلَة تَسْوِيَةُ الْأَرْضِ",
+              "word_voice": "اّلَة تَسْوِيَةُ الْأَرْضِ",
+              "image_static": "assets/images/Agriculture/11-الة تسوية الارض.webp",
+              "image_animated": "assets/images/Agriculture/الة تسوية الارض.webp"
+            },
+            
+            {
+              "word_id": 3,
+              "word_name": "بُذُور",
+              "word_voice": "بُذُور",
+              "image_static": "assets/images/Agriculture/11-بذور.webp",
+              "image_animated": "assets/images/Agriculture/بذور.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "بُسْتَان",
+              "word_voice": "بُسْتَان",
+              "image_static": "assets/images/Agriculture/11-بستان.webp",
+              "image_animated": "assets/images/Agriculture/بستان.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "بِئْر",
+              "word_voice": "بِئْر",
+              "image_static": "assets/images/Agriculture/11-بئر.webp",
+              "image_animated": "assets/images/Agriculture/بئر.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "تُرْبَة",
+              "word_voice": "تُرْبَة",
+              "image_static": "assets/images/Agriculture/11-تربة.webp",
+              "image_animated": "assets/images/Agriculture/تربة.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "حِرَاثَة",
+              "word_voice": "حِرَاثَة",
+              "image_static": "assets/images/Agriculture/11-حراثة.webp",
+              "image_animated": "assets/images/Agriculture/حراثة.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "سَاقَيْه",
+              "word_voice": "سَاقَيْه",
+              "image_static": "assets/images/Agriculture/11-ساقية.webp",
+              "image_animated": "assets/images/Agriculture/ساقية.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "سايلة",
+              "word_voice": "سايلة",
+              "image_static": "assets/images/Agriculture/11-سايلة.webp",
+              "image_animated": "assets/images/Agriculture/سايلة.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "سَمَاء",
+              "word_voice": "سَمَاء",
+              "image_static": "assets/images/Agriculture/11-سماء.webp",
+              "image_animated": "assets/images/Agriculture/سماء.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "شَرِيم",
+              "word_voice": "شَرِيم",
+              "image_static": "assets/images/Agriculture/11-شريم.webp",
+              "image_animated": "assets/images/Agriculture/شريم.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "طَاحُونٌ",
+              "word_voice": "طَاحُونٌ",
+              "image_static": "assets/images/Agriculture/11-طاحون.webp",
+              "image_animated": "assets/images/Agriculture/طاحون.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "فَاس",
+              "word_voice": "فَاس",
+              "image_static": "assets/images/Agriculture/11-فاس.webp",
+              "image_animated": "assets/images/Agriculture/فاس.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "فَلاَح",
+              "word_voice": "فَلاَح",
+              "image_static": "assets/images/Agriculture/11-فلاح.webp",
+              "image_animated": "assets/images/Agriculture/فلاح.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "قَاع",
+              "word_voice": "قَاع",
+              "image_static": "assets/images/Agriculture/11-قاع.webp",
+              "image_animated": "assets/images/Agriculture/قاع.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "الَةٌ تُنَقِّيهِ الْحُبُوب",
+              "word_voice": "الَةٌ تُنَقِّيهِ الْحُبُوب",
+              "image_static": "assets/images/Agriculture/11-الة تنقية الحبوب.webp",
+              "image_animated": "assets/images/Agriculture/الة تنقية الحبوب.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "مُبِيد حَشْرِي",
+              "word_voice": "مُبِيد حَشْرِي",
+              "image_static": "assets/images/Agriculture/11-مبيد حشري.webp",
+              "image_animated": "assets/images/Agriculture/مبيد حشري.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "مُجَرَّفَة",
+              "word_voice": "مُجَرَّفَة",
+              "image_static": "assets/images/Agriculture/11-مجرفة.webp",
+              "image_animated": "assets/images/Agriculture/مجرفة.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "مُدْرِجات",
+              "word_voice": "مُدْرِجات",
+              "image_static": "assets/images/Agriculture/11-مدرجات.webp",
+              "image_animated": "assets/images/Agriculture/مدرجات.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "مُشْتَل",
+              "word_voice": "مُشْتَل",
+              "image_static": "assets/images/Agriculture/11-مشتل.webp",
+              "image_animated": "assets/images/Agriculture/مشتل.webp"
+            
+            },
+            {
+              "word_id": 1,
+              "word_name": "حَوَادِث",
+              "word_voice": "حَوَادِث",
+              "image_static": "assets/images/Accidents/12-حوادث.webp",
+              "image_animated": "assets/images/Accidents/حوادث.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "اخْتِطَاف",
+              "word_voice": "اخْتِطَاف",
+              "image_static": "assets/images/Accidents/12-إختطاف.webp",
+              "image_animated": "assets/images/Accidents/إختطاف.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "أَصْدَدام",
+              "word_voice": "أَصْدَدام",
+              "image_static": "assets/images/Accidents/12-إصطدام.webp",
+              "image_animated": "assets/images/Accidents/إصطدام.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "إعْدَامٌ",
+              "word_voice": "إعْدَامٌ",
+              "image_static": "assets/images/Accidents/12-إعدام.webp",
+              "image_animated": "assets/images/Accidents/إعدام.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "اغْتِيَال",
+              "word_voice": "اغْتِيَال",
+              "image_static": "assets/images/Accidents/12-إغتيال.webp",
+              "image_animated": "assets/images/Accidents/إغتيال.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "انْزِلَاق",
+              "word_voice": "انْزِلَاق",
+              "image_static": "assets/images/Accidents/12-إنزلاق.webp",
+              "image_animated": "assets/images/Accidents/إنزلاق.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "انْفِجَار",
+              "word_voice": "انْفِجَار",
+              "image_static": "assets/images/Accidents/12-إنفجار.webp",
+              "image_animated": "assets/images/Accidents/إنفجار.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "انْقِلَاب",
+              "word_voice": "انْقِلَاب",
+              "image_static": "assets/images/Accidents/12-إنقلاب.webp",
+              "image_animated": "assets/images/Accidents/إنقلاب.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "ثَار",
+              "word_voice": "ثَار",
+              "image_static": "assets/images/Accidents/12-ثار.webp",
+              "image_animated": "assets/images/Accidents/ثار.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "سُقُوط طَائِرَه",
+              "word_voice": "سُقُوط طَائِرَه",
+              "image_static": "assets/images/Accidents/12-سقوط طائرة.webp",
+              "image_animated": "assets/images/Accidents/سقوط طائرة.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "طَلَاق",
+              "word_voice": "طَلَاق",
+              "image_static": "assets/images/Accidents/12-طلاق.webp",
+              "image_animated": "assets/images/Accidents/طلاق.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "غَدَر",
+              "word_voice": "غَدَر",
+              "image_static": "assets/images/Accidents/12-غدر.webp",
+              "image_animated": "assets/images/Accidents/غدر.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "قَتَل",
+              "word_voice": "قَتَل",
+              "image_static": "assets/images/Accidents/12-قتل.webp",
+              "image_animated": "assets/images/Accidents/قتل.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "حَرِيق",
+              "word_voice": "حَرِيق",
+              "image_static": "assets/images/Accidents/12-حريق.webp",
+              "image_animated": "assets/images/Accidents/حريق.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "مَوْت ",
+              "word_voice": "مَوْت ",
+              "image_static": "assets/images/Accidents/12-موت.webp",
+              "image_animated": "assets/images/Accidents/موت.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "كَمِين",
+              "word_voice": "كَمِين",
+              "image_static": "assets/images/Accidents/12-كمين.webp",
+              "image_animated": "assets/images/Accidents/كمين.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "انْتِحَار",
+              "word_voice": "انْتِحَار",
+              "image_static": "assets/images/Accidents/12-إنتحار.webp",
+              "image_animated": "assets/images/Accidents/إنتحار.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "دهان",
+              "word_voice": "دهان",
+              "image_static": "assets/images/professions-crafts/13-دهان.webp",
+              "image_animated": "assets/images/professions-crafts/دهان.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": " خياط  ",
+              "word_voice": "خياط  ",
+              "image_static": "assets/images/professions-crafts/13-خياط.webp",
+              "image_animated": "assets/images/professions-crafts/خياط.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "خباز",
+              "word_voice": "خباز",
+              "image_static": "assets/images/professions-crafts/خباز-13.webp",
+              "image_animated": "assets/images/professions-crafts/خباز.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "نجار",
+              "word_voice": "نجار",
+              "image_static": "assets/images/professions-crafts/13-نجار.webp",
+              "image_animated": "assets/images/professions-crafts/نجار.webp"
+            },
+            {
+              "word_id": 5,
+              "word_name": "طباخ",
+              "word_voice": "طباخ",
+              "image_static": "assets/images/professions-crafts/13-طباخ.webp",
+              "image_animated": "assets/images/professions-crafts/طباخ.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "طبيب",
+              "word_voice": "طبيب",
+              "image_static": "assets/images/professions-crafts/13-طبيب.webp",
+              "image_animated": "assets/images/professions-crafts/طبيب.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "مهندس",
+              "word_voice": "مهندس",
+              "image_static": "assets/images/professions-crafts/13-مهندس.webp",
+              "image_animated": "assets/images/professions-crafts/مهندس.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "صحفي",
+              "word_voice": "صحفي",
+              "image_static": "assets/images/professions-crafts/13-صحفي.webp",
+              "image_animated": "assets/images/professions-crafts/صحفي.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "مذيع ",
+              "word_voice": "مذيع ",
+              "image_static": "assets/images/community-personnel/13-مذيع.webp",
+              "image_animated": "assets/images/community-personnel/مذيع.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "رجل اطفاء",
+              "word_voice": "رجل اطفاء",
+              "image_static": "assets/images/professions-crafts/13-رجل اطفاء.webp",
+              "image_animated": "assets/images/professions-crafts/رجل اطفاء.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "شرطي",
+              "word_voice": "شرطي",
+              "image_static": "assets/images/professions-crafts/13-شرطي.webp",
+              "image_animated": "assets/images/professions-crafts/شرطي.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "جندي",
+              "word_voice": "جندي",
+              "image_static": "assets/images/professions-crafts/13-جندي.webp",
+              "image_animated": "assets/images/professions-crafts/جندي.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "قاضي",
+              "word_voice": "قاضي",
+              "image_static": "assets/images/professions-crafts/13-قاضي.webp",
+              "image_animated": "assets/images/professions-crafts/قاضي.webp"
+            },
+            {
+              "word_id": 1,
+              "word_name": "تاجر",
+              "word_voice": "تاجر",
+              "image_static": "assets/images/professions-crafts/13-تاجر.webp",
+              "image_animated": "assets/images/professions-crafts/تاجر.webp"
+            },
+            {
+              "word_id": 2,
+              "word_name": "رسام",
+              "word_voice": "رسام",
+              "image_static": "assets/images/professions-crafts/13-رسام.webp",
+              "image_animated": "assets/images/professions-crafts/رسام.webp"
+            },
+            {
+              "word_id": 3,
+              "word_name": "رئيس",
+              "word_voice": "رئيس",
+              "image_static": "assets/images/professions-crafts/13-رئيس.webp",
+              "image_animated": "assets/images/professions-crafts/رئيس.webp"
+            },
+            {
+              "word_id": 4,
+              "word_name": "معلم",
+              "word_voice": "معلم",
+              "image_static": "assets/images/professions-crafts/13-معلم.webp",
+              "image_animated": "assets/images/professions-crafts/معلم.webp"
+            }
+  
+  
+  ]

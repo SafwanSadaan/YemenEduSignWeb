@@ -1,0 +1,670 @@
+[
+  {
+    "level_game_id":1,
+    "level_game_title": "المستوى الأول",
+    "image": "assets/images/Alphabetics/1-ألف.webp",
+    "words_level": [
+  {
+    "word_id": 1,
+    "word_name": "أ",
+    "word_voice": "ألف",
+    "image_static": "assets/images/Alphabetics/1-ألف.webp",
+    "image_animated": "assets/images/Alphabetics/ألف.webp"
+  },
+  {
+    "word_id": 2,
+    "word_name": "ب",
+    "word_voice": "باء",
+    "image_static": "assets/images/Alphabetics/1-باء.webp",
+    "image_animated": "assets/images/Alphabetics/باء.webp"
+  },
+  {
+    "word_id": 3,
+    "word_name": "ت",
+    "word_voice": "تاء",
+    "image_static": "assets/images/Alphabetics/1-تاء.webp",
+    "image_animated": "assets/images/Alphabetics/تاء.webp"
+  },
+  {
+    "word_id": 4,
+    "word_name": "ث",
+    "word_voice": "ثاء",
+    "image_static": "assets/images/Alphabetics/1-ثاء.webp",
+    "image_animated": "assets/images/Alphabetics/ثاء.webp"
+  },
+  {
+    "word_id": 5,
+    "word_name": "ج",
+    "word_voice": "جيم",
+    "image_static": "assets/images/Alphabetics/1-جيم.webp",
+    "image_animated": "assets/images/Alphabetics/جيم.webp"
+  }
+  ]},
+  {
+    "level_game_id":2,
+    "level_game_title": "المستوى الثاني",
+    "image": "assets/images/Alphabetics/1-حاء.webp",
+    "words_level": [
+      {
+        "word_id": 6,
+        "word_name": "ح",
+        "word_voice": "حاء",
+        "image_static": "assets/images/Alphabetics/1-حاء.webp",
+        "image_animated": "assets/images/Alphabetics/حاء.webp"
+      },
+      {
+        "word_id": 7,
+        "word_name": "خ",
+        "word_voice": "خاء",
+        "image_static": "assets/images/Alphabetics/1-خاء.webp",
+        "image_animated": "assets/images/Alphabetics/خاء.webp"
+      },
+      {
+        "word_id": 8,
+        "word_name": "د",
+        "word_voice": "دال",
+        "image_static": "assets/images/Alphabetics/1-دال.webp",
+        "image_animated": "assets/images/Alphabetics/دال.webp"
+      },
+      {
+        "word_id": 9,
+        "word_name": "ذ",
+        "word_voice": "ذال",
+        "image_static": "assets/images/Alphabetics/1-ذال.webp",
+        "image_animated": "assets/images/Alphabetics/ذال.webp"
+      },
+      {
+        "word_id": 10,
+        "word_name": "ر",
+        "word_voice": "راء",
+        "image_static": "assets/images/Alphabetics/1-راء.webp",
+        "image_animated": "assets/images/Alphabetics/راء.webp"
+      }
+  ]},
+  {
+    "level_game_id":3,
+    "level_game_title": "المستوى الثالث",
+    "image": "assets/images/Alphabetics/1-زاي.webp",
+    "words_level": [
+  {
+    "word_id": 11,
+    "word_name": "ز",
+    "word_voice": "زاي",
+    "image_static": "assets/images/Alphabetics/1-زاي.webp",
+    "image_animated": "assets/images/Alphabetics/زاي.webp"
+  },
+  {
+    "word_id": 12,
+    "word_name": "س",
+    "word_voice": "سين",
+    "image_static": "assets/images/Alphabetics/1-سين.webp",
+    "image_animated": "assets/images/Alphabetics/سين.webp"
+  },
+  {
+    "word_id": 13,
+    "word_name": "ش",
+    "word_voice": "شين",
+    "image_static": "assets/images/Alphabetics/1-شين.webp",
+    "image_animated": "assets/images/Alphabetics/شين.webp"
+  },
+  {
+    "word_id": 14,
+    "word_name": "ص",
+    "word_voice": "صاد",
+    "image_static": "assets/images/Alphabetics/1-صاد.webp",
+    "image_animated": "assets/images/Alphabetics/صاد.webp"
+  },
+  {
+    "word_id": 15,
+    "word_name": "ض",
+    "word_voice": "ضاد",
+    "image_static": "assets/images/Alphabetics/1-ضاد.webp",
+    "image_animated": "assets/images/Alphabetics/ضاد.webp"
+  },
+  {
+    "word_id": 16,
+    "word_name": "ط",
+    "word_voice": "طاء",
+    "image_static": "assets/images/Alphabetics/1-طاء.webp",
+    "image_animated": "assets/images/Alphabetics/طاء.webp"
+  },
+  {
+    "word_id": 17,
+    "word_name": "ظ",
+    "word_voice": "ظاء",
+    "image_static": "assets/images/Alphabetics/1-ظاء.webp",
+    "image_animated": "assets/images/Alphabetics/ظاء.webp"
+  },
+  {
+    "word_id": 18,
+    "word_name": "ع",
+    "word_voice": "عين",
+    "image_static": "assets/images/Alphabetics/1-عين.webp",
+    "image_animated": "assets/images/Alphabetics/عين.webp"
+  },
+  {
+    "word_id": 19,
+    "word_name": "غ",
+    "word_voice": "غين",
+    "image_static": "assets/images/Alphabetics/1-غين.webp",
+    "image_animated": "assets/images/Alphabetics/غين.webp"
+  },
+  {
+    "word_id": 20,
+    "word_name": "ف",
+    "word_voice": "فاء",
+    "image_static": "assets/images/Alphabetics/1-فاء.webp",
+    "image_animated": "assets/images/Alphabetics/فاء.webp"
+  }
+  ]},
+  {
+    "level_game_id":4,
+    "level_game_title": "المستوى الرابع",
+    "image": "assets/images/Alphabetics/1-قاف.webp",
+    "words_level": [
+  {
+    "word_id": 21,
+    "word_name": "ق",
+    "word_voice": "قاف",
+    "image_static": "assets/images/Alphabetics/1-قاف.webp",
+    "image_animated": "assets/images/Alphabetics/قاف.webp"
+  },
+  {
+    "word_id": 22,
+    "word_name": "ك",
+    "word_voice": "كاف",
+    "image_static": "assets/images/Alphabetics/1-كاف.webp",
+    "image_animated": "assets/images/Alphabetics/كاف.webp"
+  },
+  {
+    "word_id": 23,
+    "word_name": "ل",
+    "word_voice": "لام",
+    "image_static": "assets/images/Alphabetics/1-لام.webp",
+    "image_animated": "assets/images/Alphabetics/لام.webp"
+  },
+  {
+    "word_id": 24,
+    "word_name": "م",
+    "word_voice": "ميم",
+    "image_static": "assets/images/Alphabetics/1-ميم.webp",
+    "image_animated": "assets/images/Alphabetics/ميم.webp"
+  },
+  {
+    "word_id": 25,
+    "word_name": "ن",
+    "word_voice": "نون",
+    "image_static": "assets/images/Alphabetics/1-نون.webp",
+    "image_animated": "assets/images/Alphabetics/نون.webp"
+  },
+  {
+    "word_id": 26,
+    "word_name": "هـ",
+    "word_voice": "هاء",
+    "image_static": "assets/images/Alphabetics/1-هاء.webp",
+    "image_animated": "assets/images/Alphabetics/هاء.webp"
+  }
+  ]},
+  {
+    "level_game_id":5,
+    "level_game_title": "المستوى الخامس",
+    "image": "assets/images/Alphabetics/1-واو.webp",
+    "words_level": [
+      {
+        "word_id": 27,
+        "word_name": "و",
+        "word_voice": "واو",
+        "image_static": "assets/images/Alphabetics/1-واو.webp",
+        "image_animated": "assets/images/Alphabetics/واو.webp"
+      },
+      {
+        "word_id": 28,
+        "word_name": "ي",
+        "word_voice": "ياء",
+        "image_static": "assets/images/Alphabetics/1-ياء.webp",
+        "image_animated": "assets/images/Alphabetics/ياء.webp"
+      },
+      {
+        "word_id": 29,
+        "word_name": "لأ",
+        "word_voice": "لام الف",
+        "image_static": "assets/images/Alphabetics/1-لام الف.webp",
+        "image_animated": "assets/images/Alphabetics/لام الف.webp"
+      },
+      {
+        "word_id": 30,
+        "word_name": "ء",
+        "word_voice": "همزة",
+        "image_static": "assets/images/Alphabetics/1-همزة.webp",
+        "image_animated": "assets/images/Alphabetics/همزة.webp"
+      },
+      {
+        "word_id": 150,
+        "word_name": "الأرقام",
+        "word_voice": "الأرقام",
+        "image_static": "assets/images/numbers/الأرقام1.webp",
+        "image_animated": "assets/images/numbers/الأرقام.webp"
+      },
+      {
+        "word_id": 151,
+        "word_name": "0",
+        "word_voice": "صفر",
+        "image_static": "assets/images/numbers/000.webp",
+        "image_animated": "assets/images/numbers/00.webp"
+      },
+      {
+        "word_id": 152,
+        "word_name": "1",
+        "word_voice": "واحد",
+        "image_static": "assets/images/numbers/001.webp",
+        "image_animated": "assets/images/numbers/01.webp"
+      }
+  ]},
+  {
+    "level_game_id":6,
+    "level_game_title": "المستوى السادس",
+    "image": "assets/images/numbers/002.webp",
+    "words_level": [
+  {
+    "word_id": 153,
+    "word_name": "2",
+    "word_voice": "اثنين",
+    "image_static": "assets/images/numbers/002.webp",
+    "image_animated": "assets/images/numbers/02.webp"
+  },
+  {
+    "word_id": 154,
+    "word_name": "3",
+    "word_voice": "ثلاثة",
+    "image_static": "assets/images/numbers/003.webp",
+    "image_animated": "assets/images/numbers/03.webp"
+  },
+  {
+    "word_id": 155,
+    "word_name": "4",
+    "word_voice": "اربعة",
+    "image_static": "assets/images/numbers/004.webp",
+    "image_animated": "assets/images/numbers/04.webp"
+  },
+  {
+    "word_id": 156,
+    "word_name": "5",
+    "word_voice": "خمسة",
+    "image_static": "assets/images/numbers/005.webp",
+    "image_animated": "assets/images/numbers/05.webp"
+  },
+  {
+    "word_id": 157,
+    "word_name": "6",
+    "word_voice": "ستة",
+    "image_static": "assets/images/numbers/006.webp",
+    "image_animated": "assets/images/numbers/06.webp"
+  },
+  {
+    "word_id": 158,
+    "word_name": "7",
+    "word_voice": "سبعة",
+    "image_static": "assets/images/numbers/007.webp",
+    "image_animated": "assets/images/numbers/07.webp"
+  },
+  {
+    "word_id": 159,
+    "word_name": "8",
+    "word_voice": "ثمانية",
+    "image_static": "assets/images/numbers/008.webp",
+    "image_animated": "assets/images/numbers/08.webp"
+  }
+  ]},
+  {
+    "level_game_id":7,
+    "level_game_title": "المستوى السابع",
+    "image": "assets/images/numbers/009.webp",
+    "words_level": [
+  {
+    "word_id": 160,
+    "word_name": "9",
+    "word_voice": "تسعة",
+    "image_static": "assets/images/numbers/009.webp",
+    "image_animated": "assets/images/numbers/09.webp"
+  },
+  {
+    "word_id": 161,
+    "word_name": "10",
+    "word_voice": "عشرة",
+    "image_static": "assets/images/numbers/010.webp",
+    "image_animated": "assets/images/numbers/10.webp"
+  },
+  {
+    "word_id": 162,
+    "word_name": "11",
+    "word_voice": "احداعشر",
+    "image_static": "assets/images/numbers/011.webp",
+    "image_animated": "assets/images/numbers/11.webp"
+  },
+  {
+    "word_id": 163,
+    "word_name": "12",
+    "word_voice": "اثناعشر",
+    "image_static": "assets/images/numbers/012.webp",
+    "image_animated": "assets/images/numbers/12.webp"
+  },
+  {
+    "word_id": 164,
+    "word_name": "13",
+    "word_voice": "ثلاثةعشر",
+    "image_static": "assets/images/numbers/013.webp",
+    "image_animated": "assets/images/numbers/13.webp"
+  },
+  {
+    "word_id": 165,
+    "word_name": "14",
+    "word_voice": "اربعةعشر",
+    "image_static": "assets/images/numbers/014.webp",
+    "image_animated": "assets/images/numbers/14.webp"
+  },
+  {
+    "word_id": 166,
+    "word_name": "15",
+    "word_voice": "خمسةعشر",
+    "image_static": "assets/images/numbers/015.webp",
+    "image_animated": "assets/images/numbers/15.webp"
+  },
+  {
+    "word_id": 167,
+    "word_name": "16",
+    "word_voice": "ستةعشر",
+    "image_static": "assets/images/numbers/016.webp",
+    "image_animated": "assets/images/numbers/16.webp"
+  },
+  {
+    "word_id": 168,
+    "word_name": "17",
+    "word_voice": "سبعةعشر",
+    "image_static": "assets/images/numbers/017.webp",
+    "image_animated": "assets/images/numbers/17.webp"
+  },
+  {
+    "word_id": 169,
+    "word_name": "18",
+    "word_voice": "ثمانيةعشر",
+    "image_static": "assets/images/numbers/018.webp",
+    "image_animated": "assets/images/numbers/18.webp"
+  },
+  {
+    "word_id": 170,
+    "word_name": "19",
+    "word_voice": "تسعةعشر",
+    "image_static": "assets/images/numbers/019.webp",
+    "image_animated": "assets/images/numbers/19.webp"
+  },
+  {
+    "word_id": 170,
+    "word_name": "20",
+    "word_voice": "عشرون",
+    "image_static": "assets/images/numbers/020.webp",
+    "image_animated": "assets/images/numbers/20.webp"
+  }
+  ]},
+  {
+    "level_game_id":8,
+    "level_game_title": "المستوى الثامن",
+    "image": "assets/images/colors/5-الالوان.webp",
+    "words_level": [
+  {
+    "word_id": 135,
+    "word_name": "الالوان",
+    "word_voice": "الالوان",
+    "image_static": "assets/images/colors/5-الالوان.webp",
+    "image_animated": "assets/images/colors/الالوان.webp"
+  },
+  {
+    "word_id": 136,
+    "word_name": "ابيض",
+    "word_voice": "ابيض",
+    "image_static": "assets/images/colors/5-ابيض.webp",
+    "image_animated": "assets/images/colors/ابيض.webp"
+  },
+  {
+    "word_id": 137,
+    "word_name": "احمر",
+    "word_voice": "احمر",
+    "image_static": "assets/images/colors/5-احمر.webp",
+    "image_animated": "assets/images/colors/احمر.webp"
+  },
+  {
+    "word_id": 138,
+    "word_name": "اخضر",
+    "word_voice": "اخضر",
+    "image_static": "assets/images/colors/5-اخضر.webp",
+    "image_animated": "assets/images/colors/اخضر.webp"
+  },
+  {
+    "word_id": 139,
+    "word_name": "ازرق",
+    "word_voice": "ازرق",
+    "image_static": "assets/images/colors/5-ازرق.webp",
+    "image_animated": "assets/images/colors/ازرق.webp"
+  },
+  {
+    "word_id": 140,
+    "word_name": "اسود",
+    "word_voice": "اسود",
+    "image_static": "assets/images/colors/5-اسود.webp",
+    "image_animated": "assets/images/colors/اسود.webp"
+  },
+  {
+    "word_id": 141,
+    "word_name": "اصفر",
+    "word_voice": "اصفر",
+    "image_static": "assets/images/colors/5-اصفر.webp",
+    "image_animated": "assets/images/colors/اصفر.webp"
+  },
+  {
+    "word_id": 142,
+    "word_name": "برتقالي",
+    "word_voice": "برتقالي",
+    "image_static": "assets/images/colors/5-برتقالي.webp",
+    "image_animated": "assets/images/colors/برتقالي.webp"
+  },
+  {
+    "word_id": 143,
+    "word_name": "بنفسجي",
+    "word_voice": "بنفسجي",
+    "image_static": "assets/images/colors/5-بنفسجي.webp",
+    "image_animated": "assets/images/colors/بنفسجي.webp"
+  },
+  {
+    "word_id": 144,
+    "word_name": "بني",
+    "word_voice": "بني",
+    "image_static": "assets/images/colors/5-بني.webp",
+    "image_animated": "assets/images/colors/بني.webp"
+  }
+  ]},
+  {
+    "level_game_id":9,
+    "level_game_title": "المستوى التاسع",
+    "image": "assets/images/colors/5-ذهبي.webp",
+    "words_level": [
+  {
+    "word_id": 145,
+    "word_name": "ذهبي",
+    "word_voice": "ذهبي",
+    "image_static": "assets/images/colors/5-ذهبي.webp",
+    "image_animated": "assets/images/colors/ذهبي.webp"
+  },
+  {
+    "word_id": 146,
+    "word_name": "رمادي",
+    "word_voice": "رمادي",
+    "image_static": "assets/images/colors/5-رمادي.webp",
+    "image_animated": "assets/images/colors/رمادي.webp"
+  },
+  {
+    "word_id": 147,
+    "word_name": "فضي",
+    "word_voice": "فضي",
+    "image_static": "assets/images/colors/5-فضي.webp",
+    "image_animated": "assets/images/colors/فضي.webp"
+  },
+  {
+    "word_id": 148,
+    "word_name": "وردي",
+    "word_voice": "وردي",
+    "image_static": "assets/images/colors/5-وردي.webp",
+    "image_animated": "assets/images/colors/وردي.webp"
+  },
+  {
+    "word_id": 149,
+    "word_name": "فاتح",
+    "word_voice": "فاتح",
+    "image_static": "assets/images/colors/5-فاتح.webp",
+    "image_animated": "assets/images/colors/فاتح.webp"
+  },
+  {
+    "word_id": 150,
+    "word_name": "غامق",
+    "word_voice": "غامق",
+    "image_static": "assets/images/colors/5-غامق.webp",
+    "image_animated": "assets/images/colors/غامق.webp"
+  }
+  ]},
+  {
+    "level_game_id":10,
+    "level_game_title": "المستوى العاشر",
+    "image": "assets/images/family/4-العائلة.webp",
+    "words_level": [
+  {
+    "word_id": 121,
+    "word_name": "العائلة",
+    "word_voice": "العائلة",
+    "image_static": "assets/images/family/4-العائلة.webp",
+    "image_animated": "assets/images/family/العائلة.webp"
+  },
+  {
+    "word_id": 116,
+    "word_name": "إبن",
+    "word_voice": "إبن",
+    "image_static": "assets/images/family/4-ولد.webp",
+    "image_animated": "assets/images/family/إبن.webp"
+  },
+  {
+    "word_id": 117,
+    "word_name": "إبنه",
+    "word_voice": "إبنه",
+    "image_static": "assets/images/family/4-إبنه.webp",
+    "image_animated": "assets/images/family/إبنه.webp"
+  },
+  {
+    "word_id": 118,
+    "word_name": "اب",
+    "word_voice": "اب",
+    "image_static": "assets/images/family/4-اب.webp",
+    "image_animated": "assets/images/family/اب.webp"
+  },
+  {
+    "word_id": 119,
+    "word_name": "اخ",
+    "word_voice": "اخ",
+    "image_static": "assets/images/family/4-اخ.webp",
+    "image_animated": "assets/images/family/اخ.webp"
+  },
+  {
+    "word_id": 120,
+    "word_name": "ام",
+    "word_voice": "ام",
+    "image_static": "assets/images/family/4-ام.webp",
+    "image_animated": "assets/images/family/ام.webp"
+  },
+  {
+    "word_id": 122,
+    "word_name": "توأم",
+    "word_voice": "توأم",
+    "image_static": "assets/images/family/4-توام.webp",
+    "image_animated": "assets/images/family/توام.webp"
+  },
+  {
+    "word_id": 123,
+    "word_name": "جد",
+    "word_voice": "جد",
+    "image_static": "assets/images/family/4-جد.webp",
+    "image_animated": "assets/images/family/جد.webp"
+  },
+  {
+    "word_id": 124,
+    "word_name": "خال",
+    "word_voice": "خال",
+    "image_static": "assets/images/family/4-خال.webp",
+    "image_animated": "assets/images/family/خال.webp"
+  },
+  {
+    "word_id": 125,
+    "word_name": "خطوبه",
+    "word_voice": "خطوبه",
+    "image_static": "assets/images/family/4-خطوبه.webp",
+    "image_animated": "assets/images/family/خطوبه.webp"
+  }
+  ]},
+  {
+    "level_game_id":11,
+    "level_game_title": "المستوى الحادي عشر",
+    "image": "assets/images/family/4-رجل.webp",
+    "words_level": [
+  {
+    "word_id": 126,
+    "word_name": "رجل",
+    "word_voice": "رجل",
+    "image_static": "assets/images/family/4-رجل.webp",
+    "image_animated": "assets/images/family/رجل.webp"
+  },
+  {
+    "word_id": 127,
+    "word_name": "رضيع",
+    "word_voice": "رضيع",
+    "image_static": "assets/images/family/4-رضيع.webp",
+    "image_animated": "assets/images/family/رضيع.webp"
+  },
+  {
+    "word_id": 128,
+    "word_name": "شعب",
+    "word_voice": "شعب",
+    "image_static": "assets/images/family/4-شعب.webp",
+    "image_animated": "assets/images/family/شعب.webp"
+  },
+  {
+    "word_id": 129,
+    "word_name": "شيخ",
+    "word_voice": "شيخ",
+    "image_static": "assets/images/family/4-شيخ.webp",
+    "image_animated": "assets/images/family/شيخ.webp"
+  },
+  {
+    "word_id": 130,
+    "word_name": "عجوز",
+    "word_voice": "عجوز",
+    "image_static": "assets/images/family/4-عجوز.webp",
+    "image_animated": "assets/images/family/عجوز.webp"
+  },
+  {
+    "word_id": 131,
+    "word_name": "عريس",
+    "word_voice": "عريس",
+    "image_static": "assets/images/family/4-عريس.webp",
+    "image_animated": "assets/images/family/عريس.webp"
+  },
+  {
+    "word_id": 132,
+    "word_name": "عم",
+    "word_voice": "عم",
+    "image_static": "assets/images/family/4-عم.webp",
+    "image_animated": "assets/images/family/عم.webp"
+  },
+  {
+    "word_id": 133,
+    "word_name": "ولد",
+    "word_voice": "ولد",
+    "image_static": "assets/images/family/4-ولد.webp",
+    "image_animated": "assets/images/family/ولد.webp"
+  }
+  ]}
+]
