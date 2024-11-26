@@ -857,7 +857,7 @@
             "word_id": 3,
             "word_name": "أُمِّي لِإِيقَرَاء",
             "word_voice": "أُمِّي لِإِيقَرَاء",
-            "image_static": "assets/images/community-personnel/11-امي-لايقراء.webp",
+            "image_static": "assets/images/community-personnel/11-امي لايقراء.webp",
             "image_animated": "assets/images/community-personnel/امي-لايقراء.webp"
           },
           {
@@ -877,28 +877,28 @@
         "words": 
           [
           {
-            "word_id": 305,
+            "word_id": 1,
             "word_name": "خَادِم",
             "word_voice": "خَادِم",
             "image_static": "assets/images/community-personnel/11-خادم.webp",
             "image_animated": "assets/images/community-personnel/خادم.webp"
           },
           {
-            "word_id": 306,
+            "word_id": 2,
             "word_name": "صَدِيق",
             "word_voice": "صَدِيق",
             "image_static": "assets/images/community-personnel/11-صديق.webp",
             "image_animated": "assets/images/community-personnel/صديق.webp"
           },
           {
-            "word_id": 307,
+            "word_id": 3,
             "word_name": "ضَيْف",
             "word_voice": "ضَيْف",
             "image_static": "assets/images/community-personnel/11-ضيف.webp",
             "image_animated": "assets/images/community-personnel/ضيف.webp"
           },
           {
-            "word_id": 308,
+            "word_id": 4,
             "word_voice": "عَاقِل حَارَّة",
             "image_static": "assets/images/community-personnel/11-عاقل حارة.webp",
             "image_animated": "assets/images/community-personnel/عاقل حارة.webp"
@@ -996,7 +996,7 @@
       {
         "lesson_id": 5,
         "lesson_name": "الدرس الخامس",
-        "lesson_image":"assets/images/family/4-شيخ.webp",
+        "lesson_image":"assets/images/community-personnel/4-شيخ.webp",
         "lesson_description": " شَيْخ ، عَجُوز ، وَلَدِ ، رَضِيع ",
         "words":
           [
@@ -1004,29 +1004,29 @@
             "word_id": 1,
             "word_name": "شَيْخ",
             "word_voice": "شَيْخ",
-            "image_static": "assets/images/family/4-شيخ.webp",
-            "image_animated": "assets/images/family/شيخ.webp"
+            "image_static": "assets/images/community-personnel/4-شيخ.webp",
+            "image_animated": "assets/images/community-personnel/شيخ.webp"
           },
           {
             "word_id": 2,
             "word_name": "عَجُوز",
             "word_voice": "عَجُوز",
-            "image_static": "assets/images/family/4-عجوز.webp",
-            "image_animated": "assets/images/family/عجوز.webp"
+            "image_static": "assets/images/community-personnel/4-عجوز.webp",
+            "image_animated": "assets/images/community-personnel/عجوز.webp"
           },
           {
             "word_id": 3,
             "word_name": "وَلَدِ ",
             "word_voice": "وَلَدِ ",
-            "image_static": "assets/images/family/4-ولد.webp",
-            "image_animated": "assets/images/family/ولد.webp"
+            "image_static": "assets/images/community-personnel/4-ولد.webp",
+            "image_animated": "assets/images/community-personnel/ولد.webp"
           }, 
           {
             "word_id": 4,
             "word_name": "رَضِيع",
             "word_voice": "رَضِيع",
-            "image_static": "assets/images/family/4-رضيع.webp",
-            "image_animated": "assets/images/family/رضيع.webp"
+            "image_static": "assets/images/community-personnel/4-رضيع.webp",
+            "image_animated": "assets/images/community-personnel/رضيع.webp"
           }
           
         ]
@@ -1034,7 +1034,7 @@
       {
         "lesson_id": 6,
         "lesson_name": "الدرس السادس",
-        "lesson_image":"assets/images/family/4-شعب.webp",
+        "lesson_image":"assets/images/community-personnel/4-شيخ.webp",
         "lesson_description": "عَالِم , شعب ، رَجُل ، ناس , مَنْدُوب",
         "words":
           [
@@ -1049,22 +1049,22 @@
             "word_id": 2,
             "word_name": "شعب",
             "word_voice": "شعب",
-            "image_static": "assets/images/family/4-شعب.webp",
-            "image_animated": "assets/images/family/شعب.webp"
+            "image_static": "assets/images/community-personnel/4-شعب.webp",
+            "image_animated": "assets/images/community-personnel/شعب.webp"
           },
           {
             "word_id": 3,
             "word_name": "رَجُل",
             "word_voice": "رَجُل",
-            "image_static": "assets/images/family/4-رجل.webp",
-            "image_animated": "assets/images/family/رجل.webp"
+            "image_static": "assets/images/community-personnel/4-رجل.webp",
+            "image_animated": "assets/images/community-personnel/رجل.webp"
           },
           {
             "word_id": 4,
             "word_name": "ناس",
             "word_voice": "ناس",
-            "image_static": "assets/images/family/4-ناس.webp",
-            "image_animated": "assets/images/family/ناس.webp"
+            "image_static": "assets/images/community-personnel/4-ناس.webp",
+            "image_animated": "assets/images/community-personnel/ناس.webp"
           },
           {
             "word_id": 5,
@@ -1088,8 +1088,8 @@
               "word_id": 1,
               "word_name": "عريس",
               "word_voice": "عريس",
-              "image_static": "assets/images/community-personnel/4-عريس.webp",
-              "image_animated": "assets/images/community-personnel/عريس.webp"
+              "image_static": "assets/images/family/4-عريس.webp",
+              "image_animated": "assets/images/family/عريس.webp"
             },
           {
             "word_id": 2,
@@ -1109,8 +1109,8 @@
             "word_id": 4,
             "word_name": "خطوبة",
             "word_voice": "خطوبة",
-            "image_static": "assets/images/family/4-ناس.webp",
-            "image_animated": "assets/images/family/ناس.webp"
+            "image_static": "assets/images/family/4-خطوبه.webp",
+            "image_animated": "assets/images/family/خطوبة.webp "
           },
           {
             "word_id": 5,
@@ -1223,7 +1223,7 @@
             "word_name": "رجل اطفاء",
             "word_voice": "رجل اطفاء",
             "image_static": "assets/images/professions-crafts/13-رجل اطفاء.webp",
-            "image_animated": "assets/images/professions-crafts/رجل اطفاء.webp"
+            "image_animated": "assets/images/professions-crafts/رجل إطفاء.webp"
           },
           {
             "word_id": 2,

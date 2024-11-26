@@ -2370,7 +2370,7 @@
               "word_id": 3,
               "word_name": "أُمِّي لِإِيقَرَاء",
               "word_voice": "أُمِّي لِإِيقَرَاء",
-              "image_static": "assets/images/community-personnel/11-امي-لايقراء.webp",
+              "image_static": "assets/images/community-personnel/11-امي لايقراء.webp",
               "image_animated": "assets/images/community-personnel/امي-لايقراء.webp"
             },
             {
@@ -2806,7 +2806,7 @@
               "word_name": "قَتَل",
               "word_voice": "قَتَل",
               "image_static": "assets/images/Accidents/7-قتل.webp",
-              "image_animated": "assets/images/Accidents/قتل.webp"
+              "image_animated": "assets/images/Accidents/قتل.webp" 
             },
             {
               "word_id": 1,
@@ -2904,7 +2904,7 @@
               "word_name": "رجل اطفاء",
               "word_voice": "رجل اطفاء",
               "image_static": "assets/images/professions-crafts/13-رجل اطفاء.webp",
-              "image_animated": "assets/images/professions-crafts/رجل اطفاء.webp"
+              "image_animated": "assets/images/professions-crafts/رجل إطفاء.webp"
             },
             {
               "word_id": 2,
