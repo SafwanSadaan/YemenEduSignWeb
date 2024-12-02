@@ -235,7 +235,7 @@
               "word_id": 34,
               "word_name": "الأرقام",
               "word_voice": "الأرقام",
-              "image_static": "assets/images/numbers/الارقام1.webp",
+              "image_static": "assets/images/numbers/1-الأرقام.webp",
               "image_animated": "assets/images/numbers/الأرقام.webp"
             },
             {
@@ -1035,13 +1035,6 @@
               "word_voice": "أَنِيق ",
               "image_static": "assets/images/Attributes/9-انيق.webp",
               "image_animated": "assets/images/Attributes/انيق.webp"
-            },
-            {
-              "word_id": 149,
-              "word_name": "مُرَتَّب",
-              "word_voice": "مُرَتَّب",
-              "image_static": "assets/images/Attributes/9-مرتب.webp",
-              "image_animated": "assets/images/Attributes/مرتب.webp"
             },
             {
               "word_id": 150,
@@ -2350,7 +2343,7 @@
               "word_name": "عَلَى طُولِ",
               "word_voice": "عَلَى طُولِ",
               "image_static": "assets/images/times/10-على طول.webp",
-              "image_animated": "assets/images/times/على طول.webp"
+              "image_animated": "assets/images/times/طول.webp"
             },
             {
               "word_id": 1,
@@ -2481,28 +2474,28 @@
               "word_id": 1,
               "word_name": "شَيْخ",
               "word_voice": "شَيْخ",
-              "image_static": "assets/images/community-personnel/11-شيخ.webp",
+              "image_static": "assets/images/community-personnel/4-شيخ.webp",
               "image_animated": "assets/images/community-personnel/شيخ.webp"
             },
             {
               "word_id": 2,
               "word_name": "عَجُوز",
               "word_voice": "عَجُوز",
-              "image_static": "assets/images/community-personnel/11-عجوز.webp",
+              "image_static": "assets/images/community-personnel/4-عجوز.webp",
               "image_animated": "assets/images/community-personnel/عجوز.webp"
             },
             {
               "word_id": 3,
               "word_name": "وَلَدِ ",
               "word_voice": "وَلَدِ ",
-              "image_static": "assets/images/community-personnel/11-ولد.webp",
+              "image_static": "assets/images/community-personnel/4-ولد.webp",
               "image_animated": "assets/images/community-personnel/ولد.webp"
             }, 
             {
               "word_id": 4,
               "word_name": "رَضِيع",
               "word_voice": "رَضِيع",
-              "image_static": "assets/images/community-personnel/11-رضيع.webp",
+              "image_static": "assets/images/community-personnel/4-رضيع.webp",
               "image_animated": "assets/images/community-personnel/رضيع.webp"
             },
               {
@@ -2516,14 +2509,14 @@
               "word_id": 2,
               "word_name": "شعب",
               "word_voice": "شعب",
-              "image_static": "assets/images/community-personnel/11-شعب.webp",
+              "image_static": "assets/images/community-personnel/4-شعب.webp",
               "image_animated": "assets/images/community-personnel/شعب.webp"
             },
             {
               "word_id": 3,
               "word_name": "رَجُل",
               "word_voice": "رَجُل",
-              "image_static": "assets/images/community-personnel/11-رجل.webp",
+              "image_static": "assets/images/community-personnel/4-رجل.webp",
               "image_animated": "assets/images/community-personnel/رجل.webp"
             },
             {

@@ -272,7 +272,7 @@
       {
         "lesson_id": 7,
         "lesson_name": "الدرس السابع",
-        "lesson_image":"assets/images/Alphabetics/1-ء.webp",
+        "lesson_image":"assets/images/Alphabetics/1-همزة.webp",
         "lesson_description": " ال  , ؤ , ئ",
         "words":
           [
@@ -305,7 +305,7 @@
   {
     "category_id": 2,
     "category_name": "الارقام",
-    "image":"assets/images/numbers/الارقام1.webp",
+    "image":"assets/images/numbers/1-الأرقام.webp",
     "lessons":
       [
       {
@@ -319,7 +319,7 @@
             "word_id": 1,
             "word_name": "الأرقام",
             "word_voice": "الأرقام",
-            "image_static": "assets/images/numbers/الارقام1.webp",
+            "image_static": "assets/images/numbers/1-الأرقام.webp",
             "image_animated": "assets/images/numbers/الأرقام.webp"
           },
           {
@@ -693,7 +693,7 @@
             "word_name": "أَب",
             "word_voice": "أَب",
             "image_static": "assets/images/family/4-اب.webp",
-            "image_animated": "assets/images/family/اب.webp"
+            "image_animated": "assets/images/family/ابي.webp"
           },      
           {
             "word_id": 3,
@@ -944,7 +944,7 @@
             "word_id": 5,
             "word_name": "مُرْتَاح",
             "word_voice": "مُرْتَاح",
-            "image_static": "assets/images/community-personnel/11-مُرْتَاح.webp",
+            "image_static": "assets/images/community-personnel/11-مرتاح.webp",
             "image_animated": "assets/images/community-personnel/مرتاح.webp"
           }
         ]
@@ -1080,7 +1080,7 @@
       {
         "lesson_id": 7,
         "lesson_name": "الدرس السابع",
-        "lesson_image":"assets/images/family/4-عريس.webp",
+        "lesson_image":"assets/images/community-personnel/4-عريس.webp",
         "lesson_description": "عريس , عروس ، امرأة ، خطوبة",
         "words":
           [
@@ -1088,38 +1088,30 @@
               "word_id": 1,
               "word_name": "عريس",
               "word_voice": "عريس",
-              "image_static": "assets/images/family/4-عريس.webp",
-              "image_animated": "assets/images/family/عريس.webp"
+              "image_static": "assets/images/community-personnel/4-عريس.webp",
+              "image_animated": "assets/images/community-personnel/عريس.webp"
             },
           {
             "word_id": 2,
             "word_name": "عروس",
             "word_voice": "عروس",
-            "image_static": "assets/images/family/4-عروس.webp",
-            "image_animated": "assets/images/family/عروس.webp"
+            "image_static": "assets/images/community-personnel/4-عروس.webp",
+            "image_animated": "assets/images/community-personnel/عروس.webp"
           },
           {
             "word_id": 3,
             "word_name": "امرأة",
             "word_voice": "امرأة",
-            "image_static": "assets/images/family/4-امرأة.webp",
-            "image_animated": "assets/images/family/امرأة.webp"
+            "image_static": "assets/images/community-personnel/4-امرأة.webp",
+            "image_animated": "assets/images/community-personnel/امرأة.webp"
           },
           {
             "word_id": 4,
             "word_name": "خطوبة",
             "word_voice": "خطوبة",
-            "image_static": "assets/images/family/4-خطوبه.webp",
-            "image_animated": "assets/images/family/خطوبة.webp "
-          },
-          {
-            "word_id": 5,
-            "word_name": "مَنْدُوب ",
-            "word_voice": "مَنْدُوب ",
-            "image_static": "assets/images/community-personnel/11-مندوب.webp",
-            "image_animated": "assets/images/community-personnel/مندوب.webp"
+            "image_static": "assets/images/community-personnel/4-خطوبه.webp",
+            "image_animated": "assets/images/community-personnel/خطوبة.webp "
           }
-        
           
         ]
       }
@@ -1146,8 +1138,8 @@
           },
           {
             "word_id": 2,
-            "word_name": " خياط  ",
-            "word_voice": "خياط  ",
+            "word_name": "خياط",
+            "word_voice": "خياط",
             "image_static": "assets/images/professions-crafts/13-خياط.webp",
             "image_animated": "assets/images/professions-crafts/خياط.webp"
           },
@@ -2352,7 +2344,7 @@
             "word_id": 2,
             "word_name": "محطة بترول ",
             "word_voice": "محطة بترول  ",
-            "image_static": "assets/images/public-places/8-محطة بترول .webp",
+            "image_static": "assets/images/public-places/8-محطة بترول.webp",
             "image_animated": "assets/images/public-places/محطة.webp"
           },
           {
@@ -2390,7 +2382,7 @@
         "lesson_id": 1,
         "lesson_name": "الدرس الأول",
         "lesson_image":"assets/images/Attributes/9-انيق.webp",
-        "lesson_description": "أَنِيق  ، مُرَتَّب ، مُنْتَبِهٍ ، مُؤَدِّب ، ثَرْثَار",
+        "lesson_description": "أَنِيق ، مُنْتَبِهٍ ، مُؤَدِّب ، ثَرْثَار",
         "words": [
           {
             "word_id": 1,
@@ -2400,21 +2392,21 @@
             "image_animated": "assets/images/Attributes/انيق.webp"
           },
           {
-            "word_id": 3,
+            "word_id": 2,
             "word_name": "مُنْتَبِهٍ",
             "word_voice": "مُنْتَبِهٍ",
             "image_static": "assets/images/Attributes/9-منتبه.webp",
             "image_animated": "assets/images/Attributes/منتبه.webp"
           },
           {
-            "word_id": 4,
+            "word_id": 3,
             "word_name": "مُؤَدِّب",
             "word_voice": "مُؤَدِّب",
             "image_static": "assets/images/Attributes/9-مؤدب.webp",
             "image_animated": "assets/images/Attributes/مؤدب.webp"
           },
           {
-            "word_id": 5,
+            "word_id": 4,
             "word_name": "مُتَوَاضِع",
             "word_voice": "مُتَوَاضِع",
             "image_static": "assets/images/Attributes/9-متواضع.webp",
@@ -3587,7 +3579,7 @@
             "word_name": "عَلَى طُولِ",
             "word_voice": "عَلَى طُولِ",
             "image_static": "assets/images/times/10-على طول.webp",
-            "image_animated": "assets/images/times/على طول.webp"
+            "image_animated": "assets/images/times/طول.webp"
           }
         ]
       }
