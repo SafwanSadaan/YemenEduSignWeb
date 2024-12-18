@@ -3100,8 +3100,8 @@
   },
   {
     "word_id": 520,
-    "word_name": "سرير أطفال",
-    "word_voice": "سَريرُ أَطفال",
+    "word_name": "مهد",
+    "word_voice": "مَهد",
     "image_static": "assets/images/Home_Contents/سرير أطفال1.webp",
     "image_animated": "assets/images/Home_Contents/سرير أطفال.webp"
   },
@@ -3184,7 +3184,7 @@
   },
   {
     "word_id": 532,
-    "word_name": "بالدي(سطل)",
+    "word_name": "بالدي (سطل)",
     "word_voice": "بالدي (سَطْل)",
     "image_static": "assets/images/Home_Contents/بالدي(سطل)1.webp",
     "image_animated": "assets/images/Home_Contents/بالدي(سطل).webp"
