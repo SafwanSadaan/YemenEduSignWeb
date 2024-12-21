@@ -301,7 +301,6 @@
       }
     ]
   },
-
   {
     "category_id": 2,
     "category_name": "الارقام",
@@ -546,8 +545,8 @@
           },
           {
             "word_id": 4,
-            "word_name": "أَبْيَضَ",
-            "word_voice": "أَبْيَضَ",
+            "word_name": "أَبْيَض",
+            "word_voice": "أَبْيَض",
             "image_static": "assets/images/colors/5-ابيض.webp",
             "image_animated": "assets/images/colors/ابيض.webp"
           }
@@ -583,8 +582,8 @@
           },
           {
             "word_id": 4,
-            "word_name": "بَنِي",
-            "word_voice": "بَنِي",
+            "word_name": "بُنِي",
+            "word_voice": "بُنِي",
             "image_static": "assets/images/colors/5-بني.webp",
             "image_animated": "assets/images/colors/بني.webp"
           }
@@ -613,8 +612,8 @@
           },
           {
             "word_id": 3,
-            "word_name": "وَرُدِّي",
-            "word_voice": "وَرُدِّي",
+            "word_name": "وَرّدِّي",
+            "word_voice": "وَرّدِّي",
             "image_static": "assets/images/colors/5-وردي.webp",
             "image_animated": "assets/images/colors/وردي.webp"
           },
@@ -631,21 +630,21 @@
       {
         "lesson_id": 4,
         "lesson_name": "الدرس الرابع",
-        "lesson_image":"assets/images/colors/5-رمادي.webp",
+        "lesson_image":"assets/images/colors/5-اسود.webp",
         "lesson_description": "أَسْوَدُ ، أَحْمَرَ ، ذَهَبِيّ ، أَزْرَق",
         "words":
           [
           {
             "word_id": 1,
-            "word_name": "أَسْوَدُ",
-            "word_voice": "أَسْوَدُ",
+            "word_name": "أَسْوَدّ",
+            "word_voice": "أَسْوَدّ",
             "image_static": "assets/images/colors/5-اسود.webp",
             "image_animated": "assets/images/colors/اسود.webp"
           },
           {
             "word_id": 2,
-            "word_name": "أَحْمَرَ",
-            "word_voice": "أَحْمَرَ",
+            "word_name": "أَحْمَرّ",
+            "word_voice": "أَحْمَرّ",
             "image_static": "assets/images/colors/5-احمر.webp",
             "image_animated": "assets/images/colors/احمر.webp"
           },
@@ -658,8 +657,8 @@
           },
           {
             "word_id": 4,
-            "word_name": "أَزْرَق",
-            "word_voice": "أَزْرَق",
+            "word_name": "أَزْرَقّ",
+            "word_voice": "أَزْرَقّ",
             "image_static": "assets/images/colors/5-ازرق.webp",
             "image_animated": "assets/images/colors/ازرق.webp"
           }
@@ -683,8 +682,8 @@
           [
           {
             "word_id": 1,
-            "word_name": "الْعَائِلَةِ",
-            "word_voice": "الْعَائِلَةِ",
+            "word_name": "الْعَائِلَة",
+            "word_voice": "الْعَائِلَة",
             "image_static": "assets/images/family/4-العائلة.webp",
             "image_animated": "assets/images/family/العائلة.webp"
           },
@@ -704,8 +703,8 @@
           },
           {
             "word_id": 4,
-            "word_name": "ابْنُ",
-            "word_voice": "ابْنُ",
+            "word_name": "ابْنّ",
+            "word_voice": "ابْن",
             "image_static": "assets/images/family/4-ابن.webp",
             "image_animated": "assets/images/family/إبن.webp"
           }
@@ -714,21 +713,21 @@
       {
         "lesson_id": 2,
         "lesson_name": "الدرس الثاني",
-        "lesson_image":"assets/images/family/4-تؤام.webp",
+        "lesson_image":"assets/images/family/4-خال.webp",
         "lesson_description": " خَال ، عَمُّ ، أَخ ، زوج",
         "words":
           [
           {
             "word_id": 1,
             "word_name": "خَال",
-            "word_voice": "خَال",
+            "word_voice": "خَالّ",
             "image_static": "assets/images/family/4-خال.webp",
             "image_animated": "assets/images/family/خال.webp"
           },
           {
             "word_id": 2,
-            "word_name": "عَمُّ",
-            "word_voice": "عَمُّ",
+            "word_name": "عَمّ",
+            "word_voice": "عَمّ",
             "image_static": "assets/images/family/4-عم.webp",
             "image_animated": "assets/images/family/عم.webp"
           },
@@ -758,8 +757,8 @@
           [
           {
             "word_id": 1,
-            "word_name": "جده",
-            "word_voice": "جده",
+            "word_name": "جدةّ",
+            "word_voice": "جدةّ",
             "image_static": "assets/images/family/4-جده.webp",
             "image_animated": "assets/images/family/جده.webp"
           },
@@ -779,8 +778,8 @@
           }, 
           {
             "word_id": 4,
-            "word_name": "عمة",
-            "word_voice": "عمة",
+            "word_name": "عَمة",
+            "word_voice": "عَمة",
             "image_static": "assets/images/family/4-عمه.webp",
             "image_animated": "assets/images/family/عمة.webp"
           }
@@ -791,7 +790,7 @@
         "lesson_id": 4,
         "lesson_name": "الدرس الرابع",
         "lesson_image":"assets/images/family/4-جد.webp",
-        "lesson_description": " جَدّ ، حفيد ، إبنه , أَخت",
+        "lesson_description": " جَدّ ، حفيد ، إبنه , أَخت , تؤام",
         "words":
           [
             {
@@ -810,17 +809,24 @@
             },
           {
             "word_id": 3,
-            "word_name": "إبنه",
-            "word_voice": "إبنه",
+            "word_name": "إبنةّ",
+            "word_voice": "إبنةّ",
             "image_static": "assets/images/family/4-إبنه.webp",
             "image_animated": "assets/images/family/إبنه.webp"
           },
           {
             "word_id": 4,
-            "word_name": "أَخت",
-            "word_voice": "أَخت",
+            "word_name": "أُخت",
+            "word_voice": "أُخت",
             "image_static": "assets/images/family/4-اخت.webp",
             "image_animated": "assets/images/family/اخت.webp"
+          },
+           {
+            "word_id": 5,
+            "word_name": "تؤام",
+      "word_voice": "تؤام",
+      "image_static": "assets/images/family/4-تؤام.webp",
+      "image_animated": "assets/images/family/تؤام.webp"
           }
           
         ]
@@ -848,22 +854,22 @@
           },
           {
             "word_id": 2,
-            "word_name": " أَفْرَادِ الْمُجْتَمَعِ",
-            "word_voice": "أَفْرَادِ الْمُجْتَمَعِ ",
+            "word_name": " أَفْرَادِ الْمُجْتَمَع",
+            "word_voice": "أَفْرَادِ الْمُجْتَمَع",
             "image_static": "assets/images/community-personnel/أفراد المجتمع-11.webp",
             "image_animated": "assets/images/community-personnel/أفراد المجتمع.webp"
           },
           {
             "word_id": 3,
-            "word_name": "أُمِّي لِإِيقَرَاء",
-            "word_voice": "أُمِّي لِإِيقَرَاء",
-            "image_static": "assets/images/community-personnel/11-امي لايقراء.webp",
-            "image_animated": "assets/images/community-personnel/امي-لايقراء.webp"
+            "word_name": "أُمِّي لأيقَرَاء",
+            "word_voice": "أُمِّي لأيقَرَاء",
+            "image_static": "assets/images/community-personnel/11-امي.webp",
+            "image_animated": "assets/images/community-personnel/امي.webp"
           },
           {
             "word_id": 4,
-            "word_name": "جَارٍ",
-            "word_voice": "جَارٍ",
+            "word_name": "جَارّ",
+            "word_voice": "جَارّ",
             "image_static": "assets/images/community-personnel/11-جار.webp",
             "image_animated": "assets/images/community-personnel/جار.webp"
           }
@@ -899,6 +905,7 @@
           },
           {
             "word_id": 4,
+            "word_name": "عَاقِل حَارَّة",
             "word_voice": "عَاقِل حَارَّة",
             "image_static": "assets/images/community-personnel/11-عاقل حارة.webp",
             "image_animated": "assets/images/community-personnel/عاقل حارة.webp"
@@ -908,7 +915,7 @@
       {
         "lesson_id": 3,
         "lesson_name": "الدرس الثالث",
-        "lesson_image":"assets/images/community-personnel/11-عالم.webp",
+        "lesson_image":"assets/images/community-personnel/11-غني.webp",
         "lesson_description": "  غَنِيّ ، فَقِير ، مُتَخَلِّف ، مَجْنُون ، مرتاح",
         "words":
           [
@@ -965,8 +972,8 @@
           },
           {
             "word_id": 2,
-            "word_name": "مَعًاق",
-            "word_voice": "مَعًاق",
+            "word_name": "مَعَاق",
+            "word_voice": "مَعَاق",
             "image_static": "assets/images/community-personnel/11-معاق.webp",
             "image_animated": "assets/images/community-personnel/معاق.webp"
           },
@@ -1016,8 +1023,8 @@
           },
           {
             "word_id": 3,
-            "word_name": "وَلَدِ ",
-            "word_voice": "وَلَدِ ",
+            "word_name": "وَلَد",
+            "word_voice": "وَلَد",
             "image_static": "assets/images/community-personnel/4-ولد.webp",
             "image_animated": "assets/images/community-personnel/ولد.webp"
           }, 
@@ -1034,7 +1041,7 @@
       {
         "lesson_id": 6,
         "lesson_name": "الدرس السادس",
-        "lesson_image":"assets/images/community-personnel/4-شيخ.webp",
+        "lesson_image":"assets/images/community-personnel/11-عالم.webp",
         "lesson_description": "عَالِم , شعب ، رَجُل ، ناس , مَنْدُوب",
         "words":
           [
@@ -1068,9 +1075,9 @@
           },
           {
             "word_id": 5,
-            "word_name": "مَنْدُوب ",
-            "word_voice": "مَنْدُوب ",
-            "image_static": "assets/images/community-personnel/4-مندوب.webp",
+            "word_name": "مَنْدُوب",
+            "word_voice": "مَنْدُوب",
+            "image_static": "assets/images/community-personnel/11-مندوب.webp",
             "image_animated": "assets/images/community-personnel/مندوب.webp"
           }
         
@@ -1081,7 +1088,7 @@
         "lesson_id": 7,
         "lesson_name": "الدرس السابع",
         "lesson_image":"assets/images/community-personnel/4-عريس.webp",
-        "lesson_description": "عريس , عروس ، امرأة ، خطوبة",
+        "lesson_description": "عريس ، امرأة ، خطوبة",
         "words":
           [
             {
@@ -1093,20 +1100,13 @@
             },
           {
             "word_id": 2,
-            "word_name": "عروس",
-            "word_voice": "عروس",
-            "image_static": "assets/images/community-personnel/4-عروس.webp",
-            "image_animated": "assets/images/community-personnel/عروس.webp"
-          },
-          {
-            "word_id": 3,
             "word_name": "امرأة",
             "word_voice": "امرأة",
-            "image_static": "assets/images/community-personnel/4-امرأة.webp",
+            "image_static": "assets/images/community-personnel/11-امرأة.webp",
             "image_animated": "assets/images/community-personnel/امرأة.webp"
           },
           {
-            "word_id": 4,
+            "word_id": 3,
             "word_name": "خطوبة",
             "word_voice": "خطوبة",
             "image_static": "assets/images/community-personnel/4-خطوبه.webp",
@@ -1131,15 +1131,15 @@
         "words": [
           {
             "word_id": 1,
-            "word_name": "دهان",
-            "word_voice": "دهان",
+            "word_name": "دَهاّن",
+            "word_voice": "دَهاّن",
             "image_static": "assets/images/professions-crafts/13-دهان.webp",
             "image_animated": "assets/images/professions-crafts/دهان.webp"
           },
           {
             "word_id": 2,
-            "word_name": "خياط",
-            "word_voice": "خياط",
+            "word_name": "خياَط",
+            "word_voice": "خياَط",
             "image_static": "assets/images/professions-crafts/13-خياط.webp",
             "image_animated": "assets/images/professions-crafts/خياط.webp"
           },
@@ -1147,7 +1147,7 @@
             "word_id": 3,
             "word_name": "خباز",
             "word_voice": "خباز",
-            "image_static": "assets/images/professions-crafts/خباز-13.webp",
+            "image_static": "assets/images/professions-crafts/13-خباز.webp",
             "image_animated": "assets/images/professions-crafts/خباز.webp"
           },
           {
@@ -1159,8 +1159,8 @@
           },
           {
             "word_id": 5,
-            "word_name": "طباخ",
-            "word_voice": "طباخ",
+            "word_name": "طبّاَخ",
+            "word_voice": "طبّاَخ",
             "image_static": "assets/images/professions-crafts/13-طباخ.webp",
             "image_animated": "assets/images/professions-crafts/طباخ.webp"
           }
@@ -1196,10 +1196,10 @@
           },
           {
             "word_id": 4,
-            "word_name": "مذيع ",
-            "word_voice": "مذيع ",
-            "image_static": "assets/images/community-personnel/13-مذيع.webp",
-            "image_animated": "assets/images/community-personnel/مذيع.webp"
+            "word_name": "مذيع",
+            "word_voice": "مذيع",
+            "image_static": "assets/images/professions-crafts/13-مذيع.webp",
+            "image_animated": "assets/images/professions-crafts/مذيع.webp"
           }
         ]
       },
@@ -1212,8 +1212,8 @@
          [
           {
             "word_id": 1,
-            "word_name": "رجل اطفاء",
-            "word_voice": "رجل اطفاء",
+            "word_name": "رجل إطّفاء",
+            "word_voice": "رجل إطّفاء",
             "image_static": "assets/images/professions-crafts/13-رجل اطفاء.webp",
             "image_animated": "assets/images/professions-crafts/رجل إطفاء.webp"
           },
@@ -1288,7 +1288,7 @@
       {
         "lesson_id": 1,
         "lesson_name": "الدرس الأول",
-        "lesson_image":"assets/images/animals/3-اخطبوط.webp",
+        "lesson_image":"assets/images/animals/3-حيوانات.webp",
         "lesson_description": "حَيَوَانَات ، أَسَدُ ، نَمِر ، دَبَّ ، ذِئْب",
         "words":
          [
@@ -1301,8 +1301,8 @@
           },
           {
             "word_id": 2,
-            "word_name": "أَسَدُ",
-            "word_voice": "أَسَدُ",
+            "word_name": "أَسَد",
+            "word_voice": "أَسَد",
             "image_static": "assets/images/animals/3-اسد.webp",
             "image_animated": "assets/images/animals/اسد.webp"
           },
@@ -1315,8 +1315,8 @@
           },
           {
             "word_id": 4,
-            "word_name": "دَبَّ",
-            "word_voice": "دَبَّ",
+            "word_name": "دُبّ",
+            "word_voice": "دُبّ",
             "image_static": "assets/images/animals/3-دب.webp",
             "image_animated": "assets/images/animals/دب.webp"
           },
@@ -1332,7 +1332,7 @@
       {
         "lesson_id": 2,
         "lesson_name": "الدرس الثاني",
-        "lesson_image":"assets/images/animals/3-بعوض.webp",
+        "lesson_image":"assets/images/animals/3-ضبع.webp",
         "lesson_description": " ضَبُع ، غَوْرَيلا ، كَنُغَر ، فِيلٍ ، قُنْفُذ",
         "words":
          [
@@ -1345,29 +1345,29 @@
           },
           {
             "word_id": 2,
-            "word_name": "غَوْرَيلا",
-            "word_voice": "غَوْرَيلا",
+            "word_name": "غُوْريلا",
+            "word_voice": "غُوْريلا",
             "image_static": "assets/images/animals/3-غوريلا.webp",
             "image_animated": "assets/images/animals/غوريلا.webp"
           },
           {
             "word_id": 3,
-            "word_name": "كَنُغَر",
-            "word_voice": "كَنُغَر",
+            "word_name": "كُنّغَر",
+            "word_voice": "كُنّغَر",
             "image_static": "assets/images/animals/3-كنغر.webp",
             "image_animated": "assets/images/animals/كنغر.webp"
           },
           {
             "word_id": 4,
-            "word_name": "فِيلٍ",
-            "word_voice": "فِيلٍ",
+            "word_name": "فِيل",
+            "word_voice": "فِيل",
             "image_static": "assets/images/animals/3-فيل.webp",
             "image_animated": "assets/images/animals/فيل.webp"
           },
           {
             "word_id": 5,
-            "word_name": "قُنْفُذ",
-            "word_voice": "قُنْفُذ",
+            "word_name": "قُنْفُذّ",
+            "word_voice": "قُنْفُذّ",
             "image_static": "assets/images/animals/3-قنفذ.webp",
             "image_animated": "assets/images/animals/قنفذ.webp"
           }
@@ -1411,8 +1411,8 @@
           },
           {
             "word_id": 5,
-            "word_name": "قَرَد",
-            "word_voice": "قَرَد",
+            "word_name": "قِرّد",
+            "word_voice": "قِرّد",
             "image_static": "assets/images/animals/3-قرد.webp",
             "image_animated": "assets/images/animals/قرد.webp"
           }
@@ -1421,8 +1421,8 @@
       {
         "lesson_id": 4,
         "lesson_name": "الدرس الرابع",
-        "lesson_image":"assets/images/animals/3-خفاش.webp",
-        "lesson_description": "حِصَان ، وَعَلّ ، جَمَلٌ ، نَعَامَة , ماعز",
+        "lesson_image":"assets/images/animals/3-حصان.webp",
+        "lesson_description": "حِصَان ، وَعَلّ ، جَمَلٌ ، نَعَامَة ",
         "words":
          [
           {
@@ -1452,13 +1452,6 @@
             "word_voice": "نَعَامَة",
             "image_static": "assets/images/animals/3-نعامة.webp",
             "image_animated": "assets/images/animals/نعامة.webp"
-          },
-          {
-            "word_id": 5,
-            "word_name": "ماعز",
-            "word_voice": "ماعز",
-            "image_static": "assets/images/animals/3-ماعز.webp",
-            "image_animated": "assets/images/animals/ماعز.webp"
           }
         ]
       },
@@ -1471,15 +1464,15 @@
          [   
           {
             "word_id": 1,
-            "word_name": "حُوت",
-            "word_voice": "حُوت",
+            "word_name": "حُوّت",
+            "word_voice": "حُوّت",
             "image_static": "assets/images/animals/3-حوت.webp",
             "image_animated": "assets/images/animals/حوت.webp"
           },
           {
             "word_id": 2,
-            "word_name": "حِبَّار",
-            "word_voice": "حِبَّار",
+            "word_name": "حبَّار",
+            "word_voice": "حبَّار",
             "image_static": "assets/images/animals/3-حبار.webp",
             "image_animated": "assets/images/animals/حبار.webp"
           },
@@ -1509,7 +1502,7 @@
       {
         "lesson_id": 6,
         "lesson_name": "الدرس السادس",
-        "lesson_image":"assets/images/animals/3-دجاجة.webp",
+        "lesson_image":"assets/images/animals/3-سحلفاة.webp",
         "lesson_description": "سُلَحْفَاة ، أَخْطَبوط ، بَطَّة ، بِطَرِيق ، جمبري",
         "words":
          [
@@ -1536,15 +1529,15 @@
           },
           {
             "word_id": 4,
-            "word_name": "بِطَرِيق",
-            "word_voice": "بِطَرِيق",
+            "word_name": "بِطّريق",
+            "word_voice": "بِطّريق",
             "image_static": "assets/images/animals/3-بطريق.webp",
             "image_animated": "assets/images/animals/بطريق.webp"
           },
           {
             "word_id": 5,
-            "word_name": "جمبري",
-            "word_voice": "جمبري",
+            "word_name": "جمّبري",
+            "word_voice": "جمّبري",
             "image_static": "assets/images/animals/3-جمبري.webp",
             "image_animated": "assets/images/animals/جمبري.webp"
           }
@@ -1554,35 +1547,35 @@
       {
         "lesson_id": 7,
         "lesson_name": "الدرس السابع",
-        "lesson_image":"assets/images/animals/3-زواحف.webp",
+        "lesson_image":"assets/images/animals/3-سنجاب.webp",
         "lesson_description": "سِنْجَاب ، ضِفْدَع ، عَقْرَب ، تِمْسَاحٍ",
         "words":
          [
           {
             "word_id": 1,
-            "word_name": "سِنْجَاب",
-            "word_voice": "سِنْجَاب",
+            "word_name": "سِنْجَابّ",
+            "word_voice": "سِنْجَابّ",
             "image_static": "assets/images/animals/3-سنجاب.webp",
             "image_animated": "assets/images/animals/سنجاب.webp"
           },
           {
             "word_id": 2,
-            "word_name": "ضِفْدَع",
-            "word_voice": "ضِفْدَع",
+            "word_name": "ضِفْدَعّ",
+            "word_voice": "ضِفْدَعّ",
             "image_static": "assets/images/animals/3-ضفدع.webp",
             "image_animated": "assets/images/animals/ضفدع.webp"
           },
           {
             "word_id": 3,
-            "word_name": "عَقْرَب",
-            "word_voice": "عَقْرَب",
+            "word_name": "عَقْرَبّ",
+            "word_voice": "عَقْرَبّ",
             "image_static": "assets/images/animals/3-عقرب.webp",
             "image_animated": "assets/images/animals/عقرب.webp"
           },
           {
             "word_id": 4,
-            "word_name": "تِمْسَاحٍ",
-            "word_voice": "تِمْسَاحٍ",
+            "word_name": "تِمْسَاحّ",
+            "word_voice": "تِمْسَاحّ",
             "image_static": "assets/images/animals/3-تمساح.webp",
             "image_animated": "assets/images/animals/تمساح.webp"
           }
@@ -1593,14 +1586,14 @@
       {
         "lesson_id": 8,
         "lesson_name": "الدرس الثامن",
-        "lesson_image":"assets/images/animals/3-قرش.webp",
+        "lesson_image":"assets/images/animals/3-زواحف.webp",
         "lesson_description": "زَوَاحف ، سِحْلِيَّة ، دُودَة ، ثُعْبَان",
         "words":
          [
           {
             "word_id": 1,
-            "word_name": "زَوَاحف",
-            "word_voice": "زَوَاحف",
+            "word_name": "زَوَاحِف",
+            "word_voice": "زَوَاحِف",
             "image_static": "assets/images/animals/3-زواحف.webp",
             "image_animated": "assets/images/animals/زواحف.webp"
           },
@@ -1637,7 +1630,7 @@
         "words":
          [
           {
-            "word_id": 100,
+            "word_id": 1,
             "word_name": "غُرَاب",
             "word_voice": "غُرَاب",
             "image_static": "assets/images/animals/3-غراب.webp",
@@ -1652,8 +1645,8 @@
           },
           {
             "word_id": 3,
-            "word_name": "بُومٍة",
-            "word_voice": "بُومٍة",
+            "word_name": "بُومَة",
+            "word_voice": "بُومَة",
             "image_static": "assets/images/animals/3-بومة.webp",
             "image_animated": "assets/images/animals/بومة.webp"
           },
@@ -1670,21 +1663,21 @@
       {
         "lesson_id": 10,
         "lesson_name": "الدرس العاشر",
-        "lesson_image":"assets/images/animals/3-غوريلا.webp",
+        "lesson_image":"assets/images/animals/3-حشرات.webp",
         "lesson_description": " حَشَرَات ، فَرَاَشه ، خُنْفُسَاء ، ذُبَابَة",
         "words":
          [
           {
             "word_id": 1,
-            "word_name": "حَشَرَات",
-            "word_voice": "حَشَرَات",
+            "word_name": "حَشَرَاتّ",
+            "word_voice": "حَشَرَاتّ",
             "image_static": "assets/images/animals/3-حشرات.webp",
             "image_animated": "assets/images/animals/حشرات.webp"
           },
           {
             "word_id": 2,
-            "word_name": "فَرَاَشه",
-            "word_voice": "فَرَاَشه",
+            "word_name": "فَرَاَشةّ",
+            "word_voice": "فَرَاَشةّ",
             "image_static": "assets/images/animals/3-فراشة.webp",
             "image_animated": "assets/images/animals/فراشة.webp"
           },
@@ -1708,7 +1701,7 @@
       {
         "lesson_id": 11,
         "lesson_name": "الدرس الحادي عشر",
-        "lesson_image":"assets/images/animals/3-كنغر.webp",
+        "lesson_image":"assets/images/animals/3-نملة.webp",
         "lesson_description": " قَمْلَة ، بِعِوَض ، نِحْلَة ،  نَمْلَة",
         "words":
          [
@@ -1721,15 +1714,15 @@
           },
           {
             "word_id": 2,
-            "word_name": "بِعِوَض",
-            "word_voice": "بِعِوَض",
+            "word_name": "بعّوُضّ",
+            "word_voice": "بعّوُضّ",
             "image_static": "assets/images/animals/3-بعوض.webp",
             "image_animated": "assets/images/animals/بعوض.webp"
           },
           {
             "word_id": 3,
-            "word_name": "نِحْلَة",
-            "word_voice": "نِحْلَة",
+            "word_name": "نحْلَة",
+            "word_voice": "نحْلَة",
             "image_static": "assets/images/animals/3-نحلة.webp",
             "image_animated": "assets/images/animals/نحلة.webp"
           },
@@ -1745,7 +1738,7 @@
       {
         "lesson_id": 12,
         "lesson_name": "الدرس الثاني عشر",
-        "lesson_image":"assets/images/animals/3-كنغر.webp",
+        "lesson_image":"assets/images/animals/3-كلب.webp",
         "lesson_description": "كَلْب ، قَطُّ ، فَأْر ، وَعَلّ  ، حمار",
         "words":
          [
@@ -1758,8 +1751,8 @@
           },
           {
             "word_id": 2,
-            "word_name": "قَطُّ",
-            "word_voice": "قَطُّ",
+            "word_name": "قِطّ",
+            "word_voice": "قِطّ",
             "image_static": "assets/images/animals/3-قط.webp",
             "image_animated": "assets/images/animals/قط.webp"
           },
@@ -1783,8 +1776,8 @@
       {
         "lesson_id": 13,
         "lesson_name": "الدرس الثالث عشر",
-        "lesson_image":"assets/images/animals/3-كنغر.webp",
-        "lesson_description": "دَجَاجَة ، دِيك ، حَمَامَة ، عصفور , زرافة",
+        "lesson_image":"assets/images/animals/3-دجاجة.webp",
+        "lesson_description": "دَجَاجَة ، دِيك ، حَمَامَة ، عصفور , طاووس",
         "words":
          [
           {
@@ -1810,17 +1803,17 @@
           },
            {
             "word_id": 4,
-            "word_name": "عصفور",
-            "word_voice": "عصفور",
+            "word_name": "عِصّفور",
+            "word_voice": "عِصّفور",
             "image_static": "assets/images/animals/3-عصفور.webp",
             "image_animated": "assets/images/animals/عصفور.webp"
           },
           {
             "word_id": 5,
-            "word_name": "زرافة",
-            "word_voice": "زرافة",
-            "image_static": "assets/images/animals/3-زرافة.webp",
-            "image_animated": "assets/images/animals/زرافة.webp"
+            "word_name": "طاووس",
+            "word_voice": "طاووس",
+            "image_static": "assets/images/animals/3-طاووس.webp",
+            "image_animated": "assets/images/animals/طاووس.webp"
           }
           
         ]
@@ -1856,8 +1849,8 @@
           },
           {
             "word_id": 3,
-            "word_name": "بِنُطْلون",
-            "word_voice": "بِنُطْلون",
+            "word_name": "بَنّطْلون",
+            "word_voice": "بنّطْلون",
             "image_static": "assets/images/Clothing/2-بنطلون.webp",
             "image_animated": "assets/images/Clothing/بنطلون.webp"
           },
@@ -1879,8 +1872,8 @@
           [
           {
             "word_id": 1,
-            "word_name": "جَزْمِه",
-            "word_voice": "جَزْمِه",
+            "word_name": "جَزْمة",
+            "word_voice": "جَزْمة",
             "image_static": "assets/images/Clothing/2-جزمة.webp",
             "image_animated": "assets/images/Clothing/جزمة.webp"
           },
@@ -1900,8 +1893,8 @@
           },
           {
             "word_id": 4,
-            "word_name": "شَرَابٌ",
-            "word_voice": "شَرَابٌ",
+            "word_name": "شُرَابّ",
+            "word_voice": "شُرَابّ",
             "image_static": "assets/images/Clothing/2-شراب.webp",
             "image_animated": "assets/images/Clothing/شراب.webp"
           }
@@ -1947,7 +1940,7 @@
       {
         "lesson_id": 4,
         "lesson_name": "الدرس الرابع",
-        "lesson_image":"assets/images/Clothing/2-صندل.webp",
+        "lesson_image":"assets/images/Clothing/2-جنبية.webp",
         "lesson_description": "جَنْبَيْه ، عِقَال ،  شَال ، فُوطَة",
         "words":
           [
@@ -2058,7 +2051,7 @@
       {
         "lesson_id": 7,
         "lesson_name": "الدرس السابع",
-        "lesson_image":"assets/images/Clothing/2-كوفية.webp",
+        "lesson_image":"assets/images/Clothing/2-كوت.webp",
         "lesson_description": "بَدَلَه رِيَاضِيَّة ، كَوَتْ ، خَيْط ، شَرَشَف",
         "words":
           [
@@ -2118,12 +2111,12 @@
             "word_name": "أَمَاكِن عَامَّة",
             "word_voice": "أَمَاكِن عَامَّة",
             "image_static": "assets/images/public-places/8-اماكن عامة.webp",
-            "image_animated": "assets/images/public-places/اماكن عامة.webp"
+            "image_animated": "assets/images/public-places/أماكن عامة.webp"
           },
           {
             "word_id": 2,
-            "word_name": "جَامِعَةٌ",
-            "word_voice": "جَامِعَةٌ",
+            "word_name": "جَامِعَة",
+            "word_voice": "جَامِعَة",
             "image_static": "assets/images/public-places/8-جامعة.webp",
             "image_animated": "assets/images/public-places/جامعة.webp"
           },
@@ -2136,15 +2129,15 @@
           },
           {
             "word_id": 4,
-            "word_name": "بِوَفَيه",
-            "word_voice": "بِوَفَيه",
+            "word_name": "بوفّيه",
+            "word_voice": "بوفّيه",
             "image_static": "assets/images/public-places/8-بوفيه.webp",
-            "image_animated": "assets/images/public-places/بوفيه.webp"
+            "image_animated": "assets/images/public-places/بوفية.webp"
           },
           {
             "word_id": 5,
-            "word_name": "اسْتَديو",
-            "word_voice": "اسْتَديو",
+            "word_name": "اسْتَدّيو",
+            "word_voice": "اسْتَدّيو",
             "image_static": "assets/images/public-places/8-استديو.webp",
             "image_animated": "assets/images/public-places/استديو.webp"
           }
@@ -2173,8 +2166,8 @@
           },
           {
             "word_id": 3,
-            "word_name": "دُكَّانُ",
-            "word_voice": "دُكَّانُ",
+            "word_name": "دُكَّان",
+            "word_voice": "دُكَّان",
             "image_static": "assets/images/public-places/8-دكان.webp",
             "image_animated": "assets/images/public-places/دكان.webp"
           },
@@ -2187,8 +2180,8 @@
           },
           {
             "word_id": 5,
-            "word_name": "صَالِون حِلَاقِه",
-            "word_voice": "صَالِون حِلَاقِه",
+            "word_name": "صَالِون حِلَاقّة",
+            "word_voice": "صَالِون حِلَاقّة",
             "image_static": "assets/images/public-places/8-صالون حلاقة.webp",
             "image_animated": "assets/images/public-places/صالون حلاقة.webp"
           }
@@ -2301,7 +2294,7 @@
             "word_name": "مُنْتَزَه ",
             "word_voice": "مُنْتَزَه ",
             "image_static": "assets/images/public-places/8-منتزة.webp",
-            "image_animated": "assets/images/public-places/منتزة.webp"
+            "image_animated": "assets/images/public-places/منتزه.webp"
           },
           {
             "word_id": 3,
@@ -2330,7 +2323,7 @@
         "lesson_id": 6,
         "lesson_name": "الدرس السادس",
         "lesson_image":"assets/images/public-places/8-مطعم.webp",
-        "lesson_description": " مَلْعَب ، محطة بترول ، مجمع تجاري ، نَادَى ، وَكَالَة",
+        "lesson_description": " مطعم ، محطة بترول ، مجمع تجاري ، متحف ",
         "words":
           [
           {
@@ -2345,14 +2338,14 @@
             "word_name": "محطة بترول ",
             "word_voice": "محطة بترول  ",
             "image_static": "assets/images/public-places/8-محطة بترول.webp",
-            "image_animated": "assets/images/public-places/محطة.webp"
+            "image_animated": "assets/images/public-places/محطة بترول.webp"
           },
           {
             "word_id": 3,
-            "word_name": "مجمع تجاري ",
-            "word_voice": "مجمع تجاري ",
+            "word_name": "مجّمّع تجاري",
+            "word_voice": "مجّمّع تجاري",
             "image_static": "assets/images/public-places/8-مجمع تجاري.webp",
-            "image_animated": "assets/images/public-places/منظمة.webp"
+            "image_animated": "assets/images/public-places/مجمع تجاري.webp"
           },
           {
             "word_id": 4,
@@ -2360,13 +2353,6 @@
             "word_voice": "متحف ",
             "image_static": "assets/images/public-places/8-متحف.webp",
             "image_animated": "assets/images/public-places/متحف.webp"
-          },
-          {
-            "word_id": 5,
-            "word_name": "وَكَالَة ",
-            "word_voice": "وَكَالَة ",
-            "image_static": "assets/images/public-places/8-وكالة.webp",
-            "image_animated": "assets/images/public-places/وكالة.webp"
           }
         ]
       }
@@ -2394,7 +2380,7 @@
           {
             "word_id": 2,
             "word_name": "مُنْتَبِهٍ",
-            "word_voice": "مُنْتَبِهٍ",
+            "word_voice": "مُنْتَبِه",
             "image_static": "assets/images/Attributes/9-منتبه.webp",
             "image_animated": "assets/images/Attributes/منتبه.webp"
           },
@@ -2535,15 +2521,15 @@
           },
           {
             "word_id": 4,
-            "word_name": "مِثَابر",
-            "word_voice": "مِثَابر",
+            "word_name": "مُثَابر",
+            "word_voice": "مُثَابر",
             "image_static": "assets/images/Attributes/9-مثابر.webp",
             "image_animated": "assets/images/Attributes/مثابر.webp"
           },
           {
             "word_id": 5,
-            "word_name": "مَدْهَش",
-            "word_voice": "مَدْهَش",
+            "word_name": "مُدْهَش",
+            "word_voice": "مُدْهَش",
             "image_static": "assets/images/Attributes/9-مدهش.webp",
             "image_animated": "assets/images/Attributes/مدهش.webp"
           }
@@ -2558,15 +2544,15 @@
           [
           {
             "word_id": 1,
-            "word_name": "طِيب",
-            "word_voice": "طِيب",
+            "word_name": "طيب",
+            "word_voice": "طيٌب",
             "image_static": "assets/images/Attributes/9-طيب.webp",
             "image_animated": "assets/images/Attributes/طيب.webp"
           },
           {
             "word_id": 2,
-            "word_name": "شُفُوق",
-            "word_voice": "شُفُوق",
+            "word_name": "شَفُوق",
+            "word_voice": "شَفُوق",
             "image_static": "assets/images/Attributes/9-شفوق.webp",
             "image_animated": "assets/images/Attributes/شفوق.webp"
           },
@@ -2579,8 +2565,8 @@
           },
           {
             "word_id": 4,
-            "word_name": "سَرِيعُ",
-            "word_voice": "سَرِيعُ",
+            "word_name": "سَرِيع",
+            "word_voice": "سَرِيع",
             "image_static": "assets/images/Attributes/9-سريع.webp",
             "image_animated": "assets/images/Attributes/سريع.webp"
           },
@@ -2642,7 +2628,7 @@
         "lesson_id": 7,
         "lesson_name": "الدرس السابع",
         "lesson_image":"assets/images/Attributes/9-اهبل.webp",
-        "lesson_description": " بسيط ، قريب ، قلق ، اهبل ، حقيقي",
+        "lesson_description": " بسيط ، قريب ، قلق ، اهبل ",
         "words":
           [
           {
@@ -2668,17 +2654,10 @@
           },
           {
             "word_id": 4,
-            "word_name": "اهبل",
-            "word_voice": "اهبل",
+            "word_name": "أهبل",
+            "word_voice": "أهبل",
             "image_static": "assets/images/Attributes/9-اهبل.webp",
             "image_animated": "assets/images/Attributes/اهبل.webp"
-          },
-          {
-            "word_id": 5,
-            "word_name": "حقيقي",
-            "word_voice": "حقيقي",
-            "image_static": "assets/images/Attributes/9-حقيقي.webp",
-            "image_animated": "assets/images/Attributes/حقيقي.webp"
           }
           
         ]
@@ -2739,8 +2718,8 @@
           [
           {
             "word_id": 1,
-            "word_name": "حار",
-            "word_voice": "حار",
+            "word_name": "حَار",
+            "word_voice": "حَار",
             "image_static": "assets/images/Attributes/9-حار.webp",
             "image_animated": "assets/images/Attributes/حار.webp"
           },
@@ -2753,8 +2732,8 @@
           },
           {
           "word_id": 3,
-          "word_name": "عنيد ",
-          "word_voice": "عنيد ",
+          "word_name": "عَنيد",
+          "word_voice": "عَنيد",
           "image_static": "assets/images/Attributes/9-عنيد.webp",
           "image_animated": "assets/images/Attributes/عنيد.webp"
           },
@@ -2786,8 +2765,8 @@
           [
           {
             "word_id": 1,
-            "word_name": "لذيذ",
-            "word_voice": "لذيذ",
+            "word_name": "لّذيذ",
+            "word_voice": "لّذيذ",
             "image_static": "assets/images/Attributes/9-لذيذ.webp",
             "image_animated": "assets/images/Attributes/لذيذ.webp"
           },
@@ -2807,8 +2786,8 @@
           },
           {
             "word_id": 4,
-            "word_name": "غَالَى",
-            "word_voice": "غَالَى",
+            "word_name": "غَالَي",
+            "word_voice": "غَالَي",
             "image_static": "assets/images/Attributes/9-غالي.webp",
             "image_animated": "assets/images/Attributes/غالي.webp"
           },
@@ -2833,15 +2812,15 @@
           [
           {
             "word_id": 1,
-            "word_name": "بخيل",
-            "word_voice": "بخيل",
+            "word_name": "بّخيل",
+            "word_voice": "بّخيل",
             "image_static": "assets/images/Attributes/9-بخيل.webp",
             "image_animated": "assets/images/Attributes/بخيل.webp"
           },
           {
             "word_id": 2,
-            "word_name": "بعيد",
-            "word_voice": "بعيد",
+            "word_name": "بَعيد",
+            "word_voice": "بَعيد",
             "image_static": "assets/images/Attributes/9-بعيد.webp",
             "image_animated": "assets/images/Attributes/بعيد.webp"
           },
@@ -2861,8 +2840,8 @@
           },
           {
             "word_id": 5,
-            "word_name": "حقود",
-            "word_voice": "حقود",
+            "word_name": "حّقُود",
+            "word_voice": "حّقُود",
             "image_static": "assets/images/Attributes/9-حقود.webp",
             "image_animated": "assets/images/Attributes/حقود.webp"
           }
@@ -2922,20 +2901,20 @@
         "lesson_id": 13,
         "lesson_name": "الدرس الثالث عشر",
         "lesson_image":"assets/images/Attributes/9-ممنوع.webp",
-        "lesson_description": " مر ، متدلع ، ملعون ، مليان ، ممنوع ",
+        "lesson_description": " مر ، خفيف ، ملعون ، مليان ، ممنوع ",
         "words":
           [
           {
             "word_id": 1,
             "word_name": "مر",
-            "word_voice": "مر",
+            "word_voice": "مُر",
             "image_static": "assets/images/Attributes/9-مر.webp",
             "image_animated": "assets/images/Attributes/مر.webp"
           },
           {
             "word_id": 2,
-            "word_name": "متدلع",
-            "word_voice": "متدلع",
+            "word_name": "مدلع",
+            "word_voice": "مدلع",
             "image_static": "assets/images/Attributes/9-مدلع.webp",
             "image_animated": "assets/images/Attributes/مدلع.webp"
           },
@@ -2948,8 +2927,8 @@
           },
           {
             "word_id": 4,
-            "word_name": "مليان",
-            "word_voice": "مليان",
+            "word_name": "مليانً",
+            "word_voice": "مليانً",
             "image_static": "assets/images/Attributes/9-مليان.webp",
             "image_animated": "assets/images/Attributes/مليان.webp"
           },
@@ -3002,8 +2981,8 @@
           },
           {
             "word_id": 5,
-            "word_name": "نعسان",
-            "word_voice": "نعسان",
+            "word_name": "نَعسان",
+            "word_voice": "نَعسان",
             "image_static": "assets/images/Attributes/9-نعسان.webp",
             "image_animated": "assets/images/Attributes/نعسان.webp"
           }
@@ -3028,8 +3007,8 @@
           },
           {
             "word_id": 2,
-            "word_name": "زعلان",
-            "word_voice": "زعلان",
+            "word_name": "زعّلان",
+            "word_voice": "زعّلان",
             "image_static": "assets/images/Attributes/9-زعلان.webp",
             "image_animated": "assets/images/Attributes/زعلان.webp"
           },
@@ -3042,8 +3021,8 @@
           },
           {
             "word_id": 4,
-            "word_name": "حزين",
-            "word_voice": "حزين",
+            "word_name": "حَزين",
+            "word_voice": "حَزين",
             "image_static": "assets/images/Attributes/9-حزين.webp",
             "image_animated": "assets/images/Attributes/حزين.webp"
           },
@@ -3108,8 +3087,8 @@
           [
           {
             "word_id": 1,
-            "word_name": "كسلان",
-            "word_voice": "كسلان",
+            "word_name": "كّسلان",
+            "word_voice": "كّسلان",
             "image_static": "assets/images/Attributes/9-كسلان.webp",
             "image_animated": "assets/images/Attributes/كسلان.webp"
           },
@@ -3155,8 +3134,8 @@
           },
           {
             "word_id": 2,
-            "word_name": "مشاغب",
-            "word_voice": "مشاغب",
+            "word_name": "مشاغِب",
+            "word_voice": "مشاغِب",
             "image_static": "assets/images/Attributes/9-مشاغب.webp",
             "image_animated": "assets/images/Attributes/مشاغب.webp"
           },
@@ -3211,8 +3190,8 @@
           },
           {
             "word_id": 3,
-            "word_name": "سَنَةٍ",
-            "word_voice": "سَنَةٍ",
+            "word_name": "سَنَة",
+            "word_voice": "سَنَة",
             "image_static": "assets/images/times/10-سنة.webp",
             "image_animated": "assets/images/times/سنة.webp"
           },
@@ -3225,8 +3204,8 @@
           },
           {
             "word_id": 5,
-            "word_name": "سَنَةً هِجْرِيَّةً",
-            "word_voice": "سَنَةً هِجْرِيَّةً",
+            "word_name": "سَنَةً هِجْرِيَّة",
+            "word_voice": "سَنَةً هِجْرِيَّة",
             "image_static": "assets/images/times/10-سنة هجرية.webp",
             "image_animated": "assets/images/times/سنة هجرية.webp"
           }
@@ -3235,14 +3214,14 @@
       {
         "lesson_id": 2,
         "lesson_name": "الدرس الثاني",
-        "lesson_image":"assets/images/times/10-الاربعاء.webp",
+        "lesson_image":"assets/images/times/10-شهر.webp",
         "lesson_description": "شَهْرٌ ، أُسْبُوع ، السَّبْتِ ، الْأَحَدُ ، الِاثْنَيْن",
         "words":
           [
           {
             "word_id": 1,
-            "word_name": "شَهْرٌ",
-            "word_voice": "شَهْرٌ",
+            "word_name": "شَهْر",
+            "word_voice": "شَهْر",
             "image_static": "assets/images/times/10-شهر.webp",
             "image_animated": "assets/images/times/شهر.webp"
           },
@@ -3255,15 +3234,15 @@
           },
           {
             "word_id": 3,
-            "word_name": "السَّبْتِ",
-            "word_voice": "السَّبْتِ",
+            "word_name": "السَّبْت",
+            "word_voice": "السَّبْت",
             "image_static": "assets/images/times/10-السبت.webp",
             "image_animated": "assets/images/times/السبت.webp"
           },
           {
             "word_id": 4,
-            "word_name": "الْأَحَدُ",
-            "word_voice": "الْأَحَدُ",
+            "word_name": "الْأَحَد",
+            "word_voice": "الْأَحَد",
             "image_static": "assets/images/times/10-الاحد.webp",
             "image_animated": "assets/images/times/الاحد.webp"
           },
@@ -3279,7 +3258,7 @@
       {
         "lesson_id": 3,
         "lesson_name": "الدرس الثالث",
-        "lesson_image":"assets/images/times/10-الصيف.webp",
+        "lesson_image":"assets/images/times/10-الثلاثاء.webp",
         "lesson_description": "الثُّلَاثَاء ، الْأَرْبِعَاء ، الْخَمِيس ، الْجُمُعَة",
         "words":
           [
@@ -3330,8 +3309,8 @@
           },
           {
             "word_id": 2,
-            "word_name": "نِهَايَةٌ ",
-            "word_voice": "نِهَايَةٌ ",
+            "word_name": "نِهَايَة",
+            "word_voice": "نِهَايَة",
             "image_static": "assets/images/times/10-نهاية.webp",
             "image_animated": "assets/images/times/نهاية.webp"
           },
@@ -3344,8 +3323,8 @@
           },
           {
             "word_id": 4,
-            "word_name": "بَعْدَ",
-            "word_voice": "بَعْدَ",
+            "word_name": "بَعْد",
+            "word_voice": "بَعْد",
             "image_static": "assets/images/times/10-بعد.webp",
             "image_animated": "assets/images/times/بعد.webp"
           }
@@ -3355,14 +3334,14 @@
       {
         "lesson_id": 5,
         "lesson_name": "الدرس الخامس",
-        "lesson_image":"assets/images/times/10-زمان.webp",
+        "lesson_image":"assets/images/times/10-تاريخ.webp",
         "lesson_description": " تَارِيخِ ، سَاعَة ، دَقِيقِه ، ثَانِيَة",
         "words":
           [  
           {
             "word_id": 1,
-            "word_name": "تَارِيخِ",
-            "word_voice": "تَارِيخِ",
+            "word_name": "تَارِيخ",
+            "word_voice": "تَارِيخ",
             "image_static": "assets/images/times/10-تاريخ.webp",
             "image_animated": "assets/images/times/تاريخ.webp"
           },
@@ -3375,8 +3354,8 @@
           },
           {
             "word_id": 3,
-            "word_name": "دَقِيقِه",
-            "word_voice": "دَقِيقِه",
+            "word_name": "دَقِيقة",
+            "word_voice": "دَقِيقة",
             "image_static": "assets/images/times/10-دقيقة.webp",
             "image_animated": "assets/images/times/دقيقة.webp"
           },
@@ -3406,22 +3385,22 @@
           },
           {
             "word_id": 2,
-            "word_name": "ظُهْرٌ",
-            "word_voice": "ظُهْرٌ",
+            "word_name": "ظُهْر",
+            "word_voice": "ظُهْر",
             "image_static": "assets/images/times/10-ظهر.webp",
             "image_animated": "assets/images/times/ظهر.webp"
           },
           {
             "word_id": 3,
-            "word_name": "عَصْرٌ",
-            "word_voice": "عَصْرٌ",
+            "word_name": "عَصْر",
+            "word_voice": "عَصْر",
             "image_static": "assets/images/times/10-عصر.webp",
             "image_animated": "assets/images/times/عصر.webp"
           },
           {
             "word_id": 4,
-            "word_name": "مَغْرِبٌ",
-            "word_voice": "مَغْرِبٌ",
+            "word_name": "مَغْرِب",
+            "word_voice": "مَغْرِب",
             "image_static": "assets/images/times/10-مغرب.webp",
             "image_animated": "assets/images/times/مغرب.webp"
           }
@@ -3436,8 +3415,8 @@
           [
           {
             "word_id": 1,
-            "word_name": "عِشَاءٌ",
-            "word_voice": "عِشَاءٌ",
+            "word_name": "عِشَاء",
+            "word_voice": "عِشَاء",
             "image_static": "assets/images/times/10-عشاء.webp",
             "image_animated": "assets/images/times/عشاء.webp"
           },
@@ -3474,8 +3453,8 @@
           [
           {
             "word_id": 1,
-            "word_name": "عَقْدٌ",
-            "word_voice": "عَقْدٌ",
+            "word_name": "عَقْد",
+            "word_voice": "عَقْد",
             "image_static": "assets/images/times/10-عقد.webp",
             "image_animated": "assets/images/times/عقد.webp"
           },
@@ -3502,8 +3481,8 @@
           },
           {
             "word_id": 5,
-            "word_name": "عُمَر",
-            "word_voice": "عُمَر",
+            "word_name": "عُمّر",
+            "word_voice": "عُمّر",
             "image_static": "assets/images/times/10-عمر.webp",
             "image_animated": "assets/images/times/عمر.webp"
           }
@@ -3542,14 +3521,14 @@
             "word_name": "الشِّتَاء",
             "word_voice": "الشِّتَاء",
             "image_static": "assets/images/times/10-الشتاء.webp",
-            "image_animated": "assets/images/times/الشتاء.webp"
+            "image_animated": "assets/images/times/شتاء.webp"
           }
         ]
       },
       {
         "lesson_id": 10,
         "lesson_name": "الدرس العاشر",
-        "lesson_image":"assets/images/times/10-ليل.webp",
+        "lesson_image":"assets/images/times/10-امس.webp",
         "lesson_description": " أَمْس ، الْان ، قَدِيم ، عَلَى طُولِ ",
         "words":
           [
@@ -3562,8 +3541,8 @@
           },
           {
             "word_id": 2,
-            "word_name": "الْان",
-            "word_voice": "الْان",
+            "word_name": "الْأن",
+            "word_voice": "الْأن",
             "image_static": "assets/images/times/10-الان.webp",
             "image_animated": "assets/images/times/الان.webp"
           },
@@ -3576,10 +3555,10 @@
           },
           {
             "word_id": 4,
-            "word_name": "عَلَى طُولِ",
-            "word_voice": "عَلَى طُولِ",
-            "image_static": "assets/images/times/10-على طول.webp",
-            "image_animated": "assets/images/times/طول.webp"
+            "word_name": "عَلَى طُول",
+            "word_voice": "عَلَى طُول",
+            "image_static": "assets/images/times/10-طول.webp",
+            "image_animated": "assets/images/times/على طول.webp"
           }
         ]
       }
@@ -3601,8 +3580,8 @@
           [
           {
             "word_id": 1,
-            "word_name": "الزِّرَاعَةُ",
-            "word_voice": "الزِّرَاعَةُ",
+            "word_name": "الزِّرَاعَة",
+            "word_voice": "الزِّرَاعَة",
             "image_static": "assets/images/Agriculture/12-الزراعة.webp",
             "image_animated": "assets/images/Agriculture/الزراعة.webp"
           },
@@ -3653,15 +3632,15 @@
           },
           {
             "word_id": 2,
-            "word_name": "حِرَاثَة",
-            "word_voice": "حِرَاثَة",
+            "word_name": "حرَاثَة",
+            "word_voice": "حرَاثَة",
             "image_static": "assets/images/Agriculture/12-حراثة.webp",
             "image_animated": "assets/images/Agriculture/حراثة.webp"
           },
           {
             "word_id": 3,
-            "word_name": "سَاقَيْه",
-            "word_voice": "سَاقَيْه",
+            "word_name": "سَاقَيْة",
+            "word_voice": "سَاقَيْة",
             "image_static": "assets/images/Agriculture/12-ساقية.webp",
             "image_animated": "assets/images/Agriculture/ساقية.webp"
           },
@@ -3671,13 +3650,6 @@
             "word_voice": "سايلة",
             "image_static": "assets/images/Agriculture/12-سايلة.webp",
             "image_animated": "assets/images/Agriculture/سايلة.webp"
-          },
-          {
-            "word_id": 5,
-            "word_name": "سَمَاء",
-            "word_voice": "سَمَاء",
-            "image_static": "assets/images/Agriculture/12-سماء.webp",
-            "image_animated": "assets/images/Agriculture/سماء.webp"
           }
         ]
       },
@@ -3697,8 +3669,8 @@
           },
           {
             "word_id": 2,
-            "word_name": "طَاحُونٌ",
-            "word_voice": "طَاحُونٌ",
+            "word_name": "طَاحُون",
+            "word_voice": "طَاحُون",
             "image_static": "assets/images/Agriculture/12-طاحون.webp",
             "image_animated": "assets/images/Agriculture/طاحون.webp"
           },
@@ -3734,36 +3706,36 @@
           [
           {
             "word_id": 1,
-            "word_name": "الَةٌ تُنَقِّيهِ الْحُبُوب",
-            "word_voice": "الَةٌ تُنَقِّيهِ الْحُبُوب",
+            "word_name": "الَة تنَقّيه الْحُبُوب",
+            "word_voice": "الَة تنَقّيه الْحُبُوب",
             "image_static": "assets/images/Agriculture/12-الة تنقية الحبوب.webp",
             "image_animated": "assets/images/Agriculture/الة تنقية الحبوب.webp"
           },
           {
             "word_id": 2,
-            "word_name": "مُبِيد حَشْرِي",
-            "word_voice": "مُبِيد حَشْرِي",
+            "word_name": "مُبِيد حَشْري",
+            "word_voice": "مُبِيد حَشْري",
             "image_static": "assets/images/Agriculture/12-مبيد حشري.webp",
             "image_animated": "assets/images/Agriculture/مبيد حشري.webp"
           },
           {
             "word_id": 3,
-            "word_name": "مُجَرَّفَة",
-            "word_voice": "مُجَرَّفَة",
+            "word_name": "مِجَرَّفَة",
+            "word_voice": "مِجَرَّفَة",
             "image_static": "assets/images/Agriculture/12-مجرفة.webp",
             "image_animated": "assets/images/Agriculture/مجرفة.webp"
           },
           {
             "word_id": 4,
-            "word_name": "مُدْرِجات",
-            "word_voice": "مُدْرِجات",
+            "word_name": "مُدْرجات",
+            "word_voice": "مُدْرجات",
             "image_static": "assets/images/Agriculture/12-مدرجات.webp",
             "image_animated": "assets/images/Agriculture/مدرجات.webp"
           },
           {
             "word_id": 5,
-            "word_name": "مُشْتَل",
-            "word_voice": "مُشْتَل",
+            "word_name": "مَشْتَل",
+            "word_voice": "مَشْتَل",
             "image_static": "assets/images/Agriculture/12-مشتل.webp",
             "image_animated": "assets/images/Agriculture/مشتل.webp"
           
@@ -3805,15 +3777,15 @@
           },
           {
             "word_id": 3,
-            "word_name": "أَصْدَدام",
-            "word_voice": "أَصْدَدام",
+            "word_name": "إصْطدام",
+            "word_voice": "إصْطدام",
             "image_static": "assets/images/Accidents/7-إصطدام.webp",
             "image_animated": "assets/images/Accidents/إصطدام.webp"
           },
           {
             "word_id": 4,
-            "word_name": "إعْدَامٌ",
-            "word_voice": "إعْدَامٌ",
+            "word_name": "إعْدَام",
+            "word_voice": "إعْدَام",
             "image_static": "assets/images/Accidents/7-إعدام.webp",
             "image_animated": "assets/images/Accidents/إعدام.webp"
           },
@@ -3856,8 +3828,8 @@
           },
           {
             "word_id": 4,
-            "word_name": "ثَار",
-            "word_voice": "ثَار",
+            "word_name": "ثَأر",
+            "word_voice": "ثَأر",
             "image_static": "assets/images/Accidents/7-ثار.webp",
             "image_animated": "assets/images/Accidents/ثار.webp"
           }
@@ -3872,8 +3844,8 @@
           [
           {
             "word_id": 1,
-            "word_name": "سُقُوط طَائِرَه",
-            "word_voice": "سُقُوط طَائِرَه",
+            "word_name": "سُقُوط طَائِرَة",
+            "word_voice": "سُقُوط طَائِرَة",
             "image_static": "assets/images/Accidents/7-سقوط طائرة.webp",
             "image_animated": "assets/images/Accidents/سقوط طائرة.webp"
           },
@@ -3893,8 +3865,8 @@
           },
           {
             "word_id": 4,
-            "word_name": "قَتَل",
-            "word_voice": "قَتَل",
+            "word_name": "قَتّل",
+            "word_voice": "قَتّل",
             "image_static": "assets/images/Accidents/7-قتل.webp",
             "image_animated": "assets/images/Accidents/قتل.webp"
           }
@@ -3941,10 +3913,6 @@
       
     ]
   },
-
-
-
-  
   {
     "category_id": 14,
     "category_name": "محتويات المنزل",
@@ -5309,4 +5277,3 @@
   }
 
 ]
-

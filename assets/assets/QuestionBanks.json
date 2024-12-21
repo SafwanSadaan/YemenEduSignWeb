@@ -1882,10 +1882,10 @@
             "questions": [
               {
                 "question_id": 1,
-                "correct_answer": "ه",
-                "word_voice": "هاء",
-                  "image_static": "assets/images/Alphabetics/1-هاء.webp",
-                  "image_animated": "assets/images/Alphabetics/هاء.webp",
+                "correct_answer": "ال",
+                "word_voice": "ال",
+                  "image_static": "assets/images/Alphabetics/1-الف لام.webp",
+                  "image_animated": "assets/images/Alphabetics/الف لام.webp",
               "options": [
                 {
                   "option_id": 1,
@@ -1896,10 +1896,10 @@
                 },
                 {
                   "option_id": 2,
-                  "word_name": "أ",
-                  "word_voice": "ألف",
-                  "image_static": "assets/images/Alphabetics/1-ألف.webp",
-                  "image_animated": "assets/images/Alphabetics/ألف.webp"
+                  "word_name": "ال",
+                  "word_voice": "ال",
+                  "image_static": "assets/images/Alphabetics/1-الف لام.webp",
+                  "image_animated": "assets/images/Alphabetics/الف لام.webp"
                 },
                 {
                   "option_id": 3,
@@ -1912,40 +1912,10 @@
               },
               {
                 "question_id": 2,
-                "correct_answer": "و",
-                "word_voice": "واو",
-              "image_static": "assets/images/Alphabetics/1-واو.webp",
-              "image_animated": "assets/images/Alphabetics/واو.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "و",
-              "word_voice": "واو",
-              "image_static": "assets/images/Alphabetics/1-واو.webp",
-              "image_animated": "assets/images/Alphabetics/واو.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "ب",
-                  "word_voice": "باء",
-                  "image_static": "assets/images/Alphabetics/1-باء.webp",
-                 "image_animated": "assets/images/Alphabetics/باء.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "ث",
-                  "word_voice": "ثاء",
-                  "image_static": "assets/images/Alphabetics/1-ثاء.webp",
-                  "image_animated": "assets/images/Alphabetics/ثاء.webp"
-                }
-              ]
-              },
-              {
-                "question_id": 3,
-                "correct_answer": "ي",
-                "word_voice": "ياء",
-                  "image_static": "assets/images/Alphabetics/1-ياء.webp",
-                  "image_animated": "assets/images/Alphabetics/ياء.webp",
+                "correct_answer": "ؤ",
+                "word_voice": "ؤ",
+                "image_static": "assets/images/Alphabetics/1-الواو المهموزة.webp",
+                "image_animated": "assets/images/Alphabetics/الواو المهموزة.webp",
               "options": [
                 {
                   "option_id": 1,
@@ -1963,26 +1933,26 @@
                 },
                 {
                   "option_id": 3,
-                  "word_name": "ث",
-                  "word_voice": "ثاء",
-                  "image_static": "assets/images/Alphabetics/1-ثاء.webp",
-                  "image_animated": "assets/images/Alphabetics/ثاء.webp"
+                  "word_name": "ؤ",
+            "word_voice": "ؤ",
+            "image_static": "assets/images/Alphabetics/1-الواو المهموزة.webp",
+            "image_animated": "assets/images/Alphabetics/الواو المهموزة.webp"
                 }
               ]
               },
               {
-                "question_id": 4,
-                "correct_answer": "لا",
-                "word_voice": "لام الف",
-              "image_static": "assets/images/Alphabetics/1-لام الف.webp",
-              "image_animated": "assets/images/Alphabetics/لام الف.webp",
+                "question_id": 3,
+                "correct_answer": "ئ",
+                "word_voice": "ئ",
+                  "image_static": "assets/images/Alphabetics/1-الالف مقصورة مع همزة.webp",
+                  "image_animated": "assets/images/Alphabetics/الالف مقصورة مع همزة.webp",
               "options": [
                 {
                   "option_id": 1,
-                  "word_name": "ف",
-                  "word_voice": "فاء",
-                  "image_static": "assets/images/Alphabetics/1-فاء.webp",
-                 "image_animated": "assets/images/Alphabetics/فاء.webp"
+                  "word_name": "ئ",
+                  "word_voice": "ئ",
+                  "image_static": "assets/images/Alphabetics/1-الالف مقصورة مع همزة.webp",
+                  "image_animated": "assets/images/Alphabetics/الالف مقصورة مع همزة.webp"
                 },
                 {
                   "option_id": 2,
@@ -1991,37 +1961,6 @@
                   "image_static": "assets/images/Alphabetics/1-لام الف.webp",
                   "image_animated": "assets/images/Alphabetics/لام الف.webp"
                  
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "ث",
-                  "word_voice": "ثاء",
-                  "image_static": "assets/images/Alphabetics/1-ثاء.webp",
-                  "image_animated": "assets/images/Alphabetics/ثاء.webp"
-                }
-              ]
-              },
-              {
-                "question_id": 5,
-                "correct_answer": "ء",
-                "word_name": "ء",
-                  "word_voice": "همزة",
-                  "image_static": "assets/images/Alphabetics/1-همزة.webp",
-                  "image_animated": "assets/images/Alphabetics/همزة.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "ء",
-                  "word_voice": "همزة",
-                  "image_static": "assets/images/Alphabetics/1-همزة.webp",
-                  "image_animated": "assets/images/Alphabetics/همزة.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "ب",
-                  "word_voice": "باء",
-                  "image_static": "assets/images/Alphabetics/1-باء.webp",
-                 "image_animated": "assets/images/Alphabetics/باء.webp"
                 },
                 {
                   "option_id": 3,
@@ -2132,6 +2071,97 @@
                 "image_animated": "assets/images/Alphabetics/خاء.webp"
               }
             ]
+          },
+          {
+            "question_id": 4,
+            "correct_answer": "ؤ",
+            "word_voice": "ؤ",
+            "image_static": "assets/images/Alphabetics/1-الواو المهموزة.webp",
+            "image_animated": "assets/images/Alphabetics/الواو المهموزة.webp",
+          "options": [
+            {
+              "option_id": 1,
+              "word_name": "ي",
+              "word_voice": "ياء",
+              "image_static": "assets/images/Alphabetics/1-ياء.webp",
+              "image_animated": "assets/images/Alphabetics/ياء.webp"
+            },
+            {
+              "option_id": 2,
+              "word_name": "ب",
+              "word_voice": "باء",
+              "image_static": "assets/images/Alphabetics/1-باء.webp",
+             "image_animated": "assets/images/Alphabetics/باء.webp"
+            },
+            {
+              "option_id": 3,
+              "word_name": "ؤ",
+        "word_voice": "ؤ",
+        "image_static": "assets/images/Alphabetics/1-الواو المهموزة.webp",
+        "image_animated": "assets/images/Alphabetics/الواو المهموزة.webp"
+            }
+          ]
+          },
+          {
+            "question_id": 5,
+            "correct_answer": "ئ",
+            "word_voice": "ئ",
+              "image_static": "assets/images/Alphabetics/1-الالف مقصورة مع همزة.webp",
+              "image_animated": "assets/images/Alphabetics/الالف مقصورة مع همزة.webp",
+          "options": [
+            {
+              "option_id": 1,
+              "word_name": "ئ",
+              "word_voice": "ئ",
+              "image_static": "assets/images/Alphabetics/1-الالف مقصورة مع همزة.webp",
+              "image_animated": "assets/images/Alphabetics/الالف مقصورة مع همزة.webp"
+            },
+            {
+              "option_id": 2,
+              "word_name": "لأ",
+              "word_voice": "لام الف",
+              "image_static": "assets/images/Alphabetics/1-لام الف.webp",
+              "image_animated": "assets/images/Alphabetics/لام الف.webp"
+             
+            },
+            {
+              "option_id": 3,
+              "word_name": "ث",
+              "word_voice": "ثاء",
+              "image_static": "assets/images/Alphabetics/1-ثاء.webp",
+              "image_animated": "assets/images/Alphabetics/ثاء.webp"
+            }
+          ]
+          },
+          {
+            "question_id": 6,
+            "correct_answer": "ق",
+            "word_voice": "قاف",
+            "image_static": "assets/images/Alphabetics/1-قاف.webp",
+            "image_animated": "assets/images/Alphabetics/قاف.webp",
+          "options": [
+            {
+              "option_id": 1,
+              "word_name": "ق",
+          "word_voice": "قاف",
+          "image_static": "assets/images/Alphabetics/1-قاف.webp",
+          "image_animated": "assets/images/Alphabetics/قاف.webp" 
+            },
+            {
+              "option_id": 2,
+              "word_name": "أ",
+              "word_voice": "ألف",
+              "image_static": "assets/images/Alphabetics/1-ألف.webp",
+              "image_animated": "assets/images/Alphabetics/ألف.webp"
+            },
+            {
+              "option_id": 3,
+              "word_name": "خ",
+              "word_voice": "خاء",
+              "image_static": "assets/images/Alphabetics/1-خاء.webp",
+              "image_animated": "assets/images/Alphabetics/خاء.webp"
+            }
+          ]
           }
         ]
       }
@@ -3577,6 +3607,66 @@
             "image_animated": "assets/images/numbers/20.webp"
               }
             ]
+          },
+          {
+              "question_id": 5,
+              "correct_answer": "الأرقام",
+               "word_voice": "الأرقام",
+                "image_static": "assets/images/numbers/1-الأرقام.webp",
+                "image_animated": "assets/images/numbers/الأرقام.webp",
+            "options": [
+              {
+                "option_id": 1,
+                "word_name": "الأرقام",
+                "word_voice": "الأرقام",
+                "image_static": "assets/images/numbers/1-الأرقام.webp",
+                "image_animated": "assets/images/numbers/الأرقام.webp"
+              },
+              {
+                "option_id": 2,
+                "word_name": "3",
+                "word_voice": "3",
+                "image_static": "assets/images/numbers/003.webp",
+                "image_animated": "assets/images/numbers/03.webp"
+              },
+              {
+                "option_id": 4,
+                "word_name": "4",
+                "word_voice": "4",
+                "image_static": "assets/images/numbers/004.webp",
+                "image_animated": "assets/images/numbers/04.webp"
+              }
+            ]
+          },
+          {
+              "question_id": 6,
+              "correct_answer": "7",
+               "word_voice": "7",
+                "image_static": "assets/images/numbers/007.webp",
+                "image_animated": "assets/images/numbers/07.webp",
+            "options": [
+              {
+                "option_id": 1,
+                "word_name": "الأرقام",
+                "word_voice": "الأرقام",
+                "image_static": "assets/images/numbers/1-الأرقام.webp",
+                "image_animated": "assets/images/numbers/الأرقام.webp"
+              },
+              {
+                "option_id": 2,
+                "word_name": "3",
+                "word_voice": "3",
+                "image_static": "assets/images/numbers/003.webp",
+                "image_animated": "assets/images/numbers/03.webp"
+              },
+              {
+                "option_id": 4,
+                "word_name": "4",
+                "word_voice": "4",
+                "image_static": "assets/images/numbers/004.webp",
+                "image_animated": "assets/images/numbers/04.webp"
+              }
+            ]
           }
         ]
       }
@@ -4666,7 +4756,67 @@
               "image_animated": "assets/images/colors/اسود.webp"
             }
           ]
-        }
+          },
+          {
+            "question_id": 5,
+            "correct_answer": "اخضر",
+            "word_voice": "اخضر",
+            "image_static": "assets/images/colors/5-اخضر.webp",
+            "image_animated": "assets/images/colors/اخضر.webp",
+          "options": [
+            {
+              "option_id": 1,
+              "word_name": "فضي",
+              "word_voice": "فضي",
+              "image_static": "assets/images/colors/5-فضي.webp",
+              "image_animated": "assets/images/colors/فضي.webp"
+            },
+            {
+              "option_id": 2,
+              "word_name": "وردي",
+              "word_voice": "وردي",
+              "image_static": "assets/images/colors/5-وردي.webp",
+              "image_animated": "assets/images/colors/وردي.webp"
+            },
+            {
+              "option_id": 3,
+              "word_name": "اخضر",
+              "word_voice": "اخضر",
+              "image_static": "assets/images/colors/5-اخضر.webp",
+              "image_animated": "assets/images/colors/اخضر.webp"
+            }
+          ]
+          },
+          {
+            "question_id": 6,
+            "correct_answer": "الألوان",
+            "word_voice": "الْأَلْوَان",
+            "image_static": "assets/images/colors/5-الألوان.webp",
+            "image_animated": "assets/images/colors/الالوان.webp",
+          "options": [
+            {
+              "option_id": 1,
+             "word_name": "الألوان",
+             "word_voice": "الْأَلْوَان",
+             "image_static": "assets/images/colors/5-الألوان.webp",
+             "image_animated": "assets/images/colors/الالوان.webp"
+            },
+            {
+              "option_id": 2,
+              "word_name": "ابيض",
+              "word_voice": "ابيض",
+              "image_static": "assets/images/colors/5-ابيض.webp",
+              "image_animated": "assets/images/colors/ابيض.webp"
+            },
+          {
+            "option_id": 3,
+        "word_name": "غامق",
+        "word_voice": "غامق",
+        "image_static": "assets/images/colors/5-غامق.webp",
+        "image_animated": "assets/images/colors/غامق.webp"
+          }
+          ]
+          }
         ]
       }
     },
@@ -5251,7 +5401,7 @@
                   "option_id": 2,
                 "word_name": "رضيع",
               "word_voice": "رضيع",
-              "image_static": "assets/images/community-personnel/12-رضيع.webp",
+             "image_static": "assets/images/community-personnel/4-رضيع.webp",
               "image_animated": "assets/images/community-personnel/رضيع.webp"
                 }
               ]
@@ -5280,7 +5430,7 @@
                   "option_id": 2,
                   "word_name": "رضيع",
               "word_voice": "رضيع",
-              "image_static": "assets/images/community-personnel/12-رضيع.webp",
+             "image_static": "assets/images/community-personnel/4-رضيع.webp",
               "image_animated": "assets/images/community-personnel/رضيع.webp"
                 },
                 {
@@ -5525,8 +5675,8 @@
             }
           ],
           "lesson_exam": {
-            "exam_id": 3,
-            "exam_name": "إختبار الدرس الثالث",
+            "exam_id": 4,
+            "exam_name": "إختبار الدرس الرابع",
             "image":  "assets/images/family/4-اخت.webp",
             "questions": [
               {
@@ -5547,7 +5697,7 @@
                   "option_id": 2,
                   "word_name": "رضيع",
               "word_voice": "رضيع",
-              "image_static": "assets/images/community-personnel/12-رضيع.webp",
+             "image_static": "assets/images/community-personnel/4-رضيع.webp",
               "image_animated": "assets/images/community-personnel/رضيع.webp"
                 },
                 {
@@ -5827,7 +5977,7 @@
               "option_id": 2,
               "word_name": "رضيع",
           "word_voice": "رضيع",
-          "image_static": "assets/images/community-personnel/12-رضيع.webp",
+         "image_static": "assets/images/community-personnel/4-رضيع.webp",
           "image_animated": "assets/images/community-personnel/رضيع.webp"
             },
             {
@@ -5938,8 +6088,8 @@
                 "question_id": 3,
                 "correct_answer":"أُمِّي لِإِيقَرَاء",
                  "word_voice": "أُمِّي لِإِيقَرَاء",
-                 "image_static": "assets/images/community-personnel/11-امي-لايقراء.webp",
-                 "image_animated": "assets/images/community-personnel/امي-لايقراء.webp"
+                 "image_static": "assets/images/community-personnel/11-امي.webp",
+                 "image_animated": "assets/images/community-personnel/امي.webp"
               },
               "options": [
                 {
@@ -5953,8 +6103,8 @@
                   "option_id": 2,
                   "word_name": "أُمِّي لِإِيقَرَاء",
                   "word_voice": "أُمِّي لِإِيقَرَاء",
-                  "image_static": "assets/images/community-personnel/11-امي-لايقراء.webp",
-                  "image_animated": "assets/images/community-personnel/امي-لايقراء.webp"
+                  "image_static": "assets/images/community-personnel/11-امي.webp",
+                  "image_animated": "assets/images/community-personnel/امي.webp"
                 }
               ]
             },
@@ -6013,6 +6163,7 @@
                   "image_animated": "assets/images/community-personnel/جار.webp"
                 },
                 {
+                "option_id": 3,
                   "word_name": "اصم",
                   "word_voice": "اصم",
                   "image_static": "assets/images/community-personnel/11-اصم.webp",
@@ -6022,15 +6173,15 @@
               },
               {
                 "question_id": 2,
-                "correct_answer": "أَفْرَادِ الْمُجْتَمَعِ ",
-                "word_voice": "أَفْرَادِ الْمُجْتَمَعِ ",
+                "correct_answer": "أَفْرَادِ الْمُجْتَمَعِ",
+                "word_voice": "أَفْرَادِ الْمُجْتَمَعِ",
                   "image_static": "assets/images/community-personnel/أفراد المجتمع-11.webp",
                   "image_animated": "assets/images/community-personnel/أفراد المجتمع.webp",
                 "options": [
                   {
                     "option_id": 1,
                     "word_name": " أَفْرَادِ الْمُجْتَمَعِ",
-                    "word_voice": "أَفْرَادِ الْمُجْتَمَعِ ",
+                    "word_voice": "أَفْرَادِ الْمُجْتَمَعِ",
                     "image_static": "assets/images/community-personnel/أفراد المجتمع-11.webp",
                     "image_animated": "assets/images/community-personnel/أفراد المجتمع.webp"
                   },
@@ -6038,8 +6189,8 @@
                     "option_id": 2,
                     "word_name": "أُمِّي لِإِيقَرَاء",
                     "word_voice": "أُمِّي لِإِيقَرَاء",
-                    "image_static": "assets/images/community-personnel/11-امي-لايقراء.webp",
-                    "image_animated": "assets/images/community-personnel/امي-لايقراء.webp"
+                    "image_static": "assets/images/community-personnel/11-امي.webp",
+                    "image_animated": "assets/images/community-personnel/امي.webp"
                   },
                   {
                     "option_id": 3,
@@ -6054,8 +6205,8 @@
                 "question_id": 3,
                "correct_answer":"أُمِّي لِإِيقَرَاء",
                  "word_voice": "أُمِّي لِإِيقَرَاء",
-                 "image_static": "assets/images/community-personnel/11-امي-لايقراء.webp",
-                 "image_animated": "assets/images/community-personnel/امي-لايقراء.webp",
+                 "image_static": "assets/images/community-personnel/11-امي.webp",
+                 "image_animated": "assets/images/community-personnel/امي.webp",
               
               "options": [
                 {
@@ -6069,8 +6220,8 @@
                   "option_id": 2,
                   "word_name": "أُمِّي لِإِيقَرَاء",
                   "word_voice": "أُمِّي لِإِيقَرَاء",
-                  "image_static": "assets/images/community-personnel/11-امي-لايقراء.webp",
-                  "image_animated": "assets/images/community-personnel/امي-لايقراء.webp"
+                  "image_static": "assets/images/community-personnel/11-امي.webp",
+                  "image_animated": "assets/images/community-personnel/امي.webp"
                 },
                 {
                   "option_id": 3,
@@ -6100,8 +6251,8 @@
                   "option_id": 2,
                   "word_name": "أُمِّي لِإِيقَرَاء",
                   "word_voice": "أُمِّي لِإِيقَرَاء",
-                  "image_static": "assets/images/community-personnel/11-امي-لايقراء.webp",
-                  "image_animated": "assets/images/community-personnel/امي-لايقراء.webp"
+                  "image_static": "assets/images/community-personnel/11-امي.webp",
+                  "image_animated": "assets/images/community-personnel/امي.webp"
                 },
                 {
                   "option_id": 3,
@@ -6467,7 +6618,7 @@
                 "question_id": 5,
                 "correct_answer": "مُرْتَاح",
                 "word_voice": "مُرْتَاح",
-                  "image_static": "assets/images/community-personnel/11-مرتاح.",
+                  "image_static": "assets/images/community-personnel/11-مرتاح.webp",
                   "image_animated": "assets/images/community-personnel/مرتاح.webp"
               },
               "options": [
@@ -6482,7 +6633,7 @@
                   "option_id": 2,
                   "word_name": "مُرْتَاح",
                   "word_voice": "مُرْتَاح",
-                  "image_static": "assets/images/community-personnel/11-مرتاح.",
+                  "image_static": "assets/images/community-personnel/11-مرتاح.webp",
                   "image_animated": "assets/images/community-personnel/مرتاح.webp"
                 }
               ]
@@ -6491,7 +6642,7 @@
           "lesson_exam": {
             "exam_id": 3,
             "exam_name": "إختبار الدرس الثالث",
-           "image": "assets/images/Alphabetics/1-زاي.webp",
+           "image": "assets/images/Alphabetics/11-فقير.webp",
             "questions": [
               {
                "question_id": 1,
@@ -6571,7 +6722,7 @@
                   "option_id": 3,
                   "word_name": "مُرْتَاح",
                   "word_voice": "مُرْتَاح",
-                  "image_static": "assets/images/community-personnel/11-مرتاح.",
+                  "image_static": "assets/images/community-personnel/11-مرتاح.webp",
                   "image_animated": "assets/images/community-personnel/مرتاح.webp"
                 }
               ]
@@ -6601,7 +6752,7 @@
                   "option_id": 3,
                   "word_name": "مُرْتَاح",
                   "word_voice": "مُرْتَاح",
-                  "image_static": "assets/images/community-personnel/11-مرتاح.",
+                  "image_static": "assets/images/community-personnel/11-مرتاح.webp",
                   "image_animated": "assets/images/community-personnel/مرتاح.webp"
                 }
               ]
@@ -6610,7 +6761,7 @@
                 "question_id": 5,
                 "correct_answer": "مُرْتَاح",
                 "word_voice": "مُرْتَاح",
-                  "image_static": "assets/images/community-personnel/11-مرتاح.",
+                  "image_static": "assets/images/community-personnel/11-مرتاح.webp",
                   "image_animated": "assets/images/community-personnel/مرتاح.webp",
               "options": [
                 {
@@ -6624,7 +6775,7 @@
                   "option_id": 2,
                   "word_name": "مُرْتَاح",
                   "word_voice": "مُرْتَاح",
-                  "image_static": "assets/images/community-personnel/11-مرتاح.",
+                  "image_static": "assets/images/community-personnel/11-مرتاح.webp",
                   "image_animated": "assets/images/community-personnel/مرتاح.webp"
                 },
                 {
@@ -7470,32 +7621,6 @@
               "exercise_id": 2,
               "question": {
                 "question_id": 2,
-                "correct_answer": "عروس",
-                "word_voice": "عروس",
-                  "image_static": "assets/images/community-personnel/11-عروس.webp",
-                  "image_animated": "assets/images/community-personnel/عروس.webp"
-              },
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "عروس",
-                  "word_voice": "عروس",
-                  "image_static": "assets/images/community-personnel/11-عروس.webp",
-                  "image_animated": "assets/images/community-personnel/عروس.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "رَجُل",
-                  "word_voice": "رَجُل",
-                  "image_static": "assets/images/community-personnel/4-رجل.webp",
-                  "image_animated": "assets/images/community-personnel/رجل.webp"
-                }
-              ]
-            },
-            {
-              "exercise_id": 3,
-              "question": {
-                "question_id": 3,
                 "correct_answer": "امرأة",
                 "word_voice": "امرأة",
                 "image_static": "assets/images/community-personnel/11-امرأة.webp",
@@ -7519,9 +7644,9 @@
               ]
             },
             {
-              "exercise_id": 4,
+              "exercise_id": 3,
               "question": {
-                "question_id": 4,
+                "question_id": 3,
                 "correct_answer": "خطوبة",
                 "word_voice": "خطوبة",
                 "image_static": "assets/images/community-personnel/4-خطوبه.webp",
@@ -7613,36 +7738,6 @@
               },
               {
                 "question_id": 3,
-                "correct_answer": "عروس",
-                "word_voice": "عروس",
-                "image_static": "assets/images/community-personnel/11-عروس.webp",
-                "image_animated": "assets/images/community-personnel/عروس.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "شعب",
-                  "word_voice": "شعب",
-                  "image_static": "assets/images/community-personnel/4-شعب.webp",
-                  "image_animated": "assets/images/community-personnel/شعب.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "رَجُل",
-                  "word_voice": "رَجُل",
-                  "image_static": "assets/images/community-personnel/4-رجل.webp",
-                  "image_animated": "assets/images/community-personnel/رجل.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "عروس",
-                  "word_voice": "عروس",
-                  "image_static": "assets/images/community-personnel/11-عروس.webp",
-                  "image_animated": "assets/images/community-personnel/عروس.webp"
-                }
-              ]
-              },
-              {
-                "question_id": 4,
                 "correct_answer": "عريس",
                 "word_voice": "عريس",
                 "image_static": "assets/images/community-personnel/11-عريس.webp",
@@ -7664,10 +7759,10 @@
                 },
                 {
                   "option_id": 3,
-                  "word_name": "عروس",
-                  "word_voice": "عروس",
-                  "image_static": "assets/images/community-personnel/11-عروس.webp",
-                  "image_animated": "assets/images/community-personnel/عروس.webp"
+                  "word_name": "ناس",
+                  "word_voice": "ناس",
+                  "image_static": "assets/images/community-personnel/4-ناس.webp",
+                  "image_animated": "assets/images/community-personnel/ناس.webp"
                 }
               ]
               }
@@ -7728,8 +7823,8 @@
                     "option_id": 2,
                     "word_name": "أُمِّي لِإِيقَرَاء",
                     "word_voice": "أُمِّي لِإِيقَرَاء",
-                    "image_static": "assets/images/community-personnel/11-امي-لايقراء.webp",
-                    "image_animated": "assets/images/community-personnel/امي-لايقراء.webp"
+                    "image_static": "assets/images/community-personnel/11-امي.webp",
+                    "image_animated": "assets/images/community-personnel/امي.webp"
                   },
                   {
                     "option_id": 3,
@@ -7770,7 +7865,6 @@
                 }
             ]
           },
-  
           {
             "question_id": 4,
                 "correct_answer": "مِسْكِين",
@@ -7860,36 +7954,6 @@
                   "image_animated": "assets/images/community-personnel/ولد.webp"
                 }
             ]
-          },
-          {
-            "question_id": 7,
-                "correct_answer": "مَكْفُوف",
-               "word_voice": "مَكْفُوف",
-                  "image_static": "assets/images/community-personnel/11-مكفوف.webp",
-                  "image_animated": "assets/images/community-personnel/مكفوف.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "مُقِيم",
-                  "word_voice": "مُقِيم",
-                  "image_static": "assets/images/community-personnel/11-مقيم.webp",
-                  "image_animated": "assets/images/community-personnel/مقيم.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "مَنْدُوب ",
-                  "word_voice": "مَنْدُوب ",
-                  "image_static": "assets/images/community-personnel/11-مندوب.webp",
-                  "image_animated": "assets/images/community-personnel/مندوب.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "مَكْفُوف",
-                  "word_voice": "مَكْفُوف",
-                  "image_static": "assets/images/community-personnel/11-مكفوف.webp",
-                  "image_animated": "assets/images/community-personnel/مكفوف.webp"
-                }
-            ]
           }
         ]
       }
@@ -7960,7 +8024,7 @@
                 "question_id": 3,
                 "correct_answer": "خباز",
                "word_voice": "خباز",
-                "image_static": "assets/images/professions-crafts/خباز-13.webp",
+                "image_static": "assets/images/professions-crafts/13-خباز.webp",
                 "image_animated": "assets/images/professions-crafts/خباز.webp"
               },
               "options": [
@@ -7975,7 +8039,7 @@
                   "option_id": 2,
                   "word_name": "خباز",
                 "word_voice": "خباز",
-                "image_static": "assets/images/professions-crafts/خباز-13.webp",
+                "image_static": "assets/images/professions-crafts/13-خباز.webp",
                 "image_animated": "assets/images/professions-crafts/خباز.webp"
                 }
               ]
@@ -8027,7 +8091,7 @@
                   "option_id": 2,
                   "word_name": "خباز",
                 "word_voice": "خباز",
-                "image_static": "assets/images/professions-crafts/خباز-13.webp",
+                "image_static": "assets/images/professions-crafts/13-خباز.webp",
                 "image_animated": "assets/images/professions-crafts/خباز.webp"
                 }
               ]
@@ -8063,7 +8127,7 @@
                   "option_id": 3,
                  "word_name": "خباز",
                 "word_voice": "خباز",
-                "image_static": "assets/images/professions-crafts/خباز-13.webp",
+                "image_static": "assets/images/professions-crafts/13-خباز.webp",
                 "image_animated": "assets/images/professions-crafts/خباز.webp"
                 }
               ]
@@ -8093,7 +8157,7 @@
                   "option_id": 3,
                  "word_name": "خباز",
                 "word_voice": "خباز",
-                "image_static": "assets/images/professions-crafts/خباز-13.webp",
+                "image_static": "assets/images/professions-crafts/13-خباز.webp",
                 "image_animated": "assets/images/professions-crafts/خباز.webp"
                 }
                 ]
@@ -8102,7 +8166,7 @@
                 "question_id": 3,
                 "correct_answer": "خباز",
                "word_voice": "خباز",
-                "image_static": "assets/images/professions-crafts/خباز-13.webp",
+                "image_static": "assets/images/professions-crafts/13-خباز.webp",
                 "image_animated": "assets/images/professions-crafts/خباز.webp",
               "options": [
                 {
@@ -8116,7 +8180,7 @@
                   "option_id": 2,
                   "word_name": "خباز",
                 "word_voice": "خباز",
-                "image_static": "assets/images/professions-crafts/خباز-13.webp",
+                "image_static": "assets/images/professions-crafts/13-خباز.webp",
                 "image_animated": "assets/images/professions-crafts/خباز.webp"
                 },
                 {
@@ -8154,7 +8218,7 @@
                   "option_id": 3,
                  "word_name": "خباز",
                 "word_voice": "خباز",
-                "image_static": "assets/images/professions-crafts/خباز-13.webp",
+                "image_static": "assets/images/professions-crafts/13-خباز.webp",
                 "image_animated": "assets/images/professions-crafts/خباز.webp"
                 }
                 ]
@@ -8177,7 +8241,7 @@
                   "option_id": 2,
                   "word_name": "خباز",
                 "word_voice": "خباز",
-                "image_static": "assets/images/professions-crafts/خباز-13.webp",
+                "image_static": "assets/images/professions-crafts/13-خباز.webp",
                 "image_animated": "assets/images/professions-crafts/خباز.webp"
                 },
                 {
@@ -8280,18 +8344,18 @@
               "exercise_id": 4,
               "question": {
                 "question_id": 4,
-                "correct_answer": "مذيع ",
-              "word_voice": "مذيع ",
-                  "image_static": "assets/images/community-personnel/13-مذيع.webp",
-                  "image_animated": "assets/images/community-personnel/مذيع.webp"
+                "correct_answer": "مذيع",
+              "word_voice": "مذيع",
+                  "image_static": "assets/images/professions-crafts/13-مذيع.webp",
+                  "image_animated": "assets/images/professions-crafts/مذيع.webp"
               },
               "options": [
                 {
                   "option_id": 1,
-                  "word_name": "مذيع ",
-                  "word_voice": "مذيع ",
-                  "image_static": "assets/images/community-personnel/13-مذيع.webp",
-                  "image_animated": "assets/images/community-personnel/مذيع.webp"
+                  "word_name": "مذيع",
+                  "word_voice": "مذيع",
+                  "image_static": "assets/images/professions-crafts/13-مذيع.webp",
+                  "image_animated": "assets/images/professions-crafts/مذيع.webp"
                 },
                 {
                   "option_id": 2,
@@ -8363,8 +8427,8 @@
                   "option_id": 3,
                   "word_name": "مذيع ",
                   "word_voice": "مذيع ",
-                  "image_static": "assets/images/community-personnel/13-مذيع.webp",
-                  "image_animated": "assets/images/community-personnel/مذيع.webp"
+                  "image_static": "assets/images/professions-crafts/13-مذيع.webp",
+                  "image_animated": "assets/images/professions-crafts/مذيع.webp"
                 }
                 ]
               },
@@ -8402,15 +8466,15 @@
                   "question_id": 4,
                 "correct_answer": "مذيع",
               "word_voice": "مذيع",
-                  "image_static": "assets/images/community-personnel/13-مذيع.webp",
-                  "image_animated": "assets/images/community-personnel/مذيع.webp",
+                  "image_static": "assets/images/professions-crafts/13-مذيع.webp",
+                  "image_animated": "assets/images/professions-crafts/مذيع.webp",
               "options": [
                 {
                   "option_id": 1,
                   "word_name": "مذيع",
                   "word_voice": "مذيع",
-                  "image_static": "assets/images/community-personnel/13-مذيع.webp",
-                  "image_animated": "assets/images/community-personnel/مذيع.webp"
+                  "image_static": "assets/images/professions-crafts/13-مذيع.webp",
+                  "image_animated": "assets/images/professions-crafts/مذيع.webp"
                 },
                 {
                   "option_id": 2,
@@ -8917,13 +8981,13 @@
       "category_final_exam": {
         "exam_id": 2,
         "exam_name": "إختبار فئة حراف ومهن",  
-        "image":"assets/images/Alphabetics/13-الحرف.webp",
+        "image":"assets/images/professions-crafts/13-رسام.webp",
         "questions": [
           {
             "question_id": 1,
                 "correct_answer": "خباز",
                "word_voice": "خباز",
-                "image_static": "assets/images/professions-crafts/خباز-13.webp",
+                "image_static": "assets/images/professions-crafts/13-خباز.webp",
                 "image_animated": "assets/images/professions-crafts/خباز.webp",
               "options": [
                 {
@@ -8937,7 +9001,7 @@
                   "option_id": 2,
                   "word_name": "خباز",
                 "word_voice": "خباز",
-                "image_static": "assets/images/professions-crafts/خباز-13.webp",
+                "image_static": "assets/images/professions-crafts/13-خباز.webp",
                 "image_animated": "assets/images/professions-crafts/خباز.webp"
                 },
                 {
@@ -9013,7 +9077,7 @@
             "question_id": 4,
                 "correct_answer": "خباز",
                "word_voice": "خباز",
-                "image_static": "assets/images/professions-crafts/خباز-13.webp",
+                "image_static": "assets/images/professions-crafts/13-خباز.webp",
                 "image_animated": "assets/images/professions-crafts/خباز.webp",
               "options": [
                 {
@@ -9027,7 +9091,7 @@
                   "option_id": 2,
                   "word_name": "خباز",
                 "word_voice": "خباز",
-                "image_static": "assets/images/professions-crafts/خباز-13.webp",
+                "image_static": "assets/images/professions-crafts/13-خباز.webp",
                 "image_animated": "assets/images/professions-crafts/خباز.webp"
                 },
                 {
@@ -9239,138 +9303,6 @@
               "image_animated": "assets/images/animals/دودة.webp"
                 }
               ]
-            },
-            {
-              "exercise_id": 1,
-              "question": {
-                "question_id": 1,
-                "correct_answer": "اخطبوط",
-             "word_voice": "اخطبوط",
-              "image_static": "assets/images/animals/3-اخطبوط.webp",
-              "image_animated": "assets/images/animals/اخطبوط.webp"
-              },
-              "options": [
-                {
-                  "option_id": 1,
-                 "word_name": "بعوض",
-              "word_voice": "بعوض",
-              "image_static": "assets/images/animals/3-بعوض.webp",
-              "image_animated": "assets/images/animals/بعوض.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "اخطبوط",
-                  "word_voice": "اخطبوط",
-                  "image_static": "assets/images/animals/3-اخطبوط.webp",
-                  "image_animated": "assets/images/animals/اخطبوط.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "بقرة",
-              "word_voice": "بقرة",
-              "image_static": "assets/images/animals/3-بقرة.webp",
-              "image_animated": "assets/images/animals/بقرة.webp"
-                }
-              ]
-            },
-            {
-              "exercise_id": 3,
-              "question": {
-                "question_id": 3,
-                "correct_answer": "ببغاء",
-                "word_voice": "ببغاء",
-                "image_static": "assets/images/animals/3-ببغاء.webp",
-                "image_animated": "assets/images/animals/ببغاء.webp"
-              },
-              "options": [
-                {
-                  "option_id": 1,
-                "word_name": "ببغاء",
-              "word_voice": "ببغاء",
-              "image_static": "assets/images/animals/3-ببغاء.webp",
-              "image_animated": "assets/images/animals/ببغاء.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "بعوض",
-              "word_voice": "بعوض",
-              "image_static": "assets/images/animals/3-بعوض.webp",
-              "image_animated": "assets/images/animals/بعوض.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "بقرة",
-              "word_voice": "بقرة",
-              "image_static": "assets/images/animals/3-بقرة.webp",
-              "image_animated": "assets/images/animals/بقرة.webp"
-                }
-              ]
-            },
-            {
-              "exercise_id": 4,
-              "question": {
-                "question_id": 4,
-                "correct_answer": "بطه",
-                "word_voice": "بطه",
-                "image_static": "assets/images/animals/3-بطه.webp",
-                "image_animated": "assets/images/animals/بطه.webp"
-              },
-              "options": [
-                {
-                  "option_id": 1,
-                "word_name": "بطه",
-              "word_voice": "بطه",
-              "image_static": "assets/images/animals/3-بطه.webp",
-              "image_animated": "assets/images/animals/بطه.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "بعوض",
-              "word_voice": "بعوض",
-              "image_static": "assets/images/animals/3-بعوض.webp",
-              "image_animated": "assets/images/animals/بعوض.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "بقرة",
-              "word_voice": "بقرة",
-              "image_static": "assets/images/animals/3-بقرة.webp",
-              "image_animated": "assets/images/animals/بقرة.webp"
-                }
-              ]
-            },
-            {
-              "exercise_id": 5,
-              "question": {
-                "question_id": 5,
-                "correct_answer": "بطريق",
-                "word_voice": "بطريق",
-              "image_static": "assets/images/animals/3-بطريق.webp",
-              "image_animated": "assets/images/animals/بطريق.webp"
-              },
-              "options": [
-                {
-                  "option_id": 1,
-                 "word_name": "بطريق",
-              "word_voice": "بطريق",
-              "image_static": "assets/images/animals/3-بطريق.webp",
-              "image_animated": "assets/images/animals/بطريق.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "بعوض",
-              "word_voice": "بعوض",
-              "image_static": "assets/images/animals/3-بعوض.webp",
-              "image_animated": "assets/images/animals/بعوض.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "بقرة",
-              "word_voice": "بقرة",
-              "image_static": "assets/images/animals/3-بقرة.webp",
-              "image_animated": "assets/images/animals/بقرة.webp"
-                }
-              ]
             }
           ],
           "lesson_exam": {
@@ -9387,10 +9319,10 @@
               "options": [
                 {
                   "option_id": 1,
-                  "word_name": "بقرة",
-                  "word_voice": "بقرة",
-                  "image_static": "assets/images/animals/3-بقرة.webp",
-                  "image_animated": "assets/images/animals/بقرة.webp"
+                  "word_name": "حوت",
+              "word_voice": "حوت",
+              "image_static": "assets/images/animals/3-حوت.webp",
+              "image_animated": "assets/images/animals/حوت.webp"
                 },
                 {
                   "option_id": 2,
@@ -9409,7 +9341,7 @@
               ]
               },
               {
-                "question_id": 1,
+                "question_id": 2,
                 "correct_answer": "حيوانات",
                 "word_voice": "حيوانات",
               "image_static": "assets/images/animals/3-حيوانات.webp",
@@ -10228,32 +10160,6 @@
               "image_animated": "assets/images/animals/نعامة.webp"
                 }
               ]
-            },
-            {
-              "exercise_id": 5,
-              "question": {
-                "question_id": 5,
-                "correct_answer": "ماعز",
-                "word_voice": "ماعز",
-                  "image_static": "assets/images/animals/3-ماعز.webp",
-                  "image_animated": "assets/images/animals/ماعز.webp"
-              },
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "ماعز",
-                  "word_voice": "ماعز",
-                  "image_static": "assets/images/animals/3-ماعز.webp",
-                  "image_animated": "assets/images/animals/ماعز.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "نعامة",
-              "word_voice": "نعامة",
-              "image_static": "assets/images/animals/3-نعامة.webp",
-              "image_animated": "assets/images/animals/نعامة.webp"
-                }
-              ]
             }
           ],
           "lesson_exam": {
@@ -10261,38 +10167,9 @@
             "exam_name": "إختبار الدرس الرابع",
             "image":  "assets/images/animals/3-خفاش.webp",
             "questions": [
+             
               {
                 "question_id": 1,
-                "correct_answer": "ماعز",
-                  "word_voice": "ماعز",
-                  "image_static": "assets/images/animals/3-ماعز.webp",
-                  "image_animated": "assets/images/animals/ماعز.webp"  ,
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "ماعز",
-                  "word_voice": "ماعز",
-                  "image_static": "assets/images/animals/3-ماعز.webp",
-                  "image_animated": "assets/images/animals/ماعز.webp" 
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "حوت",
-                  "word_voice": "حوت",
-                  "image_static": "assets/images/animals/3-حوت.webp",
-                  "image_animated": "assets/images/animals/حوت.webp"
-                },
-                {
-                  "option_id": 3,
-                 "word_name": "خروف",
-              "word_voice": "خروف",
-              "image_static": "assets/images/animals/3-خروف.webp",
-              "image_animated": "assets/images/animals/خروف.webp"
-                }
-              ]
-              },
-              {
-                "question_id": 2,
                 "correct_answer": "حصان",
                 "word_voice": "حصان",
               "image_static": "assets/images/animals/3-حصان.webp",
@@ -10322,7 +10199,7 @@
               ]
               },
               {
-                "question_id": 3,
+                "question_id": 2,
                 "correct_answer": "وعل",
                "word_voice": "وعل",
               "image_static": "assets/images/animals/3-وعل.webp",
@@ -10352,7 +10229,7 @@
               ]
               },
               {
-                "question_id": 4,
+                "question_id": 3,
                 "correct_answer": "نعامة",
                 "word_voice": "نعامة",
                 "image_static": "assets/images/animals/3-نعامة.webp",
@@ -10382,7 +10259,7 @@
               ]
               },
               {
-               "question_id": 5,
+               "question_id": 4,
                 "correct_answer": "جمل",
                 "word_voice": "جمل",
                   "image_static": "assets/images/animals/3-جمل.webp",
@@ -10717,16 +10594,16 @@
                 "question_id": 1,
                 "correct_answer": "سُلَحْفَاة",
                 "word_voice": "سُلَحْفَاة",
-                "image_static": "assets/images/animals/3-سحلفاة.webp",
-                "image_animated": "assets/images/animals/سحلفاة.webp"
+                "image_static": "assets/images/animals/3-سلحفاة.webp",
+                "image_animated": "assets/images/animals/سلحفاة.webp"
               },
               "options": [
                 {
                   "option_id": 1,
                   "word_name": "سُلَحْفَاة",
             "word_voice": "سُلَحْفَاة",
-            "image_static": "assets/images/animals/3-سحلفاة.webp",
-            "image_animated": "assets/images/animals/سحلفاة.webp"
+            "image_static": "assets/images/animals/3-سلحفاة.webp",
+            "image_animated": "assets/images/animals/سلحفاة.webp"
                 },
                 {
                   "option_id": 2,
@@ -10930,7 +10807,7 @@
                 },
                 {
                   "option_id": 3,
-                  "word_name": "بَطَّة",
+                  "word_name": "بطه",
             "word_voice": "بَطَّة",
             "image_static": "assets/images/animals/3-بطه.webp",
             "image_animated": "assets/images/animals/بطه.webp"
@@ -10969,10 +10846,10 @@
               },
               {
                 "question_id": 5,
-                "correct_answer": "سحلفاة",
-                "word_voice": "سحلفاة",
-                "image_static": "assets/images/animals/3-سحلفاة.webp",
-                "image_animated": "assets/images/animals/سحلفاة.webp",
+                "correct_answer": "سلحفاة",
+                "word_voice": "سلحفاة",
+                "image_static": "assets/images/animals/3-سلحفاة.webp",
+                "image_animated": "assets/images/animals/سلحفاة.webp",
               "options": [
                 {
                   "option_id": 1,
@@ -10990,10 +10867,10 @@
                 },
                 {
                   "option_id": 3,
-                  "word_name": "سحلفاة",
-                  "word_voice": "سحلفاة",
-                  "image_static": "assets/images/animals/3-سحلفاة.webp",
-                  "image_animated": "assets/images/animals/سحلفاة.webp"
+                  "word_name": "سلحفاة",
+                  "word_voice": "سلحفاة",
+                  "image_static": "assets/images/animals/3-سلحفاة.webp",
+                  "image_animated": "assets/images/animals/سلحفاة.webp"
                 }
               ]
               }
@@ -11016,7 +10893,7 @@
               "options": [
                 {
                   "option_id": 1,
-                  "word_name": "سِنْجَاب",
+                  "word_name": "سنجاب",
                   "word_voice": "سِنْجَاب",
                   "image_static": "assets/images/animals/3-سنجاب.webp",
                   "image_animated": "assets/images/animals/سنجاب.webp"
@@ -11094,10 +10971,10 @@
               "options": [
                 {
                   "option_id": 1,
-                  "word_name": "سحلفاة",
-              "word_voice": "سحلفاة",
-              "image_static": "assets/images/animals/3-سحلفاة.webp",
-              "image_animated": "assets/images/animals/سحلفاة.webp"
+                  "word_name": "سلحفاة",
+              "word_voice": "سلحفاة",
+              "image_static": "assets/images/animals/3-سلحفاة.webp",
+              "image_animated": "assets/images/animals/سلحفاة.webp"
                 },
                 {
                   "option_id": 2,
@@ -11213,7 +11090,7 @@
               "options": [
                 {
                   "option_id": 1,
-                  "word_name": "سِنْجَاب",
+                  "word_name": "سنجاب",
                   "word_voice": "سِنْجَاب",
                   "image_static": "assets/images/animals/3-سنجاب.webp",
                   "image_animated": "assets/images/animals/سنجاب.webp"
@@ -12538,10 +12415,10 @@
               "exercise_id": 5,
               "question": {
                 "question_id": 5,
-                "correct_answer": "زرافة",
-                "word_voice": "زرافة",
-            "image_static": "assets/images/animals/3-زرافة.webp",
-            "image_animated": "assets/images/animals/زرافة.webp"
+                "correct_answer": "طاووس",
+                "word_voice": "طاووس",
+            "image_static": "assets/images/animals/3-طاووس.webp",
+            "image_animated": "assets/images/animals/طاووس.webp"
               },
               "options": [
                 {
@@ -12553,10 +12430,10 @@
                 },
                 {
                   "option_id": 2,
-                  "word_name": "زرافة",
-            "word_voice": "زرافة",
-            "image_static": "assets/images/animals/3-زرافة.webp",
-            "image_animated": "assets/images/animals/زرافة.webp"
+                  "word_name": "طاووس",
+            "word_voice": "طاووس",
+            "image_static": "assets/images/animals/3-طاووس.webp",
+            "image_animated": "assets/images/animals/طاووس.webp"
                 }
               ]
             }
@@ -12569,10 +12446,10 @@
             "questions": [
               {
                 "question_id": 1,
-                "correct_answer": "زرافة",
-              "word_voice": "زرافة",
-              "image_static": "assets/images/animals/3-زرافة.webp",
-              "image_animated": "assets/images/animals/زرافة.webp",
+                "correct_answer": "طاووس",
+              "word_voice": "طاووس",
+              "image_static": "assets/images/animals/3-طاووس.webp",
+              "image_animated": "assets/images/animals/طاووس.webp",
               "options": [
                 {
                   "option_id": 1,
@@ -12583,10 +12460,10 @@
                 },
                 {
                   "option_id": 2,
-                 "word_name": "زرافة",
-              "word_voice": "زرافة",
-              "image_static": "assets/images/animals/3-زرافة.webp",
-              "image_animated": "assets/images/animals/زرافة.webp"
+                 "word_name": "طاووس",
+              "word_voice": "طاووس",
+              "image_static": "assets/images/animals/3-طاووس.webp",
+              "image_animated": "assets/images/animals/طاووس.webp"
                 },
                 {
                   "option_id": 3,
@@ -12906,68 +12783,6 @@
               "word_voice": "ديك",
               "image_static": "assets/images/animals/3-ديك.webp",
               "image_animated": "assets/images/animals/ديك.webp"
-            }
-          ]
-          } ,
-          {
-            "question_id": 7,
-             "correct_answer": "سحلية",
-             "word_voice": "سحلية",
-             "image_static": "assets/images/animals/3-سحلية.webp",
-             "image_animated": "assets/images/animals/سحلية.webp",
-           "options": [
-             {
-               "option_id": 1,
-               "word_name": "ديك",
-               "word_voice": "ديك",
-               "image_static": "assets/images/animals/3-ديك.webp",
-               "image_animated": "assets/images/animals/ديك.webp"
-              
-             },
-             {
-               "option_id": 2,
-               "word_name": "سحلية",
-               "word_voice": "سحلية",
-               "image_static": "assets/images/animals/3-سحلية.webp",
-               "image_animated": "assets/images/animals/سحلية.webp"
-             },
-             {
-               "option_id": 3,
-               "word_name": "ذبابة",
-               "word_voice": "ذبابة",
-               "image_static": "assets/images/animals/3-ذبابة.webp",
-               "image_animated": "assets/images/animals/ذبابة.webp"
-             }
-           ]
-           },
-           {
-            "question_id": 8,
-            "correct_answer": "ضبع",
-            "word_voice": "ضبع",
-            "image_static": "assets/images/animals/3-ضبع.webp",
-            "image_animated": "assets/images/animals/ضبع.webp",
-          "options": [
-            {
-              "option_id": 1,
-              "word_name": "ذبابة",
-              "word_voice": "ذبابة",
-              "image_static": "assets/images/animals/3-ذبابة.webp",
-              "image_animated": "assets/images/animals/ذبابة.webp"
-             
-            },
-            {
-              "option_id": 2,
-              "word_name": "ضبع",
-              "word_voice": "ضبع",
-              "image_static": "assets/images/animals/3-ضبع.webp",
-              "image_animated": "assets/images/animals/ضبع.webp"
-            },
-            {
-              "option_id": 3,
-              "word_name": "دودة",
-              "word_voice": "دودة",
-              "image_static": "assets/images/animals/3-دودة.webp",
-              "image_animated": "assets/images/animals/دودة.webp"
             }
           ]
           }
@@ -14428,9 +14243,9 @@
         }     
       ],
       "category_final_exam": {
-        "exam_id": 4,
+        "exam_id": 8,
         "exam_name": "إختبار فئة الملابس",
-        "image": "assets/images/Clothing/2-الملابس.webp",
+        "image": "assets/images/Clothing/2-جاكت.webp",
         "questions": [
           {
             "question_id": 1,
@@ -14582,6 +14397,36 @@
           "image_animated": "assets/images/Clothing/قفاز.webp"
             }
           ]
+          },
+          {
+              "question_id": 6,
+              "correct_answer": "سوستة",
+              "word_voice": "سوستة",
+            "image_static": "assets/images/Clothing/2-سوستة.webp",
+            "image_animated": "assets/images/Clothing/سوستة.webp",
+            "options": [
+              {
+                "option_id": 1,
+                "word_name": "شرشف",
+                "word_voice": "شرشف",
+                "image_static": "assets/images/Clothing/2-شرشف.webp",
+                "image_animated": "assets/images/Clothing/شرشف.webp"
+              },
+              {
+                "option_id": 2,
+            "word_name": "درع",
+            "word_voice": "درع",
+            "image_static": "assets/images/Clothing/2-درع.webp",
+            "image_animated": "assets/images/Clothing/درع.webp"
+              },
+              {
+                "option_id": 3,
+               "word_name": "سوستة",
+            "word_voice": "سوستة",
+            "image_static": "assets/images/Clothing/2-سوستة.webp",
+            "image_animated": "assets/images/Clothing/سوستة.webp"
+              }
+            ]
           }
         ]
       }
@@ -14601,7 +14446,7 @@
                 "correct_answer": "اماكن عامة",
                 "word_voice": "اماكن عامة",
                   "image_static": "assets/images/public-places/8-اماكن عامة.webp",
-                  "image_animated": "assets/images/public-places/اماكن عامة.webp"
+                  "image_animated": "assets/images/public-places/أماكن عامة.webp"
               },
               "options": [
                 {
@@ -14609,7 +14454,7 @@
                   "word_name": "اماكن عامة",
                   "word_voice": "اماكن عامة",
                   "image_static": "assets/images/public-places/8-اماكن عامة.webp",
-                  "image_animated": "assets/images/public-places/اماكن عامة.webp"
+                  "image_animated": "assets/images/public-places/أماكن عامة.webp"
                 },
                 {
                   "option_id": 2,
@@ -14679,7 +14524,7 @@
                 "correct_answer": "بوفيه",
                 "word_voice": "بوفيه",
                   "image_static": "assets/images/public-places/8-بوفيه.webp",
-                  "image_animated": "assets/images/public-places/بوفيه.webp"
+                  "image_animated": "assets/images/public-places/بوفية.webp"
               },
               "options": [
                 {
@@ -14687,7 +14532,7 @@
                   "word_name": "بوفيه",
                   "word_voice": "بوفيه",
                   "image_static": "assets/images/public-places/8-بوفيه.webp",
-                  "image_animated": "assets/images/public-places/بوفيه.webp"
+                  "image_animated": "assets/images/public-places/بوفية.webp"
                 },
                 {
                   "option_id": 2,
@@ -14766,7 +14611,7 @@
                 "correct_answer": "بوفيه",
                 "word_voice": "بوفيه",
                   "image_static": "assets/images/public-places/8-بوفيه.webp",
-                  "image_animated": "assets/images/public-places/بوفيه.webp",
+                  "image_animated": "assets/images/public-places/بوفية.webp",
               "options": [
                 {
                   "option_id": 1,
@@ -14787,7 +14632,7 @@
               "word_name": "بوفيه",
                   "word_voice": "بوفيه",
                   "image_static": "assets/images/public-places/8-بوفيه.webp",
-                  "image_animated": "assets/images/public-places/بوفيه.webp"
+                  "image_animated": "assets/images/public-places/بوفية.webp"
                 }
               ]
               },
@@ -14856,14 +14701,14 @@
                 "correct_answer": "اماكن عامة",
                 "word_voice": "اماكن عامة",
                   "image_static": "assets/images/public-places/8-اماكن عامة.webp",
-                  "image_animated": "assets/images/public-places/اماكن عامة.webp",
+                  "image_animated": "assets/images/public-places/أماكن عامة.webp",
               "options": [
                 {
                   "option_id": 1,
                   "word_name": "اماكن عامة",
                   "word_voice": "اماكن عامة",
                   "image_static": "assets/images/public-places/8-اماكن عامة.webp",
-                  "image_animated": "assets/images/public-places/اماكن عامة.webp"
+                  "image_animated": "assets/images/public-places/أماكن عامة.webp"
                 },
                 {
                   "option_id": 2,
@@ -15750,6 +15595,13 @@
                   "word_voice": "مكتب",
                   "image_static": "assets/images/public-places/8-مكتب.webp",
                   "image_animated": "assets/images/public-places/مكتب.webp"
+                },
+                {
+                "option_id": 3,
+                "word_name": "حراج",
+            "word_voice": "حراج",
+            "image_static": "assets/images/public-places/8-حراج.webp",
+            "image_animated": "assets/images/public-places/حراج.webp"
                 }
               ]
               }
@@ -15793,7 +15645,7 @@
                 "correct_answer": " منتزة",
                 "word_voice": " منتزة",
                 "image_static": "assets/images/public-places/8-منتزة.webp",
-                "image_animated": "assets/images/public-places/منتزة.webp"
+                "image_animated": "assets/images/public-places/منتزه.webp"
               },
               "options": [
                 {
@@ -15801,7 +15653,7 @@
                   "word_name": "منتزة",
                   "word_voice": "منتزة",
                   "image_static": "assets/images/public-places/8-منتزة.webp",
-                  "image_animated": "assets/images/public-places/منتزة.webp"
+                  "image_animated": "assets/images/public-places/منتزه.webp"
                 },
                 {
                   "option_id": 2,
@@ -15876,10 +15728,10 @@
               "options": [
                 {
                   "option_id": 1,
-                  "word_name": "بقالة",
-                  "word_voice": "بقالة",
-                  "image_static": "assets/images/public-places/8-بقالة.webp",
-                  "image_animated": "assets/images/public-places/بقالة.webp"
+                  "word_name": "دكان",
+                  "word_voice": "دكان",
+                  "image_static": "assets/images/public-places/8-دكان.webp",
+                  "image_animated": "assets/images/public-places/دكان.webp"
                 },
                 {
                   "option_id": 2,
@@ -15898,10 +15750,10 @@
             "questions": [
               {
                 "question_id": 1,
-                "correct_answer": "مطعم",
-                "word_voice": "مطعم",
-              "image_static": "assets/images/public-places/8-مطعم.webp",
-              "image_animated": "assets/images/public-places/مطعم.webp",
+                "correct_answer": "ملعب",
+                "word_voice": "ملعب",
+              "image_static": "assets/images/public-places/8-ملعب.webp",
+              "image_animated": "assets/images/public-places/ملعب.webp",
               "options": [
                 {
                   "option_id": 1,
@@ -15931,14 +15783,14 @@
                 "correct_answer": "منتزة",
                 "word_voice": "منتزة",
               "image_static": "assets/images/public-places/8-منتزة.webp",
-              "image_animated": "assets/images/public-places/منتزة.webp",
+              "image_animated": "assets/images/public-places/منتزه.webp",
               "options": [
                 {
                   "option_id": 1,
                   "word_name": "منتزة",
               "word_voice": "منتزة",
               "image_static": "assets/images/public-places/8-منتزة.webp",
-              "image_animated": "assets/images/public-places/منتزة.webp"
+              "image_animated": "assets/images/public-places/منتزه.webp"
                 },
                 {
                   "option_id": 2,
@@ -16083,7 +15935,7 @@
               "exercise_id": 2,
               "question": {
                 "question_id": 2,
-                "correct_answer": "محطة بترول ",
+                "correct_answer": "محطة بترول",
                 "word_voice": "محطة بترول ",
                 "image_static": "assets/images/public-places/8-محطة بترول.webp",
                 "image_animated": "assets/images/public-places/محطة بترول.webp"
@@ -16094,12 +15946,12 @@
                   "word_name": "منتزة ",
                   "word_voice": "منتزة ",
                   "image_static": "assets/images/public-places/8-منتزة.webp",
-                  "image_animated": "assets/images/public-places/منتزة.webp"
+                  "image_animated": "assets/images/public-places/منتزه.webp"
                 },
                 {
                   "option_id": 2,
-                  "word_name": "محطة بترول ",
-                  "word_voice": "محطة بترول ",
+                  "word_name": "محطة بترول",
+                  "word_voice": "محطة بترول",
                   "image_static": "assets/images/public-places/8-محطة بترول.webp",
                   "image_animated": "assets/images/public-places/محطة بترول.webp"
                 }
@@ -16156,37 +16008,11 @@
                   "image_animated": "assets/images/public-places/متحف.webp"
                 }
               ]
-            },
-            {
-              "exercise_id": 5,
-              "question": {
-                "question_id": 5,
-                "correct_answer": "بقالة",
-                "word_voice": "بقالة",
-                "image_static": "assets/images/public-places/8-بقالة.webp",
-                "image_animated": "assets/images/public-places/بقالة.webp"
-              },
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "بقالة",
-                  "word_voice": "بقالة",
-                  "image_static": "assets/images/public-places/8-بقالة.webp",
-                  "image_animated": "assets/images/public-places/بقالة.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "حديقة",
-                  "word_voice": "حديقة",
-                  "image_static": "assets/images/public-places/8-حديقة.webp",
-                  "image_animated": "assets/images/public-places/حديقة.webp"
-                }
-              ]
             }
           ],
           "lesson_exam": {
-            "exam_id": 5,
-            "exam_name": "إختبار الدرس الخامس",
+            "exam_id": 6,
+            "exam_name": "إختبار الدرس السادس",
             "image":  "assets/images/Accidents/8-مطعم.webp",
             "questions": [
               {
@@ -16221,10 +16047,10 @@
               },
               {
                "question_id": 2,
-                "correct_answer": "منتزة",
-                "word_voice": "منتزة",
+                "correct_answer": "محطة بترول",
+                "word_voice": "محطة بترول",
               "image_static": "assets/images/public-places/8-منتزة.webp",
-              "image_animated": "assets/images/public-places/منتزة.webp",
+              "image_animated": "assets/images/public-places/منتزه.webp",
               "options": [
                 {
                   "option_id": 1,
@@ -16242,19 +16068,19 @@
                 },
                 {
                   "option_id": 3,
-              "word_name": "منتزة",
-              "word_voice": "منتزة",
-              "image_static": "assets/images/public-places/8-منتزة.webp",
-              "image_animated": "assets/images/public-places/منتزة.webp"
+              "word_name": "محطة بترول",
+              "word_voice": "محطة بترول",
+              "image_static": "assets/images/public-places/8-محطة بترول.webp",
+              "image_animated": "assets/images/public-places/محطة بترول.webp"
                 }
               ]
               },
               {
                 "question_id": 3,
-                "correct_answer": "منظمة",
-               "word_voice": "منظمة",
-              "image_static": "assets/images/public-places/8-منظمة.webp",
-              "image_animated": "assets/images/public-places/منظمة.webp",
+                "correct_answer": "مجمع تجاري",
+               "word_voice": "مجمع تجاري",
+              "image_static": "assets/images/public-places/8-مجمع تجاري.webp",
+              "image_animated": "assets/images/public-places/مجمع تجاري.webp",
               "options": [
                 {
                   "option_id": 1,
@@ -16272,19 +16098,19 @@
                 },
                 {
                   "option_id": 3,
-                  "word_name": "حراج",
-              "word_voice": "حراج",
-              "image_static": "assets/images/public-places/8-حراج.webp",
-              "image_animated": "assets/images/public-places/حراج.webp"
+                  "word_name": "مجمع تجاري",
+              "word_voice": "مجمع تجاري",
+              "image_static": "assets/images/public-places/8-مجمع تجاري.webp",
+              "image_animated": "assets/images/public-places/مجمع تجاري.webp"
                 }
               ]
               },
               {
                 "question_id": 4,
-                "correct_answer": "نادي",
-                "word_voice": "نادي",
-                "image_static": "assets/images/public-places/8-نادي.webp",
-                "image_animated": "assets/images/public-places/نادي.webp",
+                "correct_answer": "متحف",
+                "word_voice": "متحف",
+                "image_static": "assets/images/public-places/8-متحف.webp",
+                "image_animated": "assets/images/public-places/متحف.webp",
               "options": [
                 {
                   "option_id": 1,
@@ -16295,40 +16121,10 @@
                 },
                 {
                   "option_id": 2,
-                  "word_name": "حديقة",
-                  "word_voice": "حديقة",
-                  "image_static": "assets/images/public-places/8-حديقة.webp",
-                  "image_animated": "assets/images/public-places/حديقة.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "حراج",
-              "word_voice": "حراج",
-              "image_static": "assets/images/public-places/8-حراج.webp",
-              "image_animated": "assets/images/public-places/حراج.webp"
-                }
-              ]
-              },
-              {
-              "question_id": 5,
-                "correct_answer": "وكالة",
-                "word_voice": "وكالة ",
-                "image_static": "assets/images/public-places/8-وكالة.webp",
-                "image_animated": "assets/images/public-places/وكالة.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "حديقة",
-                  "word_voice": "حديقة",
-                  "image_static": "assets/images/public-places/8-حديقة.webp",
-                  "image_animated": "assets/images/public-places/حديقة.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "وكالة ",
-                  "word_voice": "وكالة ",
-                  "image_static": "assets/images/public-places/8-وكالة.webp",
-                  "image_animated": "assets/images/public-places/وكالة.webp"
+                  "word_name": "متحف",
+                  "word_voice": "متحف",
+                  "image_static": "assets/images/public-places/8-متحف.webp",
+                  "image_animated": "assets/images/public-places/متحف.webp"
                 },
                 {
                   "option_id": 3,
@@ -16497,6 +16293,36 @@
               "image_animated": "assets/images/public-places/حراج.webp"
                 }
               ]
+           },
+           {
+            "question_id": 6,
+             "correct_answer": "دكان",
+             "word_voice": "دكان",
+             "image_static": "assets/images/public-places/8-دكان.webp",
+             "image_animated": "assets/images/public-places/دكان.webp",
+           "options": [
+             {
+               "option_id": 1,
+               "word_name": "دكان",
+           "word_voice": "دكان",
+           "image_static": "assets/images/public-places/8-دكان.webp",
+           "image_animated": "assets/images/public-places/دكان.webp"
+             },
+             {
+               "option_id": 2,
+               "word_name": "فرزة",
+           "word_voice": "فرزة",
+           "image_static": "assets/images/public-places/8-فرزة.webp",
+           "image_animated": "assets/images/public-places/فرزة.webp"
+             },
+             {
+               "option_id": 3,
+               "word_name": "فندق",
+               "word_voice": " فندق",
+               "image_static": "assets/images/public-places/8-فندق.webp",
+               "image_animated": "assets/images/public-places/فندق.webp"
+             }
+           ]
            }
         ]
       }
@@ -17471,17 +17297,17 @@
             "questions": [
               {
                 "question_id": 1,
-                "correct_answer": "كبير",
-                "word_voice": "كبير ",
-                "image_static": "assets/images/Attributes/9-كبير.webp",
-                "image_animated": "assets/images/Attributes/كبير.webp",
+                "correct_answer": "مُدْهَش",
+                "word_voice": "مُدْهَش",
+                  "image_static": "assets/images/Attributes/9-مدهش.webp",
+                  "image_animated": "assets/images/Attributes/مدهش.webp",
               "options": [
                 {
                   "option_id": 1,
-                  "word_name": "كبير ",
-                  "word_voice": "كبير ",
-                  "image_static": "assets/images/Attributes/9-كبير.webp",
-                  "image_animated": "assets/images/Attributes/كبير.webp"
+                  "word_name": "مُدْهَش",
+                  "word_voice": "مُدْهَش",
+                  "image_static": "assets/images/Attributes/9-مدهش.webp",
+                  "image_animated": "assets/images/Attributes/مدهش.webp"
                 },
                 {
                   "option_id": 2,
@@ -18177,10 +18003,10 @@
               },
               {
               "question_id": 5,
-                "correct_answer": "ساهر",
-                "word_voice": "ساهر",
-                "image_static": "assets/images/Attributes/9-ساهر.webp",
-                "image_animated": "assets/images/Attributes/ساهر.webp",
+                "correct_answer": "معتدل",
+                "word_voice": "معتدل",
+            "image_static": "assets/images/Attributes/9-معتدل.webp",
+            "image_animated": "assets/images/Attributes/معتدل.webp",
               "options": [
                 {
                   "option_id": 1,
@@ -18191,10 +18017,10 @@
                 },
                 {
                   "option_id": 2,
-                  "word_name": "ساهر",
-                  "word_voice": "ساهر",
-                  "image_static": "assets/images/Attributes/9-ساهر.webp",
-                  "image_animated": "assets/images/Attributes/ساهر.webp"
+                  "word_name": "معتدل",
+            "word_voice": "معتدل",
+            "image_static": "assets/images/Attributes/9-معتدل.webp",
+            "image_animated": "assets/images/Attributes/معتدل.webp"
                 },
                 {
                   "option_id": 3,
@@ -18315,32 +18141,6 @@
               "image_animated": "assets/images/Attributes/فائز.webp"
                 }
               ]
-            },
-            {
-              "exercise_id": 5,
-              "question": {
-                "question_id": 5,
-                "correct_answer": "حقيقي",
-                "word_voice": "حقيقي",
-                "image_static": "assets/images/Attributes/9-حقيقي.webp",
-                "image_animated": "assets/images/Attributes/حقيقي.webp"
-              },
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "فائز",
-                  "word_voice": "فائز",
-                  "image_static": "assets/images/Attributes/9-فائز.webp",
-                  "image_animated": "assets/images/Attributes/فائز.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "حقيقي",
-                  "word_voice": "حقيقي",
-                  "image_static": "assets/images/Attributes/9-حقيقي.webp",
-                  "image_animated": "assets/images/Attributes/حقيقي.webp"
-                }
-              ]
             }
           ],
           "lesson_exam": {
@@ -18458,36 +18258,6 @@
                   "word_voice": "اهبل",
                   "image_static": "assets/images/Attributes/9-اهبل.webp",
                   "image_animated": "assets/images/Attributes/اهبل.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "نظيف",
-              "word_voice": "نظيف",
-              "image_static": "assets/images/Attributes/9-نظيف.webp",
-              "image_animated": "assets/images/Attributes/نظيف.webp"
-                }
-              ]
-              },
-              {
-              "question_id": 5,
-                "correct_answer": "حقيقي",
-                "word_voice": "حقيقي",
-                "image_static": "assets/images/Attributes/9-حقيقي.webp",
-                "image_animated": "assets/images/Attributes/حقيقي.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "ساهر",
-              "word_voice": "ساهر",
-              "image_static": "assets/images/Attributes/9-ساهر.webp",
-              "image_animated": "assets/images/Attributes/ساهر.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "حقيقي",
-                  "word_voice": "حقيقي",
-                  "image_static": "assets/images/Attributes/9-حقيقي.webp",
-                  "image_animated": "assets/images/Attributes/حقيقي.webp"
                 },
                 {
                   "option_id": 3,
@@ -18764,10 +18534,10 @@
               },
               {
               "question_id": 5,
-                "correct_answer": "رخيص",
-                "word_voice": "رخيص",
-                "image_static": "assets/images/Attributes/9-رخيص.webp",
-                "image_animated": "assets/images/Attributes/رخيص.webp",
+                "correct_answer": "عالي",
+                "word_voice": "عالي",
+                "image_static": "assets/images/Attributes/9-عالي.webp",
+                "image_animated": "assets/images/Attributes/عالي.webp",
               "options": [
                 {
                   "option_id": 1,
@@ -18778,17 +18548,17 @@
                 },
                 {
                   "option_id": 2,
-                  "word_name": "حقيقي",
-                  "word_voice": "حقيقي",
-                  "image_static": "assets/images/Attributes/9-حقيقي.webp",
-                  "image_animated": "assets/images/Attributes/حقيقي.webp"
+                  "word_name": "خفيف",
+                  "word_voice": "خفيف",
+                  "image_static": "assets/images/Attributes/9-خفيف.webp",
+                  "image_animated": "assets/images/Attributes/خفيف.webp"
                 },
                 {
                   "option_id": 3,
-                  "word_name": "رخيص",
-              "word_voice": "رخيص",
-              "image_static": "assets/images/Attributes/9-رخيص.webp",
-              "image_animated": "assets/images/Attributes/رخيص.webp"
+                  "word_name": "عالي",
+              "word_voice": "عالي",
+              "image_static": "assets/images/Attributes/9-عالي.webp",
+              "image_animated": "assets/images/Attributes/عالي.webp"
                 }
               ]
               }
@@ -20001,18 +19771,18 @@
               "exercise_id": 2,
               "question": {
                 "question_id": 2,
-                "correct_answer": "متدلع",
-                "word_voice": "متدلع",
-                "image_static": "assets/images/Attributes/9-متدلع.webp",
-                "image_animated": "assets/images/Attributes/متدلع.webp"
+                "correct_answer": "مدلع",
+                "word_voice": "مدلع",
+                "image_static": "assets/images/Attributes/9-مدلع.webp",
+                "image_animated": "assets/images/Attributes/مدلع.webp"
               },
               "options": [
                 {
                   "option_id": 1,
-                  "word_name": "متدلع",
-                  "word_voice": "متدلع",
-                  "image_static": "assets/images/Attributes/9-متدلع.webp",
-                  "image_animated": "assets/images/Attributes/متدلع.webp"
+                  "word_name": "مدلع",
+                  "word_voice": "مدلع",
+                  "image_static": "assets/images/Attributes/9-مدلع.webp",
+                  "image_animated": "assets/images/Attributes/مدلع.webp"
                 },
                 {
                   "option_id": 2,
@@ -20139,17 +19909,17 @@
               },
               {
                "question_id": 2,
-                "correct_answer": "متدلع",
-                "word_voice": "متدلع",
-              "image_static": "assets/images/Attributes/9-متدلع.webp",
-              "image_animated": "assets/images/Attributes/متدلع.webp",
+                "correct_answer": "مدلع",
+                "word_voice": "مدلع",
+              "image_static": "assets/images/Attributes/9-مدلع.webp",
+              "image_animated": "assets/images/Attributes/مدلع.webp",
               "options": [
                 {
                   "option_id": 1,
-                  "word_name": "متدلع",
-              "word_voice": "متدلع",
-              "image_static": "assets/images/Attributes/9-متدلع.webp",
-              "image_animated": "assets/images/Attributes/متدلع.webp"
+                  "word_name": "مدلع",
+              "word_voice": "مدلع",
+              "image_static": "assets/images/Attributes/9-مدلع.webp",
+              "image_animated": "assets/images/Attributes/مدلع.webp"
                 },
                 {
                   "option_id": 2,
@@ -20302,10 +20072,10 @@
               "options": [
                 {
                   "option_id": 1,
-                  "word_name": "متدلع",
-                  "word_voice": "متدلع",
-                  "image_static": "assets/images/Attributes/9-متدلع.webp",
-                  "image_animated": "assets/images/Attributes/متدلع.webp"
+                  "word_name": "مدلع",
+                  "word_voice": "مدلع",
+                  "image_static": "assets/images/Attributes/9-مدلع.webp",
+                  "image_animated": "assets/images/Attributes/مدلع.webp"
                 },
                 {
                   "option_id": 2,
@@ -21416,8 +21186,8 @@
                   "option_id": 1,
                   "word_name": "نحيف",
               "word_voice": "نحيف",
-              "image_static": "assets/images/Attributes/9-نيحف.webp",
-              "image_animated": "assets/images/Attributes/نحيف.webp"
+          "image_static": "assets/images/Attributes/9-نحيف.webp",
+            "image_animated": "assets/images/Attributes/نحيف.webp"
                 },
                 {
                   "option_id": 2,
@@ -21438,8 +21208,8 @@
                 "question_id": 1,
                 "correct_answer": "نحيف",
                 "word_voice": "نحيف",
-              "image_static": "assets/images/Attributes/9-نيحف.webp",
-              "image_animated": "assets/images/Attributes/نحيف.webp",
+             "image_static": "assets/images/Attributes/9-نحيف.webp",
+            "image_animated": "assets/images/Attributes/نحيف.webp",
               "options": [
                 {
                   "option_id": 1,
@@ -21452,8 +21222,8 @@
                   "option_id": 2,
                   "word_name": "نحيف",
                   "word_voice": "نحيف",
-                  "image_static": "assets/images/Attributes/9-نيحف.webp",
-                  "image_animated": "assets/images/Attributes/نحيف.webp"
+                  "image_static": "assets/images/Attributes/9-نحيف.webp",
+            "image_animated": "assets/images/Attributes/نحيف.webp"
                 },
                 {
                   "option_id": 3,
@@ -21562,7 +21332,7 @@
       "category_final_exam": {
         "exam_id": 2,
         "exam_name": "إختبار فئة الصفات",
-        "image": "assets/images/Attributes/9-الصفات.webp",
+        "image": "assets/images/Attributes/9-نظيف.webp",
         "questions": [
           {
             "question_id": 1,
@@ -21713,6 +21483,36 @@
               "image_animated": "assets/images/Attributes/نظيف.webp"
                 }
               ]
+           },
+           {
+            "question_id": 6,
+             "correct_answer": "رخيص",
+             "word_voice": "رخيص",
+           "image_static": "assets/images/Attributes/9-رخيص.webp",
+           "image_animated": "assets/images/Attributes/رخيص.webp",
+           "options": [
+             {
+               "option_id": 1,
+               "word_name": "ساهر",
+           "word_voice": "ساهر",
+           "image_static": "assets/images/Attributes/9-ساهر.webp",
+           "image_animated": "assets/images/Attributes/ساهر.webp"
+             },
+             {
+               "option_id": 2,
+               "word_name": "رخيص",
+               "word_voice": "رخيص",
+               "image_static": "assets/images/Attributes/9-رخيص.webp",
+               "image_animated": "assets/images/Attributes/رخيص.webp"
+             },
+             {
+               "option_id": 3,
+               "word_name": "قريب",
+           "word_voice": "قريب",
+           "image_static": "assets/images/Attributes/9-قريب.webp",
+           "image_animated": "assets/images/Attributes/قريب.webp"
+             }
+           ]
            }
         ]
       }
@@ -23807,7 +23607,6 @@
           }
         },
         {
-    
         "lesson_id": 9,
           "lesson_name": "الدرس التاسع",
           "exercises": [
@@ -24134,16 +23933,16 @@
                 "question_id": 4,
                 "correct_answer": "عَلَى طُولِ",
                 "word_voice": "عَلَى طُولِ",
-                "image_static": "assets/images/times/10-على طول.webp",
-                "image_animated": "assets/images/times/طول.webp"
+                "image_static": "assets/images/times/10-طول.webp",
+                "image_animated": "assets/images/times/على طول.webp"
               },
               "options": [
                 {
                   "option_id": 1,
                 "word_name": "عَلَى طُولِ",
                 "word_voice": "عَلَى طُولِ",
-                "image_static": "assets/images/times/10-على طول.webp",
-                "image_animated": "assets/images/times/طول.webp"
+                "image_static": "assets/images/times/10-طول.webp",
+                "image_animated": "assets/images/times/على طول.webp"
                 },
                 {
                   "option_id": 2,
@@ -24254,14 +24053,14 @@
                 "question_id": 4,
                 "correct_answer": "عَلَى طُولِ",
                 "word_voice": "عَلَى طُولِ",
-                "image_static": "assets/images/times/10-على طول.webp",
+                "image_static": "assets/images/times/10-طول.webp",
                 "image_animated": "assets/images/times/على طول.webp",
               "options": [
                 {
                   "option_id": 1,
                 "word_name": "عَلَى طُولِ",
                 "word_voice": "عَلَى طُولِ",
-                "image_static": "assets/images/times/10-على طول.webp",
+                "image_static": "assets/images/times/10-طول.webp",
                 "image_animated": "assets/images/times/على طول.webp"
                 },
                 {
@@ -24471,97 +24270,6 @@
                   "image_animated": "assets/images/times/ساعة.webp" 
                 }
             ]
-          },
-          {
-            "question_id": 7,
-                "correct_answer": "ظُهْرٌ",
-                  "word_voice": "ظُهْرٌ",
-                  "image_static": "assets/images/times/10-ظهر.webp",
-                  "image_animated": "assets/images/times/ظهر.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "عَصْرٌ",
-                  "word_voice": "عَصْرٌ",
-                  "image_static": "assets/images/times/10-عصر.webp",
-                  "image_animated": "assets/images/times/عصر.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "ظُهْرٌ",
-                  "word_voice": "ظُهْرٌ",
-                  "image_static": "assets/images/times/10-ظهر.webp",
-                  "image_animated": "assets/images/times/ظهر.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "مَغْرِبٌ",
-                  "word_voice": "مَغْرِبٌ",
-                  "image_static": "assets/images/times/10-مغرب.webp",
-                  "image_animated": "assets/images/times/مغرب.webp"
-                }
-            ]
-          },
-          {
-            "question_id": 8,
-                "correct_answer": "لَيْل",
-                "word_voice": "لَيْل",
-                "image_static": "assets/images/times/10-ليل.webp",
-                "image_animated": "assets/images/times/ليل.webp"
-              ,
-              "options": [
-                {
-                  "option_id": 1,
-                "word_name": "لَيْل",
-                "word_voice": "لَيْل",
-                "image_static": "assets/images/times/10-ليل.webp",
-                "image_animated": "assets/images/times/ليل.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "فَجْر",
-                "word_voice": "فَجْر",
-                "image_static": "assets/images/times/10-فجر.webp",
-                "image_animated": "assets/images/times/فجر.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "يَوْمٍ",
-                "word_voice": "يَوْمٍ",
-                "image_static": "assets/images/times/10-يوم.webp",
-                "image_animated": "assets/images/times/يوم.webp"
-                }
-            ]
-          },
-          {
-            "question_id": 9,
-                "correct_answer":  "الرَّبِيع",
-                "word_voice": "الرَّبِيع",
-                "image_static": "assets/images/times/10-الربيع.webp",
-                "image_animated": "assets/images/times/الربيع.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "الرَّبِيع",
-                "word_voice": "الرَّبِيع",
-                "image_static": "assets/images/times/10-الربيع.webp",
-                "image_animated": "assets/images/times/الربيع.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "الْخَرِيف",
-                "word_voice": "الْخَرِيف",
-                "image_static": "assets/images/times/10-الخريف.webp",
-                "image_animated": "assets/images/times/الخريف.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "الصَّيْف",
-                "word_voice": "الصَّيْف",
-                "image_static": "assets/images/times/10-الصيف.webp",
-                "image_animated": "assets/images/times/الصيف.webp"
-                }
-            ]
           }
     
         ]
@@ -24579,8 +24287,8 @@
               "exercise_id": 1,
               "question": {
                 "question_id": 1,
-                "correct_answer": "الزِّرَاعَةُ",
-              "word_voice": "الزِّرَاعَةُ",
+                "correct_answer": "الزِّرَاعَة",
+              "word_voice": "الزِّرَاعَة",
               "image_static": "assets/images/Agriculture/12-الزراعة.webp",
               "image_animated": "assets/images/Agriculture/الزراعة.webp"
               },
@@ -24972,32 +24680,6 @@
                   "image_animated": "assets/images/Agriculture/سايلة.webp"
                 }
               ]
-            },
-            {
-              "exercise_id": 5,
-              "question": {
-                "question_id": 5,
-                "correct_answer":"سَمَاء",
-                  "word_voice": "سَمَاء",
-                  "image_static": "assets/images/Agriculture/12-سماء.webp",
-                  "image_animated": "assets/images/Agriculture/سماء.webp"
-              },
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "سَمَاء",
-                  "word_voice": "سَمَاء",
-                  "image_static": "assets/images/Agriculture/12-سماء.webp",
-                  "image_animated": "assets/images/Agriculture/سماء.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "سَاقَيْه",
-                  "word_voice": "سَاقَيْه",
-                  "image_static": "assets/images/Agriculture/12-ساقية.webp",
-                  "image_animated": "assets/images/Agriculture/ساقية.webp"
-                }
-              ]
             }
           ],
           "lesson_exam": {
@@ -25122,36 +24804,6 @@
                   "word_voice": "سايلة",
                   "image_static": "assets/images/Agriculture/12-سايلة.webp",
                   "image_animated": "assets/images/Agriculture/سايلة.webp"
-                }
-                ]
-              },
-              {
-                  "question_id": 5,
-                "correct_answer":"سَمَاء",
-                  "word_voice": "سَمَاء",
-                  "image_static": "assets/images/Agriculture/12-سماء.webp",
-                  "image_animated": "assets/images/Agriculture/سماء.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "سَمَاء",
-                  "word_voice": "سَمَاء",
-                  "image_static": "assets/images/Agriculture/12-سماء.webp",
-                  "image_animated": "assets/images/Agriculture/سماء.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "سَاقَيْه",
-                  "word_voice": "سَاقَيْه",
-                  "image_static": "assets/images/Agriculture/12-ساقية.webp",
-                  "image_animated": "assets/images/Agriculture/ساقية.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "حِرَاثَة",
-                  "word_voice": "حِرَاثَة",
-                  "image_static": "assets/images/Agriculture/12-حراثة.webp",
-                  "image_animated": "assets/images/Agriculture/حراثة.webp"
                 }
                 ]
               }
@@ -25816,38 +25468,7 @@
             ]
           },
           {
-            
             "question_id": 3,
-            "correct_answer":"سَمَاء",
-              "word_voice": "سَمَاء",
-              "image_static": "assets/images/Agriculture/12-سماء.webp",
-              "image_animated": "assets/images/Agriculture/سماء.webp",
-          "options": [
-            {
-              "option_id": 1,
-              "word_name": "سَمَاء",
-              "word_voice": "سَمَاء",
-              "image_static": "assets/images/Agriculture/12-سماء.webp",
-              "image_animated": "assets/images/Agriculture/سماء.webp"
-            },
-            {
-              "option_id": 2,
-              "word_name": "سَاقَيْه",
-              "word_voice": "سَاقَيْه",
-              "image_static": "assets/images/Agriculture/12-ساقية.webp",
-              "image_animated": "assets/images/Agriculture/ساقية.webp"
-            },
-            {
-              "option_id": 3,
-              "word_name": "حِرَاثَة",
-              "word_voice": "حِرَاثَة",
-              "image_static": "assets/images/Agriculture/12-حراثة.webp",
-              "image_animated": "assets/images/Agriculture/حراثة.webp"
-            }
-            ]
-          },
-          {
-            "question_id": 4,
                 "correct_answer":"طَاحُونٌ",
                   "word_voice": "طَاحُونٌ",
                   "image_static": "assets/images/Agriculture/12-طاحون.webp",
@@ -25877,7 +25498,7 @@
             ]
           },
           {
-           "question_id": 5,
+           "question_id": 4,
                 "correct_answer":  "قَاع",
                 "word_voice": "قَاع",
                 "image_static": "assets/images/Agriculture/12-قاع.webp",
@@ -25907,7 +25528,7 @@
             ]
           },
           {
-            "question_id": 6,
+            "question_id": 5,
                 "correct_answer": "الَةٌ تُنَقِّيهِ الْحُبُوب",
                   "word_voice": "الَةٌ تُنَقِّيهِ الْحُبُوب",
                   "image_static": "assets/images/Agriculture/12-الة تنقية الحبوب.webp",
@@ -25937,7 +25558,7 @@
             ]
           },
           {
-            "question_id": 7,
+            "question_id": 6,
                 "correct_answer": "مُشْتَل",
                   "word_voice": "مُشْتَل",
                   "image_static": "assets/images/Agriculture/12-مشتل.webp",
@@ -25965,156 +25586,6 @@
                   "image_animated": "assets/images/Agriculture/مدرجات.webp"
                 }
             ]
-          },
-          {
-            "question_id": 8,
-                "correct_answer":"مُبِيد حَشْرِي",
-                  "word_voice": "مُبِيد حَشْرِي",
-                  "image_static": "assets/images/Agriculture/12-مبيد حشري.webp",
-                  "image_animated": "assets/images/Agriculture/مبيد حشري.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "مُجَرَّفَة",
-                  "word_voice": "مُجَرَّفَة",
-                  "image_static": "assets/images/Agriculture/12-مجرفة.webp",
-                  "image_animated": "assets/images/Agriculture/مجرفة.webp"
-                },
-                {
-                  "option_id": 2,
-                 "word_name": "الَةٌ تُنَقِّيهِ الْحُبُوب",
-                  "word_voice": "الَةٌ تُنَقِّيهِ الْحُبُوب",
-                  "image_static": "assets/images/Agriculture/12-الة تنقية الحبوب.webp",
-                  "image_animated": "assets/images/Agriculture/الة تنقية الحبوب.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "مُبِيد حَشْرِي",
-                  "word_voice": "مُبِيد حَشْرِي",
-                  "image_static": "assets/images/Agriculture/12-مبيد حشري.webp",
-                  "image_animated": "assets/images/Agriculture/مبيد حشري.webp"
-                }
-            ]
-          },
-          {
-            "question_id": 9,
-                "correct_answer":"فَلاَح",
-                  "word_voice": "فَلاَح",
-                  "image_static": "assets/images/Agriculture/12-فلاح.webp",
-                  "image_animated": "assets/images/Agriculture/فلاح.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "قَاع",
-                  "word_voice": "قَاع",
-                  "image_static": "assets/images/Agriculture/12-قاع.webp",
-                  "image_animated": "assets/images/Agriculture/قاع.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "فَلاَح",
-                  "word_voice": "فَلاَح",
-                  "image_static": "assets/images/Agriculture/12-فلاح.webp",
-                  "image_animated": "assets/images/Agriculture/فلاح.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "شَرِيم",
-                  "word_voice": "شَرِيم",
-                  "image_static": "assets/images/Agriculture/12-شريم.webp",
-                  "image_animated": "assets/images/Agriculture/شريم.webp"
-                }
-            ]
-          },
-          {
-            "question_id": 10,
-               "correct_answer":"سَاقَيْه",
-                  "word_voice": "سَاقَيْه",
-                  "image_static": "assets/images/Agriculture/12-ساقية.webp",
-                  "image_animated": "assets/images/Agriculture/ساقية.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "سايلة",
-                  "word_voice": "سايلة",
-                  "image_static": "assets/images/Agriculture/12-سايلة.webp",
-                  "image_animated": "assets/images/Agriculture/سايلة.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "سَاقَيْه",
-                  "word_voice": "سَاقَيْه",
-                  "image_static": "assets/images/Agriculture/12-ساقية.webp",
-                  "image_animated": "assets/images/Agriculture/ساقية.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "حِرَاثَة",
-                  "word_voice": "حِرَاثَة",
-                  "image_static": "assets/images/Agriculture/12-حراثة.webp",
-                  "image_animated": "assets/images/Agriculture/حراثة.webp"
-                }
-            ]
-          },
-          {
-            "question_id": 11,
-               "correct_answer": "تُرْبَة",
-                  "word_voice": "تُرْبَة",
-                  "image_static": "assets/images/Agriculture/12-تربة.webp",
-                  "image_animated": "assets/images/Agriculture/تربة.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "تُرْبَة",
-                  "word_voice": "تُرْبَة",
-                  "image_static": "assets/images/Agriculture/12-تربة.webp",
-                  "image_animated": "assets/images/Agriculture/تربة.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "حِرَاثَة",
-                  "word_voice": "حِرَاثَة",
-                  "image_static": "assets/images/Agriculture/12-حراثة.webp",
-                  "image_animated": "assets/images/Agriculture/حراثة.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "سَاقَيْه",
-                  "word_voice": "سَاقَيْه",
-                  "image_static": "assets/images/Agriculture/12-ساقية.webp",
-                  "image_animated": "assets/images/Agriculture/ساقية.webp"
-                }
-            ]
-          },
-          {
-            "question_id": 12,
-                "correct_answer":"بُسْتَان",
-                  "word_voice": "بُسْتَان",
-                  "image_static": "assets/images/Agriculture/12-بستان.webp",
-                  "image_animated": "assets/images/Agriculture/بستان.webp",
-              "options": [
-                {
-                  "option_id": 1,
-                  "word_name": "بُسْتَان",
-                  "word_voice": "بُسْتَان",
-                  "image_static": "assets/images/Agriculture/12-بستان.webp",
-                  "image_animated": "assets/images/Agriculture/بستان.webp"
-                },
-                {
-                  "option_id": 2,
-                  "word_name": "بِئْر",
-                  "word_voice": "بِئْر",
-                  "image_static": "assets/images/Agriculture/12-بئر.webp",
-                  "image_animated": "assets/images/Agriculture/بئر.webp"
-                },
-                {
-                  "option_id": 3,
-                  "word_name": "بُذُور",
-                  "word_voice": "بُذُور",
-                  "image_static": "assets/images/Agriculture/12-بذور.webp",
-                  "image_animated": "assets/images/Agriculture/بذور.webp"
-                }
-            ]
           }
         ]
       }
@@ -26128,9 +25599,9 @@
           "lesson_name": "الدرس الأول",
           "exercises": [
             {
-              "exercise_id": 5,
+              "exercise_id": 1,
               "question": {
-                "question_id": 5,
+                "question_id": 1,
                 "correct_answer": "حَوَادِث",
                "word_voice": "حَوَادِث",
                   "image_static": "assets/images/Accidents/7-حوادث.webp",
@@ -26143,6 +25614,13 @@
                   "word_voice": "حَوَادِث",
                   "image_static": "assets/images/Accidents/7-حوادث.webp",
                   "image_animated": "assets/images/Accidents/حوادث.webp"
+                },
+                {
+                  "option_id": 2,
+                  "word_name": "إختطاف",
+                  "word_voice": "إختطاف",
+                  "image_static": "assets/images/Accidents/7-إختطاف.webp",
+                  "image_animated": "assets/images/Accidents/إختطاف.webp"
                 }
               ]
             },
@@ -26191,10 +25669,10 @@
                 },
                 {
                   "option_id": 2,
-                  "word_name": "تؤام",
-                  "word_voice": "تؤام",
-                  "image_static": "assets/images/family/4.-تؤام.webp",
-                  "image_animated": "assets/images/family/تؤام.webp"
+                  "word_name": "إعدام",
+                 "word_voice": "إعدام",
+                  "image_static": "assets/images/Accidents/7-إعدام.webp",
+                  "image_animated": "assets/images/Accidents/إعدام.webp"
                 }
               ]
             },
@@ -26294,18 +25772,18 @@
                 "image_animated": "assets/images/Accidents/إصطدام.webp",
               "options": [
                 {
-                  "option_id": 1,
-                  "word_name": "جد",
-                  "word_voice": "جد",
-                  "image_static": "assets/images/family/4.-جد.webp",
-                  "image_animated": "assets/images/family/جد.webp"
-                },
+                "option_id": 1,
+                  "word_name": "حَوَادِث",
+                  "word_voice": "حَوَادِث",
+                  "image_static": "assets/images/Accidents/7-حوادث.webp",
+                  "image_animated": "assets/images/Accidents/حوادث.webp"
+              },
                 {
-                  "option_id": 2,
-                  "word_name": "تؤام",
-                  "word_voice": "تؤام",
-                  "image_static": "assets/images/family/4.-تؤام.webp",
-                  "image_animated": "assets/images/family/تؤام.webp"
+                    "option_id": 2,
+                    "word_name": "إختطاف",
+                    "word_voice": "إختطاف",
+                    "image_static": "assets/images/Accidents/7-إختطاف.webp",
+                    "image_animated": "assets/images/Accidents/إختطاف.webp"
                 },
                 {
                   "option_id": 3,
@@ -26806,10 +26284,10 @@
                 },
                 {
                   "option_id": 2,
-                  "word_name": "عروس",
-              "word_voice": "عروس",
-              "image_static": "assets/images/family/4-عروس.webp",
-              "image_animated": "assets/images/family/عروس.webp"
+                  "word_name": "عريس",
+              "word_voice": "عريس",
+              "image_static": "assets/images/family/4-عريس.webp",
+              "image_animated": "assets/images/family/عريس.webp"
                 },
                 {
                   "option_id": 3,
@@ -26993,7 +26471,7 @@
             }
           ],
           "lesson_exam": {
-            "exam_id": 4,
+            "exam_id": 3,
             "exam_name": "إختبار الدرس الرابع",
             "image":  "assets/images/Accidents/7-سقوط طائرة.webp",
             "questions": [
@@ -27245,14 +26723,70 @@
                   "image_animated": "assets/images/Accidents/كمين.webp"
                 }
               ]
-           }
+           },
+          {
+            "question_id": 5,
+                "correct_answer": "سُقُوط طَائِرَة",
+                "word_voice": "سُقُوط طَائِرَة",
+                "image_static": "assets/images/Accidents/7-سقوط طائرة.webp",
+                "image_animated": "assets/images/Accidents/سقوط طائرة.webp",
+              "options": [
+                {
+                  "option_id": 1,
+               "word_name": "قتل",
+              "word_voice": "قتل",
+              "image_static": "assets/images/Accidents/7-قتل.webp",
+              "image_animated": "assets/images/Accidents/قتل.webp"
+                },
+                {
+                  "option_id": 2,
+                  "word_name": "سُقُوط طَائِرَة",
+                  "word_voice": "سُقُوط طَائِرَة",
+                  "image_static": "assets/images/Accidents/7-سقوط طائرة.webp",
+                  "image_animated": "assets/images/Accidents/سقوط طائرة.webp"
+                },
+                {
+                  "option_id": 3,
+                  "word_name": "كمين",
+                  "word_voice": "كمين",
+                  "image_static": "assets/images/Accidents/7-كمين.webp",
+                  "image_animated": "assets/images/Accidents/كمين.webp"
+                }
+              ]
+           },
+           {
+            "question_id": 6,
+            "correct_answer": "حريق",
+         "word_voice": "حريق",
+              "image_static": "assets/images/Accidents/7-حريق.webp",
+              "image_animated": "assets/images/Accidents/حريق.webp",
+          "options": [
+            {
+              "option_id": 1,
+              "word_name": "حريق",
+              "word_voice": "حريق",
+              "image_static": "assets/images/Accidents/7-حريق.webp",
+              "image_animated": "assets/images/Accidents/حريق.webp"
+            },
+            {
+              "option_id": 2,
+              "word_name": "ثار",
+              "word_voice": "ثار",
+              "image_static": "assets/images/Accidents/7-ثار.webp",
+              "image_animated": "assets/images/Accidents/ثار.webp"
+            },
+            {
+              "option_id": 3,
+              "word_name": "ام",
+          "word_voice": "ام",
+          "image_static": "assets/images/family/4-ام.webp",
+          "image_animated": "assets/images/family/ام.webp"
+            }
+          ]
+          }
         ]
       }
     },
-
-
-
-    
     {
       "category_id": 14,
       "category_name": "محتويات المنزل",

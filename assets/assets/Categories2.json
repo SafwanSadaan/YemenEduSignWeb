@@ -272,7 +272,7 @@
       {
         "lesson_id": 7,
         "lesson_name": "الدرس السابع",
-        "lesson_image":"assets/images/Alphabetics/1-ء.webp",
+        "lesson_image":"assets/images/Alphabetics/1-همزة.webp",
         "lesson_description": " ال  , ؤ , ئ",
         "words":
           [
@@ -305,7 +305,7 @@
   {
     "category_id": 2,
     "category_name": "الارقام",
-    "image":"assets/images/numbers/الارقام1.webp",
+    "image":"assets/images/numbers/1-الأرقام.webp",
     "lessons":
       [
       {
@@ -319,7 +319,7 @@
             "word_id": 1,
             "word_name": "الأرقام",
             "word_voice": "الأرقام",
-            "image_static": "assets/images/numbers/الارقام1.webp",
+            "image_static": "assets/images/numbers/1-الأرقام.webp",
             "image_animated": "assets/images/numbers/الأرقام.webp"
           },
           {
@@ -693,7 +693,7 @@
             "word_name": "أَب",
             "word_voice": "أَب",
             "image_static": "assets/images/family/4-اب.webp",
-            "image_animated": "assets/images/family/اب.webp"
+            "image_animated": "assets/images/family/ابي.webp"
           },      
           {
             "word_id": 3,
@@ -857,7 +857,7 @@
             "word_id": 3,
             "word_name": "أُمِّي لِإِيقَرَاء",
             "word_voice": "أُمِّي لِإِيقَرَاء",
-            "image_static": "assets/images/community-personnel/11-امي-لايقراء.webp",
+            "image_static": "assets/images/community-personnel/11-امي لايقراء.webp",
             "image_animated": "assets/images/community-personnel/امي-لايقراء.webp"
           },
           {
@@ -877,28 +877,28 @@
         "words": 
           [
           {
-            "word_id": 305,
+            "word_id": 1,
             "word_name": "خَادِم",
             "word_voice": "خَادِم",
             "image_static": "assets/images/community-personnel/11-خادم.webp",
             "image_animated": "assets/images/community-personnel/خادم.webp"
           },
           {
-            "word_id": 306,
+            "word_id": 2,
             "word_name": "صَدِيق",
             "word_voice": "صَدِيق",
             "image_static": "assets/images/community-personnel/11-صديق.webp",
             "image_animated": "assets/images/community-personnel/صديق.webp"
           },
           {
-            "word_id": 307,
+            "word_id": 3,
             "word_name": "ضَيْف",
             "word_voice": "ضَيْف",
             "image_static": "assets/images/community-personnel/11-ضيف.webp",
             "image_animated": "assets/images/community-personnel/ضيف.webp"
           },
           {
-            "word_id": 308,
+            "word_id": 4,
             "word_voice": "عَاقِل حَارَّة",
             "image_static": "assets/images/community-personnel/11-عاقل حارة.webp",
             "image_animated": "assets/images/community-personnel/عاقل حارة.webp"
@@ -944,7 +944,7 @@
             "word_id": 5,
             "word_name": "مُرْتَاح",
             "word_voice": "مُرْتَاح",
-            "image_static": "assets/images/community-personnel/11-مُرْتَاح.webp",
+            "image_static": "assets/images/community-personnel/11-مرتاح.webp",
             "image_animated": "assets/images/community-personnel/مرتاح.webp"
           }
         ]
@@ -996,7 +996,7 @@
       {
         "lesson_id": 5,
         "lesson_name": "الدرس الخامس",
-        "lesson_image":"assets/images/family/4-شيخ.webp",
+        "lesson_image":"assets/images/community-personnel/4-شيخ.webp",
         "lesson_description": " شَيْخ ، عَجُوز ، وَلَدِ ، رَضِيع ",
         "words":
           [
@@ -1004,29 +1004,29 @@
             "word_id": 1,
             "word_name": "شَيْخ",
             "word_voice": "شَيْخ",
-            "image_static": "assets/images/family/4-شيخ.webp",
-            "image_animated": "assets/images/family/شيخ.webp"
+            "image_static": "assets/images/community-personnel/4-شيخ.webp",
+            "image_animated": "assets/images/community-personnel/شيخ.webp"
           },
           {
             "word_id": 2,
             "word_name": "عَجُوز",
             "word_voice": "عَجُوز",
-            "image_static": "assets/images/family/4-عجوز.webp",
-            "image_animated": "assets/images/family/عجوز.webp"
+            "image_static": "assets/images/community-personnel/4-عجوز.webp",
+            "image_animated": "assets/images/community-personnel/عجوز.webp"
           },
           {
             "word_id": 3,
             "word_name": "وَلَدِ ",
             "word_voice": "وَلَدِ ",
-            "image_static": "assets/images/family/4-ولد.webp",
-            "image_animated": "assets/images/family/ولد.webp"
+            "image_static": "assets/images/community-personnel/4-ولد.webp",
+            "image_animated": "assets/images/community-personnel/ولد.webp"
           }, 
           {
             "word_id": 4,
             "word_name": "رَضِيع",
             "word_voice": "رَضِيع",
-            "image_static": "assets/images/family/4-رضيع.webp",
-            "image_animated": "assets/images/family/رضيع.webp"
+            "image_static": "assets/images/community-personnel/4-رضيع.webp",
+            "image_animated": "assets/images/community-personnel/رضيع.webp"
           }
           
         ]
@@ -1034,7 +1034,7 @@
       {
         "lesson_id": 6,
         "lesson_name": "الدرس السادس",
-        "lesson_image":"assets/images/family/4-شعب.webp",
+        "lesson_image":"assets/images/community-personnel/4-شيخ.webp",
         "lesson_description": "عَالِم , شعب ، رَجُل ، ناس , مَنْدُوب",
         "words":
           [
@@ -1049,22 +1049,22 @@
             "word_id": 2,
             "word_name": "شعب",
             "word_voice": "شعب",
-            "image_static": "assets/images/family/4-شعب.webp",
-            "image_animated": "assets/images/family/شعب.webp"
+            "image_static": "assets/images/community-personnel/4-شعب.webp",
+            "image_animated": "assets/images/community-personnel/شعب.webp"
           },
           {
             "word_id": 3,
             "word_name": "رَجُل",
             "word_voice": "رَجُل",
-            "image_static": "assets/images/family/4-رجل.webp",
-            "image_animated": "assets/images/family/رجل.webp"
+            "image_static": "assets/images/community-personnel/4-رجل.webp",
+            "image_animated": "assets/images/community-personnel/رجل.webp"
           },
           {
             "word_id": 4,
             "word_name": "ناس",
             "word_voice": "ناس",
-            "image_static": "assets/images/family/4-ناس.webp",
-            "image_animated": "assets/images/family/ناس.webp"
+            "image_static": "assets/images/community-personnel/4-ناس.webp",
+            "image_animated": "assets/images/community-personnel/ناس.webp"
           },
           {
             "word_id": 5,
@@ -1080,7 +1080,7 @@
       {
         "lesson_id": 7,
         "lesson_name": "الدرس السابع",
-        "lesson_image":"assets/images/family/4-عريس.webp",
+        "lesson_image":"assets/images/community-personnel/4-عريس.webp",
         "lesson_description": "عريس , عروس ، امرأة ، خطوبة",
         "words":
           [
@@ -1095,31 +1095,23 @@
             "word_id": 2,
             "word_name": "عروس",
             "word_voice": "عروس",
-            "image_static": "assets/images/family/4-عروس.webp",
-            "image_animated": "assets/images/family/عروس.webp"
+            "image_static": "assets/images/community-personnel/4-عروس.webp",
+            "image_animated": "assets/images/community-personnel/عروس.webp"
           },
           {
             "word_id": 3,
             "word_name": "امرأة",
             "word_voice": "امرأة",
-            "image_static": "assets/images/family/4-امرأة.webp",
-            "image_animated": "assets/images/family/امرأة.webp"
+            "image_static": "assets/images/community-personnel/4-امرأة.webp",
+            "image_animated": "assets/images/community-personnel/امرأة.webp"
           },
           {
             "word_id": 4,
             "word_name": "خطوبة",
             "word_voice": "خطوبة",
-            "image_static": "assets/images/family/4-ناس.webp",
-            "image_animated": "assets/images/family/ناس.webp"
-          },
-          {
-            "word_id": 5,
-            "word_name": "مَنْدُوب ",
-            "word_voice": "مَنْدُوب ",
-            "image_static": "assets/images/community-personnel/11-مندوب.webp",
-            "image_animated": "assets/images/community-personnel/مندوب.webp"
+            "image_static": "assets/images/community-personnel/4-خطوبه.webp",
+            "image_animated": "assets/images/community-personnel/خطوبة.webp "
           }
-        
           
         ]
       }
@@ -1146,8 +1138,8 @@
           },
           {
             "word_id": 2,
-            "word_name": " خياط  ",
-            "word_voice": "خياط  ",
+            "word_name": "خياط",
+            "word_voice": "خياط",
             "image_static": "assets/images/professions-crafts/13-خياط.webp",
             "image_animated": "assets/images/professions-crafts/خياط.webp"
           },
@@ -1223,7 +1215,7 @@
             "word_name": "رجل اطفاء",
             "word_voice": "رجل اطفاء",
             "image_static": "assets/images/professions-crafts/13-رجل اطفاء.webp",
-            "image_animated": "assets/images/professions-crafts/رجل اطفاء.webp"
+            "image_animated": "assets/images/professions-crafts/رجل إطفاء.webp"
           },
           {
             "word_id": 2,
@@ -2352,7 +2344,7 @@
             "word_id": 2,
             "word_name": "محطة بترول ",
             "word_voice": "محطة بترول  ",
-            "image_static": "assets/images/public-places/8-محطة بترول .webp",
+            "image_static": "assets/images/public-places/8-محطة بترول.webp",
             "image_animated": "assets/images/public-places/محطة.webp"
           },
           {
@@ -2390,7 +2382,7 @@
         "lesson_id": 1,
         "lesson_name": "الدرس الأول",
         "lesson_image":"assets/images/Attributes/9-انيق.webp",
-        "lesson_description": "أَنِيق  ، مُرَتَّب ، مُنْتَبِهٍ ، مُؤَدِّب ، ثَرْثَار",
+        "lesson_description": "أَنِيق ، مُنْتَبِهٍ ، مُؤَدِّب ، ثَرْثَار",
         "words": [
           {
             "word_id": 1,
@@ -2400,21 +2392,21 @@
             "image_animated": "assets/images/Attributes/انيق.webp"
           },
           {
-            "word_id": 3,
+            "word_id": 2,
             "word_name": "مُنْتَبِهٍ",
             "word_voice": "مُنْتَبِهٍ",
             "image_static": "assets/images/Attributes/9-منتبه.webp",
             "image_animated": "assets/images/Attributes/منتبه.webp"
           },
           {
-            "word_id": 4,
+            "word_id": 3,
             "word_name": "مُؤَدِّب",
             "word_voice": "مُؤَدِّب",
             "image_static": "assets/images/Attributes/9-مؤدب.webp",
             "image_animated": "assets/images/Attributes/مؤدب.webp"
           },
           {
-            "word_id": 5,
+            "word_id": 4,
             "word_name": "مُتَوَاضِع",
             "word_voice": "مُتَوَاضِع",
             "image_static": "assets/images/Attributes/9-متواضع.webp",
@@ -3587,7 +3579,7 @@
             "word_name": "عَلَى طُولِ",
             "word_voice": "عَلَى طُولِ",
             "image_static": "assets/images/times/10-على طول.webp",
-            "image_animated": "assets/images/times/على طول.webp"
+            "image_animated": "assets/images/times/طول.webp"
           }
         ]
       }
@@ -3948,6 +3940,1373 @@
       }
       
     ]
+  },
+
+
+
+  
+  {
+    "category_id": 14,
+    "category_name": "محتويات المنزل",
+    "image":"assets/images/Home_Contents/طابق1.webp",
+    "lessons":
+      [
+        {
+          "lesson_id": 1,
+          "lesson_name": "الدرس الأول",
+          "lesson_image": "assets/images/Home_Contents/باب1.webp",
+          "lesson_description": "باب ، قفل ، حوش ، غرفة ، صالة",
+          "words": [
+            {
+              "word_id": 500,
+              "word_name": "باب",
+              "word_voice": "بَاب",
+              "image_static": "assets/images/Home_Contents/باب1.webp",
+              "image_animated": "assets/images/Home_Contents/باب.webp"
+            },
+            {
+              "word_id": 551,
+              "word_name": "قفل",
+              "word_voice": "قُفْل",
+              "image_static": "assets/images/Home_Contents/قفل1.webp",
+              "image_animated": "assets/images/Home_Contents/قفل.webp"
+            },
+            {
+              "word_id": 502,
+              "word_name": "حوش",
+              "word_voice": "حَوْش",
+              "image_static": "assets/images/Home_Contents/حوش1.webp",
+              "image_animated": "assets/images/Home_Contents/حوش.webp"
+            },
+            {
+              "word_id": 503,
+              "word_name": "غرفة",
+              "word_voice": "غُرْفَة",
+              "image_static": "assets/images/Home_Contents/غرفة1.webp",
+              "image_animated": "assets/images/Home_Contents/غرفة.webp"
+            },
+            {
+              "word_id": 504,
+              "word_name": "صالة",
+              "word_voice": "صَالَة",
+              "image_static": "assets/images/Home_Contents/صالة1.webp",
+              "image_animated": "assets/images/Home_Contents/صالة.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 2,
+          "lesson_name": "الدرس الثاني",
+          "lesson_image": "assets/images/Home_Contents/قمرية1.webp",
+          "lesson_description": " قمرية، مبخرة، مزهرية، ثريا",
+          "words": [
+            {
+              "word_id": 505,
+              "word_name": "قمرية",
+              "word_voice": "قَمَرِيَّة",
+              "image_static": "assets/images/Home_Contents/قمرية1.webp",
+              "image_animated": "assets/images/Home_Contents/قمرية.webp"
+            },
+            {
+              "word_id": 506,
+              "word_name": "مبخرة",
+              "word_voice": "مَبْخَرَة",
+              "image_static": "assets/images/Home_Contents/مبخرة1.webp",
+              "image_animated": "assets/images/Home_Contents/مبخرة.webp"
+            },
+            {
+              "word_id": 507,
+              "word_name": "مزهرية",
+              "word_voice": "مَزْهَرِيَّة",
+              "image_static": "assets/images/Home_Contents/مزهرية1.webp",
+              "image_animated": "assets/images/Home_Contents/مزهرية.webp"
+            },
+            {
+              "word_id": 508,
+              "word_name": "ثريا",
+              "word_voice": "ثُرَيَّا",
+              "image_static": "assets/images/Home_Contents/ثريا1.webp",
+              "image_animated": "assets/images/Home_Contents/ثريا.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 3,
+          "lesson_name": "الدرس الثالث",
+          "lesson_image": "assets/images/Home_Contents/تسريحة1.webp",
+          "lesson_description": "تسريحة ، مروحة ، شباك ، ستارة، كنب ",
+          "words": [
+            {
+              "word_id": 509,
+              "word_name": "تسريحة",
+              "word_voice": "تَسْرِيحَة",
+              "image_static": "assets/images/Home_Contents/تسريحة1.webp",
+              "image_animated": "assets/images/Home_Contents/تسريحة.webp"
+            },
+            {
+              "word_id": 510,
+              "word_name": "مروحة",
+              "word_voice": "مَرْوَحَة",
+              "image_static": "assets/images/Home_Contents/مروحة1.webp",
+              "image_animated": "assets/images/Home_Contents/مروحة.webp"
+            },
+            {
+              "word_id": 511,
+              "word_name": "شباك",
+              "word_voice": "شُبَّاك",
+              "image_static": "assets/images/Home_Contents/شباك1.webp",
+              "image_animated": "assets/images/Home_Contents/شباك.webp"
+            },
+            {
+              "word_id": 512,
+              "word_name": "ستارة",
+              "word_voice": "سِتَارَة",
+              "image_static": "assets/images/Home_Contents/ستارة1.webp",
+              "image_animated": "assets/images/Home_Contents/ستارة.webp"
+            },
+            {
+              "word_id": 513,
+              "word_name": "كنب",
+              "word_voice": "كَنَب",
+              "image_static": "assets/images/Home_Contents/كنب1.webp",
+              "image_animated": "assets/images/Home_Contents/كنب.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 4,
+          "lesson_name": "الدرس الرابع",
+          "lesson_image": "assets/images/Home_Contents/مجلس1.webp",
+          "lesson_description": "مجلس، مداعة، متفل، مدكى، طفاية",
+          "words": [
+            {
+              "word_id": 514,
+              "word_name": "مجلس",
+              "word_voice": "مَجْلِس",
+              "image_static": "assets/images/Home_Contents/مجلس1.webp",
+              "image_animated": "assets/images/Home_Contents/مجلس.webp"
+            },
+            {
+              "word_id": 515,
+              "word_name": "مداعة",
+              "word_voice": "مَدَاعَة",
+              "image_static": "assets/images/Home_Contents/مداعة1.webp",
+              "image_animated": "assets/images/Home_Contents/مداعة.webp"
+            },
+            {
+              "word_id": 516,
+              "word_name": "متفل",
+              "word_voice": "مِتْفَل",
+              "image_static": "assets/images/Home_Contents/متفل1.webp",
+              "image_animated": "assets/images/Home_Contents/متفل.webp"
+            },
+            {
+              "word_id": 517,
+              "word_name": "مدكى",
+              "word_voice": "مَدْكَى",
+              "image_static": "assets/images/Home_Contents/مدكى1.webp",
+              "image_animated": "assets/images/Home_Contents/مدكى.webp"
+            },
+            {
+              "word_id": 518,
+              "word_name": "طفاية",
+              "word_voice": "طَفَايَة",
+              "image_static": "assets/images/Home_Contents/طفاية1.webp",
+              "image_animated": "assets/images/Home_Contents/طفاية.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 5,
+          "lesson_name": "الدرس الخامس",
+          "lesson_image": "assets/images/Home_Contents/سرير1.webp",
+          "lesson_description": "سرير ، سرير أطفال ، فراش ، مخدة، دولاب ",
+          "words": [
+            {
+              "word_id": 519,
+              "word_name": "سرير",
+              "word_voice": "سَرير",
+              "image_static": "assets/images/Home_Contents/سرير1.webp",
+              "image_animated": "assets/images/Home_Contents/سرير.webp"
+            },
+            {
+              "word_id": 520,
+              "word_name": "مهد",
+              "word_voice": "مَهد",
+              "image_static": "assets/images/Home_Contents/سرير أطفال1.webp",
+              "image_animated": "assets/images/Home_Contents/سرير أطفال.webp"
+            },
+            {
+              "word_id": 521,
+              "word_name": "فراش",
+              "word_voice": "فِراش",
+              "image_static": "assets/images/Home_Contents/فراش1.webp",
+              "image_animated": "assets/images/Home_Contents/فراش.webp"
+            },
+            {
+              "word_id": 522,
+              "word_name": "مخدة",
+              "word_voice": "مِخَدَّة",
+              "image_static": "assets/images/Home_Contents/مخدة1.webp",
+              "image_animated": "assets/images/Home_Contents/مخدة.webp"
+            },
+            {
+              "word_id": 523,
+              "word_name": "دولاب",
+              "word_voice": "دولاب",
+              "image_static": "assets/images/Home_Contents/دولاب1.webp",
+              "image_animated": "assets/images/Home_Contents/دولاب.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 6,
+          "lesson_name": "الدرس السادس",
+          "lesson_image": "assets/images/Home_Contents/ساعة حائط1.webp",
+          "lesson_description": "طاولة، كرسي، مكنُس ، شمعة ، ساعة حائط",
+          "words": [
+            {
+              "word_id": 524,
+              "word_name": "ساعة حائط",
+              "word_voice": "ساعَةُ حائِط",
+              "image_static": "assets/images/Home_Contents/ساعة حائط1.webp",
+              "image_animated": "assets/images/Home_Contents/ساعة حائط.webp"
+            },
+            {
+              "word_id": 525,
+              "word_name": "طاولة",
+              "word_voice": "طاوِلَة",
+              "image_static": "assets/images/Home_Contents/طاولة1.webp",
+              "image_animated": "assets/images/Home_Contents/طاولة.webp"
+            },
+            {
+              "word_id": 526,
+              "word_name": "كرسي",
+              "word_voice": "كُرسي",
+              "image_static": "assets/images/Home_Contents/كرسي1.webp",
+              "image_animated": "assets/images/Home_Contents/كرسي.webp"
+            },
+            {
+              "word_id": 527,
+              "word_name": "شمعة",
+              "word_voice": "شَمعَة",
+              "image_static": "assets/images/Home_Contents/شمعة1.webp",
+              "image_animated": "assets/images/Home_Contents/شمعة.webp"
+            },
+            {
+              "word_id": 528,
+              "word_name": "مكنُس",
+              "word_voice": "مَكنُس",
+              "image_static": "assets/images/Home_Contents/مكنُس1.webp",
+              "image_animated": "assets/images/Home_Contents/مكنُس.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 7,
+          "lesson_name": "الدرس السابع",
+          "lesson_image": "assets/images/Home_Contents/حمام1.webp",
+          "lesson_description": "حمام ، شفاط ، دش غسيل ، مغرف ، بالدي(سطل)",
+          "words": [
+            {
+              "word_id": 529,
+              "word_name": "حمام",
+              "word_voice": "حَمّام",
+              "image_static": "assets/images/Home_Contents/حمام1.webp",
+              "image_animated": "assets/images/Home_Contents/حمام.webp"
+            },
+            {
+              "word_id": 530,
+              "word_name": "شفاط",
+              "word_voice": "شَفّاط",
+              "image_static": "assets/images/Home_Contents/شفاط1.webp",
+              "image_animated": "assets/images/Home_Contents/شفاط.webp"
+            },
+            {
+              "word_id": 531,
+              "word_name": "دش غسيل",
+              "word_voice": "دُشُّ غَسيل",
+              "image_static": "assets/images/Home_Contents/دش غسيل1.webp",
+              "image_animated": "assets/images/Home_Contents/دش غسيل.webp"
+            },
+            {
+              "word_id": 532,
+              "word_name": "بالدي (سطل)",
+              "word_voice": "بالدي (سَطْل)",
+              "image_static": "assets/images/Home_Contents/بالدي(سطل)1.webp",
+              "image_animated": "assets/images/Home_Contents/بالدي(سطل).webp"
+            },
+            {
+              "word_id": 533,
+              "word_name": "مغرف",
+              "word_voice": "مِغرَف",
+              "image_static": "assets/images/Home_Contents/مغرف1.webp",
+              "image_animated": "assets/images/Home_Contents/مغرف.webp"
+            }
+          ]
+        },       
+        {
+          "lesson_id": 8,
+          "lesson_name": "الدرس الثامن",
+          "lesson_image": "assets/images/Home_Contents/سلة قمامة1.webp",
+          "lesson_description": "سلة قمامة، ممسحة، حنفية، صابون، برش",
+          "words": [
+            {
+              "word_id": 534,
+              "word_name": "سلة قمامة",
+              "word_voice": "سَلّةُ قُمامَة",
+              "image_static": "assets/images/Home_Contents/سلة قمامة1.webp",
+              "image_animated": "assets/images/Home_Contents/سلة قمامة.webp"
+            },
+            {
+              "word_id": 535,
+              "word_name": "ممسحة",
+              "word_voice": "مِمسَحَة",
+              "image_static": "assets/images/Home_Contents/ممسحة1.webp",
+              "image_animated": "assets/images/Home_Contents/ممسحة.webp"
+            },
+            {
+              "word_id": 536,
+              "word_name": "حنفية",
+              "word_voice": "حَنَفيَّة",
+              "image_static": "assets/images/Home_Contents/حنفية1.webp",
+              "image_animated": "assets/images/Home_Contents/حنفية.webp"
+            },
+            {
+              "word_id": 537,
+              "word_name": "صابون",
+              "word_voice": "صابون",
+              "image_static": "assets/images/Home_Contents/صابون1.webp",
+              "image_animated": "assets/images/Home_Contents/صابون.webp"
+            },
+            {
+              "word_id": 538,
+              "word_name": "برش",
+              "word_voice": "بَرْش",
+              "image_static": "assets/images/Home_Contents/برش1.webp",
+              "image_animated": "assets/images/Home_Contents/برش.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 9,
+          "lesson_name": "الدرس التاسع",
+          "lesson_image": "assets/images/Home_Contents/مطبخ1.webp",
+          "lesson_description": "مطبخ ، مطحنة ، مسحقة ، مشجب ، مشن",
+          "words": [
+            {
+              "word_id": 539,
+              "word_name": "مطبخ",
+              "word_voice": "مَطبَخ",
+              "image_static": "assets/images/Home_Contents/مطبخ1.webp",
+              "image_animated": "assets/images/Home_Contents/مطبخ.webp"
+            },
+            {
+              "word_id": 540,
+              "word_name": "مطحنة",
+              "word_voice": "مِطْحَنَة",
+              "image_static": "assets/images/Home_Contents/مطحنة1.webp",
+              "image_animated": "assets/images/Home_Contents/مطحنة.webp"
+            },
+            {
+              "word_id": 541,
+              "word_name": "مسحقة",
+              "word_voice": "مَسْحَقَة",
+              "image_static": "assets/images/Home_Contents/مسحقة1.webp",
+              "image_animated": "assets/images/Home_Contents/مسحقة.webp"
+            },
+            {
+              "word_id": 542,
+              "word_name": "مشجب",
+              "word_voice": "مِشْجَب",
+              "image_static": "assets/images/Home_Contents/مشجب1.webp",
+              "image_animated": "assets/images/Home_Contents/مشجب.webp"
+            },
+            {
+              "word_id": 543,
+              "word_name": "مشن",
+              "word_voice": "مِشْن",
+              "image_static": "assets/images/Home_Contents/مشن1.webp",
+              "image_animated": "assets/images/Home_Contents/مشن.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 10,
+          "lesson_name": "الدرس العاشر",
+          "lesson_image": "assets/images/Home_Contents/كتلي1.webp",
+          "lesson_description": "كبريت ، كتلي ، ليفه ، محواش ، مخبزة",
+          "words": [
+            {
+              "word_id": 544,
+              "word_name": "كبريت",
+              "word_voice": "كَبْرِيت",
+              "image_static": "assets/images/Home_Contents/كبريت1.webp",
+              "image_animated": "assets/images/Home_Contents/كبريت.webp"
+            },
+            {
+              "word_id": 545,
+              "word_name": "كتلي",
+              "word_voice": "كُتْلِي",
+              "image_static": "assets/images/Home_Contents/كتلي1.webp",
+              "image_animated": "assets/images/Home_Contents/كتلي.webp"
+            },
+            {
+              "word_id": 546,
+              "word_name": "ليفة",
+              "word_voice": "لِيفَة",
+              "image_static": "assets/images/Home_Contents/ليفة1.webp",
+              "image_animated": "assets/images/Home_Contents/ليفة.webp"
+            },
+            {
+              "word_id": 547,
+              "word_name": "محواش",
+              "word_voice": "مِحْوَاش",
+              "image_static": "assets/images/Home_Contents/محواش1.webp",
+              "image_animated": "assets/images/Home_Contents/محواش.webp"
+            },
+            {
+              "word_id": 548,
+              "word_name": "مخبزة",
+              "word_voice": "مَخبَزَة",
+              "image_static": "assets/images/Home_Contents/مخبزة1.webp",
+              "image_animated": "assets/images/Home_Contents/مخبزة.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 11,
+          "lesson_name": "الدرس الحادي عشر",
+          "lesson_image": "assets/images/Home_Contents/دافور1.webp",
+          "lesson_description": "دافور ، دبة غاز ، فرن ، تنور",
+          "words": [
+            {
+              "word_id": 549,
+              "word_name": "دافور",
+              "word_voice": "دَافُور",
+              "image_static": "assets/images/Home_Contents/دافور1.webp",
+              "image_animated": "assets/images/Home_Contents/دافور.webp"
+            },
+            {
+              "word_id": 550,
+              "word_name": "دبة غاز",
+              "word_voice": "دَبَّة غَاز",
+              "image_static": "assets/images/Home_Contents/دبة غاز1.webp",
+              "image_animated": "assets/images/Home_Contents/دبة غاز.webp"
+            },
+            {
+              "word_id": 551,
+              "word_name": "فرن",
+              "word_voice": "فُرْن",
+              "image_static": "assets/images/Home_Contents/فرن1.webp",
+              "image_animated": "assets/images/Home_Contents/فرن.webp"
+            },
+            {
+              "word_id": 553,
+              "word_name": "تنور",
+              "word_voice": "تَنُور",
+              "image_static": "assets/images/Home_Contents/تنور1.webp",
+              "image_animated": "assets/images/Home_Contents/تنور.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 12,
+          "lesson_name": "الدرس الثاني عشر",
+          "lesson_image": "assets/images/Home_Contents/ثلاجة شاي1.webp",
+          "lesson_description": " شولة غاز ، ثلاجة شاي ، فلاش ، معشرة",
+          "words": [
+              {
+                "word_id": 585,
+                "word_name": "شولة غاز",
+                "word_voice": "شولة غاز",
+                "image_static": "assets/images/Home_Contents/شولة غاز1.webp",
+                "image_animated": "assets/images/Home_Contents/شولة غاز.webp"
+              },
+            {
+              "word_id": 552,
+              "word_name": "ثلاجة شاي",
+              "word_voice": "ثَلاَجَة شَاي",
+              "image_static": "assets/images/Home_Contents/ثلاجة شاي1.webp",
+              "image_animated": "assets/images/Home_Contents/ثلاجة شاي.webp"
+            },
+            {
+              "word_id": 584,
+              "word_name": "فلاش",
+              "word_voice": "فلاش",
+              "image_static": "assets/images/Home_Contents/فلاش1.webp",
+              "image_animated": "assets/images/Home_Contents/فلاش.webp"
+              },
+              {
+                "word_id": 559,
+                "word_name": "معشرة",
+                "word_voice": "مَعْشَرَة",
+                "image_static": "assets/images/Home_Contents/معشرة1.webp",
+                "image_animated": "assets/images/Home_Contents/معشرة.webp"
+              }
+          ]
+        },
+        {
+          "lesson_id": 13,
+          "lesson_name": "الدرس الثالث عشر",
+          "lesson_image": "assets/images/Home_Contents/سكين1.webp",
+          "lesson_description": "سكين، شوكة، صحن، مِقلاة ،قدر",
+          "words": [
+            {
+              "word_id": 554,
+              "word_name": "سكين",
+              "word_voice": "سِكّين",
+              "image_static": "assets/images/Home_Contents/سكين1.webp",
+              "image_animated": "assets/images/Home_Contents/سكين.webp"
+            },
+            {
+              "word_id": 555,
+              "word_name": "شوكة",
+              "word_voice": "شَوْكَة",
+              "image_static": "assets/images/Home_Contents/شوكة1.webp",
+              "image_animated": "assets/images/Home_Contents/شوكة.webp"
+            },
+            {
+              "word_id": 556,
+              "word_name": "صحن",
+              "word_voice": "صَحْن",
+              "image_static": "assets/images/Home_Contents/صحن1.webp",
+              "image_animated": "assets/images/Home_Contents/صحن.webp"
+            },
+            {
+              "word_id": 557,
+              "word_name": "مِقلاة",
+              "word_voice": "مِقْلَاة",
+              "image_static": "assets/images/Home_Contents/مِقلاة1.webp",
+              "image_animated": "assets/images/Home_Contents/مِقلاة.webp"
+            },
+            {
+              "word_id": 558,
+              "word_name": "قدر",
+              "word_voice": "قَدَر",
+              "image_static": "assets/images/Home_Contents/قدر1.webp",
+              "image_animated": "assets/images/Home_Contents/قدر.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 14,
+          "lesson_name": "الدرس الرابع عشر",
+          "lesson_image": "assets/images/Home_Contents/مقرشة1.webp",
+          "lesson_description": " مقرشة، ملعقة، مدق، دُرج",
+          "words": [
+            {
+              "word_id": 560,
+              "word_name": "مقرشة",
+              "word_voice": "مَقْرَشَة",
+              "image_static": "assets/images/Home_Contents/مقرشة1.webp",
+              "image_animated": "assets/images/Home_Contents/مقرشة.webp"
+            },
+            {
+              "word_id": 561,
+              "word_name": "مِلْعقة",
+              "word_voice": "مِلْعَقَة",
+              "image_static": "assets/images/Home_Contents/مِلْعقة1.webp",
+              "image_animated": "assets/images/Home_Contents/مِلْعقة.webp"
+            },
+            {
+              "word_id": 562,
+              "word_name": "مدق",
+              "word_voice": "مِدْق",
+              "image_static": "assets/images/Home_Contents/مدق1.webp",
+              "image_animated": "assets/images/Home_Contents/مدق.webp"
+            },
+            {
+              "word_id": 563,
+              "word_name": "دُرج",
+              "word_voice": "دُرْج",
+              "image_static": "assets/images/Home_Contents/دُرج1.webp",
+              "image_animated": "assets/images/Home_Contents/دُرج.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 15,
+          "lesson_name": "الدرس الخامس عشر",
+          "lesson_image": "assets/images/Home_Contents/قطاعة بيض1.webp",
+          "lesson_description": "قطاعة ملوخية، قطاعة البيض، عصارة، فرامة، جزوة",
+          "words": [
+            {
+              "word_id": 564,
+              "word_name": "قطاعة البيض",
+              "word_voice": "قَطَّاعَةُ البَيْض",
+              "image_static": "assets/images/Home_Contents/قطاعة بيض1.webp",
+              "image_animated": "assets/images/Home_Contents/قطاعة بيض.webp"
+            },
+            {
+              "word_id": 565,
+              "word_name": "قطاعة ملوخية",
+              "word_voice": "قَطَّاعَةُ ملوخِيَّة",
+              "image_static": "assets/images/Home_Contents/قطاعة ملوخية1.webp",
+              "image_animated": "assets/images/Home_Contents/قطاعة ملوخية.webp"
+            },
+            {
+              "word_id": 566,
+              "word_name": "عصارة",
+              "word_voice": "عَصَّارَة",
+              "image_static": "assets/images/Home_Contents/عصارة1.webp",
+              "image_animated": "assets/images/Home_Contents/عصارة.webp"
+            },
+            {
+              "word_id": 567,
+              "word_name": "فرامة",
+              "word_voice": "فَرَّامَة",
+              "image_static": "assets/images/Home_Contents/فرامة1.webp",
+              "image_animated": "assets/images/Home_Contents/فرامة.webp"
+            },
+            {
+              "word_id": 568,
+              "word_name": "جزوة",
+              "word_voice": "جَزْوَة",
+              "image_static": "assets/images/Home_Contents/جزوة1.webp",
+              "image_animated": "assets/images/Home_Contents/جزوة.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 16,
+          "lesson_name": "الدرس السادس عشر",
+          "lesson_image": "assets/images/Home_Contents/فنجان1.webp",
+          "lesson_description": " فنجان، قطارة، كأس، مقص، درج",
+          "words": [
+            {
+              "word_id": 569,
+              "word_name": "فنجان",
+              "word_voice": "فِنْجَان",
+              "image_static": "assets/images/Home_Contents/فنجان1.webp",
+              "image_animated": "assets/images/Home_Contents/فنجان.webp"
+            },
+            {
+              "word_id": 570,
+              "word_name": "قطارة",
+              "word_voice": "قَطَّارَة",
+              "image_static": "assets/images/Home_Contents/قطارة1.webp",
+              "image_animated": "assets/images/Home_Contents/قطارة.webp"
+            },
+            {
+              "word_id": 571,
+              "word_name": "كأس",
+              "word_voice": "كَأْس",
+              "image_static": "assets/images/Home_Contents/كأس1.webp",
+              "image_animated": "assets/images/Home_Contents/كأس.webp"
+            },
+            {
+              "word_id": 572,
+              "word_name": "مقص",
+              "word_voice": "مِقْص",
+              "image_static": "assets/images/Home_Contents/مقص1.webp",
+              "image_animated": "assets/images/Home_Contents/مقص.webp"
+            },
+            {
+              "word_id": 573,
+              "word_name": "درج",
+              "word_voice": "دَرَج",
+              "image_static": "assets/images/Home_Contents/درج1.webp",
+              "image_animated": "assets/images/Home_Contents/درج.webp"
+            }
+          ]
+        },
+        {
+          "lesson_id": 17,
+          "lesson_name": "الدرس السابع عشر",
+          "lesson_image": "assets/images/Home_Contents/خزان1.webp",
+          "lesson_description": " خزان، مبرد، مفك، مفتاح، معلق",
+          "words": [
+            {
+              "word_id": 574,
+              "word_name": "خزان",
+              "word_voice": "خَزَّان",
+              "image_static": "assets/images/Home_Contents/خزان1.webp",
+              "image_animated": "assets/images/Home_Contents/خزان.webp"
+            },
+            {
+              "word_id": 575,
+              "word_name": "مبرِد",
+              "word_voice": "مُبَرِّد",
+              "image_static": "assets/images/Home_Contents/مبرِد1.webp",
+              "image_animated": "assets/images/Home_Contents/مبرِد.webp"
+            },
+            {
+              "word_id": 576,
+              "word_name": "مفك",
+              "word_voice": "مِفَك",
+              "image_static": "assets/images/Home_Contents/مفك1.webp",
+              "image_animated": "assets/images/Home_Contents/مفك.webp"
+            },
+            {
+              "word_id": 577,
+              "word_name": "مفتاح",
+              "word_voice": "مِفْتَاح",
+              "image_static": "assets/images/Home_Contents/مفتاح1.webp",
+              "image_animated": "assets/images/Home_Contents/مفتاح.webp"
+            },
+            {
+              "word_id": 578,
+              "word_name": "معْلُق",
+              "word_voice": "مَعْلُق",
+              "image_static": "assets/images/Home_Contents/معْلُق1.webp",
+              "image_animated": "assets/images/Home_Contents/معْلُق.webp"
+            } 
+          ]
+        },
+        {
+          "lesson_id": 18,
+          "lesson_name": "الدرس الثامن عشر",
+          "lesson_image": "assets/images/Home_Contents/سقف1.webp",
+          "lesson_description": "جدار ، سطح ، سقف ، ستالايت(دش) ، طابق",
+          "words": [
+            {
+              "word_id": 579,
+              "word_name": "جدار",
+              "word_voice": "جِدَار",
+              "image_static": "assets/images/Home_Contents/جدار1.webp",
+              "image_animated": "assets/images/Home_Contents/جدار.webp"
+            },
+            {
+              "word_id": 580,
+              "word_name": "سطح",
+              "word_voice": "سَطْح",
+              "image_static": "assets/images/Home_Contents/سطح1.webp",
+              "image_animated": "assets/images/Home_Contents/سطح.webp"
+            },
+            {
+              "word_id": 581,
+              "word_name": "سقف",
+              "word_voice": "سَقْف",
+              "image_static": "assets/images/Home_Contents/سقف1.webp",
+              "image_animated": "assets/images/Home_Contents/سقف.webp"
+            },
+            {
+              "word_id": 582,
+              "word_name": "ستالايت (دش)",
+              "word_voice": "سَتَلاَيْت (دَش)",
+              "image_static": "assets/images/Home_Contents/ستلايت1.webp",
+              "image_animated": "assets/images/Home_Contents/ستلايت.webp"
+            },
+            {
+              "word_id": 583,
+              "word_name": "طابق",
+              "word_voice": "طَابِق",
+              "image_static": "assets/images/Home_Contents/طابق1.webp",
+              "image_animated": "assets/images/Home_Contents/طابق.webp"
+            }
+          ]
+        }
+ 
+    ]
+  },
+  {
+    "category_id": 15,
+    "category_name": "الرياضة",
+    "image":"assets/images/Sports/الرياضة1.webp",
+    "lessons":
+      [
+      {
+        "lesson_id": 1,
+        "lesson_name": "الدرس الأول",
+        "lesson_image":"assets/images/Sports/شطرنج1.webp",
+        "lesson_description": "الرياضة ، شطرنج ، بلياردو ، بولينج ، نادي",
+        "words":
+          [
+            {
+              "word_id": 1500,
+              "word_name": "الرياضة",
+              "word_voice": "الرِّياضة",
+              "image_static": "assets/images/Sports/الرياضة1.webp",
+              "image_animated": "assets/images/Sports/الرياضة.webp"
+            },
+            {
+              "word_id": 1518,
+              "word_name": "شطرنج",
+              "word_voice": "شَطَرَنْج",
+              "image_static": "assets/images/Sports/شطرنج1.webp",
+              "image_animated": "assets/images/Sports/شطرنج.webp"
+            },
+            {
+              "word_id": 1502,
+              "word_name": "بلياردو",
+              "word_voice": "بِلْيَارْدُو",
+              "image_static": "assets/images/Sports/بلياردو1.webp",
+              "image_animated": "assets/images/Sports/بلياردو.webp"
+            },
+            {
+              "word_id": 1503,
+              "word_name": "بولينج",
+              "word_voice": "بُولِينْج",
+              "image_static": "assets/images/Sports/بولينج1.webp",
+              "image_animated": "assets/images/Sports/بولينج.webp"
+            },
+            {
+              "word_id": 1532,
+              "word_name": "نادي",
+              "word_voice": "نَادِي",
+              "image_static": "assets/images/Sports/نادي1.webp",
+              "image_animated": "assets/images/Sports/نادي.webp"
+            }
+        ]
+      },
+      {
+        "lesson_id": 2,
+        "lesson_name": "الدرس الثاني",
+        "lesson_image":"assets/images/Sports/كرة سلة1.webp",
+        "lesson_description": " كرة السلة ، كرة الطائرة ، كرة القدم ، كرة الماء",
+        "words":
+          [
+            {
+              "word_id": 1522,
+              "word_name": "كرة السلة",
+              "word_voice": "كُرَة السَلَّة",
+              "image_static": "assets/images/Sports/كرة سلة1.webp",
+              "image_animated": "assets/images/Sports/كرة سلة.webp"
+            },
+            {
+              "word_id": 1523,
+              "word_name": "كرة الطائرة",
+              "word_voice": "كُرَة الطَائِرَة",
+              "image_static": "assets/images/Sports/كرة طائرة1.webp",
+              "image_animated": "assets/images/Sports/كرة طائرة.webp"
+            },
+            {
+              "word_id": 1524,
+              "word_name": "كرة القدم",
+              "word_voice": "كُرَة القَدَم",
+              "image_static": "assets/images/Sports/كرة قدم1.webp",
+              "image_animated": "assets/images/Sports/كرة قدم.webp"
+            },
+            {
+              "word_id": 1525,
+              "word_name": "كرة الماء",
+              "word_voice": "كُرَة المَاء",
+              "image_static": "assets/images/Sports/كرة ماء1.webp",
+              "image_animated": "assets/images/Sports/كرة ماء.webp"
+            }
+        ]
+      },
+      {
+        "lesson_id": 3,
+        "lesson_name": "الدرس الثالث",
+        "lesson_image":"assets/images/Sports/تنس الطاولة1.webp",
+        "lesson_description": "تنس الطاولة، تنس الميدان ، رمي الجلة ، رمي السهم",
+        "words":
+          [
+            {
+              "word_id": 1505,
+              "word_name": "تنس الطاولة",
+              "word_voice": "تِنِس الطَّاوِلَة",
+              "image_static": "assets/images/Sports/تنس الطاولة1.webp",
+              "image_animated": "assets/images/Sports/تنس الطاولة.webp"
+            },
+            {
+              "word_id": 1506,
+              "word_name": "تنس الميدان",
+              "word_voice": "تِنِس المِيدَان",
+              "image_static": "assets/images/Sports/تنس الميدان1.webp",
+              "image_animated": "assets/images/Sports/تنس الميدان.webp"
+            },
+            {
+              "word_id": 1509,
+              "word_name": "رمي الجلة",
+              "word_voice": "رَمْي الجَلَّة",
+              "image_static": "assets/images/Sports/رمي الجلة1.webp",
+              "image_animated": "assets/images/Sports/رمي الجلة.webp"
+            },
+            {
+              "word_id": 1510,
+              "word_name": "رمي السهم",
+              "word_voice": "رَمْي السَّهْم",
+              "image_static": "assets/images/Sports/رمي السهم1.webp",
+              "image_animated": "assets/images/Sports/رمي السهم.webp"
+            }
+        ]
+      },
+      {
+        "lesson_id": 4,
+        "lesson_name": "الدرس الرابع",
+        "lesson_image":"assets/images/Sports/سباق الخيل1.webp",
+        "lesson_description": " سباحة ، سباق الخيل ، سباق السيارات ، سباق الدراجات، سباق الزوارق ",
+        "words":
+          [
+            {
+              "word_id": 1512,
+              "word_name": "سباحة",
+              "word_voice": "سِبَاحَة",
+              "image_static": "assets/images/Sports/سباحة1.webp",
+              "image_animated": "assets/images/Sports/سباحة.webp"
+            },
+            {
+              "word_id": 1513,
+              "word_name": "سباق الخيل",
+              "word_voice": "سِبَاق الخَيْل",
+              "image_static": "assets/images/Sports/سباق الخيل1.webp",
+              "image_animated": "assets/images/Sports/سباق الخيل.webp"
+            },
+            {
+              "word_id": 1514,
+              "word_name": "سباق السيارات",
+              "word_voice": "سِبَاق السَّيَّارَات",
+              "image_static": "assets/images/Sports/سباق السيارات1.webp",
+              "image_animated": "assets/images/Sports/سباق السيارات.webp"
+            },
+            {
+              "word_id": 1515,
+              "word_name": "سباق الدراجات",
+              "word_voice": "سِبَاق الدَرَاجَات",
+              "image_static": "assets/images/Sports/سباق دراجات1.webp",
+              "image_animated": "assets/images/Sports/سباق دراجات.webp"
+            },
+            {
+              "word_id": 1516,
+              "word_name": "سباق الزوارق",
+              "word_voice": "سِبَاق الزَوَارِق",
+              "image_static": "assets/images/Sports/سباق زوارق1.webp",
+              "image_animated": "assets/images/Sports/سباق زوارق.webp"
+            }
+        ]
+      },
+      {
+        "lesson_id": 5,
+        "lesson_name": "الدرس الخامس",
+        "lesson_image":"assets/images/Sports/كراتية1.webp",
+        "lesson_description": "كراتيه ، ملاكمة ، كمال أجسام ، مبارزة، مصارعة ثيران ",
+        "words":
+          [
+            {
+              "word_id": 1521,
+              "word_name": "كراتية",
+              "word_voice": "كَرَاتِيَّة",
+              "image_static": "assets/images/Sports/كراتية1.webp",
+              "image_animated": "assets/images/Sports/كراتية.webp"
+            },
+            {
+              "word_id": 1530,
+              "word_name": "ملاكمة",
+              "word_voice": "مُلاَكَمَة",
+              "image_static": "assets/images/Sports/ملاكمة1.webp",
+              "image_animated": "assets/images/Sports/ملاكمة.webp"
+            },
+            {
+              "word_id": 1526,
+              "word_name": "كمال أجسام",
+              "word_voice": "كمال أجسام",
+              "image_static": "assets/images/Sports/كمال أجسام1.webp",
+              "image_animated": "assets/images/Sports/كمال أجسام.webp"
+            },
+            {
+              "word_id": 1527,
+              "word_name": "مُبارزة",
+              "word_voice": "مُبارَزَة",
+              "image_static": "assets/images/Sports/مُبارزة1.webp",
+              "image_animated": "assets/images/Sports/مُبارزة.webp"
+            },
+            {
+              "word_id": 1529,
+              "word_name": "مصارعة ثيران",
+              "word_voice": "مُصَارَعَة ثِيرَان",
+              "image_static": "assets/images/Sports/مصارعة ثيران1.webp",
+              "image_animated": "assets/images/Sports/مصارعة ثيران.webp"
+            }
+        ]
+      },
+      {
+        "lesson_id": 6,
+        "lesson_name": "الدرس السادس",
+        "lesson_image":"assets/images/Sports/قفز بالزانة1.webp",
+        "lesson_description": "قفز الزانة ، وثب الجمال ، وثب عالي ،ميدالية",
+        "words":
+          [
+            {
+              "word_id": 1520,
+              "word_name": "قفز بالزانة",
+              "word_voice": "قَفْز بِالزَّانَة",
+              "image_static": "assets/images/Sports/قفز بالزانة1.webp",
+              "image_animated": "assets/images/Sports/قفز بالزانة.webp"
+            },
+            {
+              "word_id": 1534,
+              "word_name": "وثب الجمال",
+              "word_voice": "وَثْب الجَمَال",
+              "image_static": "assets/images/Sports/وثب الجمال1.webp",
+              "image_animated": "assets/images/Sports/وثب الجمال.webp"
+            },
+            {
+              "word_id": 1535,
+              "word_name": "وثب عالي",
+              "word_voice": "وَثْب عَالِي",
+              "image_static": "assets/images/Sports/وثب عالي1.webp",
+              "image_animated": "assets/images/Sports/وثب عالي.webp"
+            },
+            {
+              "word_id": 1531,
+              "word_name": "ميدالية",
+              "word_voice": "مِيدَالِيَة",
+              "image_static": "assets/images/Sports/ميدالية1.webp",
+              "image_animated": "assets/images/Sports/ميدالية.webp"
+            }
+        ]
+      },
+      {
+        "lesson_id": 7,
+        "lesson_name": "الدرس السابع",
+        "lesson_image":"assets/images/Sports/حارس مرمى1.webp",
+        "lesson_description": "حارس مرمى، شبكة، هدف، حكم، مدرب",
+        "words":
+          [
+            {
+              "word_id": 1507,
+              "word_name": "حارس مرمى",
+              "word_voice": "حَارِس مَرْمَى",
+              "image_static": "assets/images/Sports/حارس مرمى1.webp",
+              "image_animated": "assets/images/Sports/حارس مرمى.webp"
+            },
+            {
+              "word_id": 1517,
+              "word_name": "شبكة",
+              "word_voice": "شَبَكَة",
+              "image_static": "assets/images/Sports/شبكة1.webp",
+              "image_animated": "assets/images/Sports/شبكة.webp"
+            },
+            {
+              "word_id": 1533,
+              "word_name": "هدف",
+              "word_voice": "هَدَف",
+              "image_static": "assets/images/Sports/هدف1.webp",
+              "image_animated": "assets/images/Sports/هدف.webp"
+            },
+            {
+              "word_id": 1508,
+              "word_name": "حكم",
+              "word_voice": "حَكَم",
+              "image_static": "assets/images/Sports/حكم1.webp",
+              "image_animated": "assets/images/Sports/حكم.webp"
+            },
+            {
+              "word_id": 1528,
+              "word_name": "مُدرب",
+              "word_voice": "مُدَرِّب",
+              "image_static": "assets/images/Sports/مُدرب1.webp",
+              "image_animated": "assets/images/Sports/مُدرب.webp"
+            } 
+        ]
+      },
+      {
+        "lesson_id": 8,
+        "lesson_name": "الدرس الثامن",
+        "lesson_image":"assets/images/Sports/بلنتي(ضربة جزاء)1.webp",
+        "lesson_description": "فاول، ضربة جزاء، تسلل، رمية تماس",
+        "words":
+          [
+            {
+              "word_id": 1519,
+              "word_name": "فاول",
+              "word_voice": "فَاوَل",
+              "image_static": "assets/images/Sports/فاول1.webp",
+              "image_animated": "assets/images/Sports/فاول.webp"
+            },
+            {
+              "word_id": 1501,
+              "word_name": "بلنتي (ضربة جزاء)",
+              "word_voice": "بَلِنْتي (ضَرْبَة جَزاء)",
+              "image_static": "assets/images/Sports/بلنتي(ضربة جزاء)1.webp",
+              "image_animated": "assets/images/Sports/بلنتي(ضربة جزاء).webp"
+            },
+            {
+              "word_id": 1504,
+              "word_name": "تسلل",
+              "word_voice": "تَسَلُّل",
+              "image_static": "assets/images/Sports/تسلل1.webp",
+              "image_animated": "assets/images/Sports/تسلل.webp"
+            },
+            {
+              "word_id": 1511,
+              "word_name": "رمية تماس",
+              "word_voice": "رَمْية تَمَاس",
+              "image_static": "assets/images/Sports/رمي تماس1.webp",
+              "image_animated": "assets/images/Sports/رمي تماس.webp"
+            }
+        ]
+      }
+      
+    ]
+  },
+  {
+    "category_id": 16,
+    "category_name": "معاملات مالية",
+    "image":"assets/images/Money_transactions/عملات1.webp",
+    "lessons":
+      [
+      {
+        "lesson_id": 1,
+        "lesson_name": "الدرس الأول",
+        "lesson_image":"assets/images/Money_transactions/نقود1.webp",
+        "lesson_description": "عملات ، نقود ، قرش ، دولار",
+        "words":
+          [
+            {
+              "word_id": 1618,
+              "word_name": "عملات",
+              "word_voice": "عُمَلَات",
+              "image_static": "assets/images/Money_transactions/عملات1.webp",
+              "image_animated": "assets/images/Money_transactions/عملات.webp"
+            },
+            {
+              "word_id": 1625,
+              "word_name": "نقود",
+              "word_voice": "نُقُود",
+              "image_static": "assets/images/Money_transactions/نقود1.webp",
+              "image_animated": "assets/images/Money_transactions/نقود.webp"
+            },
+            {
+              "word_id": 1620,
+              "word_name": "قرش",
+              "word_voice": "قِرْش",
+              "image_static": "assets/images/Money_transactions/قرش1.webp",
+              "image_animated": "assets/images/Money_transactions/قرش.webp"
+            },
+            {
+              "word_id": 1609,
+              "word_name": "دولار",
+              "word_voice": "دُولَار",
+              "image_static": "assets/images/Money_transactions/دولار1.webp",
+              "image_animated": "assets/images/Money_transactions/دولار.webp"
+            }
+        ]
+      },
+      {
+        "lesson_id": 2,
+        "lesson_name": "الدرس الثاني",
+        "lesson_image":"assets/images/Money_transactions/دينار1.webp",
+        "lesson_description": "دينار، ليرة، ين، يورو",
+        "words":
+          [
+            {
+              "word_id": 1610,
+              "word_name": "دينار",
+              "word_voice": "دِينَار",
+              "image_static": "assets/images/Money_transactions/دينار1.webp",
+              "image_animated": "assets/images/Money_transactions/دينار.webp"
+            },
+            {
+              "word_id": 1621,
+              "word_name": "ليرة",
+              "word_voice": "لِيرَة",
+              "image_static": "assets/images/Money_transactions/ليرة1.webp",
+              "image_animated": "assets/images/Money_transactions/ليرة.webp"
+            },
+            {
+              "word_id": 1627,
+              "word_name": "ين",
+              "word_voice": "يِن",
+              "image_static": "assets/images/Money_transactions/ين1.webp",
+              "image_animated": "assets/images/Money_transactions/ين.webp"
+            },
+            {
+              "word_id": 1628,
+              "word_name": "يورو",
+              "word_voice": "يُورُو",
+              "image_static": "assets/images/Money_transactions/يورو1.webp",
+              "image_animated": "assets/images/Money_transactions/يورو.webp"
+            }
+        ]
+      },
+      {
+        "lesson_id": 3,
+        "lesson_name": "الدرس الثالث",
+        "lesson_image":"assets/images/Money_transactions/راتب1.webp",
+        "lesson_description": "راتب، إكرامية، مكافئة، سلف ،رد الدين",
+        "words":
+          [
+            {
+              "word_id": 1611,
+              "word_name": "راتب",
+              "word_voice": "رَاتِب",
+              "image_static": "assets/images/Money_transactions/راتب1.webp",
+              "image_animated": "assets/images/Money_transactions/راتب.webp"
+            },
+            {
+              "word_id": 1601,
+              "word_name": "إكرامية",
+              "word_voice": "اِكْرَامِيَة",
+              "image_static": "assets/images/Money_transactions/إكرامية1.webp",
+              "image_animated": "assets/images/Money_transactions/إكرامية.webp"
+            },
+            {
+              "word_id": 1623,
+              "word_name": "مكافئة",
+              "word_voice": "مُكَافَأَة",
+              "image_static": "assets/images/Money_transactions/مكافئة1.webp",
+              "image_animated": "assets/images/Money_transactions/مكافئة.webp"
+            },
+            {
+              "word_id": 1615,
+              "word_name": "سلف",
+              "word_voice": "سَلَف",
+              "image_static": "assets/images/Money_transactions/سلف1.webp",
+              "image_animated": "assets/images/Money_transactions/سلف.webp"
+            },
+            {
+              "word_id": 1613,
+              "word_name": "رد الدين",
+              "word_voice": "رَدُّ الدَّيْن",
+              "image_static": "assets/images/Money_transactions/رد الدين1.webp",
+              "image_animated": "assets/images/Money_transactions/رد الدين.webp"
+            }
+        ]
+      },
+      {
+        "lesson_id": 4,
+        "lesson_name": "الدرس الرابع",
+        "lesson_image":"assets/images/Money_transactions/شيك1.webp",
+        "lesson_description": "شيك ،صرافة ،فاتورة ،دفتر اليومية ",
+        "words":
+          [
+            {
+              "word_id": 1616,
+              "word_name": "شيك",
+              "word_voice": "شِيك",
+              "image_static": "assets/images/Money_transactions/شيك1.webp",
+              "image_animated": "assets/images/Money_transactions/شيك.webp"
+            },
+            {
+              "word_id": 1617,
+              "word_name": "صرافة",
+              "word_voice": "صَرَافَة",
+              "image_static": "assets/images/Money_transactions/صرافة1.webp",
+              "image_animated": "assets/images/Money_transactions/صرافة.webp"
+            },
+            {
+              "word_id": 1619,
+              "word_name": "فاتورة",
+              "word_voice": "فَاتُورَة",
+              "image_static": "assets/images/Money_transactions/فاتورة1.webp",
+              "image_animated": "assets/images/Money_transactions/فاتورة.webp"
+            },
+            {
+              "word_id": 1608,
+              "word_name": "دفتر اليومية",
+              "word_voice": "دَفْتَر اليَوْمِيَّة",
+              "image_static": "assets/images/Money_transactions/دفتر اليومية1.webp",
+              "image_animated": "assets/images/Money_transactions/دفتر اليومية.webp"
+            }
+        ]
+      },
+      {
+        "lesson_id": 5,
+        "lesson_name": "الدرس الخامس",
+        "lesson_image":"assets/images/Money_transactions/ميزانية1.webp",
+        "lesson_description": "يستثمر ،ميزانية ،ربح، خسارة",
+        "words":
+          [
+            {
+              "word_id": 1626,
+              "word_name": "يستثمر",
+              "word_voice": "يَسْتَثْمِر",
+              "image_static": "assets/images/Money_transactions/يستثمر1.webp",
+              "image_animated": "assets/images/Money_transactions/يستثمر.webp"
+            },
+            {
+              "word_id": 1624,
+              "word_name": "ميزانية",
+              "word_voice": "مِيزَانِيَة",
+              "image_static": "assets/images/Money_transactions/ميزانية1.webp",
+              "image_animated": "assets/images/Money_transactions/ميزانية.webp"
+            },
+            {
+              "word_id": 1612,
+              "word_name": "ربح",
+              "word_voice": "رِبْح",
+              "image_static": "assets/images/Money_transactions/ربح1.webp",
+              "image_animated": "assets/images/Money_transactions/ربح.webp"
+            },
+            {
+              "word_id": 1607,
+              "word_name": "خسارة",
+              "word_voice": "خَسَارَة",
+              "image_static": "assets/images/Money_transactions/خسارة1.webp",
+              "image_animated": "assets/images/Money_transactions/خسارة.webp"
+            }
+        ]
+      },
+      {
+        "lesson_id": 6,
+        "lesson_name": "الدرس السادس",
+        "lesson_image":"assets/images/Money_transactions/إيجار1.webp",
+        "lesson_description": "أمين الصندوق، إيجار، إيداع، تبرع",
+        "words":
+          [
+            {
+              "word_id": 1602,
+              "word_name": "امين الصندوق",
+              "word_voice": "أَمِين الصَّنْدُوق",
+              "image_static": "assets/images/Money_transactions/امين الصندوق1.webp",
+              "image_animated": "assets/images/Money_transactions/امين الصندوق.webp"
+            },
+            {
+              "word_id": 1603,
+              "word_name": "إيجار",
+              "word_voice": "إِيجَار",
+              "image_static": "assets/images/Money_transactions/إيجار1.webp",
+              "image_animated": "assets/images/Money_transactions/إيجار.webp"
+            },
+            {
+              "word_id": 1604,
+              "word_name": "إيداع",
+              "word_voice": "إِيدَاع",
+              "image_static": "assets/images/Money_transactions/إيداع1.webp",
+              "image_animated": "assets/images/Money_transactions/إيداع.webp"
+            },
+            {
+              "word_id": 1605,
+              "word_name": "تبرُع",
+              "word_voice": "تَبَرُّع",
+              "image_static": "assets/images/Money_transactions/تبرُع1.webp",
+              "image_animated": "assets/images/Money_transactions/تبرُع.webp"
+            }
+        ]
+      },
+      {
+        "lesson_id": 7,
+        "lesson_name": "الدرس السابع",
+        "lesson_image":"assets/images/Money_transactions/محاسبة1.webp",
+        "lesson_description": "محاسبة، إختلاس، تزوير، رشوه",
+        "words":
+          [
+            {
+              "word_id": 1622,
+              "word_name": "محاسبة",
+              "word_voice": "مُحَاسَبَة",
+              "image_static": "assets/images/Money_transactions/محاسبة1.webp",
+              "image_animated": "assets/images/Money_transactions/محاسبة.webp"
+            },
+            {
+              "word_id": 1600,
+              "word_name": "إختلاس",
+              "word_voice": "اِخْتِلاَس",
+              "image_static": "assets/images/Money_transactions/إختلاس1.webp",
+              "image_animated": "assets/images/Money_transactions/إختلاس.webp"
+            },
+            {
+              "word_id": 1606,
+              "word_name": "تزوير",
+              "word_voice": "تَزْوِير",
+              "image_static": "assets/images/Money_transactions/تزوير1.webp",
+              "image_animated": "assets/images/Money_transactions/تزوير.webp"
+            },
+            {
+              "word_id": 1614,
+              "word_name": "رشوة",
+              "word_voice": "رَشْوَة",
+              "image_static": "assets/images/Money_transactions/رشوة1.webp",
+              "image_animated": "assets/images/Money_transactions/رشوة.webp"
+            }
+        ]
+      }
+    ]
   }
 
 ]
+
