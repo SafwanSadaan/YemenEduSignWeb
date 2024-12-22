@@ -748,14 +748,7 @@
   "word_voice": "نَعَامَة",
   "image_static": "assets/images/animals/3-نعامة.webp",
   "image_animated": "assets/images/animals/نعامة.webp"
-  },
-  {
-  "word_id": 108,
-  "word_name": "ماعز",
-  "word_voice": "ماعز",
-  "image_static": "assets/images/animals/3-ماعز.webp",
-  "image_animated": "assets/images/animals/ماعز.webp"
-  },
+  },  
   {
   "word_id": 109,
   "word_name": "حُوت",
@@ -1021,13 +1014,6 @@
   "word_voice": "عصفور",
   "image_static": "assets/images/animals/3-عصفور.webp",
   "image_animated": "assets/images/animals/عصفور.webp"
-  },
-  {
-  "word_id": 147,
-  "word_name": "زرافة",
-  "word_voice": "زرافة",
-  "image_static": "assets/images/animals/3-زرافة.webp",
-  "image_animated": "assets/images/animals/زرافة.webp"
   },
   {
   "word_id": 148,
@@ -2534,18 +2520,11 @@
   "image_animated": "assets/images/community-personnel/مندوب.webp"
   },
   {
-  "word_id": 1,
-  "word_name": "عريس",
-  "word_voice": "عريس",
-  "image_static": "assets/images/community-personnel/11-عريس.webp",
-  "image_animated": "assets/images/community-personnel/عريس.webp"
-  },
-  {
-  "word_id": 2,
-  "word_name": "عروس",
-  "word_voice": "عروس",
-  "image_static": "assets/images/community-personnel/11-عروس.webp",
-  "image_animated": "assets/images/community-personnel/عروس.webp"
+    "word_id": 1,
+    "word_name": "عريس",
+    "word_voice": "عريس",
+    "image_static": "assets/images/community-personnel/4-عريس.webp",
+    "image_animated": "assets/images/community-personnel/عريس.webp"
   },
   {
   "word_id": 3,
@@ -2553,13 +2532,6 @@
   "word_voice": "امرأة",
   "image_static": "assets/images/community-personnel/11-امرأة.webp",
   "image_animated": "assets/images/community-personnel/امرأة.webp"
-  },
-  {
-  "word_id": 4,
-  "word_name": "خطوبة",
-  "word_voice": "خطوبة",
-  "image_static": "assets/images/community-personnel/11-خطوبة.webp",
-  "image_animated": "assets/images/community-personnel/خطوبة.webp"
   },
   {
   "word_id": 5,
@@ -2631,13 +2603,6 @@
   "word_voice": "سايلة",
   "image_static": "assets/images/Agriculture/12-سايلة.webp",
   "image_animated": "assets/images/Agriculture/سايلة.webp"
-  },
-  {
-  "word_id": 5,
-  "word_name": "سَمَاء",
-  "word_voice": "سَمَاء",
-  "image_static": "assets/images/Agriculture/12-سماء.webp",
-  "image_animated": "assets/images/Agriculture/سماء.webp"
   },
   {
   "word_id": 1,
@@ -4026,5 +3991,407 @@
       "word_voice": "يُورُو",
       "image_static": "assets/images/Money_transactions/يورو1.webp",
       "image_animated": "assets/images/Money_transactions/يورو.webp"
-    }
+    },
+
+
+
+
+
+
+
+
+
+
+    
+
+
+{
+  "word_id": 1700,
+  "word_name": "إفتتاح مشروع",
+  "word_voice": "إِفْتِتَاحُ مَشْرُوعٍ",
+  "image_static": "assets/images/Holidays_Occasions/إفتتاح مشروع1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/إفتتاح مشروع.webp"
+},
+{
+  "word_id": 1701,
+  "word_name": "العاب نارية",
+  "word_voice": "اَلْأَلْعَابُ النَّارِيَّةُ",
+  "image_static": "assets/images/Holidays_Occasions/العاب نارية1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/العاب نارية.webp"
+},
+{
+  "word_id": 1702,
+  "word_name": "اليوم الوطني للمعاقين",
+  "word_voice": "اَلْيَوْمُ الوَطَنِيُّ لِلْمُعَاقِينَ",
+  "image_static": "assets/images/Holidays_Occasions/اليوم الوطني للمعاقين1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/اليوم الوطني للمعاقين.webp"
+},
+{
+  "word_id": 1703,
+  "word_name": "بالون",
+  "word_voice": "بَالُونٌ",
+  "image_static": "assets/images/Holidays_Occasions/بالون1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/بالون.webp"
+},
+{
+  "word_id": 1704,
+  "word_name": "بورزان",
+  "word_voice": "بُورْزَانٌ",
+  "image_static": "assets/images/Holidays_Occasions/بورزان1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/بورزان.webp"
+},
+{
+  "word_id": 1705,
+  "word_name": "توشيح",
+  "word_voice": "تَوْشِيحٌ",
+  "image_static": "assets/images/Holidays_Occasions/توشيح1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/توشيح.webp"
+},
+{
+  "word_id": 1706,
+  "word_name": "حفلة",
+  "word_voice": "حَفْلَةٌ",
+  "image_static": "assets/images/Holidays_Occasions/حفلة1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/حفلة.webp"
+},
+{
+  "word_id": 1707,
+  "word_name": "حفلة زفاف",
+  "word_voice": "حَفْلَةُ زِفَافٍ",
+  "image_static": "assets/images/Holidays_Occasions/حفلة زفاف1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/حفلة زفاف.webp"
+},
+{
+  "word_id": 1708,
+  "word_name": "خطوبة",
+  "word_voice": "خُطُوبَةٌ",
+  "image_static": "assets/images/Holidays_Occasions/خطوبة1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/خطوبة.webp"
+},
+{
+  "word_id": 1709,
+  "word_name": "ذكرى الإستقلال",
+  "word_voice": "ذِكْرَى الإِسْتِقْلَالِ",
+  "image_static": "assets/images/Holidays_Occasions/ذكرى الإستقلال1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/ذكرى الإستقلال.webp"
+},
+{
+  "word_id": 1710,
+  "word_name": "رأس السنة الهجرية",
+  "word_voice": "رَأْسُ السَّنَةِ الْهِجْرِيَّةِ",
+  "image_static": "assets/images/Holidays_Occasions/رأس السنة الهجرية1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/رأس السنة الهجرية.webp"
+},
+{
+  "word_id": 1711,
+  "word_name": "زفة بنت",
+  "word_voice": "زَفَّةُ بِنْتٍ",
+  "image_static": "assets/images/Holidays_Occasions/زفة بنت1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/زفة بنت.webp"
+},
+{
+  "word_id": 1712,
+  "word_name": "زينة",
+  "word_voice": "زِينَةٌ",
+  "image_static": "assets/images/Holidays_Occasions/زينة1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/زينة.webp"
+},
+{
+  "word_id": 1713,
+  "word_name": "طاسة برع",
+  "word_voice": "طَاسَةُ بَرَعٍ",
+  "image_static": "assets/images/Holidays_Occasions/طاسة برع1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/طاسة برع.webp"
+},
+{
+  "word_id": 1714,
+  "word_name": "عيد",
+  "word_voice": "عِيدٌ",
+  "image_static": "assets/images/Holidays_Occasions/عيد1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/عيد.webp"
+},
+{
+  "word_id": 1715,
+  "word_name": "عيد 14 أكتوبر",
+  "word_voice": "عِيدُ الرَّابِعَ عَشَرَ مِنْ أُكْتُوبَرَ",
+  "image_static": "assets/images/Holidays_Occasions/عيد 14 أكتوبر1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/عيد 14 أكتوبر.webp"
+},
+{
+  "word_id": 1716,
+  "word_name": "عيد الأضحى",
+  "word_voice": "عِيدُ الْأَضْحَى",
+  "image_static": "assets/images/Holidays_Occasions/عيد الأضحى1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/عيد الأضحى.webp"
+},
+{
+  "word_id": 1717,
+  "word_name": "عيد الأم",
+  "word_voice": "عِيدُ الْأُمِّ",
+  "image_static": "assets/images/Holidays_Occasions/عيد الأم1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/عيد الأم.webp"
+},
+{
+  "word_id": 1718,
+  "word_name": "عيد الثورة",
+  "word_voice": "عِيدُ الثَّوْرَةِ",
+  "image_static": "assets/images/Holidays_Occasions/عيد الثورة1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/عيد الثورة.webp"
+},
+{
+  "word_id": 1719,
+  "word_name": "عيد العمال",
+  "word_voice": "عِيدُ الْعُمَّالِ",
+  "image_static": "assets/images/Holidays_Occasions/عيد العمال1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/عيد العمال.webp"
+},
+{
+  "word_id": 1720,
+  "word_name": "عيد الفطر",
+  "word_voice": "عِيدُ الْفِطْرِ",
+  "image_static": "assets/images/Holidays_Occasions/عيد الفطر1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/عيد الفطر.webp"
+},
+{
+  "word_id": 1721,
+  "word_name": "عيد المعلم",
+  "word_voice": "عِيدُ الْمُعَلِّمِ",
+  "image_static": "assets/images/Holidays_Occasions/عيد المعلم1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/عيد المعلم.webp"
+},
+{
+  "word_id": 1722,
+  "word_name": "عيد الوحدة",
+  "word_voice": "عِيدُ الْوَحْدَةِ",
+  "image_static": "assets/images/Holidays_Occasions/عيد الوحدة1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/عيد الوحدة.webp"
+},
+{
+  "word_id": 1723,
+  "word_name": "عيد ميلاد",
+  "word_voice": "عِيدُ مِيلَادٍ",
+  "image_static": "assets/images/Holidays_Occasions/عيد ميلاد1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/عيد ميلاد.webp"
+},
+{
+  "word_id": 1724,
+  "word_name": "مناسبات وأعياد",
+  "word_voice": "مُنَاسَبَاتٌ وَأَعْيَادٌ",
+  "image_static": "assets/images/Holidays_Occasions/مناسبات وأعياد1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/مناسبات وأعياد.webp"
+},
+{
+  "word_id": 1725,
+  "word_name": "هدية",
+  "word_voice": "هَدِيَّةٌ",
+  "image_static": "assets/images/Holidays_Occasions/هدية1.webp",
+  "image_animated": "assets/images/Holidays_Occasions/هدية.webp"
+},
+
+
+
+
+
+
+
+{
+  "word_id": 1800,
+  "word_name": "ابجدية",
+  "word_voice": "أَبْجَدِيَّة",
+  "image_static": "assets/images/Rules/ابجدية1.webp",
+  "image_animated": "assets/images/Rules/ابجدية.webp"
+  },
+  {
+  "word_id": 1801,
+  "word_name": "إسم",
+  "word_voice": "إِسْم",
+  "image_static": "assets/images/Rules/إسم1.webp",
+  "image_animated": "assets/images/Rules/إسم.webp"
+  },
+  {
+  "word_id": 1802,
+  "word_name": "أنت",
+  "word_voice": "أَنْتَ",
+  "image_static": "assets/images/Rules/أنت1.webp",
+  "image_animated": "assets/images/Rules/أنت.webp"
+  },
+  {
+  "word_id": 1803,
+  "word_name": "جملة",
+  "word_voice": "جُمْلَة",
+  "image_static": "assets/images/Rules/جملة1.webp",
+  "image_animated": "assets/images/Rules/جملة.webp"
+  },
+  {
+  "word_id": 1804,
+  "word_name": "جواب",
+  "word_voice": "جَواب",
+  "image_static": "assets/images/Rules/جواب1.webp",
+  "image_animated": "assets/images/Rules/جواب.webp"
+  },
+  {
+  "word_id": 1805,
+  "word_name": "حقك",
+  "word_voice": "حَقَّك",
+  "image_static": "assets/images/Rules/حقك1.webp",
+  "image_animated": "assets/images/Rules/حقك.webp"
+  },
+  {
+  "word_id": 1806,
+  "word_name": "سؤال",
+  "word_voice": "سُؤَال",
+  "image_static": "assets/images/Rules/سؤال1.webp",
+  "image_animated": "assets/images/Rules/سؤال.webp"
+  },
+  {
+  "word_id": 1807,
+  "word_name": "صفة",
+  "word_voice": "صِفَة",
+  "image_static": "assets/images/Rules/صفة1.webp",
+  "image_animated": "assets/images/Rules/صفة.webp"
+  },
+  {
+  "word_id": 1808,
+  "word_name": "قواعد",
+  "word_voice": "قَواعِد",
+  "image_static": "assets/images/Rules/قواعد1.webp",
+  "image_animated": "assets/images/Rules/قواعد.webp"
+  },
+  {
+  "word_id": 1809,
+  "word_name": "كلمة",
+  "word_voice": "كَلِمَة",
+  "image_static": "assets/images/Rules/كلمة1.webp",
+  "image_animated": "assets/images/Rules/كلمة.webp"
+  },
+  {
+  "word_id": 1810,
+  "word_name": "كيف",
+  "word_voice": "كَيْف",
+  "image_static": "assets/images/Rules/كيف1.webp",
+  "image_animated": "assets/images/Rules/كيف.webp"
+ },
+  {
+  "word_id": 1811,
+  "word_name": "ماذا",
+  "word_voice": "ماذا",
+  "image_static": "assets/images/Rules/ماذا1.webp",
+  "image_animated": "assets/images/Rules/ماذا.webp"
+  },
+  {
+  "word_id": 1812,
+  "word_name": "متى",
+  "word_voice": "مَتى",
+  "image_static": "assets/images/Rules/متى1.webp",
+  "image_animated": "assets/images/Rules/متى.webp"
+  },
+  {
+  "word_id": 1813,
+  "word_name": "من",
+  "word_voice": "مَن",
+  "image_static": "assets/images/Rules/من1.webp",
+  "image_animated": "assets/images/Rules/من.webp"
+  },
+  {
+  "word_id": 1814,
+  "word_name": "أب",
+  "word_voice": "أَب",
+  "image_static": "assets/images/Rules/أب1.webp",
+  "image_animated": "assets/images/Rules/أب.webp"
+  },
+  {
+  "word_id": 1815,
+  "word_name": "أبوك",
+  "word_voice": "أَبوك",
+  "image_static": "assets/images/Rules/أبوك1.webp",
+  "image_animated": "assets/images/Rules/أبوك.webp"
+  },
+  {
+  "word_id": 1816,
+  "word_name": "أبوكم",
+  "word_voice": "أَبوكُم",
+  "image_static": "assets/images/Rules/أبوكم1.webp",
+  "image_animated": "assets/images/Rules/أبوكم.webp"
+  },
+  {
+  "word_id": 1817,
+  "word_name": "أبوه",
+  "word_voice": "أَبوه",
+  "image_static": "assets/images/Rules/أبوه1.webp",
+  "image_animated": "assets/images/Rules/أبوه.webp"
+  },
+  {
+  "word_id": 1818,
+  "word_name": "أبي",
+  "word_voice": "أَبي",
+  "image_static": "assets/images/Rules/أبي1.webp",
+  "image_animated": "assets/images/Rules/أبي.webp"
+  },
+  {
+  "word_id": 1819,
+  "word_name": "أنا الآن رايح بيتك",
+  "word_voice": "أَنا الآن رايح بَيْتَك",
+  "image_static": "assets/images/Rules/أنا الآن رايح بيتك1.webp",
+  "image_animated": "assets/images/Rules/أنا الآن رايح بيتك.webp"
+  },
+  {
+  "word_id": 1820,
+  "word_name": "بيت",
+  "word_voice": "بَيْت",
+  "image_static": "assets/images/Rules/بيت1.webp",
+  "image_animated": "assets/images/Rules/بيت.webp"
+  },
+  {
+  "word_id": 1821,
+  "word_name": "بيتك",
+  "word_voice": "بَيْتَك",
+  "image_static": "assets/images/Rules/بيتك1.webp",
+  "image_animated": "assets/images/Rules/بيتك.webp"
+  },
+  {
+  "word_id": 1822,
+  "word_name": "بيتنا",
+  "word_voice": "بَيْتَنا",
+  "image_static": "assets/images/Rules/بيتنا1.webp",
+  "image_animated": "assets/images/Rules/بيتنا.webp"
+  },
+  {
+  "word_id": 1823,
+  "word_name": "بيتي",
+  "word_voice": "بَيْتي",
+  "image_static": "assets/images/Rules/بيتي1.webp",
+  "image_animated": "assets/images/Rules/بيتي.webp"
+  },
+  {
+  "word_id": 1824,
+  "word_name": "كتاب",
+  "word_voice": "كِتاب",
+  "image_static": "assets/images/Rules/كتاب1.webp",
+  "image_animated": "assets/images/Rules/كتاب.webp"
+  },
+  {
+  "word_id": 1825,
+  "word_name": "كتابة",
+  "word_voice": "كِتابة",
+  "image_static": "assets/images/Rules/كتابة1.webp",
+  "image_animated": "assets/images/Rules/كتابة.webp"
+  },
+  {
+  "word_id": 1826,
+  "word_name": "كتابك",
+  "word_voice": "كِتابَك",
+  "image_static": "assets/images/Rules/كتابك1.webp",
+  "image_animated": "assets/images/Rules/كتابك.webp"
+  },
+  {
+  "word_id": 1827,
+  "word_name": "كتابي",
+  "word_voice": "كِتابي",
+  "image_static": "assets/images/Rules/كتابي1.webp",
+  "image_animated": "assets/images/Rules/كتابي.webp"
+  }
+
+
+
+
 ]
