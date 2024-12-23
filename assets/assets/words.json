@@ -4389,6 +4389,247 @@
   "word_voice": "كِتابي",
   "image_static": "assets/images/Rules/كتابي1.webp",
   "image_animated": "assets/images/Rules/كتابي.webp"
+  },
+
+
+
+
+
+
+
+  {
+    "word_id": 1900,
+    "word_name": "أُوبل",
+    "word_voice": "أُوبِلْ",
+    "image_static": "assets/images/Transportation/أُوبل1.webp",
+    "image_animated": "assets/images/Transportation/أُوبل.webp"
+  },
+  {
+    "word_id": 1901,
+    "word_name": "باص",
+    "word_voice": "بَاصْ",
+    "image_static": "assets/images/Transportation/باص1.webp",
+    "image_animated": "assets/images/Transportation/باص.webp"
+  },
+  {
+    "word_id": 1902,
+    "word_name": "بيجو",
+    "word_voice": "بِيْجُو",
+    "image_static": "assets/images/Transportation/بيجو1.webp",
+    "image_animated": "assets/images/Transportation/بيجو.webp"
+  },
+  {
+    "word_id": 1903,
+    "word_name": "جسر",
+    "word_voice": "جِسْرْ",
+    "image_static": "assets/images/Transportation/جسر1.webp",
+    "image_animated": "assets/images/Transportation/جسر.webp"
+  },
+  {
+    "word_id": 1904,
+    "word_name": "دباب",
+    "word_voice": "دَبَّابْ",
+    "image_static": "assets/images/Transportation/دباب1.webp",
+    "image_animated": "assets/images/Transportation/دباب.webp"
+  },
+  {
+    "word_id": 1905,
+    "word_name": "دراجة",
+    "word_voice": "دَرَّاجَةْ",
+    "image_static": "assets/images/Transportation/دراجة1.webp",
+    "image_animated": "assets/images/Transportation/دراجة.webp"
+  },
+  {
+    "word_id": 1906,
+    "word_name": "سيارة صالون",
+    "word_voice": "سَيَّارَةْ صَالُونْ",
+    "image_static": "assets/images/Transportation/سيارة صالون1.webp",
+    "image_animated": "assets/images/Transportation/سيارة صالون.webp"
+  },
+  {
+    "word_id": 1907,
+    "word_name": "سيارة",
+    "word_voice": "سَيَّارَةْ",
+    "image_static": "assets/images/Transportation/سيارة1.webp",
+    "image_animated": "assets/images/Transportation/سيارة.webp"
+  },
+  {
+    "word_id": 1908,
+    "word_name": "هيلوكس",
+    "word_voice": "هِيلُوكْسْ",
+    "image_static": "assets/images/Transportation/هيلوكس1.webp",
+    "image_animated": "assets/images/Transportation/هيلوكس.webp"
+  },
+  {
+    "word_id": 1909,
+    "word_name": "مرسيدس",
+    "word_voice": "مَرْسِيدِسْ",
+    "image_static": "assets/images/Transportation/مرسيدس1.webp",
+    "image_animated": "assets/images/Transportation/مرسيدس.webp"
+  },
+  {
+    "word_id": 1910,
+    "word_name": "ميتسوبيشي",
+    "word_voice": "مِيتْسُوبِيشِي",
+    "image_static": "assets/images/Transportation/ميتسوبيشي1.webp",
+    "image_animated": "assets/images/Transportation/ميتسوبيشي.webp"
+  },
+  {
+    "word_id": 1911,
+    "word_name": "قلاب",
+    "word_voice": "قَلَّابْ",
+    "image_static": "assets/images/Transportation/قلاب1.webp",
+    "image_animated": "assets/images/Transportation/قلاب.webp"
+  },
+  {
+    "word_id": 1912,
+    "word_name": "قارب",
+    "word_voice": "قَارِبْ",
+    "image_static": "assets/images/Transportation/قارب1.webp",
+    "image_animated": "assets/images/Transportation/قارب.webp"
+  },
+  {
+    "word_id": 1913,
+    "word_name": "هيلوكبتر",
+    "word_voice": "هِيلُوكُبْتِرْ",
+    "image_static": "assets/images/Transportation/هيلوكبتر1.webp",
+    "image_animated": "assets/images/Transportation/هيلوكبتر.webp"
+  },
+
+
+
+  {
+    "word_id": 2000,
+    "word_name": "إب",
+    "word_voice": "إِبْ",
+    "image_static": "assets/images/Yemeni_Cities/إب1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/إب.webp"
+  },
+  {
+    "word_id": 2001,
+    "word_name": "أبين",
+    "word_voice": "أَبْيَن",
+    "image_static": "assets/images/Yemeni_Cities/أبين1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/أبين.webp"
+  },
+  {
+    "word_id": 2002,
+    "word_name": "البيضاء",
+    "word_voice": "ٱلْبَيْضَاءْ",
+    "image_static": "assets/images/Yemeni_Cities/البيضاء1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/البيضاء.webp"
+  },
+  {
+    "word_id": 2003,
+    "word_name": "الجوف",
+    "word_voice": "ٱلْجَوْفْ",
+    "image_static": "assets/images/Yemeni_Cities/الجوف1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/الجوف.webp"
+  },
+  {
+    "word_id": 2004,
+    "word_name": "الحديدة",
+    "word_voice": "ٱلْحُدَيْدَةْ",
+    "image_static": "assets/images/Yemeni_Cities/الحديدة1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/الحديدة.webp"
+  },
+  {
+    "word_id": 2005,
+    "word_name": "الضالع",
+    "word_voice": "ٱلضَّالِعْ",
+    "image_static": "assets/images/Yemeni_Cities/الضالع1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/الضالع.webp"
+  },
+  {
+    "word_id": 2006,
+    "word_name": "المحويت",
+    "word_voice": "ٱلْمَحْوِيتْ",
+    "image_static": "assets/images/Yemeni_Cities/المحويت1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/المحويت.webp"
+  },
+  {
+    "word_id": 2007,
+    "word_name": "المهرة",
+    "word_voice": "ٱلْمَهْرَةْ",
+    "image_static": "assets/images/Yemeni_Cities/المهرة1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/المهرة.webp"
+  },
+  {
+    "word_id": 2008,
+    "word_name": "تعز",
+    "word_voice": "تَعِزْ",
+    "image_static": "assets/images/Yemeni_Cities/تعز1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/تعز.webp"
+  },
+  {
+    "word_id": 2009,
+    "word_name": "حجة",
+    "word_voice": "حَجَّةْ",
+    "image_static": "assets/images/Yemeni_Cities/حجة1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/حجة.webp"
+  },
+  {
+    "word_id": 2010,
+    "word_name": "حضرموت",
+    "word_voice": "حَضْرَمَوْتْ",
+    "image_static": "assets/images/Yemeni_Cities/حضرموت1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/حضرموت.webp"
+  },
+  {
+    "word_id": 2011,
+    "word_name": "ذمار",
+    "word_voice": "ذَمَارْ",
+    "image_static": "assets/images/Yemeni_Cities/ذمار1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/ذمار.webp"
+  },
+  {
+    "word_id": 2012,
+    "word_name": "ريمة",
+    "word_voice": "رَيْمَةْ",
+    "image_static": "assets/images/Yemeni_Cities/ريمة1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/ريمة.webp"
+  },
+  {
+    "word_id": 2013,
+    "word_name": "شبوة",
+    "word_voice": "شَبْوَةْ",
+    "image_static": "assets/images/Yemeni_Cities/شبوة1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/شبوة.webp"
+  },
+  {
+    "word_id": 2014,
+    "word_name": "صعدة",
+    "word_voice": "صَعْدَةْ",
+    "image_static": "assets/images/Yemeni_Cities/صعدة1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/صعدة.webp"
+  },
+  {
+    "word_id": 2015,
+    "word_name": "صنعاء",
+    "word_voice": "صَنْعَاءْ",
+    "image_static": "assets/images/Yemeni_Cities/صنعاء1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/صنعاء.webp"
+  },
+  {
+    "word_id": 2016,
+    "word_name": "عدن",
+    "word_voice": "عَدَنْ",
+    "image_static": "assets/images/Yemeni_Cities/عدن1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/عدن.webp"
+  },
+  {
+    "word_id": 2017,
+    "word_name": "عمران",
+    "word_voice": "عُمْرَانْ",
+    "image_static": "assets/images/Yemeni_Cities/عمران1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/عمران.webp"
+  },
+  {
+    "word_id": 2018,
+    "word_name": "لحج",
+    "word_voice": "لَحْجْ",
+    "image_static": "assets/images/Yemeni_Cities/لحج1.webp",
+    "image_animated": "assets/images/Yemeni_Cities/لحج.webp"
   }
 
 
