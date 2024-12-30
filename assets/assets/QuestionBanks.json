@@ -14528,18 +14528,18 @@
             "exercise_id": 5,
             "question": {
               "question_id": 5,
-              "correct_answer": "استديو",
-              "word_voice": "اسْتَودّيو",
-                "image_static": "assets/images/public-places/8-استوديو",
-                "image_animated": "assets/images/public-places/استوديو"
+              "correct_answer": "اسْتَودْيو",
+              "word_voice": "اسْتَودْيو",
+              "image_static": "assets/images/public-places/8-استوديو.webp",
+              "image_animated": "assets/images/public-places/استوديو.webp"
             },
             "options": [
               {
                 "option_id": 1,
-                "word_name": "استديو",
-                "word_voice": "اسْتَودّيو",
-                "image_static": "assets/images/public-places/8-استوديو",
-                "image_animated": "assets/images/public-places/استوديو"
+                "word_name": "اسْتَودْيو",
+                "word_voice": "اسْتَودْيو",
+                "image_static": "assets/images/public-places/8-استوديو.webp",
+                "image_animated": "assets/images/public-places/استوديو.webp"
               },
               {
                 "option_id": 2,
@@ -14550,26 +14550,25 @@
               }
             ]
           }
-         
         ],
         "lesson_exam": {
           "exam_id": 1,
           "exam_name": "إختبار الدرس الاول",
-          "image":  "assets/images/Accidents/8-استوديو",
+          "image": "assets/images/public-places/8-استوديو.webp",
           "questions": [
             {
               "question_id": 1,
-              "correct_answer": "استديو",
-              "word_voice": "اسْتَودّيو",
-                "image_static": "assets/images/public-places/8-استوديو",
-                "image_animated": "assets/images/public-places/استوديو",
+              "correct_answer": "اسْتَودْيو",
+              "word_voice": "اسْتَودْيو",
+              "image_static": "assets/images/public-places/8-استوديو.webp",
+              "image_animated": "assets/images/public-places/استوديو.webp",
             "options": [
               {
                 "option_id": 1,
-                "word_name": "استديو",
-                "word_voice": "اسْتَودّيو",
-                "image_static": "assets/images/public-places/8-استوديو",
-                "image_animated": "assets/images/public-places/استوديو"
+                "word_name":  "اسْتَودْيو",
+                "word_voice": "اسْتَودْيو",
+                "image_static": "assets/images/public-places/8-استوديو.webp",
+                "image_animated": "assets/images/public-places/استوديو.webp"
               },
               {
                 "option_id": 2,
@@ -16127,17 +16126,17 @@
       "questions": [
         {
           "question_id": 1,
-              "correct_answer": "استديو",
-              "word_voice": "اسْتَودّيو",
-                "image_static": "assets/images/public-places/8-استوديو",
-                "image_animated": "assets/images/public-places/استوديو",
+              "correct_answer": "اسْتَودْيو",
+              "word_voice": "اسْتَودْيو",
+              "image_static": "assets/images/public-places/8-استوديو.webp",
+              "image_animated": "assets/images/public-places/استوديو.webp",
             "options": [
               {
                 "option_id": 1,
-                "word_name": "استديو",
-                "word_voice": "اسْتَودّيو",
-                "image_static": "assets/images/public-places/8-استوديو",
-                "image_animated": "assets/images/public-places/استوديو"
+                "word_name":  "اسْتَودْيو",
+                "word_voice": "اسْتَودْيو",
+                "image_static": "assets/images/public-places/8-استوديو.webp",
+                "image_animated": "assets/images/public-places/استوديو.webp"
               },
               {
                 "option_id": 2,
@@ -16154,7 +16153,7 @@
             "image_animated": "assets/images/public-places/حراج.webp"
               }
             ]
-         },
+        },
         {
           "question_id": 2,
           "correct_answer": "حراج",
@@ -16244,7 +16243,7 @@
             "image_animated": "assets/images/public-places/لوكندة.webp"
               }
             ]
-         },
+        },
          {
         "question_id": 5,
               "correct_answer": "وكالة",

@@ -1056,7 +1056,7 @@
             "word_name": "عروسة",
             "word_voice": "عروسة",
             "image_static": "assets/images/community-personnel/11-عروسة.webp",
-            "image_animated": "assets/images/community-personnel/عروسة.webp "
+            "image_animated": "assets/images/community-personnel/عروسة.webp"
           },
           {
             "word_id": 2,
@@ -2061,8 +2061,8 @@
             "word_id": 5,
             "word_name": "اسْتَودْيو",
             "word_voice": "اسْتَودْيو",
-            "image_static": "assets/images/public-places/8-استوديو",
-            "image_animated": "assets/images/public-places/استوديو"
+            "image_static": "assets/images/public-places/8-استوديو.webp",
+            "image_animated": "assets/images/public-places/استوديو.webp"
           }
         ]
       },
