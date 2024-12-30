@@ -1,5 +1,4 @@
   [
-
   {
   "word_id": 1,
   "word_name": "أ",
@@ -214,7 +213,7 @@
   "word_id": 31,
   "word_name": "ال",
   "word_voice": "ال",
-  "image_static": "assets/images/Alphabetics/1-ال.webp",
+  "image_static": "assets/images/Alphabetics/1-الف لام.webp",
   "image_animated": "assets/images/Alphabetics/الف لام.webp"
   },
   {
@@ -228,9 +227,22 @@
   "word_id": 33,
   "word_name": "ئ",
   "word_voice": "ئ",
-  "image_static": "assets/images/Alphabetics/1-ئ.webp",
+  "image_static": "assets/images/Alphabetics/1-الالف مقصورة مع همزة.webp",
   "image_animated": "assets/images/Alphabetics/الالف مقصورة مع همزة.webp"
   },
+  {
+    "word_id": 33,
+    "word_name": "ى",
+    "word_voice": "ى",
+    "image_static": "assets/images/Alphabetics/1-الالف المقصورة.webp",
+    "image_animated": "assets/images/Alphabetics/الالف المقصورة.webp" 
+  },
+
+
+  
+
+
+
   {
   "word_id": 34,
   "word_name": "الأرقام",
@@ -385,6 +397,11 @@
   "image_static": "assets/images/numbers/020.webp",
   "image_animated": "assets/images/numbers/20.webp"
   },
+
+
+
+
+
   {
   "word_id": 56,
   "word_name": "الْأَلْوَان",
@@ -497,6 +514,11 @@
   "image_static": "assets/images/colors/5-ازرق.webp",
   "image_animated": "assets/images/colors/ازرق.webp"
   },
+
+
+
+
+
   {
   "word_id": 72,
   "word_name": "الْعَائِلَةِ",
@@ -509,7 +531,7 @@
   "word_name": "أَب",
   "word_voice": "أَب",
   "image_static": "assets/images/family/4-اب.webp",
-  "image_animated": "assets/images/family/ابي.webp"
+  "image_animated": "assets/images/family/اب.webp"
   },      
   {
   "word_id": 74,
@@ -522,7 +544,7 @@
   "word_id": 75,
   "word_name": "ابْنُ",
   "word_voice": "ابْنُ",
-  "image_static": "assets/images/family/4-ابن.webp",
+  "image_static": "assets/images/family/4-إبن.webp",
   "image_animated": "assets/images/family/إبن.webp"
   },
   {
@@ -578,7 +600,7 @@
   "word_id": 83,
   "word_name": "عمة",
   "word_voice": "عمة",
-  "image_static": "assets/images/family/4-عمه.webp",
+  "image_static": "assets/images/family/4-عمة.webp",
   "image_animated": "assets/images/family/عمة.webp"
   },
   {
@@ -616,6 +638,13 @@
   "image_static": "assets/images/family/4-تؤام.webp",
   "image_animated": "assets/images/family/تؤام.webp"
   },
+
+
+
+
+
+
+
   {
   "word_id": 89,
   "word_name": "حَيَوَانَات",
@@ -788,8 +817,8 @@
   "word_id": 114,
   "word_name": "سُلَحْفَاة",
   "word_voice": "سُلَحْفَاة",
-  "image_static": "assets/images/animals/3-سحلفاة.webp",
-  "image_animated": "assets/images/animals/سحلفاة.webp"
+  "image_static": "assets/images/animals/3-سلحفاة.webp",
+  "image_animated": "assets/images/animals/سلحفاة.webp"
   },
   {
   "word_id": 115,
@@ -1015,6 +1044,12 @@
   "image_static": "assets/images/animals/3-عصفور.webp",
   "image_animated": "assets/images/animals/عصفور.webp"
   },
+
+
+
+
+
+
   {
   "word_id": 148,
   "word_name": "أَنِيق ",
@@ -1247,13 +1282,6 @@
   "image_animated": "assets/images/Attributes/اهبل.webp"
   },
   {
-  "word_id": 5,
-  "word_name": "حقيقي",
-  "word_voice": "حقيقي",
-  "image_static": "assets/images/Attributes/9-حقيقي.webp",
-  "image_animated": "assets/images/Attributes/حقيقي.webp"
-  },
-  {
   "word_id": 1,
   "word_name": "رخيص",
   "word_voice": "رخيص",
@@ -1273,13 +1301,6 @@
   "word_voice": "عالي",
   "image_static": "assets/images/Attributes/9-عالي.webp",
   "image_animated": "assets/images/Attributes/عالي.webp"
-  },
-  {
-  "word_id": 4,
-  "word_name": "خجول",
-  "word_voice": "خجول",
-  "image_static": "assets/images/Attributes/9-خجول.webp",
-  "image_animated": "assets/images/Attributes/خجول.webp"
   },
   {
   "word_id": 5,
@@ -1437,8 +1458,8 @@
   },
   {
   "word_id": 2,
-  "word_name": "متدلع",
-  "word_voice": "متدلع",
+  "word_name": "مدلع",
+  "word_voice": "مدلع",
   "image_static": "assets/images/Attributes/9-مدلع.webp",
   "image_animated": "assets/images/Attributes/مدلع.webp"
   },
@@ -1617,6 +1638,27 @@
   "image_static": "assets/images/Attributes/9-نحيف.webp",
   "image_animated": "assets/images/Attributes/نحيف.webp"
   },
+  {
+  "word_id": 6,
+  "word_name": "سمين",
+  "word_voice": "سمين",
+  "image_static": "assets/images/Attributes/9-سمين.webp",
+  "image_animated": "assets/images/Attributes/سمين.webp"
+  },
+  {
+    "word_id": 5,
+    "word_name": "مُرْتَاح",
+    "word_voice": "مُرْتَاح",
+    "image_static": "assets/images/Attributes/9-مرتاح.webp",
+    "image_animated": "assets/images/Attributes/مرتاح.webp"
+  },
+
+
+
+
+
+
+
   {
   "word_id": 1,
   "word_name": "عَبَايَة",
@@ -1820,6 +1862,13 @@
   "image_static": "assets/images/Clothing/2-جاكت.webp",
   "image_animated": "assets/images/Clothing/جاكت.webp"
   },
+
+
+
+
+
+
+
   {
   "word_id": 1,
   "word_name": "أَمَاكِن عَامَّة",
@@ -2004,10 +2053,10 @@
   },
   {
   "word_id": 2,
-  "word_name": "محطة بترول ",
-  "word_voice": "محطة بترول  ",
+  "word_name": "محطة بترول",
+  "word_voice": "محطة بترول",
   "image_static": "assets/images/public-places/8-محطة بترول.webp",
-  "image_animated": "assets/images/public-places/محطة.webp"
+  "image_animated": "assets/images/public-places/محطة بترول.webp"
   },
   {
   "word_id": 3,
@@ -2023,13 +2072,12 @@
   "image_static": "assets/images/public-places/8-متحف.webp",
   "image_animated": "assets/images/public-places/متحف.webp"
   },
-  {
-  "word_id": 5,
-  "word_name": "بقالة ",
-  "word_voice": "بقالة ",
-  "image_static": "assets/images/public-places/8-بقالة.webp",
-  "image_animated": "assets/images/public-places/بقالة.webp"
-  },
+
+
+
+
+
+
   {
   "word_id": 1,
   "word_name": "الْوَقْت",
@@ -2331,6 +2379,11 @@
   "image_static": "assets/images/times/10-على طول.webp",
   "image_animated": "assets/images/times/طول.webp"
   },
+
+
+
+
+
   {
   "word_id": 1,
   "word_name": "أَصَمّ",
@@ -2413,13 +2466,6 @@
   "word_voice": "مَجْنُون",
   "image_static": "assets/images/community-personnel/11-مجنون.webp",
   "image_animated": "assets/images/community-personnel/مجنون.webp"
-  },
-  {
-  "word_id": 5,
-  "word_name": "مُرْتَاح",
-  "word_voice": "مُرْتَاح",
-  "image_static": "assets/images/community-personnel/11-مرتاح.webp",
-  "image_animated": "assets/images/community-personnel/مرتاح.webp"
   },
   {
   "word_id": 1,
@@ -2527,6 +2573,13 @@
     "image_animated": "assets/images/community-personnel/عريس.webp"
   },
   {
+    "word_id": 4,
+    "word_name": "عروسة",
+    "word_voice": "عروسة",
+    "image_static": "assets/images/community-personnel/11-عروسة.webp",
+    "image_animated": "assets/images/community-personnel/عروسة.webp "
+  },
+  {
   "word_id": 3,
   "word_name": "امرأة",
   "word_voice": "امرأة",
@@ -2540,6 +2593,12 @@
   "image_static": "assets/images/community-personnel/11-مندوب.webp",
   "image_animated": "assets/images/community-personnel/مندوب.webp"
   },
+
+
+
+
+
+
   {
   "word_id": 1,
   "word_name": "الزِّرَاعَةُ",
@@ -2554,7 +2613,6 @@
   "image_static": "assets/images/Agriculture/12-الة تسوية الارض.webp",
   "image_animated": "assets/images/Agriculture/الة تسوية الارض.webp"
   },
-
   {
   "word_id": 3,
   "word_name": "بُذُور",
@@ -2675,6 +2733,12 @@
   "image_animated": "assets/images/Agriculture/مشتل.webp"
 
   },
+
+
+
+
+
+
   {
   "word_id": 1,
   "word_name": "حَوَادِث",
@@ -2794,6 +2858,11 @@
   "image_static": "assets/images/Accidents/7-إنتحار.webp",
   "image_animated": "assets/images/Accidents/إنتحار.webp"
   },
+
+
+
+
+
   {
   "word_id": 1,
   "word_name": "دهان",
@@ -3517,271 +3586,14 @@
     "word_voice": "فلاش",
     "image_static": "assets/images/Home_Contents/فلاش1.webp",
     "image_animated": "assets/images/Home_Contents/فلاش.webp"
-    },
-    {
-      "word_id": 585,
-      "word_name": "شولة غاز",
-      "word_voice": "شولة غاز",
-      "image_static": "assets/images/Home_Contents/شولة غاز1.webp",
-      "image_animated": "assets/images/Home_Contents/شولة غاز.webp"
-    },
-
-
-
-
-
-    {
-      "word_id": 1500,
-      "word_name": "الرياضة",
-      "word_voice": "الرِّياضة",
-      "image_static": "assets/images/Sports/الرياضة1.webp",
-      "image_animated": "assets/images/Sports/الرياضة.webp"
-    },
-    {
-      "word_id": 1501,
-      "word_name": "بلنتي (ضربة جزاء)",
-      "word_voice": "بَلِنْتي (ضَرْبَة جَزاء)",
-      "image_static": "assets/images/Sports/بلنتي(ضربة جزاء)1.webp",
-      "image_animated": "assets/images/Sports/بلنتي(ضربة جزاء).webp"
-    },
-    {
-      "word_id": 1502,
-      "word_name": "بلياردو",
-      "word_voice": "بِلْيَارْدُو",
-      "image_static": "assets/images/Sports/بلياردو1.webp",
-      "image_animated": "assets/images/Sports/بلياردو.webp"
-    },
-    {
-      "word_id": 1503,
-      "word_name": "بولينج",
-      "word_voice": "بُولِينْج",
-      "image_static": "assets/images/Sports/بولينج1.webp",
-      "image_animated": "assets/images/Sports/بولينج.webp"
-    },
-    {
-      "word_id": 1504,
-      "word_name": "تسلل",
-      "word_voice": "تَسَلُّل",
-      "image_static": "assets/images/Sports/تسلل1.webp",
-      "image_animated": "assets/images/Sports/تسلل.webp"
-    },
-    {
-      "word_id": 1505,
-      "word_name": "تنس الطاولة",
-      "word_voice": "تِنِس الطَّاوِلَة",
-      "image_static": "assets/images/Sports/تنس الطاولة1.webp",
-      "image_animated": "assets/images/Sports/تنس الطاولة.webp"
-    },
-    {
-      "word_id": 1506,
-      "word_name": "تنس الميدان",
-      "word_voice": "تِنِس المِيدَان",
-      "image_static": "assets/images/Sports/تنس الميدان1.webp",
-      "image_animated": "assets/images/Sports/تنس الميدان.webp"
-    },
-    {
-      "word_id": 1507,
-      "word_name": "حارس مرمى",
-      "word_voice": "حَارِس مَرْمَى",
-      "image_static": "assets/images/Sports/حارس مرمى1.webp",
-      "image_animated": "assets/images/Sports/حارس مرمى.webp"
-    },
-    {
-      "word_id": 1508,
-      "word_name": "حكم",
-      "word_voice": "حَكَم",
-      "image_static": "assets/images/Sports/حكم1.webp",
-      "image_animated": "assets/images/Sports/حكم.webp"
-    },
-    {
-      "word_id": 1509,
-      "word_name": "رمي الجلة",
-      "word_voice": "رَمْي الجَلَّة",
-      "image_static": "assets/images/Sports/رمي الجلة1.webp",
-      "image_animated": "assets/images/Sports/رمي الجلة.webp"
-    },
-    {
-      "word_id": 1510,
-      "word_name": "رمي السهم",
-      "word_voice": "رَمْي السَّهْم",
-      "image_static": "assets/images/Sports/رمي السهم1.webp",
-      "image_animated": "assets/images/Sports/رمي السهم.webp"
-    },
-    {
-      "word_id": 1511,
-      "word_name": "رمية تماس",
-      "word_voice": "رَمْية تَمَاس",
-      "image_static": "assets/images/Sports/رمي تماس1.webp",
-      "image_animated": "assets/images/Sports/رمي تماس.webp"
-    },
-    {
-      "word_id": 1512,
-      "word_name": "سباحة",
-      "word_voice": "سِبَاحَة",
-      "image_static": "assets/images/Sports/سباحة1.webp",
-      "image_animated": "assets/images/Sports/سباحة.webp"
-    },
-    {
-      "word_id": 1513,
-      "word_name": "سباق الخيل",
-      "word_voice": "سِبَاق الخَيْل",
-      "image_static": "assets/images/Sports/سباق الخيل1.webp",
-      "image_animated": "assets/images/Sports/سباق الخيل.webp"
-    },
-    {
-      "word_id": 1514,
-      "word_name": "سباق السيارات",
-      "word_voice": "سِبَاق السَّيَّارَات",
-      "image_static": "assets/images/Sports/سباق السيارات1.webp",
-      "image_animated": "assets/images/Sports/سباق السيارات.webp"
-    },
-    {
-      "word_id": 1515,
-      "word_name": "سباق الدراجات",
-      "word_voice": "سِبَاق الدَرَاجَات",
-      "image_static": "assets/images/Sports/سباق دراجات1.webp",
-      "image_animated": "assets/images/Sports/سباق دراجات.webp"
-    },
-    {
-      "word_id": 1516,
-      "word_name": "سباق الزوارق",
-      "word_voice": "سِبَاق الزَوَارِق",
-      "image_static": "assets/images/Sports/سباق زوارق1.webp",
-      "image_animated": "assets/images/Sports/سباق زوارق.webp"
-    },
-    {
-      "word_id": 1517,
-      "word_name": "شبكة",
-      "word_voice": "شَبَكَة",
-      "image_static": "assets/images/Sports/شبكة1.webp",
-      "image_animated": "assets/images/Sports/شبكة.webp"
-    },
-    {
-      "word_id": 1518,
-      "word_name": "شطرنج",
-      "word_voice": "شَطَرَنْج",
-      "image_static": "assets/images/Sports/شطرنج1.webp",
-      "image_animated": "assets/images/Sports/شطرنج.webp"
-    },
-    {
-      "word_id": 1519,
-      "word_name": "فاول",
-      "word_voice": "فَاوَل",
-      "image_static": "assets/images/Sports/فاول1.webp",
-      "image_animated": "assets/images/Sports/فاول.webp"
-    },
-    {
-      "word_id": 1520,
-      "word_name": "قفز بالزانة",
-      "word_voice": "قَفْز بِالزَّانَة",
-      "image_static": "assets/images/Sports/قفز بالزانة1.webp",
-      "image_animated": "assets/images/Sports/قفز بالزانة.webp"
-    },
-    {
-      "word_id": 1521,
-      "word_name": "كراتية",
-      "word_voice": "كَرَاتِيَّة",
-      "image_static": "assets/images/Sports/كراتية1.webp",
-      "image_animated": "assets/images/Sports/كراتية.webp"
-    },
-    {
-      "word_id": 1522,
-      "word_name": "كرة السلة",
-      "word_voice": "كُرَة السَلَّة",
-      "image_static": "assets/images/Sports/كرة سلة1.webp",
-      "image_animated": "assets/images/Sports/كرة سلة.webp"
-    },
-    {
-      "word_id": 1523,
-      "word_name": "كرة الطائرة",
-      "word_voice": "كُرَة الطَائِرَة",
-      "image_static": "assets/images/Sports/كرة طائرة1.webp",
-      "image_animated": "assets/images/Sports/كرة طائرة.webp"
-    },
-    {
-      "word_id": 1524,
-      "word_name": "كرة القدم",
-      "word_voice": "كُرَة القَدَم",
-      "image_static": "assets/images/Sports/كرة قدم1.webp",
-      "image_animated": "assets/images/Sports/كرة قدم.webp"
-    },
-    {
-      "word_id": 1525,
-      "word_name": "كرة الماء",
-      "word_voice": "كُرَة المَاء",
-      "image_static": "assets/images/Sports/كرة ماء1.webp",
-      "image_animated": "assets/images/Sports/كرة ماء.webp"
-    },
-    {
-      "word_id": 1526,
-      "word_name": "كمال أجسام",
-      "word_voice": "كمال أجسام",
-      "image_static": "assets/images/Sports/كمال أجسام1.webp",
-      "image_animated": "assets/images/Sports/كمال أجسام.webp"
-    },
-    {
-      "word_id": 1527,
-      "word_name": "مُبارزة",
-      "word_voice": "مُبارَزَة",
-      "image_static": "assets/images/Sports/مُبارزة1.webp",
-      "image_animated": "assets/images/Sports/مُبارزة.webp"
-    },
-    {
-      "word_id": 1528,
-      "word_name": "مُدرب",
-      "word_voice": "مُدَرِّب",
-      "image_static": "assets/images/Sports/مُدرب1.webp",
-      "image_animated": "assets/images/Sports/مُدرب.webp"
-    },
-    {
-      "word_id": 1529,
-      "word_name": "مصارعة ثيران",
-      "word_voice": "مُصَارَعَة ثِيرَان",
-      "image_static": "assets/images/Sports/مصارعة ثيران1.webp",
-      "image_animated": "assets/images/Sports/مصارعة ثيران.webp"
-    },
-    {
-      "word_id": 1530,
-      "word_name": "ملاكمة",
-      "word_voice": "مُلاَكَمَة",
-      "image_static": "assets/images/Sports/ملاكمة1.webp",
-      "image_animated": "assets/images/Sports/ملاكمة.webp"
-    },
-    {
-      "word_id": 1531,
-      "word_name": "ميدالية",
-      "word_voice": "مِيدَالِيَة",
-      "image_static": "assets/images/Sports/ميدالية1.webp",
-      "image_animated": "assets/images/Sports/ميدالية.webp"
-    },
-    {
-      "word_id": 1532,
-      "word_name": "نادي",
-      "word_voice": "نَادِي",
-      "image_static": "assets/images/Sports/نادي1.webp",
-      "image_animated": "assets/images/Sports/نادي.webp"
-    },
-    {
-      "word_id": 1533,
-      "word_name": "هدف",
-      "word_voice": "هَدَف",
-      "image_static": "assets/images/Sports/هدف1.webp",
-      "image_animated": "assets/images/Sports/هدف.webp"
-    },
-    {
-      "word_id": 1534,
-      "word_name": "وثب الجمال",
-      "word_voice": "وَثْب الجَمَال",
-      "image_static": "assets/images/Sports/وثب الجمال1.webp",
-      "image_animated": "assets/images/Sports/وثب الجمال.webp"
-    },
-    {
-      "word_id": 1535,
-      "word_name": "وثب عالي",
-      "word_voice": "وَثْب عَالِي",
-      "image_static": "assets/images/Sports/وثب عالي1.webp",
-      "image_animated": "assets/images/Sports/وثب عالي.webp"
-    },
+  },
+  {
+    "word_id": 585,
+    "word_name": "شولة غاز",
+    "word_voice": "شولة غاز",
+    "image_static": "assets/images/Home_Contents/شولة غاز1.webp",
+    "image_animated": "assets/images/Home_Contents/شولة غاز.webp"
+  },
 
 
 
@@ -3789,209 +3601,258 @@
 
 
 
-    {
-      "word_id": 1600,
-      "word_name": "إختلاس",
-      "word_voice": "اِخْتِلاَس",
-      "image_static": "assets/images/Money_transactions/إختلاس1.webp",
-      "image_animated": "assets/images/Money_transactions/إختلاس.webp"
-    },
-    {
-      "word_id": 1601,
-      "word_name": "إكرامية",
-      "word_voice": "اِكْرَامِيَة",
-      "image_static": "assets/images/Money_transactions/إكرامية1.webp",
-      "image_animated": "assets/images/Money_transactions/إكرامية.webp"
-    },
-    {
-      "word_id": 1602,
-      "word_name": "امين الصندوق",
-      "word_voice": "أَمِين الصَّنْدُوق",
-      "image_static": "assets/images/Money_transactions/امين الصندوق1.webp",
-      "image_animated": "assets/images/Money_transactions/امين الصندوق.webp"
-    },
-    {
-      "word_id": 1603,
-      "word_name": "إيجار",
-      "word_voice": "إِيجَار",
-      "image_static": "assets/images/Money_transactions/إيجار1.webp",
-      "image_animated": "assets/images/Money_transactions/إيجار.webp"
-    },
-    {
-      "word_id": 1604,
-      "word_name": "إيداع",
-      "word_voice": "إِيدَاع",
-      "image_static": "assets/images/Money_transactions/إيداع1.webp",
-      "image_animated": "assets/images/Money_transactions/إيداع.webp"
-    },
-    {
-      "word_id": 1605,
-      "word_name": "تبرُع",
-      "word_voice": "تَبَرُّع",
-      "image_static": "assets/images/Money_transactions/تبرُع1.webp",
-      "image_animated": "assets/images/Money_transactions/تبرُع.webp"
-    },
-    {
-      "word_id": 1606,
-      "word_name": "تزوير",
-      "word_voice": "تَزْوِير",
-      "image_static": "assets/images/Money_transactions/تزوير1.webp",
-      "image_animated": "assets/images/Money_transactions/تزوير.webp"
-    },
-    {
-      "word_id": 1607,
-      "word_name": "خسارة",
-      "word_voice": "خَسَارَة",
-      "image_static": "assets/images/Money_transactions/خسارة1.webp",
-      "image_animated": "assets/images/Money_transactions/خسارة.webp"
-    },
-    {
-      "word_id": 1608,
-      "word_name": "دفتر اليومية",
-      "word_voice": "دَفْتَر اليَوْمِيَّة",
-      "image_static": "assets/images/Money_transactions/دفتر اليومية1.webp",
-      "image_animated": "assets/images/Money_transactions/دفتر اليومية.webp"
-    },
-    {
-      "word_id": 1609,
-      "word_name": "دولار",
-      "word_voice": "دُولَار",
-      "image_static": "assets/images/Money_transactions/دولار1.webp",
-      "image_animated": "assets/images/Money_transactions/دولار.webp"
-    },
-    {
-      "word_id": 1610,
-      "word_name": "دينار",
-      "word_voice": "دِينَار",
-      "image_static": "assets/images/Money_transactions/دينار1.webp",
-      "image_animated": "assets/images/Money_transactions/دينار.webp"
-    },
-    {
-      "word_id": 1611,
-      "word_name": "راتب",
-      "word_voice": "رَاتِب",
-      "image_static": "assets/images/Money_transactions/راتب1.webp",
-      "image_animated": "assets/images/Money_transactions/راتب.webp"
-    },
-    {
-      "word_id": 1612,
-      "word_name": "ربح",
-      "word_voice": "رِبْح",
-      "image_static": "assets/images/Money_transactions/ربح1.webp",
-      "image_animated": "assets/images/Money_transactions/ربح.webp"
-    },
-    {
-      "word_id": 1613,
-      "word_name": "رد الدين",
-      "word_voice": "رَدُّ الدَّيْن",
-      "image_static": "assets/images/Money_transactions/رد الدين1.webp",
-      "image_animated": "assets/images/Money_transactions/رد الدين.webp"
-    },
-    {
-      "word_id": 1614,
-      "word_name": "رشوة",
-      "word_voice": "رَشْوَة",
-      "image_static": "assets/images/Money_transactions/رشوة1.webp",
-      "image_animated": "assets/images/Money_transactions/رشوة.webp"
-    },
-    {
-      "word_id": 1615,
-      "word_name": "سلف",
-      "word_voice": "سَلَف",
-      "image_static": "assets/images/Money_transactions/سلف1.webp",
-      "image_animated": "assets/images/Money_transactions/سلف.webp"
-    },
-    {
-      "word_id": 1616,
-      "word_name": "شيك",
-      "word_voice": "شِيك",
-      "image_static": "assets/images/Money_transactions/شيك1.webp",
-      "image_animated": "assets/images/Money_transactions/شيك.webp"
-    },
-    {
-      "word_id": 1617,
-      "word_name": "صرافة",
-      "word_voice": "صَرَافَة",
-      "image_static": "assets/images/Money_transactions/صرافة1.webp",
-      "image_animated": "assets/images/Money_transactions/صرافة.webp"
-    },
-    {
-      "word_id": 1618,
-      "word_name": "عملات",
-      "word_voice": "عُمَلَات",
-      "image_static": "assets/images/Money_transactions/عملات1.webp",
-      "image_animated": "assets/images/Money_transactions/عملات.webp"
-    },
-    {
-      "word_id": 1619,
-      "word_name": "فاتورة",
-      "word_voice": "فَاتُورَة",
-      "image_static": "assets/images/Money_transactions/فاتورة1.webp",
-      "image_animated": "assets/images/Money_transactions/فاتورة.webp"
-    },
-    {
-      "word_id": 1620,
-      "word_name": "قرش",
-      "word_voice": "قِرْش",
-      "image_static": "assets/images/Money_transactions/قرش1.webp",
-      "image_animated": "assets/images/Money_transactions/قرش.webp"
-    },
-    {
-      "word_id": 1621,
-      "word_name": "ليرة",
-      "word_voice": "لِيرَة",
-      "image_static": "assets/images/Money_transactions/ليرة1.webp",
-      "image_animated": "assets/images/Money_transactions/ليرة.webp"
-    },
-    {
-      "word_id": 1622,
-      "word_name": "محاسبة",
-      "word_voice": "مُحَاسَبَة",
-      "image_static": "assets/images/Money_transactions/محاسبة1.webp",
-      "image_animated": "assets/images/Money_transactions/محاسبة.webp"
-    },
-    {
-      "word_id": 1623,
-      "word_name": "مكافئة",
-      "word_voice": "مُكَافَأَة",
-      "image_static": "assets/images/Money_transactions/مكافئة1.webp",
-      "image_animated": "assets/images/Money_transactions/مكافئة.webp"
-    },
-    {
-      "word_id": 1624,
-      "word_name": "ميزانية",
-      "word_voice": "مِيزَانِيَة",
-      "image_static": "assets/images/Money_transactions/ميزانية1.webp",
-      "image_animated": "assets/images/Money_transactions/ميزانية.webp"
-    },
-    {
-      "word_id": 1625,
-      "word_name": "نقود",
-      "word_voice": "نُقُود",
-      "image_static": "assets/images/Money_transactions/نقود1.webp",
-      "image_animated": "assets/images/Money_transactions/نقود.webp"
-    },
-    {
-      "word_id": 1626,
-      "word_name": "يستثمر",
-      "word_voice": "يَسْتَثْمِر",
-      "image_static": "assets/images/Money_transactions/يستثمر1.webp",
-      "image_animated": "assets/images/Money_transactions/يستثمر.webp"
-    },
-    {
-      "word_id": 1627,
-      "word_name": "ين",
-      "word_voice": "يِن",
-      "image_static": "assets/images/Money_transactions/ين1.webp",
-      "image_animated": "assets/images/Money_transactions/ين.webp"
-    },
-    {
-      "word_id": 1628,
-      "word_name": "يورو",
-      "word_voice": "يُورُو",
-      "image_static": "assets/images/Money_transactions/يورو1.webp",
-      "image_animated": "assets/images/Money_transactions/يورو.webp"
-    },
+  {
+    "word_id": 1500,
+    "word_name": "الرياضة",
+    "word_voice": "الرِّياضة",
+    "image_static": "assets/images/Sports/الرياضة1.webp",
+    "image_animated": "assets/images/Sports/الرياضة.webp"
+  },
+  {
+    "word_id": 1501,
+    "word_name": "بلنتي (ضربة جزاء)",
+    "word_voice": "بَلِنْتي (ضَرْبَة جَزاء)",
+    "image_static": "assets/images/Sports/بلنتي(ضربة جزاء)1.webp",
+    "image_animated": "assets/images/Sports/بلنتي(ضربة جزاء).webp"
+  },
+  {
+    "word_id": 1502,
+    "word_name": "بلياردو",
+    "word_voice": "بِلْيَارْدُو",
+    "image_static": "assets/images/Sports/بلياردو1.webp",
+    "image_animated": "assets/images/Sports/بلياردو.webp"
+  },
+  {
+    "word_id": 1503,
+    "word_name": "بولينج",
+    "word_voice": "بُولِينْج",
+    "image_static": "assets/images/Sports/بولينج1.webp",
+    "image_animated": "assets/images/Sports/بولينج.webp"
+  },
+  {
+    "word_id": 1504,
+    "word_name": "تسلل",
+    "word_voice": "تَسَلُّل",
+    "image_static": "assets/images/Sports/تسلل1.webp",
+    "image_animated": "assets/images/Sports/تسلل.webp"
+  },
+  {
+    "word_id": 1505,
+    "word_name": "تنس الطاولة",
+    "word_voice": "تِنِس الطَّاوِلَة",
+    "image_static": "assets/images/Sports/تنس الطاولة1.webp",
+    "image_animated": "assets/images/Sports/تنس الطاولة.webp"
+  },
+  {
+    "word_id": 1506,
+    "word_name": "تنس الميدان",
+    "word_voice": "تِنِس المِيدَان",
+    "image_static": "assets/images/Sports/تنس الميدان1.webp",
+    "image_animated": "assets/images/Sports/تنس الميدان.webp"
+  },
+  {
+    "word_id": 1507,
+    "word_name": "حارس مرمى",
+    "word_voice": "حَارِس مَرْمَى",
+    "image_static": "assets/images/Sports/حارس مرمى1.webp",
+    "image_animated": "assets/images/Sports/حارس مرمى.webp"
+  },
+  {
+    "word_id": 1508,
+    "word_name": "حكم",
+    "word_voice": "حَكَم",
+    "image_static": "assets/images/Sports/حكم1.webp",
+    "image_animated": "assets/images/Sports/حكم.webp"
+  },
+  {
+    "word_id": 1509,
+    "word_name": "رمي الجلة",
+    "word_voice": "رَمْي الجَلَّة",
+    "image_static": "assets/images/Sports/رمي الجلة1.webp",
+    "image_animated": "assets/images/Sports/رمي الجلة.webp"
+  },
+  {
+    "word_id": 1510,
+    "word_name": "رمي السهم",
+    "word_voice": "رَمْي السَّهْم",
+    "image_static": "assets/images/Sports/رمي السهم1.webp",
+    "image_animated": "assets/images/Sports/رمي السهم.webp"
+  },
+  {
+    "word_id": 1511,
+    "word_name": "رمية تماس",
+    "word_voice": "رَمْية تَمَاس",
+    "image_static": "assets/images/Sports/رمي تماس1.webp",
+    "image_animated": "assets/images/Sports/رمي تماس.webp"
+  },
+  {
+    "word_id": 1512,
+    "word_name": "سباحة",
+    "word_voice": "سِبَاحَة",
+    "image_static": "assets/images/Sports/سباحة1.webp",
+    "image_animated": "assets/images/Sports/سباحة.webp"
+  },
+  {
+    "word_id": 1513,
+    "word_name": "سباق الخيل",
+    "word_voice": "سِبَاق الخَيْل",
+    "image_static": "assets/images/Sports/سباق الخيل1.webp",
+    "image_animated": "assets/images/Sports/سباق الخيل.webp"
+  },
+  {
+    "word_id": 1514,
+    "word_name": "سباق السيارات",
+    "word_voice": "سِبَاق السَّيَّارَات",
+    "image_static": "assets/images/Sports/سباق السيارات1.webp",
+    "image_animated": "assets/images/Sports/سباق السيارات.webp"
+  },
+  {
+    "word_id": 1515,
+    "word_name": "سباق الدراجات",
+    "word_voice": "سِبَاق الدَرَاجَات",
+    "image_static": "assets/images/Sports/سباق دراجات1.webp",
+    "image_animated": "assets/images/Sports/سباق دراجات.webp"
+  },
+  {
+    "word_id": 1516,
+    "word_name": "سباق الزوارق",
+    "word_voice": "سِبَاق الزَوَارِق",
+    "image_static": "assets/images/Sports/سباق زوارق1.webp",
+    "image_animated": "assets/images/Sports/سباق زوارق.webp"
+  },
+  {
+    "word_id": 1517,
+    "word_name": "شبكة",
+    "word_voice": "شَبَكَة",
+    "image_static": "assets/images/Sports/شبكة1.webp",
+    "image_animated": "assets/images/Sports/شبكة.webp"
+  },
+  {
+    "word_id": 1518,
+    "word_name": "شطرنج",
+    "word_voice": "شَطَرَنْج",
+    "image_static": "assets/images/Sports/شطرنج1.webp",
+    "image_animated": "assets/images/Sports/شطرنج.webp"
+  },
+  {
+    "word_id": 1519,
+    "word_name": "فاول",
+    "word_voice": "فَاوَل",
+    "image_static": "assets/images/Sports/فاول1.webp",
+    "image_animated": "assets/images/Sports/فاول.webp"
+  },
+  {
+    "word_id": 1520,
+    "word_name": "قفز بالزانة",
+    "word_voice": "قَفْز بِالزَّانَة",
+    "image_static": "assets/images/Sports/قفز بالزانة1.webp",
+    "image_animated": "assets/images/Sports/قفز بالزانة.webp"
+  },
+  {
+    "word_id": 1521,
+    "word_name": "كراتية",
+    "word_voice": "كَرَاتِيَّة",
+    "image_static": "assets/images/Sports/كراتية1.webp",
+    "image_animated": "assets/images/Sports/كراتية.webp"
+  },
+  {
+    "word_id": 1522,
+    "word_name": "كرة السلة",
+    "word_voice": "كُرَة السَلَّة",
+    "image_static": "assets/images/Sports/كرة سلة1.webp",
+    "image_animated": "assets/images/Sports/كرة سلة.webp"
+  },
+  {
+    "word_id": 1523,
+    "word_name": "كرة الطائرة",
+    "word_voice": "كُرَة الطَائِرَة",
+    "image_static": "assets/images/Sports/كرة طائرة1.webp",
+    "image_animated": "assets/images/Sports/كرة طائرة.webp"
+  },
+  {
+    "word_id": 1524,
+    "word_name": "كرة القدم",
+    "word_voice": "كُرَة القَدَم",
+    "image_static": "assets/images/Sports/كرة قدم1.webp",
+    "image_animated": "assets/images/Sports/كرة قدم.webp"
+  },
+  {
+    "word_id": 1525,
+    "word_name": "كرة الماء",
+    "word_voice": "كُرَة المَاء",
+    "image_static": "assets/images/Sports/كرة ماء1.webp",
+    "image_animated": "assets/images/Sports/كرة ماء.webp"
+  },
+  {
+    "word_id": 1526,
+    "word_name": "كمال أجسام",
+    "word_voice": "كمال أجسام",
+    "image_static": "assets/images/Sports/كمال أجسام1.webp",
+    "image_animated": "assets/images/Sports/كمال أجسام.webp"
+  },
+  {
+    "word_id": 1527,
+    "word_name": "مُبارزة",
+    "word_voice": "مُبارَزَة",
+    "image_static": "assets/images/Sports/مُبارزة1.webp",
+    "image_animated": "assets/images/Sports/مُبارزة.webp"
+  },
+  {
+    "word_id": 1528,
+    "word_name": "مُدرب",
+    "word_voice": "مُدَرِّب",
+    "image_static": "assets/images/Sports/مُدرب1.webp",
+    "image_animated": "assets/images/Sports/مُدرب.webp"
+  },
+  {
+    "word_id": 1529,
+    "word_name": "مصارعة ثيران",
+    "word_voice": "مُصَارَعَة ثِيرَان",
+    "image_static": "assets/images/Sports/مصارعة ثيران1.webp",
+    "image_animated": "assets/images/Sports/مصارعة ثيران.webp"
+  },
+  {
+    "word_id": 1530,
+    "word_name": "ملاكمة",
+    "word_voice": "مُلاَكَمَة",
+    "image_static": "assets/images/Sports/ملاكمة1.webp",
+    "image_animated": "assets/images/Sports/ملاكمة.webp"
+  },
+  {
+    "word_id": 1531,
+    "word_name": "ميدالية",
+    "word_voice": "مِيدَالِيَة",
+    "image_static": "assets/images/Sports/ميدالية1.webp",
+    "image_animated": "assets/images/Sports/ميدالية.webp"
+  },
+  {
+    "word_id": 1532,
+    "word_name": "نادي",
+    "word_voice": "نَادِي",
+    "image_static": "assets/images/Sports/نادي1.webp",
+    "image_animated": "assets/images/Sports/نادي.webp"
+  },
+  {
+    "word_id": 1533,
+    "word_name": "هدف",
+    "word_voice": "هَدَف",
+    "image_static": "assets/images/Sports/هدف1.webp",
+    "image_animated": "assets/images/Sports/هدف.webp"
+  },
+  {
+    "word_id": 1534,
+    "word_name": "وثب الجمال",
+    "word_voice": "وَثْب الجَمَال",
+    "image_static": "assets/images/Sports/وثب الجمال1.webp",
+    "image_animated": "assets/images/Sports/وثب الجمال.webp"
+  },
+  {
+    "word_id": 1535,
+    "word_name": "وثب عالي",
+    "word_voice": "وَثْب عَالِي",
+    "image_static": "assets/images/Sports/وثب عالي1.webp",
+    "image_animated": "assets/images/Sports/وثب عالي.webp"
+  },
 
 
 
@@ -3999,201 +3860,404 @@
 
 
 
+  {
+    "word_id": 1600,
+    "word_name": "إختلاس",
+    "word_voice": "اِخْتِلاَس",
+    "image_static": "assets/images/Money_transactions/إختلاس1.webp",
+    "image_animated": "assets/images/Money_transactions/إختلاس.webp"
+  },
+  {
+    "word_id": 1601,
+    "word_name": "إكرامية",
+    "word_voice": "اِكْرَامِيَة",
+    "image_static": "assets/images/Money_transactions/إكرامية1.webp",
+    "image_animated": "assets/images/Money_transactions/إكرامية.webp"
+  },
+  {
+    "word_id": 1602,
+    "word_name": "امين الصندوق",
+    "word_voice": "أَمِين الصَّنْدُوق",
+    "image_static": "assets/images/Money_transactions/امين الصندوق1.webp",
+    "image_animated": "assets/images/Money_transactions/امين الصندوق.webp"
+  },
+  {
+    "word_id": 1603,
+    "word_name": "إيجار",
+    "word_voice": "إِيجَار",
+    "image_static": "assets/images/Money_transactions/إيجار1.webp",
+    "image_animated": "assets/images/Money_transactions/إيجار.webp"
+  },
+  {
+    "word_id": 1604,
+    "word_name": "إيداع",
+    "word_voice": "إِيدَاع",
+    "image_static": "assets/images/Money_transactions/إيداع1.webp",
+    "image_animated": "assets/images/Money_transactions/إيداع.webp"
+  },
+  {
+    "word_id": 1605,
+    "word_name": "تبرُع",
+    "word_voice": "تَبَرُّع",
+    "image_static": "assets/images/Money_transactions/تبرُع1.webp",
+    "image_animated": "assets/images/Money_transactions/تبرُع.webp"
+  },
+  {
+    "word_id": 1606,
+    "word_name": "تزوير",
+    "word_voice": "تَزْوِير",
+    "image_static": "assets/images/Money_transactions/تزوير1.webp",
+    "image_animated": "assets/images/Money_transactions/تزوير.webp"
+  },
+  {
+    "word_id": 1607,
+    "word_name": "خسارة",
+    "word_voice": "خَسَارَة",
+    "image_static": "assets/images/Money_transactions/خسارة1.webp",
+    "image_animated": "assets/images/Money_transactions/خسارة.webp"
+  },
+  {
+    "word_id": 1608,
+    "word_name": "دفتر اليومية",
+    "word_voice": "دَفْتَر اليَوْمِيَّة",
+    "image_static": "assets/images/Money_transactions/دفتر اليومية1.webp",
+    "image_animated": "assets/images/Money_transactions/دفتر اليومية.webp"
+  },
+  {
+    "word_id": 1609,
+    "word_name": "دولار",
+    "word_voice": "دُولَار",
+    "image_static": "assets/images/Money_transactions/دولار1.webp",
+    "image_animated": "assets/images/Money_transactions/دولار.webp"
+  },
+  {
+    "word_id": 1610,
+    "word_name": "دينار",
+    "word_voice": "دِينَار",
+    "image_static": "assets/images/Money_transactions/دينار1.webp",
+    "image_animated": "assets/images/Money_transactions/دينار.webp"
+  },
+  {
+    "word_id": 1611,
+    "word_name": "راتب",
+    "word_voice": "رَاتِب",
+    "image_static": "assets/images/Money_transactions/راتب1.webp",
+    "image_animated": "assets/images/Money_transactions/راتب.webp"
+  },
+  {
+    "word_id": 1612,
+    "word_name": "ربح",
+    "word_voice": "رِبْح",
+    "image_static": "assets/images/Money_transactions/ربح1.webp",
+    "image_animated": "assets/images/Money_transactions/ربح.webp"
+  },
+  {
+    "word_id": 1613,
+    "word_name": "رد الدين",
+    "word_voice": "رَدُّ الدَّيْن",
+    "image_static": "assets/images/Money_transactions/رد الدين1.webp",
+    "image_animated": "assets/images/Money_transactions/رد الدين.webp"
+  },
+  {
+    "word_id": 1614,
+    "word_name": "رشوة",
+    "word_voice": "رَشْوَة",
+    "image_static": "assets/images/Money_transactions/رشوة1.webp",
+    "image_animated": "assets/images/Money_transactions/رشوة.webp"
+  },
+  {
+    "word_id": 1615,
+    "word_name": "سلف",
+    "word_voice": "سَلَف",
+    "image_static": "assets/images/Money_transactions/سلف1.webp",
+    "image_animated": "assets/images/Money_transactions/سلف.webp"
+  },
+  {
+    "word_id": 1616,
+    "word_name": "شيك",
+    "word_voice": "شِيك",
+    "image_static": "assets/images/Money_transactions/شيك1.webp",
+    "image_animated": "assets/images/Money_transactions/شيك.webp"
+  },
+  {
+    "word_id": 1617,
+    "word_name": "صرافة",
+    "word_voice": "صَرَافَة",
+    "image_static": "assets/images/Money_transactions/صرافة1.webp",
+    "image_animated": "assets/images/Money_transactions/صرافة.webp"
+  },
+  {
+    "word_id": 1618,
+    "word_name": "عملات",
+    "word_voice": "عُمَلَات",
+    "image_static": "assets/images/Money_transactions/عملات1.webp",
+    "image_animated": "assets/images/Money_transactions/عملات.webp"
+  },
+  {
+    "word_id": 1619,
+    "word_name": "فاتورة",
+    "word_voice": "فَاتُورَة",
+    "image_static": "assets/images/Money_transactions/فاتورة1.webp",
+    "image_animated": "assets/images/Money_transactions/فاتورة.webp"
+  },
+  {
+    "word_id": 1620,
+    "word_name": "قرش",
+    "word_voice": "قِرْش",
+    "image_static": "assets/images/Money_transactions/قرش1.webp",
+    "image_animated": "assets/images/Money_transactions/قرش.webp"
+  },
+  {
+    "word_id": 1621,
+    "word_name": "ليرة",
+    "word_voice": "لِيرَة",
+    "image_static": "assets/images/Money_transactions/ليرة1.webp",
+    "image_animated": "assets/images/Money_transactions/ليرة.webp"
+  },
+  {
+    "word_id": 1622,
+    "word_name": "محاسبة",
+    "word_voice": "مُحَاسَبَة",
+    "image_static": "assets/images/Money_transactions/محاسبة1.webp",
+    "image_animated": "assets/images/Money_transactions/محاسبة.webp"
+  },
+  {
+    "word_id": 1623,
+    "word_name": "مكافئة",
+    "word_voice": "مُكَافَأَة",
+    "image_static": "assets/images/Money_transactions/مكافئة1.webp",
+    "image_animated": "assets/images/Money_transactions/مكافئة.webp"
+  },
+  {
+    "word_id": 1624,
+    "word_name": "ميزانية",
+    "word_voice": "مِيزَانِيَة",
+    "image_static": "assets/images/Money_transactions/ميزانية1.webp",
+    "image_animated": "assets/images/Money_transactions/ميزانية.webp"
+  },
+  {
+    "word_id": 1625,
+    "word_name": "نقود",
+    "word_voice": "نُقُود",
+    "image_static": "assets/images/Money_transactions/نقود1.webp",
+    "image_animated": "assets/images/Money_transactions/نقود.webp"
+  },
+  {
+    "word_id": 1626,
+    "word_name": "يستثمر",
+    "word_voice": "يَسْتَثْمِر",
+    "image_static": "assets/images/Money_transactions/يستثمر1.webp",
+    "image_animated": "assets/images/Money_transactions/يستثمر.webp"
+  },
+  {
+    "word_id": 1627,
+    "word_name": "ين",
+    "word_voice": "يِن",
+    "image_static": "assets/images/Money_transactions/ين1.webp",
+    "image_animated": "assets/images/Money_transactions/ين.webp"
+  },
+  {
+    "word_id": 1628,
+    "word_name": "يورو",
+    "word_voice": "يُورُو",
+    "image_static": "assets/images/Money_transactions/يورو1.webp",
+    "image_animated": "assets/images/Money_transactions/يورو.webp"
+  },
 
 
 
-    
 
 
-{
-  "word_id": 1700,
-  "word_name": "إفتتاح مشروع",
-  "word_voice": "إِفْتِتَاحُ مَشْرُوعٍ",
-  "image_static": "assets/images/Holidays_Occasions/إفتتاح مشروع1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/إفتتاح مشروع.webp"
-},
-{
-  "word_id": 1701,
-  "word_name": "العاب نارية",
-  "word_voice": "اَلْأَلْعَابُ النَّارِيَّةُ",
-  "image_static": "assets/images/Holidays_Occasions/العاب نارية1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/العاب نارية.webp"
-},
-{
-  "word_id": 1702,
-  "word_name": "اليوم الوطني للمعاقين",
-  "word_voice": "اَلْيَوْمُ الوَطَنِيُّ لِلْمُعَاقِينَ",
-  "image_static": "assets/images/Holidays_Occasions/اليوم الوطني للمعاقين1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/اليوم الوطني للمعاقين.webp"
-},
-{
-  "word_id": 1703,
-  "word_name": "بالون",
-  "word_voice": "بَالُونٌ",
-  "image_static": "assets/images/Holidays_Occasions/بالون1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/بالون.webp"
-},
-{
-  "word_id": 1704,
-  "word_name": "بورزان",
-  "word_voice": "بُورْزَانٌ",
-  "image_static": "assets/images/Holidays_Occasions/بورزان1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/بورزان.webp"
-},
-{
-  "word_id": 1705,
-  "word_name": "توشيح",
-  "word_voice": "تَوْشِيحٌ",
-  "image_static": "assets/images/Holidays_Occasions/توشيح1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/توشيح.webp"
-},
-{
-  "word_id": 1706,
-  "word_name": "حفلة",
-  "word_voice": "حَفْلَةٌ",
-  "image_static": "assets/images/Holidays_Occasions/حفلة1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/حفلة.webp"
-},
-{
-  "word_id": 1707,
-  "word_name": "حفلة زفاف",
-  "word_voice": "حَفْلَةُ زِفَافٍ",
-  "image_static": "assets/images/Holidays_Occasions/حفلة زفاف1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/حفلة زفاف.webp"
-},
-{
-  "word_id": 1708,
-  "word_name": "خطوبة",
-  "word_voice": "خُطُوبَةٌ",
-  "image_static": "assets/images/Holidays_Occasions/خطوبة1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/خطوبة.webp"
-},
-{
-  "word_id": 1709,
-  "word_name": "ذكرى الإستقلال",
-  "word_voice": "ذِكْرَى الإِسْتِقْلَالِ",
-  "image_static": "assets/images/Holidays_Occasions/ذكرى الإستقلال1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/ذكرى الإستقلال.webp"
-},
-{
-  "word_id": 1710,
-  "word_name": "رأس السنة الهجرية",
-  "word_voice": "رَأْسُ السَّنَةِ الْهِجْرِيَّةِ",
-  "image_static": "assets/images/Holidays_Occasions/رأس السنة الهجرية1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/رأس السنة الهجرية.webp"
-},
-{
-  "word_id": 1711,
-  "word_name": "زفة بنت",
-  "word_voice": "زَفَّةُ بِنْتٍ",
-  "image_static": "assets/images/Holidays_Occasions/زفة بنت1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/زفة بنت.webp"
-},
-{
-  "word_id": 1712,
-  "word_name": "زينة",
-  "word_voice": "زِينَةٌ",
-  "image_static": "assets/images/Holidays_Occasions/زينة1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/زينة.webp"
-},
-{
-  "word_id": 1713,
-  "word_name": "طاسة برع",
-  "word_voice": "طَاسَةُ بَرَعٍ",
-  "image_static": "assets/images/Holidays_Occasions/طاسة برع1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/طاسة برع.webp"
-},
-{
-  "word_id": 1714,
-  "word_name": "عيد",
-  "word_voice": "عِيدٌ",
-  "image_static": "assets/images/Holidays_Occasions/عيد1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/عيد.webp"
-},
-{
-  "word_id": 1715,
-  "word_name": "عيد 14 أكتوبر",
-  "word_voice": "عِيدُ الرَّابِعَ عَشَرَ مِنْ أُكْتُوبَرَ",
-  "image_static": "assets/images/Holidays_Occasions/عيد 14 أكتوبر1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/عيد 14 أكتوبر.webp"
-},
-{
-  "word_id": 1716,
-  "word_name": "عيد الأضحى",
-  "word_voice": "عِيدُ الْأَضْحَى",
-  "image_static": "assets/images/Holidays_Occasions/عيد الأضحى1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/عيد الأضحى.webp"
-},
-{
-  "word_id": 1717,
-  "word_name": "عيد الأم",
-  "word_voice": "عِيدُ الْأُمِّ",
-  "image_static": "assets/images/Holidays_Occasions/عيد الأم1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/عيد الأم.webp"
-},
-{
-  "word_id": 1718,
-  "word_name": "عيد الثورة",
-  "word_voice": "عِيدُ الثَّوْرَةِ",
-  "image_static": "assets/images/Holidays_Occasions/عيد الثورة1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/عيد الثورة.webp"
-},
-{
-  "word_id": 1719,
-  "word_name": "عيد العمال",
-  "word_voice": "عِيدُ الْعُمَّالِ",
-  "image_static": "assets/images/Holidays_Occasions/عيد العمال1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/عيد العمال.webp"
-},
-{
-  "word_id": 1720,
-  "word_name": "عيد الفطر",
-  "word_voice": "عِيدُ الْفِطْرِ",
-  "image_static": "assets/images/Holidays_Occasions/عيد الفطر1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/عيد الفطر.webp"
-},
-{
-  "word_id": 1721,
-  "word_name": "عيد المعلم",
-  "word_voice": "عِيدُ الْمُعَلِّمِ",
-  "image_static": "assets/images/Holidays_Occasions/عيد المعلم1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/عيد المعلم.webp"
-},
-{
-  "word_id": 1722,
-  "word_name": "عيد الوحدة",
-  "word_voice": "عِيدُ الْوَحْدَةِ",
-  "image_static": "assets/images/Holidays_Occasions/عيد الوحدة1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/عيد الوحدة.webp"
-},
-{
-  "word_id": 1723,
-  "word_name": "عيد ميلاد",
-  "word_voice": "عِيدُ مِيلَادٍ",
-  "image_static": "assets/images/Holidays_Occasions/عيد ميلاد1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/عيد ميلاد.webp"
-},
-{
-  "word_id": 1724,
-  "word_name": "مناسبات وأعياد",
-  "word_voice": "مُنَاسَبَاتٌ وَأَعْيَادٌ",
-  "image_static": "assets/images/Holidays_Occasions/مناسبات وأعياد1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/مناسبات وأعياد.webp"
-},
-{
-  "word_id": 1725,
-  "word_name": "هدية",
-  "word_voice": "هَدِيَّةٌ",
-  "image_static": "assets/images/Holidays_Occasions/هدية1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/هدية.webp"
-},
-{
-  "word_id": 1726,
-  "word_name": "حفل تخرج",
-  "word_voice": "حفل تخرج",
-  "image_static": "assets/images/Holidays_Occasions/حفل تخرج1.webp",
-  "image_animated": "assets/images/Holidays_Occasions/حفل تخرج.webp"
-},
+
+  {
+    "word_id": 1700,
+    "word_name": "إفتتاح مشروع",
+    "word_voice": "إِفْتِتَاحُ مَشْرُوعٍ",
+    "image_static": "assets/images/Holidays_Occasions/إفتتاح مشروع1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/إفتتاح مشروع.webp"
+  },
+  {
+    "word_id": 1701,
+    "word_name": "العاب نارية",
+    "word_voice": "اَلْأَلْعَابُ النَّارِيَّةُ",
+    "image_static": "assets/images/Holidays_Occasions/العاب نارية1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/العاب نارية.webp"
+  },
+  {
+    "word_id": 1702,
+    "word_name": "اليوم الوطني للمعاقين",
+    "word_voice": "اَلْيَوْمُ الوَطَنِيُّ لِلْمُعَاقِينَ",
+    "image_static": "assets/images/Holidays_Occasions/اليوم الوطني للمعاقين1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/اليوم الوطني للمعاقين.webp"
+  },
+  {
+    "word_id": 1703,
+    "word_name": "بالون",
+    "word_voice": "بَالُونٌ",
+    "image_static": "assets/images/Holidays_Occasions/بالون1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/بالون.webp"
+  },
+  {
+    "word_id": 1704,
+    "word_name": "بورزان",
+    "word_voice": "بُورْزَانٌ",
+    "image_static": "assets/images/Holidays_Occasions/بورزان1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/بورزان.webp"
+  },
+  {
+    "word_id": 1705,
+    "word_name": "توشيح",
+    "word_voice": "تَوْشِيحٌ",
+    "image_static": "assets/images/Holidays_Occasions/توشيح1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/توشيح.webp"
+  },
+  {
+    "word_id": 1706,
+    "word_name": "حفلة",
+    "word_voice": "حَفْلَةٌ",
+    "image_static": "assets/images/Holidays_Occasions/حفلة1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/حفلة.webp"
+  },
+  {
+    "word_id": 1707,
+    "word_name": "حفلة زفاف",
+    "word_voice": "حَفْلَةُ زِفَافٍ",
+    "image_static": "assets/images/Holidays_Occasions/حفلة زفاف1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/حفلة زفاف.webp"
+  },
+  {
+    "word_id": 1708,
+    "word_name": "خطوبة",
+    "word_voice": "خُطُوبَةٌ",
+    "image_static": "assets/images/Holidays_Occasions/خطوبة1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/خطوبة.webp"
+  },
+  {
+    "word_id": 1709,
+    "word_name": "ذكرى الإستقلال",
+    "word_voice": "ذِكْرَى الإِسْتِقْلَالِ",
+    "image_static": "assets/images/Holidays_Occasions/ذكرى الإستقلال1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/ذكرى الإستقلال.webp"
+  },
+  {
+    "word_id": 1710,
+    "word_name": "رأس السنة الهجرية",
+    "word_voice": "رَأْسُ السَّنَةِ الْهِجْرِيَّةِ",
+    "image_static": "assets/images/Holidays_Occasions/رأس السنة الهجرية1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/رأس السنة الهجرية.webp"
+  },
+  {
+    "word_id": 1711,
+    "word_name": "زفة بنت",
+    "word_voice": "زَفَّةُ بِنْتٍ",
+    "image_static": "assets/images/Holidays_Occasions/زفة بنت1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/زفة بنت.webp"
+  },
+  {
+    "word_id": 1712,
+    "word_name": "زينة",
+    "word_voice": "زِينَةٌ",
+    "image_static": "assets/images/Holidays_Occasions/زينة1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/زينة.webp"
+  },
+  {
+    "word_id": 1713,
+    "word_name": "طاسة برع",
+    "word_voice": "طَاسَةُ بَرَعٍ",
+    "image_static": "assets/images/Holidays_Occasions/طاسة برع1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/طاسة برع.webp"
+  },
+  {
+    "word_id": 1714,
+    "word_name": "عيد",
+    "word_voice": "عِيدٌ",
+    "image_static": "assets/images/Holidays_Occasions/عيد1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/عيد.webp"
+  },
+  {
+    "word_id": 1715,
+    "word_name": "عيد 14 أكتوبر",
+    "word_voice": "عِيدُ الرَّابِعَ عَشَرَ مِنْ أُكْتُوبَرَ",
+    "image_static": "assets/images/Holidays_Occasions/عيد 14 أكتوبر1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/عيد 14 أكتوبر.webp"
+  },
+  {
+    "word_id": 1716,
+    "word_name": "عيد الأضحى",
+    "word_voice": "عِيدُ الْأَضْحَى",
+    "image_static": "assets/images/Holidays_Occasions/عيد الأضحى1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/عيد الأضحى.webp"
+  },
+  {
+    "word_id": 1717,
+    "word_name": "عيد الأم",
+    "word_voice": "عِيدُ الْأُمِّ",
+    "image_static": "assets/images/Holidays_Occasions/عيد الأم1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/عيد الأم.webp"
+  },
+  {
+    "word_id": 1718,
+    "word_name": "عيد الثورة",
+    "word_voice": "عِيدُ الثَّوْرَةِ",
+    "image_static": "assets/images/Holidays_Occasions/عيد الثورة1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/عيد الثورة.webp"
+  },
+  {
+    "word_id": 1719,
+    "word_name": "عيد العمال",
+    "word_voice": "عِيدُ الْعُمَّالِ",
+    "image_static": "assets/images/Holidays_Occasions/عيد العمال1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/عيد العمال.webp"
+  },
+  {
+    "word_id": 1720,
+    "word_name": "عيد الفطر",
+    "word_voice": "عِيدُ الْفِطْرِ",
+    "image_static": "assets/images/Holidays_Occasions/عيد الفطر1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/عيد الفطر.webp"
+  },
+  {
+    "word_id": 1721,
+    "word_name": "عيد المعلم",
+    "word_voice": "عِيدُ الْمُعَلِّمِ",
+    "image_static": "assets/images/Holidays_Occasions/عيد المعلم1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/عيد المعلم.webp"
+  },
+  {
+    "word_id": 1722,
+    "word_name": "عيد الوحدة",
+    "word_voice": "عِيدُ الْوَحْدَةِ",
+    "image_static": "assets/images/Holidays_Occasions/عيد الوحدة1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/عيد الوحدة.webp"
+  },
+  {
+    "word_id": 1723,
+    "word_name": "عيد ميلاد",
+    "word_voice": "عِيدُ مِيلَادٍ",
+    "image_static": "assets/images/Holidays_Occasions/عيد ميلاد1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/عيد ميلاد.webp"
+  },
+  {
+    "word_id": 1724,
+    "word_name": "مناسبات وأعياد",
+    "word_voice": "مُنَاسَبَاتٌ وَأَعْيَادٌ",
+    "image_static": "assets/images/Holidays_Occasions/مناسبات وأعياد1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/مناسبات وأعياد.webp"
+  },
+  {
+    "word_id": 1725,
+    "word_name": "هدية",
+    "word_voice": "هَدِيَّةٌ",
+    "image_static": "assets/images/Holidays_Occasions/هدية1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/هدية.webp"
+  },
+  {
+    "word_id": 1726,
+    "word_name": "حفل تخرج",
+    "word_voice": "حفل تخرج",
+    "image_static": "assets/images/Holidays_Occasions/حفل تخرج1.webp",
+    "image_animated": "assets/images/Holidays_Occasions/حفل تخرج.webp"
+  },
 
 
 
@@ -4501,6 +4565,9 @@
     "image_static": "assets/images/Transportation/هيلوكبتر1.webp",
     "image_animated": "assets/images/Transportation/هيلوكبتر.webp"
   },
+
+
+
 
 
 
