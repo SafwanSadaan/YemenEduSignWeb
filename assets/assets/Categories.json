@@ -1236,7 +1236,7 @@
       {
         "lesson_id": 1,
         "lesson_name": "الدرس الأول",
-        "lesson_image":"assets/images/animals/3-حيوانات.webp",
+        "lesson_image":"assets/images/animals/3-اسد.webp",
         "lesson_description": "حَيَوَانَات ، أَسَدُ ، نَمِر ، دَبَْ ، ذِئْب",
         "words":[
           {
@@ -3420,7 +3420,7 @@
   {
     "category_id": 12,
     "category_name": "الزراعة",
-    "image":"assets/images/Agriculture/الزراعة-12.webp",
+    "image":"assets/images/Agriculture/12-الزراعة.webp",
     "lessons": [
       {
         "lesson_id": 1,

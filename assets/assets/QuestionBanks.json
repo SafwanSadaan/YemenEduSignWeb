@@ -12607,7 +12607,7 @@
     "category_final_exam": {
       "exam_id": 7,
       "exam_name": "إختبار فئة الحيوانات",
-      "image": "assets/images/animals/3-حمار.webp",
+      "image": "assets/images/animals/3-حيوانات.webp",
       "questions": [
         {
           "question_id": 1,
