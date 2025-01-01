@@ -746,7 +746,7 @@
             "word_id": 2,
             "word_name": "خالة",
             "word_voice": "خالة",
-            "image_static": "assets/images/family/4-خاله.webp",
+            "image_static": "assets/images/family/4-خالة.webp",
             "image_animated": "assets/images/family/خالة.webp"
           },
           {
@@ -969,35 +969,35 @@
       {
         "lesson_id": 5,
         "lesson_name": "الدرس الخامس",
-        "lesson_image":"assets/images/community-personnel/4-شيخ.webp",
+        "lesson_image":"assets/images/community-personnel/11-شيخ.webp",
         "lesson_description": " شَيْخ ، عَجُوز ، وَلَدِ ، رَضِيع ",
         "words":[
           {
             "word_id": 1,
             "word_name": "شَيْخ",
             "word_voice": "شَيْخ",
-            "image_static": "assets/images/community-personnel/4-شيخ.webp",
+            "image_static": "assets/images/community-personnel/11-شيخ.webp",
             "image_animated": "assets/images/community-personnel/شيخ.webp"
           },
           {
             "word_id": 2,
             "word_name": "عَجُوز",
             "word_voice": "عَجُوز",
-            "image_static": "assets/images/community-personnel/4-عجوز.webp",
+            "image_static": "assets/images/community-personnel/11-عجوز.webp",
             "image_animated": "assets/images/community-personnel/عجوز.webp"
           },
           {
             "word_id": 3,
             "word_name": "وَلَد",
             "word_voice": "وَلَد",
-            "image_static": "assets/images/community-personnel/4-ولد.webp",
+            "image_static": "assets/images/community-personnel/11-ولد.webp",
             "image_animated": "assets/images/community-personnel/ولد.webp"
           }, 
           {
             "word_id": 4,
             "word_name": "رَضِيع",
             "word_voice": "رَضِيع",
-            "image_static": "assets/images/community-personnel/4-رضيع.webp",
+            "image_static": "assets/images/community-personnel/11-رضيع.webp",
             "image_animated": "assets/images/community-personnel/رضيع.webp"
           }
         ]
@@ -1019,14 +1019,14 @@
             "word_id": 2,
             "word_name": "شعب",
             "word_voice": "شعب",
-            "image_static": "assets/images/community-personnel/4-شعب.webp",
+            "image_static": "assets/images/community-personnel/11-شعب.webp",
             "image_animated": "assets/images/community-personnel/شعب.webp"
           },
           {
             "word_id": 3,
             "word_name": "رَجُل",
             "word_voice": "رَجُل",
-            "image_static": "assets/images/community-personnel/4-رجل.webp",
+            "image_static": "assets/images/community-personnel/11-رجل.webp",
             "image_animated": "assets/images/community-personnel/رجل.webp"
           },
           {
@@ -1041,14 +1041,14 @@
       {
         "lesson_id": 7,
         "lesson_name": "الدرس السابع",
-        "lesson_image":"assets/images/community-personnel/4-عريس.webp",
+        "lesson_image":"assets/images/community-personnel/11-عريس.webp",
         "lesson_description": "عريس ، عروسة ، امرأة",
         "words":[
             {
               "word_id": 1,
               "word_name": "عريس",
               "word_voice": "عريس",
-              "image_static": "assets/images/community-personnel/4-عريس.webp",
+              "image_static": "assets/images/community-personnel/11-عريس.webp",
               "image_animated": "assets/images/community-personnel/عريس.webp"
             },
           {
@@ -2026,8 +2026,8 @@
       {
         "lesson_id": 1,
         "lesson_name": "الدرس الأول",
-        "lesson_image":"assets/images/public-places/8-استوديو",
-        "lesson_description": "أَمَاكِن عَامَْة ، جَامِعَةٌ ، جَمْعِيَْة ، بِوَفَيه ، اسْتَديو",
+        "lesson_image":"assets/images/public-places/8-جامعة.webp",
+        "lesson_description": "أَمَاكِن عَامَْة ، جَامِعَةٌ ، جَمْعِيَْة ، بِوَفَيه ، اسْتَودْيو",
         "words": [
           {
             "word_id": 1,
@@ -2231,8 +2231,8 @@
           },
           {
             "word_id": 5,
-            "word_name": "وَكَالَة ",
-            "word_voice": "وَكَالَة ",
+            "word_name": "وَكَالة ",
+            "word_voice": "وَكَالْة ",
             "image_static": "assets/images/public-places/8-وكالة.webp",
             "image_animated": "assets/images/public-places/وكالة.webp"
           }
@@ -2303,8 +2303,8 @@
           },
           {
             "word_id": 3,
-            "word_name": "مُؤَدِْب",
-            "word_voice": "مُؤَدِْب",
+            "word_name": "مُؤَدْب",
+            "word_voice": "مُؤَدْب",
             "image_static": "assets/images/Attributes/9-مؤدب.webp",
             "image_animated": "assets/images/Attributes/مؤدب.webp"
           },

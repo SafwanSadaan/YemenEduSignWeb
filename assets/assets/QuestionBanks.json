@@ -5257,7 +5257,7 @@
                 "option_id": 3,
                 "word_name": "خالة",
             "word_voice": "خالة",
-            "image_static": "assets/images/family/4-خاله.webp",
+            "image_static": "assets/images/family/4-خالة.webp",
             "image_animated": "assets/images/family/خالة.webp"
               }
             ]
@@ -5317,7 +5317,7 @@
                 "option_id": 3,
                 "word_name": "خالة",
             "word_voice": "خالة",
-            "image_static": "assets/images/family/4-خاله.webp",
+            "image_static": "assets/images/family/4-خالة.webp",
             "image_animated": "assets/images/family/خالة.webp"
               }
             ]
@@ -5347,7 +5347,7 @@
                 "option_id": 3,
                 "word_name": "خالة",
             "word_voice": "خالة",
-            "image_static": "assets/images/family/4-خاله.webp",
+            "image_static": "assets/images/family/4-خالة.webp",
             "image_animated": "assets/images/family/خالة.webp"
               }
             ]
@@ -5373,7 +5373,7 @@
                 "option_id": 1,
                 "word_name": "عجوز",
             "word_voice": "عجوز",
-            "image_static": "assets/images/community-personnel/4-عجوز.webp",
+            "image_static": "assets/images/community-personnel/11-عجوز.webp",
             "image_animated": "assets/images/community-personnel/عجوز.webp"
               },
               {
@@ -5391,7 +5391,7 @@
               "question_id": 2,
               "correct_answer": "خالة",
               "word_voice": "خالة",
-              "image_static": "assets/images/family/4-خاله.webp",
+              "image_static": "assets/images/family/4-خالة.webp",
               "image_animated": "assets/images/family/خالة.webp"
             },
             "options": [
@@ -5399,7 +5399,7 @@
                 "option_id": 1,
                "word_name": "خالة",
             "word_voice": "خالة",
-            "image_static": "assets/images/family/4-خاله.webp",
+            "image_static": "assets/images/family/4-خالة.webp",
             "image_animated": "assets/images/family/خالة.webp"
               },
               {
@@ -5425,7 +5425,7 @@
                 "option_id": 1,
                 "word_name": "خالة",
                 "word_voice": "خالة",
-                "image_static": "assets/images/family/4-خاله.webp",
+                "image_static": "assets/images/family/4-خالة.webp",
                 "image_animated": "assets/images/family/خالة.webp"
               },
               {
@@ -5458,7 +5458,7 @@
                 "option_id": 2,
               "word_name": "رضيع",
             "word_voice": "رضيع",
-           "image_static": "assets/images/community-personnel/4-رضيع.webp",
+           "image_static": "assets/images/community-personnel/11-رضيع.webp",
             "image_animated": "assets/images/community-personnel/رضيع.webp"
               }
             ]
@@ -5487,7 +5487,7 @@
                 "option_id": 2,
                 "word_name": "رضيع",
             "word_voice": "رضيع",
-           "image_static": "assets/images/community-personnel/4-رضيع.webp",
+           "image_static": "assets/images/community-personnel/11-رضيع.webp",
             "image_animated": "assets/images/community-personnel/رضيع.webp"
               },
               {
@@ -5503,14 +5503,14 @@
              "question_id": 2,
               "correct_answer": "خالة",
               "word_voice": "خالة",
-              "image_static": "assets/images/family/4-خاله.webp",
+              "image_static": "assets/images/family/4-خالة.webp",
               "image_animated": "assets/images/family/خالة.webp",
             "options": [
               {
                 "option_id": 1,
                 "word_name": "خالة",
                 "word_voice": "خالة",
-                "image_static": "assets/images/family/4-خاله.webp",
+                "image_static": "assets/images/family/4-خالة.webp",
                 "image_animated": "assets/images/family/خالة.webp"
               },
               {
@@ -5540,7 +5540,7 @@
                 "option_id": 1,
                 "word_name": "عجوز",
                 "word_voice": "عجوز",
-                "image_static": "assets/images/community-personnel/4-عجوز.webp",
+                "image_static": "assets/images/community-personnel/11-عجوز.webp",
                 "image_animated": "assets/images/community-personnel/عجوز.webp"
               },
               {
@@ -5554,7 +5554,7 @@
                 "option_id": 3,
                 "word_name": "خالة",
             "word_voice": "خالة",
-            "image_static": "assets/images/family/4-خاله.webp",
+            "image_static": "assets/images/family/4-خالة.webp",
             "image_animated": "assets/images/family/خالة.webp"
               }
             ]
@@ -5563,7 +5563,7 @@
               "question_id": 4,
               "correct_answer": "خالة",
               "word_voice": "خالة",
-              "image_static": "assets/images/family/4-خاله.webp",
+              "image_static": "assets/images/family/4-خالة.webp",
               "image_animated": "assets/images/family/خالة.webp",
             "options": [
               {
@@ -5584,7 +5584,7 @@
                 "option_id": 3,
                 "word_name": "خالة",
             "word_voice": "خالة",
-            "image_static": "assets/images/family/4-خاله.webp",
+            "image_static": "assets/images/family/4-خالة.webp",
             "image_animated": "assets/images/family/خالة.webp"
               }
             ]
@@ -5614,7 +5614,7 @@
                 "option_id": 3,
                 "word_name": "خالة",
             "word_voice": "خالة",
-            "image_static": "assets/images/family/4-خاله.webp",
+            "image_static": "assets/images/family/4-خالة.webp",
             "image_animated": "assets/images/family/خالة.webp"
               }
             ]
@@ -5640,7 +5640,7 @@
                 "option_id": 1,
                 "word_name": "عجوز",
             "word_voice": "عجوز",
-            "image_static": "assets/images/community-personnel/4-عجوز.webp",
+            "image_static": "assets/images/community-personnel/11-عجوز.webp",
             "image_animated": "assets/images/community-personnel/عجوز.webp"
               },
               {
@@ -5666,7 +5666,7 @@
                 "option_id": 1,
                "word_name": "خالة",
             "word_voice": "خالة",
-            "image_static": "assets/images/family/4-خاله.webp",
+            "image_static": "assets/images/family/4-خالة.webp",
             "image_animated": "assets/images/family/خالة.webp"
               },
               {
@@ -5754,7 +5754,7 @@
                 "option_id": 2,
                 "word_name": "رضيع",
             "word_voice": "رضيع",
-           "image_static": "assets/images/community-personnel/4-رضيع.webp",
+           "image_static": "assets/images/community-personnel/11-رضيع.webp",
             "image_animated": "assets/images/community-personnel/رضيع.webp"
               },
               {
@@ -5777,7 +5777,7 @@
                 "option_id": 1,
                 "word_name": "خالة",
                 "word_voice": "خالة",
-                "image_static": "assets/images/family/4-خاله.webp",
+                "image_static": "assets/images/family/4-خالة.webp",
                 "image_animated": "assets/images/family/خالة.webp"
               },
               {
@@ -5807,7 +5807,7 @@
                 "option_id": 1,
                 "word_name": "عجوز",
                 "word_voice": "عجوز",
-                "image_static": "assets/images/community-personnel/4-عجوز.webp",
+                "image_static": "assets/images/community-personnel/11-عجوز.webp",
                 "image_animated": "assets/images/community-personnel/عجوز.webp"
               },
               {
@@ -5851,7 +5851,7 @@
                 "option_id": 3,
                 "word_name": "خالة",
             "word_voice": "خالة",
-            "image_static": "assets/images/family/4-خاله.webp",
+            "image_static": "assets/images/family/4-خالة.webp",
             "image_animated": "assets/images/family/خالة.webp"
               }
             ]
@@ -5881,7 +5881,7 @@
                 "option_id": 3,
                 "word_name": "خالة",
             "word_voice": "خالة",
-            "image_static": "assets/images/family/4-خاله.webp",
+            "image_static": "assets/images/family/4-خالة.webp",
             "image_animated": "assets/images/family/خالة.webp"
               }
             ]
@@ -5920,7 +5920,7 @@
              "option_id": 3,
              "word_name": "خالة",
          "word_voice": "خالة",
-         "image_static": "assets/images/family/4-خاله.webp",
+         "image_static": "assets/images/family/4-خالة.webp",
          "image_animated": "assets/images/family/خالة.webp"
            }
          ]
@@ -5950,7 +5950,7 @@
             "option_id": 3,
             "word_name": "خالة",
         "word_voice": "خالة",
-        "image_static": "assets/images/family/4-خاله.webp",
+        "image_static": "assets/images/family/4-خالة.webp",
         "image_animated": "assets/images/family/خالة.webp"
           }
         ]
@@ -6034,7 +6034,7 @@
             "option_id": 2,
             "word_name": "رضيع",
         "word_voice": "رضيع",
-       "image_static": "assets/images/community-personnel/4-رضيع.webp",
+       "image_static": "assets/images/community-personnel/11-رضيع.webp",
         "image_animated": "assets/images/community-personnel/رضيع.webp"
           },
           {
@@ -6050,14 +6050,14 @@
          "question_id": 6,
           "correct_answer": "خالة",
           "word_voice": "خالة",
-          "image_static": "assets/images/family/4-خاله.webp",
+          "image_static": "assets/images/family/4-خالة.webp",
           "image_animated": "assets/images/family/خالة.webp",
         "options": [
           {
             "option_id": 1,
             "word_name": "خالة",
             "word_voice": "خالة",
-            "image_static": "assets/images/family/4-خاله.webp",
+            "image_static": "assets/images/family/4-خالة.webp",
             "image_animated": "assets/images/family/خالة.webp"
           },
           {
@@ -7096,7 +7096,7 @@
               "question_id": 1,
               "correct_answer": "شَيْخ",
              "word_voice": "شَيْخ",
-                "image_static": "assets/images/community-personnel/4-شيخ.webp",
+                "image_static": "assets/images/community-personnel/11-شيخ.webp",
                 "image_animated": "assets/images/community-personnel/شيخ.webp"
             },
             "options": [
@@ -7104,14 +7104,14 @@
                 "option_id": 1,
                 "word_name": "شَيْخ",
                 "word_voice": "شَيْخ",
-                "image_static": "assets/images/community-personnel/4-شيخ.webp",
+                "image_static": "assets/images/community-personnel/11-شيخ.webp",
                 "image_animated": "assets/images/community-personnel/شيخ.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "عَجُوز",
                 "word_voice": "عَجُوز",
-                "image_static": "assets/images/community-personnel/4-عجوز.webp",
+                "image_static": "assets/images/community-personnel/11-عجوز.webp",
                 "image_animated": "assets/images/community-personnel/عجوز.webp"
               }
             ]
@@ -7122,7 +7122,7 @@
               "question_id": 2,
               "correct_answer": "عَجُوز",
               "word_voice": "عَجُوز",
-                "image_static": "assets/images/community-personnel/4-عجوز.webp",
+                "image_static": "assets/images/community-personnel/11-عجوز.webp",
                 "image_animated": "assets/images/community-personnel/عجوز.webp"
             },
             "options": [
@@ -7130,14 +7130,14 @@
                 "option_id": 1,
                 "word_name": "شَيْخ",
                 "word_voice": "شَيْخ",
-                "image_static": "assets/images/community-personnel/4-شيخ.webp",
+                "image_static": "assets/images/community-personnel/11-شيخ.webp",
                 "image_animated": "assets/images/community-personnel/شيخ.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "عَجُوز",
                 "word_voice": "عَجُوز",
-                "image_static": "assets/images/community-personnel/4-عجوز.webp",
+                "image_static": "assets/images/community-personnel/11-عجوز.webp",
                 "image_animated": "assets/images/community-personnel/عجوز.webp"
               }
             ]
@@ -7148,7 +7148,7 @@
               "question_id": 3,
               "correct_answer": "وَلَدِ",
               "word_voice": "وَلَدِ",
-                "image_static": "assets/images/community-personnel/4-ولد.webp",
+                "image_static": "assets/images/community-personnel/11-ولد.webp",
                 "image_animated": "assets/images/community-personnel/ولد.webp"
             },
             "options": [
@@ -7156,14 +7156,14 @@
                 "option_id": 1,
                 "word_name": "وَلَدِ",
                 "word_voice": "وَلَدِ",
-                "image_static": "assets/images/community-personnel/4-ولد.webp",
+                "image_static": "assets/images/community-personnel/11-ولد.webp",
                 "image_animated": "assets/images/community-personnel/ولد.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "رَضِيع",
                 "word_voice": "رَضِيع",
-                "image_static": "assets/images/community-personnel/4-رضيع.webp",
+                "image_static": "assets/images/community-personnel/11-رضيع.webp",
                "image_animated": "assets/images/community-personnel/رضيع.webp"
               }
             ]
@@ -7174,7 +7174,7 @@
               "question_id": 4,
               "correct_answer": "رَضِيع",
               "word_voice": "رَضِيع",
-                "image_static": "assets/images/community-personnel/4-رضيع.webp",
+                "image_static": "assets/images/community-personnel/11-رضيع.webp",
                "image_animated": "assets/images/community-personnel/رضيع.webp"
             },
             "options": [
@@ -7182,14 +7182,14 @@
                 "option_id": 1,
                 "word_name": "وَلَدِ",
                 "word_voice": "وَلَدِ",
-                "image_static": "assets/images/community-personnel/4-ولد.webp",
+                "image_static": "assets/images/community-personnel/11-ولد.webp",
                 "image_animated": "assets/images/community-personnel/ولد.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "رَضِيع",
                 "word_voice": "رَضِيع",
-                "image_static": "assets/images/community-personnel/4-رضيع.webp",
+                "image_static": "assets/images/community-personnel/11-رضيع.webp",
                "image_animated": "assets/images/community-personnel/رضيع.webp"
               }
             ]
@@ -7199,34 +7199,34 @@
         "lesson_exam": {
           "exam_id": 5,
           "exam_name": "إختبار الدرس الخامس",
-          "image": "assets/images/community-personnel/4-شيخ.webp",
+          "image": "assets/images/community-personnel/11-شيخ.webp",
           "questions": [
             {
              "question_id": 1,
               "correct_answer": "شَيْخ",
              "word_voice": "شَيْخ",
-                "image_static": "assets/images/community-personnel/4-شيخ.webp",
+                "image_static": "assets/images/community-personnel/11-شيخ.webp",
                 "image_animated": "assets/images/community-personnel/شيخ.webp",
             "options": [
               {
                 "option_id": 1,
                 "word_name": "شَيْخ",
                 "word_voice": "شَيْخ",
-                "image_static": "assets/images/community-personnel/4-شيخ.webp",
+                "image_static": "assets/images/community-personnel/11-شيخ.webp",
                 "image_animated": "assets/images/community-personnel/شيخ.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "عَجُوز",
                 "word_voice": "عَجُوز",
-                "image_static": "assets/images/community-personnel/4-عجوز.webp",
+                "image_static": "assets/images/community-personnel/11-عجوز.webp",
                 "image_animated": "assets/images/community-personnel/عجوز.webp"
               },
               {
                 "option_id": 3,
                 "word_name": "وَلَدِ",
                 "word_voice": "وَلَدِ",
-                "image_static": "assets/images/community-personnel/4-ولد.webp",
+                "image_static": "assets/images/community-personnel/11-ولد.webp",
                 "image_animated": "assets/images/community-personnel/ولد.webp"
               }
             ]
@@ -7235,28 +7235,28 @@
               "question_id": 2,
               "correct_answer": "وَلَدِ",
               "word_voice": "وَلَدِ",
-                "image_static": "assets/images/community-personnel/4-ولد.webp",
+                "image_static": "assets/images/community-personnel/11-ولد.webp",
                 "image_animated": "assets/images/community-personnel/ولد.webp",
             "options": [
               {
                 "option_id": 1,
                 "word_name": "عَجُوز",
                 "word_voice": "عَجُوز",
-                "image_static": "assets/images/community-personnel/4-عجوز.webp",
+                "image_static": "assets/images/community-personnel/11-عجوز.webp",
                 "image_animated": "assets/images/community-personnel/عجوز.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "وَلَدِ",
                 "word_voice": "وَلَدِ",
-                "image_static": "assets/images/community-personnel/4-ولد.webp",
+                "image_static": "assets/images/community-personnel/11-ولد.webp",
                 "image_animated": "assets/images/community-personnel/ولد.webp"
               },
               {
                 "option_id": 3,
                 "word_name": "رَضِيع",
                 "word_voice": "رَضِيع",
-                "image_static": "assets/images/community-personnel/4-رضيع.webp",
+                "image_static": "assets/images/community-personnel/11-رضيع.webp",
                "image_animated": "assets/images/community-personnel/رضيع.webp"
               }
             ]
@@ -7265,28 +7265,28 @@
               "question_id": 3,
               "correct_answer": "عَجُوز",
               "word_voice": "عَجُوز",
-                "image_static": "assets/images/community-personnel/4-عجوز.webp",
+                "image_static": "assets/images/community-personnel/11-عجوز.webp",
                 "image_animated": "assets/images/community-personnel/عجوز.webp",
             "options": [
               {
                 "option_id": 1,
                 "word_name": "شَيْخ",
                 "word_voice": "شَيْخ",
-                "image_static": "assets/images/community-personnel/4-شيخ.webp",
+                "image_static": "assets/images/community-personnel/11-شيخ.webp",
                 "image_animated": "assets/images/community-personnel/شيخ.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "عَجُوز",
                 "word_voice": "عَجُوز",
-                "image_static": "assets/images/community-personnel/4-عجوز.webp",
+                "image_static": "assets/images/community-personnel/11-عجوز.webp",
                 "image_animated": "assets/images/community-personnel/عجوز.webp"
               },
               {
                 "option_id": 3,
                 "word_name": "وَلَدِ",
                 "word_voice": "وَلَدِ",
-                "image_static": "assets/images/community-personnel/4-ولد.webp",
+                "image_static": "assets/images/community-personnel/11-ولد.webp",
                 "image_animated": "assets/images/community-personnel/ولد.webp"
               }
             ]
@@ -7295,28 +7295,28 @@
               "question_id": 4,
               "correct_answer": "رَضِيع",
               "word_voice": "رَضِيع",
-                "image_static": "assets/images/community-personnel/4-رضيع.webp",
+                "image_static": "assets/images/community-personnel/11-رضيع.webp",
                "image_animated": "assets/images/community-personnel/رضيع.webp",
             "options": [
               {
                 "option_id": 1,
                 "word_name": "عَجُوز",
                 "word_voice": "عَجُوز",
-                "image_static": "assets/images/community-personnel/4-عجوز.webp",
+                "image_static": "assets/images/community-personnel/11-عجوز.webp",
                 "image_animated": "assets/images/community-personnel/عجوز.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "وَلَدِ",
                 "word_voice": "وَلَدِ",
-                "image_static": "assets/images/community-personnel/4-ولد.webp",
+                "image_static": "assets/images/community-personnel/11-ولد.webp",
                 "image_animated": "assets/images/community-personnel/ولد.webp"
               },
               {
                 "option_id": 3,
                 "word_name": "رَضِيع",
                 "word_voice": "رَضِيع",
-                "image_static": "assets/images/community-personnel/4-رضيع.webp",
+                "image_static": "assets/images/community-personnel/11-رضيع.webp",
                 "image_animated": "assets/images/community-personnel/رضيع.webp"
               }
             ]
@@ -7349,7 +7349,7 @@
                 "option_id": 2,
                 "word_name": "رَجُل",
                 "word_voice": "رَجُل",
-                "image_static": "assets/images/community-personnel/4-رجل.webp",
+                "image_static": "assets/images/community-personnel/11-رجل.webp",
                 "image_animated": "assets/images/community-personnel/رجل.webp"
               }
             ]
@@ -7360,7 +7360,7 @@
               "question_id": 2,
               "correct_answer": "شعب",
               "word_voice": "شعب",
-                "image_static": "assets/images/community-personnel/4-شعب.webp",
+                "image_static": "assets/images/community-personnel/11-شعب.webp",
                 "image_animated": "assets/images/community-personnel/شعب.webp"
             },
             "options": [
@@ -7368,14 +7368,14 @@
                 "option_id": 1,
                 "word_name": "شعب",
                 "word_voice": "شعب",
-                "image_static": "assets/images/community-personnel/4-شعب.webp",
+                "image_static": "assets/images/community-personnel/11-شعب.webp",
                 "image_animated": "assets/images/community-personnel/شعب.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "رَجُل",
                 "word_voice": "رَجُل",
-                "image_static": "assets/images/community-personnel/4-رجل.webp",
+                "image_static": "assets/images/community-personnel/11-رجل.webp",
                 "image_animated": "assets/images/community-personnel/رجل.webp"
               }
             ]
@@ -7386,7 +7386,7 @@
               "question_id": 3,
               "correct_answer": "رَجُل",
               "word_voice": "رَجُل",
-                "image_static": "assets/images/community-personnel/4-رجل.webp",
+                "image_static": "assets/images/community-personnel/11-رجل.webp",
                 "image_animated": "assets/images/community-personnel/رجل.webp"
             },
             "options": [
@@ -7394,14 +7394,14 @@
                 "option_id": 1,
                 "word_name": "شعب",
                 "word_voice": "شعب",
-                "image_static": "assets/images/community-personnel/4-شعب.webp",
+                "image_static": "assets/images/community-personnel/11-شعب.webp",
                 "image_animated": "assets/images/community-personnel/شعب.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "رَجُل",
                 "word_voice": "رَجُل",
-                "image_static": "assets/images/community-personnel/4-رجل.webp",
+                "image_static": "assets/images/community-personnel/11-رجل.webp",
                 "image_animated": "assets/images/community-personnel/رجل.webp"
               }
             ]
@@ -7420,7 +7420,7 @@
                 "option_id": 1,
                 "word_name": "شعب",
                 "word_voice": "شعب",
-                "image_static": "assets/images/community-personnel/4-شعب.webp",
+                "image_static": "assets/images/community-personnel/11-شعب.webp",
                 "image_animated": "assets/images/community-personnel/شعب.webp"
               },
               {
@@ -7446,7 +7446,7 @@
                 "option_id": 1,
                 "word_name": "شعب",
                 "word_voice": "شعب",
-                "image_static": "assets/images/community-personnel/4-شعب.webp",
+                "image_static": "assets/images/community-personnel/11-شعب.webp",
                 "image_animated": "assets/images/community-personnel/شعب.webp"
               },
               {
@@ -7462,27 +7462,27 @@
         "lesson_exam": {
           "exam_id": 6,
           "exam_name": "إختبار الدرس السادس",
-          "image": "assets/images/community-personnel/4-شعب.webp",
+          "image": "assets/images/community-personnel/11-شعب.webp",
           "questions": [
             {
               "question_id": 1,
               "correct_answer": "رَجُل",
               "word_voice": "رَجُل",
-                "image_static": "assets/images/community-personnel/4-رجل.webp",
+                "image_static": "assets/images/community-personnel/11-رجل.webp",
                 "image_animated": "assets/images/community-personnel/رجل.webp",
             "options": [
               {
                 "option_id": 1,
                 "word_name": "شعب",
                 "word_voice": "شعب",
-                "image_static": "assets/images/community-personnel/4-شعب.webp",
+                "image_static": "assets/images/community-personnel/11-شعب.webp",
                 "image_animated": "assets/images/community-personnel/شعب.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "رَجُل",
                 "word_voice": "رَجُل",
-                "image_static": "assets/images/community-personnel/4-رجل.webp",
+                "image_static": "assets/images/community-personnel/11-رجل.webp",
                 "image_animated": "assets/images/community-personnel/رجل.webp"
               },
               {
@@ -7498,21 +7498,21 @@
               "question_id": 2,
               "correct_answer": "شعب",
               "word_voice": "شعب",
-                "image_static": "assets/images/community-personnel/4-شعب.webp",
+                "image_static": "assets/images/community-personnel/11-شعب.webp",
                 "image_animated": "assets/images/community-personnel/شعب.webp",
             "options": [
               {
                 "option_id": 1,
                 "word_name": "شعب",
                 "word_voice": "شعب",
-                "image_static": "assets/images/community-personnel/4-شعب.webp",
+                "image_static": "assets/images/community-personnel/11-شعب.webp",
                 "image_animated": "assets/images/community-personnel/شعب.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "رَجُل",
                 "word_voice": "رَجُل",
-                "image_static": "assets/images/community-personnel/4-رجل.webp",
+                "image_static": "assets/images/community-personnel/11-رجل.webp",
                 "image_animated": "assets/images/community-personnel/رجل.webp"
               },
               {
@@ -7535,14 +7535,14 @@
                 "option_id": 1,
                 "word_name": "شعب",
                 "word_voice": "شعب",
-                "image_static": "assets/images/community-personnel/4-شعب.webp",
+                "image_static": "assets/images/community-personnel/11-شعب.webp",
                 "image_animated": "assets/images/community-personnel/شعب.webp"
               },
               {
                 "option_id": 2,
                 "word_name": "رَجُل",
                 "word_voice": "رَجُل",
-                "image_static": "assets/images/community-personnel/4-رجل.webp",
+                "image_static": "assets/images/community-personnel/11-رجل.webp",
                 "image_animated": "assets/images/community-personnel/رجل.webp"
               },
               {
@@ -7565,7 +7565,7 @@
                 "option_id": 1,
                 "word_name": "شعب",
                 "word_voice": "شعب",
-                "image_static": "assets/images/community-personnel/4-شعب.webp",
+                "image_static": "assets/images/community-personnel/11-شعب.webp",
                 "image_animated": "assets/images/community-personnel/شعب.webp"
               },
               {
@@ -7631,7 +7631,7 @@
                 "option_id": 1,
                 "word_name": "شعب",
                 "word_voice": "شعب",
-                "image_static": "assets/images/community-personnel/4-شعب.webp",
+                "image_static": "assets/images/community-personnel/11-شعب.webp",
                 "image_animated": "assets/images/community-personnel/شعب.webp"
               },
               {
@@ -7686,7 +7686,7 @@
                 "option_id": 1,
                 "word_name": "شعب",
                 "word_voice": "شعب",
-                "image_static": "assets/images/community-personnel/4-شعب.webp",
+                "image_static": "assets/images/community-personnel/11-شعب.webp",
                 "image_animated": "assets/images/community-personnel/شعب.webp"
               },
               {
@@ -7723,7 +7723,7 @@
                 "option_id": 2,
                 "word_name": "رَجُل",
                 "word_voice": "رَجُل",
-                "image_static": "assets/images/community-personnel/4-رجل.webp",
+                "image_static": "assets/images/community-personnel/11-رجل.webp",
                 "image_animated": "assets/images/community-personnel/رجل.webp"
               },
               {
@@ -7767,7 +7767,7 @@
                   "option_id": 4,
                   "word_name": "رَجُل",
                   "word_voice": "رَجُل",
-                  "image_static": "assets/images/community-personnel/4-رجل.webp",
+                  "image_static": "assets/images/community-personnel/11-رجل.webp",
                   "image_animated": "assets/images/community-personnel/رجل.webp"
                 }
               ]
@@ -7904,14 +7904,14 @@
           "question_id": 5,
               "correct_answer": "شَيْخ",
              "word_voice": "شَيْخ",
-                "image_static": "assets/images/community-personnel/4-شيخ.webp",
+                "image_static": "assets/images/community-personnel/11-شيخ.webp",
                 "image_animated": "assets/images/community-personnel/شيخ.webp",
             "options": [
               {
                 "option_id": 1,
                 "word_name": "شَيْخ",
                 "word_voice": "شَيْخ",
-                "image_static": "assets/images/community-personnel/4-شيخ.webp",
+                "image_static": "assets/images/community-personnel/11-شيخ.webp",
                 "image_animated": "assets/images/community-personnel/شيخ.webp"
               },
               {
@@ -7941,7 +7941,7 @@
                 "option_id": 1,
                 "word_name": "شَيْخ",
                 "word_voice": "شَيْخ",
-                "image_static": "assets/images/community-personnel/4-شيخ.webp",
+                "image_static": "assets/images/community-personnel/11-شيخ.webp",
                 "image_animated": "assets/images/community-personnel/شيخ.webp"
               },
               {
@@ -14221,7 +14221,302 @@
             }
           ]
         }
-      }     
+      },
+      {
+        "lesson_id": 7,
+        "lesson_name": "الدرس السابع",
+        "exercises": [
+          {
+            "exercise_id": 1,
+            "question": {
+              "question_id": 1,
+              "correct_answer": "بَدَلَه رِيَاضِيَْة",
+              "word_voice": "بَدَلَه رِيَاضِيَْة",
+              "image_static": "assets/images/Clothing/2-بدلة رياضية.webp",
+              "image_animated": "assets/images/Clothing/بدلةرياضية.webp"
+            },
+            "options": [
+              {
+                "option_id": 1,
+                "word_name": "كَوَتْ",
+                "word_voice": "كَوَتْ",
+                "image_static": "assets/images/Clothing/2-كوت.webp",
+                "image_animated": "assets/images/Clothing/كوت.webp"
+              },
+              {
+                "option_id": 2,
+            "word_name": "بَدَلَه رِيَاضِيَْة",
+            "word_voice": "بَدَلَه رِيَاضِيَْة",
+              "image_static": "assets/images/Clothing/2-بدلة رياضية.webp",
+              "image_animated": "assets/images/Clothing/بدلةرياضية.webp"
+              }
+            ]
+          },
+          {
+            "exercise_id": 2,
+            "question": {
+              "question_id": 2,
+              "correct_answer": "كَوَتْ",
+              "word_voice": "كَوَتْ",
+              "image_static": "assets/images/Clothing/2-كوت.webp",
+              "image_animated": "assets/images/Clothing/كوت.webp"
+            },
+            "options": [
+              {
+                "option_id": 1,
+                "word_name": "كوفية",
+                "word_voice": "كوفية",
+                "image_static": "assets/images/Clothing/2-كوفية.webp",
+                "image_animated": "assets/images/Clothing/كوفية.webp"
+              },
+              {
+                "option_id": 2,
+                "word_name": "كَوَتْ",
+                "word_voice": "كَوَتْ",
+                "image_static": "assets/images/Clothing/2-كوت.webp",
+                "image_animated": "assets/images/Clothing/كوت.webp"
+              }
+            ]
+          },
+          {
+            "exercise_id": 3,
+            "question": {
+              "question_id": 3,
+              "correct_answer": "خَيْط",
+              "word_voice": "خَيْط",
+              "image_static": "assets/images/Clothing/2-خيط.webp",
+              "image_animated": "assets/images/Clothing/خيط.webp"
+            },
+            "options": [
+              {
+                "option_id": 1,
+                "word_name": "خَيْط",
+            "word_voice": "خَيْط",
+            "image_static": "assets/images/Clothing/2-خيط.webp",
+            "image_animated": "assets/images/Clothing/خيط.webp"
+              },
+              {
+                "option_id": 2,
+                "word_name": "معوز",
+                "word_voice": "معوز",
+                "image_static": "assets/images/Clothing/2-معوز.webp",
+                "image_animated": "assets/images/Clothing/معوز.webp"
+              }
+            ]
+          },
+          {
+            "exercise_id": 4,
+            "question": {
+              "question_id": 4,
+              "correct_answer": "شَرَشَف",
+              "word_voice": "شَرَشَف",
+                "image_static": "assets/images/Clothing/2-شرشف.webp",
+                "image_animated": "assets/images/Clothing/شرشف.webp"
+            },
+            "options": [
+              {
+                "option_id": 1,
+                "word_name": "معوز",
+                "word_voice": "معوز",
+                "image_static": "assets/images/Clothing/2-معوز.webp",
+                "image_animated": "assets/images/Clothing/معوز.webp"
+              },
+              {
+                "option_id": 2,
+                "word_name": "شَرَشَف",
+                "word_voice": "شَرَشَف",
+                "image_static": "assets/images/Clothing/2-شرشف.webp",
+                "image_animated": "assets/images/Clothing/شرشف.webp"
+              }
+            ]
+          },
+          {
+            "exercise_id": 5,
+            "question": {
+              "question_id": 5,
+              "correct_answer": "جَاكَت",
+              "word_voice": "جَاكَت",
+                "image_static": "assets/images/Clothing/2-جاكت.webp",
+                "image_animated": "assets/images/Clothing/جاكت.webp"
+            },
+            "options": [
+              {
+                "option_id": 1,
+                "word_name": "معوز",
+                "word_voice": "معوز",
+                "image_static": "assets/images/Clothing/2-معوز.webp",
+                "image_animated": "assets/images/Clothing/معوز.webp"
+              },
+              {
+                "option_id": 2,
+                "word_name": "جَاكَت",
+                "word_voice": "جَاكَت",
+                "image_static": "assets/images/Clothing/2-جاكت.webp",
+                "image_animated": "assets/images/Clothing/جاكت.webp"
+              }
+            ]
+          }
+        ],
+        "lesson_exam": {
+          "exam_id": 7,
+          "exam_name": "إختبار الدرس السابع",
+          "image": "assets/images/Clothing/2-معوز.webp",
+          "questions": [
+            {
+              "question_id": 1,
+               "correct_answer": "بَدَلَه رِيَاضِيَْة",
+               "word_voice": "بَدَلَه رِيَاضِيَْة",
+                 "image_static": "assets/images/Clothing/2-بدلة رياضية.webp",
+                 "image_animated": "assets/images/Clothing/بدلةرياضية.webp",
+             "options": [
+               {
+                 "option_id": 1,
+                "word_name": "كوفية",
+             "word_voice": "كوفية",
+             "image_static": "assets/images/Clothing/2-كوفية.webp",
+             "image_animated": "assets/images/Clothing/كوفية.webp"
+               },
+               {
+                 "option_id": 2,
+             "word_name": "منشفة",
+             "word_voice": "منشفة",
+             "image_static": "assets/images/Clothing/2-منشفة.webp",
+             "image_animated": "assets/images/Clothing/منشفة.webp"
+               },
+               {
+                 "option_id": 3,
+                 "word_name": "بَدَلَه رِيَاضِيَْة",
+                 "word_voice": "بَدَلَه رِيَاضِيَْة ",
+                 "image_static": "assets/images/Clothing/2-بدلة رياضية.webp",
+                 "image_animated": "assets/images/Clothing/بدلةرياضية.webp"
+               }
+             ]
+             },
+            {
+             "question_id": 2,
+              "correct_answer": "كَوَتْ",
+              "word_voice": "كَوَتْ",
+              "image_static": "assets/images/Clothing/2-كوت.webp",
+              "image_animated": "assets/images/Clothing/كوت.webp",
+            "options": [
+              {
+                "option_id": 1,
+                "word_name": "كَوَتْ",
+                "word_voice": "كَوَتْ",
+                "image_static": "assets/images/Clothing/2-كوت.webp",
+                "image_animated": "assets/images/Clothing/كوت.webp"
+              },
+              {
+                "option_id": 2,
+                "word_name": "كوفية",
+                "word_voice": "كوفية",
+                "image_static": "assets/images/Clothing/2-كوفية.webp",
+                "image_animated": "assets/images/Clothing/كوفية.webp"
+              },
+              {
+                "option_id": 3,
+                "word_name": "معوز",
+                "word_voice": "معوز",
+                "image_static": "assets/images/Clothing/2-معوز.webp",
+                "image_animated": "assets/images/Clothing/معوز.webp"
+              }
+            ]
+            },
+            {
+            "question_id": 3,
+              "correct_answer": "شَرَشَف",
+              "word_voice": "شَرَشَف",
+              "image_static": "assets/images/Clothing/2-شرشف.webp",
+              "image_animated": "assets/images/Clothing/شرشف.webp",
+            "options": [
+              {
+                "option_id": 1,
+                "word_name": "معطف",
+            "word_voice": "معطف",
+            "image_static": "assets/images/Clothing/2-معطف.webp",
+            "image_animated": "assets/images/Clothing/معطف.webp"
+              },
+              {
+                "option_id": 2,
+                "word_name": "شَرَشَف",
+                "word_voice": "شَرَشَف",
+                "image_static": "assets/images/Clothing/2-شرشف.webp",
+                "image_animated": "assets/images/Clothing/شرشف.webp"
+              },
+              {
+                "option_id": 3,
+                "word_name": "كوفية",
+                "word_voice": "كوفية",
+                "image_static": "assets/images/Clothing/2-كوفية.webp",
+                "image_animated": "assets/images/Clothing/كوفية.webp"
+              }
+            ]
+            },
+            {
+
+              "question_id": 4,
+                "correct_answer": "خَيْط",
+                "word_voice": "خَيْط",
+                  "image_static": "assets/images/Clothing/2-خيط.webp",
+                  "image_animated": "assets/images/Clothing/خيط.webp",
+              "options": [
+                {
+                  "option_id": 1,
+                  "word_name": "شَرَشَف",
+            "word_voice": "شَرَشَف",
+            "image_static": "assets/images/Clothing/2-شرشف.webp",
+            "image_animated": "assets/images/Clothing/شرشف.webp"
+                },
+                {
+                  "option_id": 2,
+                  "word_name": "خَيْط",
+                  "word_voice": "خَيْط",
+                  "image_static": "assets/images/Clothing/2-خيط.webp",
+                  "image_animated": "assets/images/Clothing/خيط.webp"
+                },
+                {
+                  "option_id": 3,
+                  "word_name": "كوفية",
+                  "word_voice": "كوفية",
+                  "image_static": "assets/images/Clothing/2-كوفية.webp",
+                  "image_animated": "assets/images/Clothing/كوفية.webp"
+                }
+              ]
+              },
+              {
+
+                "question_id": 5,
+                  "correct_answer": "جَاكَت",
+                  "word_voice": "جَاكَت",
+                  "image_static": "assets/images/Clothing/2-جاكت.webp",
+                  "image_animated": "assets/images/Clothing/جاكت.webp",
+                "options": [
+                  {
+                    "option_id": 1,
+                    "word_name": "جَاكَت",
+                "word_voice": "جَاكَت",
+                "image_static": "assets/images/Clothing/2-جاكت.webp",
+                "image_animated": "assets/images/Clothing/جاكت.webp"
+                  },
+                  {
+                    "option_id": 2,
+                    "word_name": "شَرَشَف",
+                "word_voice": "شَرَشَف",
+                "image_static": "assets/images/Clothing/2-شرشف.webp",
+                "image_animated": "assets/images/Clothing/شرشف.webp"
+                  },
+                  {
+                    "option_id": 3,
+                    "word_name": "كوفية",
+                    "word_voice": "كوفية",
+                    "image_static": "assets/images/Clothing/2-كوفية.webp",
+                    "image_animated": "assets/images/Clothing/كوفية.webp"
+                  }
+                ]
+                }
+          ]
+        }
+      }   
     ],
     "category_final_exam": {
       "exam_id": 8,
@@ -25947,7 +26242,7 @@
                 "option_id": 2,
                 "word_name": "شعب",
             "word_voice": "شعب",
-            "image_static": "assets/images/community-personnel/4-شعب.webp",
+            "image_static": "assets/images/community-personnel/11-شعب.webp",
             "image_animated": "assets/images/community-personnel/شعب.webp"
               }
             ]
@@ -26018,7 +26313,7 @@
                 "option_id": 1,
                 "word_name": "شعب",
             "word_voice": "شعب",
-            "image_static": "assets/images/community-personnel/4-شعب.webp",
+            "image_static": "assets/images/community-personnel/11-شعب.webp",
             "image_animated": "assets/images/community-personnel/شعب.webp"
               },
               {
@@ -26061,8 +26356,8 @@
                 "option_id": 3,
                 "word_name": "عريس",
             "word_voice": "عريس",
-            "image_static": "assets/images/family/4-عريس.webp",
-            "image_animated": "assets/images/family/عريس.webp"
+            "image_static": "assets/images/community-personnel/11-عريس.webp",
+            "image_animated": "assets/images/community-personnel/عريس.webp"
               }
             ]
             },
@@ -26145,7 +26440,7 @@
                 "word_name": "ابن",
             "word_voice": "ابن",
             "image_static": "assets/images/family/4-إبن.webp",
-            "image_animated": "assets/images/family/ابن.webp"
+            "image_animated": "assets/images/family/إبن.webp"
               },
               {
                 "option_id": 3,
@@ -26321,7 +26616,7 @@
                 "option_id": 2,
                 "word_name": "عريس",
             "word_voice": "عريس",
-            "image_static": "assets/images/family/4-عريس.webp",
+            "image_static": "assets/images/family/11-عريس.webp",
             "image_animated": "assets/images/family/عريس.webp"
               },
               {

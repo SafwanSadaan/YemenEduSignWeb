@@ -433,7 +433,7 @@
   {
   "word_id": 60,
   "word_name": "أَصْفَرُ",
-  "word_voice": "أَصْفَرُ",
+  "word_voice": "أَصْفَر",
   "image_static": "assets/images/colors/5-اصفر.webp",
   "image_animated": "assets/images/colors/اصفر.webp"
   },
@@ -454,7 +454,7 @@
   {
   "word_id": 63,
   "word_name": "بَنِي",
-  "word_voice": "بَنِي",
+  "word_voice": "بُنِي",
   "image_static": "assets/images/colors/5-بني.webp",
   "image_animated": "assets/images/colors/بني.webp"
   },
@@ -488,15 +488,15 @@
   },
   {
   "word_id": 68,
-  "word_name": "أَسْوَدُ",
-  "word_voice": "أَسْوَدُ",
+  "word_name": "أَسْوَد",
+  "word_voice": "أَسْوَدْ",
   "image_static": "assets/images/colors/5-اسود.webp",
   "image_animated": "assets/images/colors/اسود.webp"
   },
   {
   "word_id": 69,
-  "word_name": "أَحْمَرَ",
-  "word_voice": "أَحْمَرَ",
+  "word_name": "أَحْمَرْ",
+  "word_voice": "أَحْمَرْ",
   "image_static": "assets/images/colors/5-احمر.webp",
   "image_animated": "assets/images/colors/احمر.webp"
   },
@@ -542,8 +542,8 @@
   },
   {
   "word_id": 75,
-  "word_name": "ابْنُ",
-  "word_voice": "ابْنُ",
+  "word_name": "ابْنْ",
+  "word_voice": "ابْنْ",
   "image_static": "assets/images/family/4-إبن.webp",
   "image_animated": "assets/images/family/إبن.webp"
   },
@@ -586,7 +586,7 @@
   "word_id": 81,
   "word_name": "خالة",
   "word_voice": "خالة",
-  "image_static": "assets/images/family/4-خاله.webp",
+  "image_static": "assets/images/family/4-خالة.webp",
   "image_animated": "assets/images/family/خالة.webp"
   },
   {
@@ -918,6 +918,7 @@
   "image_static": "assets/images/animals/3-ببغاء.webp",
   "image_animated": "assets/images/animals/ببغاء.webp"
   },
+
   {
   "word_id": 129,
   "word_name": "بُومٍة",
@@ -1043,6 +1044,13 @@
   "word_voice": "عصفور",
   "image_static": "assets/images/animals/3-عصفور.webp",
   "image_animated": "assets/images/animals/عصفور.webp"
+  },
+  {
+    "word_id": 688,
+    "word_name": "طاووس",
+    "word_voice": "طاووس",
+    "image_static": "assets/images/animals/3-طاووس.webp",
+    "image_animated": "assets/images/animals/طاووس.webp"
   },
 
 
@@ -2377,7 +2385,7 @@
   "word_name": "عَلَى طُولِ",
   "word_voice": "عَلَى طُولِ",
   "image_static": "assets/images/times/10-على طول.webp",
-  "image_animated": "assets/images/times/طول.webp"
+  "image_animated": "assets/images/times/على طول.webp"
   },
 
 
@@ -2506,28 +2514,28 @@
   "word_id": 1,
   "word_name": "شَيْخ",
   "word_voice": "شَيْخ",
-  "image_static": "assets/images/community-personnel/4-شيخ.webp",
+  "image_static": "assets/images/community-personnel/11-شيخ.webp",
   "image_animated": "assets/images/community-personnel/شيخ.webp"
   },
   {
   "word_id": 2,
   "word_name": "عَجُوز",
   "word_voice": "عَجُوز",
-  "image_static": "assets/images/community-personnel/4-عجوز.webp",
+  "image_static": "assets/images/community-personnel/11-عجوز.webp",
   "image_animated": "assets/images/community-personnel/عجوز.webp"
   },
   {
   "word_id": 3,
   "word_name": "وَلَدِ ",
   "word_voice": "وَلَدِ ",
-  "image_static": "assets/images/community-personnel/4-ولد.webp",
+  "image_static": "assets/images/community-personnel/11-ولد.webp",
   "image_animated": "assets/images/community-personnel/ولد.webp"
   }, 
   {
   "word_id": 4,
   "word_name": "رَضِيع",
   "word_voice": "رَضِيع",
-  "image_static": "assets/images/community-personnel/4-رضيع.webp",
+  "image_static": "assets/images/community-personnel/11-رضيع.webp",
   "image_animated": "assets/images/community-personnel/رضيع.webp"
   },
   {
@@ -2541,22 +2549,15 @@
   "word_id": 2,
   "word_name": "شعب",
   "word_voice": "شعب",
-  "image_static": "assets/images/community-personnel/4-شعب.webp",
+  "image_static": "assets/images/community-personnel/11-شعب.webp",
   "image_animated": "assets/images/community-personnel/شعب.webp"
   },
   {
   "word_id": 3,
   "word_name": "رَجُل",
   "word_voice": "رَجُل",
-  "image_static": "assets/images/community-personnel/4-رجل.webp",
+  "image_static": "assets/images/community-personnel/11-رجل.webp",
   "image_animated": "assets/images/community-personnel/رجل.webp"
-  },
-  {
-  "word_id": 4,
-  "word_name": "ناس",
-  "word_voice": "ناس",
-  "image_static": "assets/images/community-personnel/11-ناس.webp",
-  "image_animated": "assets/images/community-personnel/ناس.webp"
   },
   {
   "word_id": 5,
@@ -2569,7 +2570,7 @@
     "word_id": 1,
     "word_name": "عريس",
     "word_voice": "عريس",
-    "image_static": "assets/images/community-personnel/4-عريس.webp",
+    "image_static": "assets/images/community-personnel/11-عريس.webp",
     "image_animated": "assets/images/community-personnel/عريس.webp"
   },
   {
