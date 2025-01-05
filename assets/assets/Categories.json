@@ -2212,7 +2212,7 @@
             "word_id": 2,
             "word_name": "مُنْتَزَه ",
             "word_voice": "مُنْتَزَه ",
-            "image_static": "assets/images/public-places/8-منتزة.webp",
+            "image_static": "assets/images/public-places/8-منتزه.webp",
             "image_animated": "assets/images/public-places/منتزه.webp"
           },
           {
@@ -2909,7 +2909,7 @@
         "lesson_id": 16,
         "lesson_name": "الدرس السادس عشر",
         "lesson_image":"assets/images/Attributes/9-سمين.webp",
-        "lesson_description": " خفيف ، فاضي ، قبيح ، كذاب ",
+        "lesson_description": "خفيف، فاضي، قبيح، كذاب، سمين ",
         "words":[
           {
             "word_id": 1,
@@ -2938,7 +2938,14 @@
             "word_voice": "كذاب",
             "image_static": "assets/images/Attributes/9-كذاب.webp",
             "image_animated": "assets/images/Attributes/كذاب.webp"
-          }       
+          },
+          {
+            "word_id": 4,
+            "word_name": "سمين",
+            "word_voice": "سمين",
+            "image_static": "assets/images/Attributes/9-سمين.webp",
+            "image_animated": "assets/images/Attributes/سمين.webp"
+          }      
         ]
         },
         {
@@ -2974,13 +2981,6 @@
             "word_voice": "متكبر",
             "image_static": "assets/images/Attributes/9-متكبر.webp",
             "image_animated": "assets/images/Attributes/متكبر.webp"
-          },
-          {
-            "word_id": 4,
-            "word_name": "سمين",
-            "word_voice": "سمين",
-            "image_static": "assets/images/Attributes/9-سمين.webp",
-            "image_animated": "assets/images/Attributes/سمين.webp"
           }
         ]
         },
@@ -5734,7 +5734,7 @@
             },
             {
               "word_id": 1910,
-              "word_name": "ميتسوبيشي",
+              "word_name": "ميتسو بيشي",
               "word_voice": "مِيتْسُوبِيشِي",
               "image_static": "assets/images/Transportation/ميتسوبيشي1.webp",
               "image_animated": "assets/images/Transportation/ميتسوبيشي.webp"

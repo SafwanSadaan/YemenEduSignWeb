@@ -7762,14 +7762,7 @@
                   "word_voice": "عريس",
                   "image_static": "assets/images/community-personnel/11-عريس.webp",
                   "image_animated": "assets/images/community-personnel/عريس.webp"
-                 },
-                {
-                  "option_id": 4,
-                  "word_name": "رَجُل",
-                  "word_voice": "رَجُل",
-                  "image_static": "assets/images/community-personnel/11-رجل.webp",
-                  "image_animated": "assets/images/community-personnel/رجل.webp"
-                }
+                 }
               ]
             }
           ]
@@ -13635,7 +13628,7 @@
                 "option_id": 1,
                 "word_name": "جنبية",
                 "word_voice": "جنبية",
-                "image_static": "assets/images/Clothing/جنبية-2.webp",
+                "image_static": "assets/images/Clothing/2-جنبية.webp",
                 "image_animated": "assets/images/Clothing/جنبية.webp"
               },
               {
@@ -15919,7 +15912,7 @@
               "question_id": 2,
               "correct_answer": "منتزة",
               "word_voice": "منتزة",
-              "image_static": "assets/images/public-places/8-منتزة.webp",
+              "image_static": "assets/images/public-places/8-منتزه.webp",
               "image_animated": "assets/images/public-places/منتزه.webp"
             },
             "options": [
@@ -15927,7 +15920,7 @@
                 "option_id": 1,
                 "word_name": "منتزة",
                 "word_voice": "منتزة",
-                "image_static": "assets/images/public-places/8-منتزة.webp",
+                "image_static": "assets/images/public-places/8-منتزه.webp",
                 "image_animated": "assets/images/public-places/منتزه.webp"
               },
               {
@@ -16057,14 +16050,14 @@
              "question_id": 2,
               "correct_answer": "منتزة",
               "word_voice": "منتزة",
-            "image_static": "assets/images/public-places/8-منتزة.webp",
+            "image_static": "assets/images/public-places/8-منتزه.webp",
             "image_animated": "assets/images/public-places/منتزه.webp",
             "options": [
               {
                 "option_id": 1,
                 "word_name": "منتزة",
             "word_voice": "منتزة",
-            "image_static": "assets/images/public-places/8-منتزة.webp",
+            "image_static": "assets/images/public-places/8-منتزه.webp",
             "image_animated": "assets/images/public-places/منتزه.webp"
               },
               {
@@ -16220,7 +16213,7 @@
                 "option_id": 1,
                 "word_name": "منتزة ",
                 "word_voice": "منتزة ",
-                "image_static": "assets/images/public-places/8-منتزة.webp",
+                "image_static": "assets/images/public-places/8-منتزه.webp",
                 "image_animated": "assets/images/public-places/منتزه.webp"
               },
               {
@@ -16324,8 +16317,8 @@
              "question_id": 2,
               "correct_answer": "محطة بترول",
               "word_voice": "محطة بترول",
-            "image_static": "assets/images/public-places/8-منتزة.webp",
-            "image_animated": "assets/images/public-places/منتزه.webp",
+              "image_static": "assets/images/public-places/8-محطة بترول.webp",
+              "image_animated": "assets/images/public-places/محطة بترول.webp",
             "options": [
               {
                 "option_id": 1,
